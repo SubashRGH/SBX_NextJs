@@ -1,0 +1,40 @@
+body {
+  direction: rtl;
+}
+
+.stkbnx-headerbar,
+.stkbnx-menuheader {
+  direction: ltr;
+}
+
+@media (min-width: 1024px) {
+  .lg\:space-x-4 > :not([hidden]) ~ :not([hidden]),
+  .lg\:space-x-4 > :not([hidden]) ~ :not([hidden]) {
+    margin-left: 0rem;
+    margin-right: 1rem;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .slick-dots {
+    right: -30px;
+    left: inherit;
+  }
+}
+
+.ml-2 {
+  margin-right: 0.5rem;
+}
+
+.space-x-4 > :not([hidden]) ~ :not([hidden]) {
+  margin-left: 0rem;
+  margin-right: 1rem;
+}
+
+.mr-5 {
+  margin-left: 1.25rem;
+}
+
+.about-bg::after {
+  background-position: center left;
+}

@@ -1,0 +1,2239 @@
+{
+  "h1": "A simple example",
+
+  "change-locale": "Change locale to \"{{changeTo}}\"",
+
+  "to-second-page": "To second page",
+
+  "error-with-status": "A {{statusCode}} error occurred on server",
+
+  "error-without-status": "An error occurred on the server",
+
+  "title": "Home | next-i18next",
+
+  "Trade over 1900 global markets": "廣泛的交易商品",
+
+  "Explore Markets": "了解更多",
+
+  "Download MT5": "下載MT4",
+
+  "Trade on the go": "隨時進行交易",
+
+  "Take your trading journey to the next level with an intuitive and easy-to-use trading platform.": "安全可靠的交易軟體，讓您隨時體驗交易樂趣。",
+
+  "Google Play": "安卓下載",
+
+  "Desktop": "PC下載",
+
+  "Deposit and Withdrawal Options": "支付方式",
+
+  "Risk Warning: Trading Contracts for Difference (CFDs) on margin carries a high level of risk and may not be suitable for all investors. Please ensure that you fully understand the risks and take the right measures to manage your risk": "風險揭示：保證金槓桿交易產品具有高風險，可能不適合所有投資者。 請您確保完全瞭解風險並採取正確的措施來管理您的風險。",
+
+  "Partners": "合作夥伴",
+
+  "Contact us": "聯繫我們",
+
+  "faq": "FAQs - 常見問題",
+
+  "Sign in": "登入",
+
+  "About": "關於我們",
+
+  "Products": "產品訊息",
+
+  "Accounts": "帳戶",
+
+  "Platform": "交易平台",
+
+  "Learn to Trade": "學習交易",
+
+  "Try Demo": "模擬帳戶",
+
+  "Live Account": "真實帳戶",
+
+  "START TRADING": "開始交易",
+
+  "We place a high priority on leveraged products and Forex trading needs of our customers": "我們非常重視您的交易需求",
+
+  "Get in touch": "聯繫我們",
+
+  "Who We Are?": "關於我們",
+
+  "Contact Details": "聯繫方式",
+
+  "Legal Documents": "法律文件",
+
+  "Forex": "外匯",
+
+  "Commodities": "大宗商品",
+
+  "Crypto FX": "加密貨幣",
+
+  "Trading Conditions": "交易條件",
+
+  "Account Types": "帳戶類型",
+
+  "Referral Program": "推薦計劃",
+
+  "Rewards Program": "獎勵計劃",
+
+  "MetaTrader4": "MetaTrader4",
+
+  "MetaTrader5": "MetaTrader5",
+
+  "cTrader": "cTrader",
+
+  "Market OverView": "市場概況",
+
+  "Knowledge Articles": "金融知識",
+
+  "Economic Calendar": "財經日曆",
+
+  "Webinars": "線上研討會",
+
+  "Video Guides": "教學影片",
+
+  "Disclaimer": "免責聲明",
+
+  "DisclaimerFirst": "我們提供復雜的金融衍生品服務，我們的線上外匯金融產品和差價合約是在一定的保證金或杠桿基礎上進行交易，這是一種高風險資本承擔的交易活動。您所交易的金融產品價格可能會有快速的變化，您的盈虧可能是初始投資或入金金額的數倍。如果您的帳戶沒有持有足夠的資金以滿足您的保證金要求，我們可能會單方面立即關閉您的未平倉頭寸，並且您可能還需要向我們提供進一步的資金以彌補損失。",
+
+  "DisclaimerSecond": "這類產品的交易可能並不適合每個人，在您瞭解並接受保證金或槓桿交易所存在的風險並且考慮您可以承受的潛在損失基礎前，您不應該開始交易我們的交易產品。",
+
+  "DisclaimerThird": "Stockbanx為Stockbanx Limited所使用的交易名稱，註冊地為伯利茲，受伯利茲國際金融服務委員會監管，許可證編號為：No. FSC000314/17。註冊地址：#45, 5th Avenue, Corozal Town, Corozal District, Belize",
+
+  "DisclaimerFour": "Stockbanx PTY LTD (“CPT SA”)為Stockbanx Ltd所使用的交易名稱，註冊地為南非，受南非金融行為監管局監管，許可證編號為：No. 2014 / 214730 / 07 。註冊地址：unit 1, Village Corner, 57 via Latina Crescent, irene corporate corner, Gauteng 0178, South Africa",
+
+  "DisclaimerFive": "任何希望與 Stockbanx建立業務上關係的客戶只能通過訪問Stockbanx的官方網站 www.cptmarkets.com。",
+
+  "DisclaimerSix": "Stockbanx UK為Stockbanx UK Limited所使用的交易名稱，該公司的註冊位址位於英格蘭威爾士，註冊編號為6707165，由英國金融行為管理局（FCA）授權和管理，編號為606110。Stockbanx UK Limited是Stockbanx Limited的關聯公司。",
+
+  "DisclaimerSeven": "Stockbanx UK為Stockbanx UK Limited所使用的交易名稱，任何希望與 Stockbanx U.K. 建立業務上關係的客戶只能通過訪問Stockbanx U.K的官方網站https://www.cptmarkets.co.uk或者官方郵箱地址info@cptmarkets.co.uk來實現 。",
+
+  "DisclaimerEight": "風險警告∶本公司的服務包括以保證金買賣的產品，附帶損失超過閣下存入資金的風險，未必適合所有投資者。 請確保閣下瞭解保證金交易的所有風險，點擊這裡閱讀本公司相關 隱私政策 , 風險提示, 風險披露與免責聲明,",
+
+  "Stockbanx UK": "Stockbanx UK 在英格蘭和威爾士註冊，公司註冊號為 6707165， 並受金融行為監管局監管，公司監管證號為 606110",
+
+  "Client funds are guarded in segregated bank accounts": "客戶資金存放在獨立的銀行帳戶中",
+
+  "Negative Balance Protection": "負餘額保護機制",
+
+  "Leverage up to 1:30": "交易槓桿最高為 1:30",
+
+  "For Retail clients, Professional clients and Market Counterparties": "零售客戶、專業客戶與合格交易對手",
+
+  "Continue": "更多信息",
+
+  "Stockbanx": "Stockbanx PTY LTD（“CPT SA”）是一家與 Stockbanx Ltd. 密切相關的公司。CPT SA 在南非註冊，註冊號為： 2014 / 214730 / 07 並受金融部門行為監管局監管，監管牌照號為 45954",
+
+  "Stockbanx International": "Stockbanx International 是 Stockbanx Limited 使用的交易名稱，受伯利茲國際金融服務委員會監管，許可證號：No. FSC000314/17",
+
+  "Leverage up to 1:500": "交易槓桿最高為 1:1000",
+
+  "The information on the website is displayed in accordance with the regulation you have chosen. If you would like to switch to a different regulation, you can select another one from the menu and the website will adjust accordingly.": "本網站上顯示的資訊是根據您的選擇顯示。 如果您想切換到不同的法規，您可以從功能表單中選擇另一個，網站將相應調整。",
+
+  "Open Account": "註冊",
+
+  "Fill in your details using our registration form to Create your account with Stockbanx International instantly.": "立即填寫您的詳細資訊並創建帳戶。",
+
+  "Start Referring": "開始推薦",
+
+  "Start referring clients and track the daily volume Trading of your referrals in our tailored IB Portal.": "在IB專屬後台追蹤客戶每日交易數據。",
+
+  "Start Earning": "開始獲利",
+
+  "You can earn up to $10 per lot on your clients' trading. The more they trade, the more you make!": "您可以從客戶的每手交易中賺取高達 10 美金。交易越多，獲利越多！",
+
+  "Become a partner": "成為合作夥伴",
+
+  "Get to know more about Stockbanx's services and products": "了解更多CPT交易產品和服務資訊",
+
+  "Reach out to our support team, available 18/5": "5*24線上客服",
+
+  "Read and download our legal documents": "閱讀並下載法律文件",
+
+  "Trade Major and Minor forex pairs": "交易外匯商品",
+
+  "Trade popular commodities with competitive conditions": "交易熱門大宗商品",
+
+  "Trade shares of the biggest companies in the world": "交易全球大型公司股票",
+
+  "Trade leveraged products on Indices": "交易指數產品",
+
+  "Trade your favorite cryptocurrencies with Stockbanx": "交易加密貨幣",
+
+  "Pricing": "交易成本",
+
+  "Trading Condition": "交易條件",
+
+  "Have a look at our spread and leverage": "點差和槓桿",
+
+  "Choose from the different account that we offer": "選擇不同交易帳戶",
+
+  "Promotions & Rewards": "促銷和獎勵",
+
+  "Refer A Friend": "推薦朋友",
+
+  "The more you refer, the higher the reward": "推薦越多，獲得越多獎勵",
+
+  "Partner with us and earn great rewards": "與我們合作，獲取豐厚回報",
+
+  "Promotions": "促銷活動",
+
+  "Take advantage of our promotions and bonuses": "利用我們的推廣活動和獎勵優勢",
+
+  "Trading Platforms": "交易平台",
+
+  "Metatrader4": "MetaTrader4",
+
+  "The most popular trading platfrom": "最受歡迎的交易平台",
+
+  "Metatrader5": "MetaTrader5",
+
+  "Advanced and intuitive trading platfrom": "先進直觀的交易平台",
+
+  "CTrader": "CTrader",
+
+  "Seamless trading experiance": "絕佳的交易體驗",
+
+  "Market Updates": "市場動態",
+
+  "Market Overview": "市場概況",
+
+  "Discover fundamental and technical analysis": "基本面和技術面分析",
+
+  "Learn how to make informed trading decisions": "了解如何做出明智的交易決策",
+
+  "Forecast potential volatility on your favorite assets": "預測資產的潛在波動",
+
+  "Learn From Experts": "向專家學習",
+
+  "Learn directly from our experts at live webinars": "在線上研討會向我們的專家學習",
+
+  "Get access to our educational videos": "訪問我們的教育視頻",
+
+  "search": "搜索",
+
+  "Popular": "熱門",
+
+  "Crypto": "加密貨幣",
+
+  "Instruments": "商品",
+
+  "Bid Price": "買價",
+
+  "Ask Price": "賣價",
+
+  "Spread": "價差",
+
+  "Change": "波動",
+
+  "Trend": "趨勢",
+
+  "GBP/USD": "英鎊/美元",
+
+  "Stockbanx's Reward Structure": "CPT獎勵機制",
+
+  "The more you refer, the higher the reward.": "推薦越多，獎勵越多",
+
+  "Premium": "高端",
+
+  "New clients must fulfill below criteria for the Partner to be qualified for the rewards:": "新客戶需達到以下條件，合作夥伴即可獲得獎勵：",
+
+  "1. Minimum 8 standard lots traded per client": "1. 每位客戶至少交易8個標準手",
+
+  "2. Minimum deposit of $1,000": "2. 每位客戶最低入金1,000美金",
+
+  "Get": "赢得",
+
+  "Win": "赢得",
+
+  "New Clients": "新客戶",
+
+  "Net Deposit $": "淨入金 $",
+
+  "Total Lots Traded (new)": "總交易手數（新)",
+
+  "Stocks": "股票",
+
+  "Learn With Us": "與我們一起學習",
+
+  "Crypto CFD": "加密貨幣 CFD",
+
+  "Fill in a simple online application form through our official website.": "通過我們的官方網站填寫<span class='text-high'>線上申請表</span> .",
+
+  "Provide identification to keep your account safe.": "<span class='text-high'> 提供身份證明 </span> 以確保您的帳戶安全。.",
+
+  "Fund your trading account": "<span class='text-high'>存款</span> 至您的交易帳戶",
+
+  "Download and install (MetaTrader 4) platformvia our official website so that you can access your account,check your balance via Stockbanx server, execute trades and start making profits.": "通過我們的官方網站 <span class='text-high'> 下載並安裝 (MetaTrader 4) 平台,</span>以便訪問您的帳戶。通過 Stockbanx 服務器查看您的餘額，執行交易並開始獲利",
+
+  "Open Account": "開立帳戶",
+
+  "Start Trading": "開始交易",
+
+  "Have questions? we're here to help.": "需要協助嗎？我們即刻為您解答",
+
+  "Top FAQs": "常見問題",
+
+  "General": "一般問題",
+
+  "Introducing Brokers": "合作夥伴（IB）",
+
+  "Deposits and Withdrawals": "存款和提款",
+
+  "allowCookies": "本網站使用Cookies，請參閱我們的<a href='https://filetest.cptinternational.com/Contents/cptsatest/Legal/CPT_SA_Complaints_Notice.pdf' target='_blank' class='cookies-class'> Cookies政策。</a> 當您訪問我們的網站即代表您同意我們使用Cookies。",
+
+  "Our office is open five days a week, Monday to Friday. The support line is available 18 hours a day.": "我們的客服團隊提供週一至週五，5天24小時的線上服務",
+
+  "Belize": "伯利茲",
+
+  "2118 Guava Street": "2118 Guava Street",
+
+  "Belama Phase 1, Belize City": "Belama Phase 1, Belize City",
+
+  "Belize - Stockbanx Belize": "Belize - Stockbanx Belize",
+
+  "Click how to get there": "了解更多",
+
+  "South Africa": "南非",
+
+  "Unit 1, Village Corner": "Unit 1, Village Corner",
+
+  "57 Via Latina Crescent, Irene Corporate Corner": "57 Via Latina Crescent, Irene Corporate Corner",
+
+  "Gauteng, 0178 - Stockbanx SA": "Gauteng, 0178 - Stockbanx SA",
+
+  "Canary Wharf, London,E14 5NR - Stockbanx UK": "Canary Wharf, London,E14 5NR - Stockbanx UK",
+
+  "United Kingdom": "英國",
+
+  "Chat with us": "線上客服",
+
+  "Start a chat with our customer support team, available 18/5": "客服提供5*24小時的線上服務",
+
+  "Start Chat": "線上諮詢",
+
+  "Media Collaboration": "媒體合作",
+
+  "Email us on": "聯繫我們",
+
+  "Email Us": "聯繫我們",
+
+  "For complaints": "投訴",
+
+  "Reach us on": "聯繫我們",
+
+  "Career": "人才招募",
+
+  "Send us you CV": "發送您的履歷至：",
+
+  "Legal Docuements": "法律文件",
+
+  "Get access to all relevant legal documents before opening a trading account": "開立交易帳戶前請閱讀法律文件",
+
+  "Privacy Policy": "隱私權政策",
+
+  "Risk Disclosure": "風險披露",
+
+  "Licence Regulation": "監管合規",
+
+  "AML Compliance": "反洗錢政策",
+
+  "Cookies Policy": "Cookies政策",
+
+  "CS. Agreement": "客戶協議",
+
+  "Get to know": "了解Stockbanx",
+
+  "You deserve the best trading experience": "您值得擁有絕佳交易體驗",
+
+  "Stockbanx is a world- leading leveraged products broker in online trading of the global markets. Stockbanx offers 130+ leveraged product instruments for global investors to trade. We became the preferred brand of many traders by putting the funds safety as a top priority and providing an efficient, safe, simple trading journey.": "Stockbanx是一家領先的國際金融衍生品及相關服務供應商，為全球投資交易者提供130多種交易產品。我們把資金安全作為首要任務，並提供高效、安全、便捷的交易體驗，從而成為許多交易者的首選品牌。",
+
+  "The most rewarding trading experience.": "最具價值的交易體驗",
+
+  "Trading Experience.": "交易體驗",
+
+  "Stockbanx promises to exceed your expectations": "CPT提供超越您期望的先進技術和專業服務，讓您感受最優質的線上交易體驗。",
+
+  "Open Account": "立即註冊！",
+
+  "Mission": "宗旨",
+
+  "Our mission is to create a community that appreciates convenience": "打造更便捷、包容、透明的交易平台，為交易者和合作夥伴（IB）創造最大收益。",
+
+  "Vision": "願景",
+
+  "The vision is to create the best trading experience for you to be successful. So anyone, anywhere, can trade.": "打造優質的交易服務，隨時隨地享受最好交易體驗。",
+
+  "Safe And Secure": "安全保障",
+
+  "All funds are protected by industry-leading security protocols.": "您的資金受到行業領先之安全協議的保護，CPT為所有客戶提供負餘額保護，所有客戶的資金將分離保管在安全的獨立信託帳戶中。",
+
+  "Create Account": "註冊帳戶",
+
+  "Rewards": "獎勵",
+
+  "Traders can compete against each other and get rewarded for their trading skills while IBs can also benefit from unique loyalty programs that recognize their efforts.": "交易者可以透過競賽並通過他們的交易能力獲得獎勵，而IB也可以從CPT獨家的忠誠度方案中受益。",
+
+  "Innovation": "創新",
+
+  "Experience our easy to use and intuitive platforms. With exclusive AI plug-ins, interactive webinars, trading forums and much more.": "體驗我們直觀且易於使用的平台。享用獨家AI插件，互動式網路研討會、交易論壇等。",
+
+  "Choose An Account": "選擇帳戶",
+
+  "chooseAccount": "Stockbanx提供兩種帳戶選項：CPT經典帳戶和CPT尊榮帳戶",
+
+  "supportChat": "選擇最適合您交易目標的帳戶類型。如果需要任何進一步的説明，可以通過電子郵件或客服聯繫我們。",
+
+  "Minimum Deposits (USD)": "最低入金",
+
+  "Spreads starting from (Pips)": "點差",
+
+  "Commission": "手續費",
+
+  "Leverage": "槓桿",
+
+  "Stop Out": "強制平倉",
+
+  "Stockbanx Classic": "Stockbanx 經典",
+
+  "Stockbanx Prime": "Stockbanx 尊榮",
+
+  "Margin call": "追加保證金",
+
+  "Referral Benefits": "推薦福利",
+
+  "Lorem ipsum dolor sit amet, consetetur sadipscing elitr": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+
+  "Lorem Ipsum": "Lorem Ipsum",
+
+  "Easy Steps To Earn!": "簡單步驟獲得！",
+
+  "Open a live account": "開立真實帳戶",
+
+  "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+
+  "Get your referral link": "獲取您的推薦連接",
+
+  "Start referring and earning": "開始推薦和獲利",
+
+  "Rewards You Actually Use!": "已兌換獎勵！",
+
+  "Lorem": "Lorem",
+
+  "An Innovative": "創新",
+
+  "Stet clita kasd Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+
+  "Choose the account type that suits your trading experience": "根據您的交易經驗，選擇適合的帳戶類型",
+
+  "Dedicated Account Manager": "專屬客戶經理",
+
+  "How To Open A Trading Account?": "如何開立交易帳戶？",
+
+  "Manage all of your financial assets, long and short term, in one portfolio": "在一個投資組合中管理你所有的長期和短期的金融資產",
+
+  "The trading hours (in GMT+0) for all instruments in winter (November to March)": "冬令（11月至3月）交易時間（GMT+0）",
+
+  "Trading Products": "交易產品",
+
+  "Find more details about trading our products": "了解更多交易產品的資訊",
+
+  "Trading Hours": "交易時間",
+
+  "Sunday：23:05 - 24:00\nMonday：00:00 - 21:59\nTuesday to Thursday：01:01 - 21:59\nFriday：01:01 - 21:55": "週日：23:05-24:00\n週日：00:00-21:59\n星期二到星期四：01:01-21:59\n週日：01:01–21:55",
+
+  "Equity": "淨值",
+
+  "Trade a wide range of leveraged products with tight Spreads as low as 0.5 Pips": "以低至0.5的點差進行交易",
+
+  "Markets": "市場",
+
+  "Spread from": "點差",
+
+  "Majors": "主要貨幣",
+
+  "Minors": "次要貨幣",
+
+  "Exotic": "外來貨幣對",
+
+  "FX": "外匯",
+
+  "XAUUSD": "黃金\n",
+
+  "UKOUSD": "布蘭特原油\n",
+
+  "U30USD": "道瓊斯指數\n",
+
+  "NASUSD": "納斯達克指數",
+
+  "SPXUSD": "標普500指數",
+
+  "100GBP": "英國富時指數\n",
+
+  "E50EUR": "歐洲斯托克指數",
+
+  "D30EUR": "德國DAX指數",
+
+  "H33HKD": "香港恒生指數",
+
+  "225JPY": "日經225指數",
+
+  "CHN50USD": "中國A50指數",
+
+  "US Stocks": "美股",
+
+  "Future Contracts": "期貨",
+
+  "INDIA": "指數",
+
+  "2. Margin & Leverage:": "2. 保證金 & 槓桿",
+
+  "Maximum leverage changes based on your account’s equity": "最大的槓桿根據您的帳戶淨值變化：",
+
+  "3. Spreads": "3. 點差",
+
+  "More than X instrument pairs with tight Spreads as low as 0.7 Pips": "多達X種的交易品項，點差0.7起",
+
+  "4. Overnight Positions (Swaps)": "隔夜利息 (調期)",
+
+  "5. Execution Policy": "執行政策",
+
+  "All our trades are executed in less than a second": "毫秒間完成交易",
+
+  "No requotes policy": "無重複報價",
+
+  "Real-time market execution": "實時市價執行",
+
+  "Trading Time based on (GMT+0)": "交易時間基於(GMT+0)",
+
+  "Trading Time based on (GMT+4)": "交易時間基於(GMT+4)",
+
+  "Sunday：22:05 - 24:00\nMonday to Thursday：00:00 - 21:59, 22:05 - 24:00\nFriday：00:00 - 21:55": "週日：22:05 - 24:00\n週一至週四：00:00 - 21:59, 22:05 - 24:00\n週五：00:00 - 21:55",
+
+  "Sunday：23:05 - 24:00\nMonday to Thursday：00:00 - 21:59, 23:01 - 24:00\nFriday：00:00 - 21:55": "週日：23:05 - 24:00\n週一至週四：00:00 - 21:59, 23:01 - 24:00\n週五：00:00 - 21:55",
+
+  "Sunday：23:05 - 24:00\nMonday：00:00 - 21:59 Tuesday to Thursday：01:01 - 21:59\nFriday：01:01 - 21:55": "週日：23:05 - 24:00\n週一：00:00 - 21:59\n週二至週四：01:01 - 21:59\n週五：01:01 - 21:55",
+
+  "Sunday：23:05 - 24:00\nMonday to Thursday：00:00 - 21:15, 21:30 - 22:00, 23:05 - 24:00\nFriday：00:00 - 21:15 , 21:30 - 21:55": "週日：23:05 - 24:00\n週一至週四：00:00 - 21:15, 21:30 - 22:00, 23:05 - 24:00\n週五：00:00 - 21:15 , 21:30 - 21:55",
+
+  "Monday to Friday：02:00 - 09:30, 10:00 - 21:45": "週一至週五：02:00 - 09:30, 10:00 - 21:45",
+
+  "Monday to Friday：14:30 - 21:00": "週一至週五：14:30 - 21:00",
+
+  "Monday to Thursday：02:01 - 10:10, 10:40 - 21:45 \nFriday：02:01 - 21:45": "週一至週四：02:01 - 10:10, 10:40 - 21:45 \n週五：02:01 - 21:45",
+
+  "For the leverage we can offer:": "我們提供的槓桿:",
+
+  "Less than $500 equity": "淨值低於 $500",
+
+  "between $500 -$20,000 equity": "淨值介於$500 -$20,000",
+
+  "between $20,000-$50,000 equity": "淨值介於 $20,000-$50,000",
+
+  "between $50,000-$100,000 equity": "淨值介於$50,000-$100,000",
+
+  "between $100,000- $200,000 equity": "淨值介於$100,000- $200,000",
+
+  "between $200,000 - $1,000,000 equity": "淨值介於$200,000 - $1,000,000",
+
+  "above $1,000,000": "淨值高於$1,000,000",
+
+  "Majors Spreads from X": "主要貨幣對點差從X起",
+
+  "Minors Spreads from X": "次要貨幣對點差從X起",
+
+  "Exotic Spreads from X": "外來貨幣對點差從X起",
+
+  "Spreads from X": "點差從X起",
+
+  "Futures": "期貨",
+
+  "Spreads from X ": "點差從X起",
+
+  "Swap is the interest that is applied to all forex trading positions that are left open overnight between Monday to Friday (at 17:00 EST) for all open positions. Swap rates differ from one currency pair to another.": "調期是指在週一至週五（美國東部時間17:00）期間，所有未平倉部位的隔夜利息，調期利率因貨幣對有所不同。",
+
+  "Please bear in mind that when trading forex pairs, triple swaps are charged on Wednesdays (to cover the weekend fee). Overnight fees for oil and natural gas are charged on Friday.": "提醒您，在交易外匯商品時，週三將收取三日的隔夜利息 （包含週末的費用）。",
+
+  "XAGUSD": "白銀",
+
+  "XNGUSD": "天然氣",
+
+  "USOUSD": "西德州原油",
+
+  "Spreads": "點差",
+
+  "5*24 Hours Online Customer Service providing online support and assistance": "客服團隊提供5天24小時的線上客服",
+
+  "Learn More": "了解更多",
+
+  "How To Trade Leveraged Products On Commodities": "如何交易大宗商品",
+
+  "Trade cryptocurrencies with Zero Commission": "加密貨幣",
+
+  "Go long or short on the world's most popular cryptocurrencies with 1:10 leverage.": "以10倍槓桿交易世界上最熱門的加密貨幣",
+
+  "Stockbanx offers you 5 major cryptocurrencies, including Bitcoin, Bitcoin Cash, Litecoin, Ripple, and Ethereum, against the US dollar.": "Stockbanx 提供加密貨幣對美元的零手續費差價合約交易，包括比特幣、比特幣現金、萊特幣、瑞波幣和以太坊",
+
+  "What is a Crypto?": "什麼是加密貨幣？",
+
+  "Cryptocurrencies (Crypto) are virtual currencies that use a decentralised network for financial transactions. Trade leveraged products on major cryptocurrencies such as Bitcoin, Ethereum and more – by speculating on their price movements without actually owning them.": "加密貨幣屬數字貨幣，可使用去中心化網路交易比特幣、以太坊等主要加密貨，在不實際擁有加密貨幣的情況下，透過預測其價格波動進行槓桿產品交易。",
+
+  "Why trade cryptocurrency leveraged products with Stockbanx?": "為什麼要使用CPT來交易加密貨幣?",
+
+  "No digital wallet": "無需電子錢包",
+
+  "You can trade cryptocurrency on the same MT4 platform.": "您可以在同一個MT4平台上交易加密貨幣。",
+
+  "Zero Commission": "零手續費",
+
+  "No need to pay a commission on any transaction*": "無需為任何交易支付佣金",
+
+  "Leveraged crypto trading": "以槓桿交易加密貨幣",
+
+  "Get higher capital when you trade cryptocurrencies with up to 1:10 leverage.": "您可以使用更少的資金與透過10倍的槓桿來交易加密貨幣。",
+
+  "All trading strategies allowed": "允許所有交易策略",
+
+  "Expert advisors & algorithmic trading strategies are welcome to ensure you have the flexibility to trade your favorite cryptocurrencies.": "我們歡迎您使用各種智能交易策略，以確保您可以靈活地交易您所喜歡的加密貨幣。",
+
+  "Trade Cryptocurrency CFDs 24/7": "24/5交易加密貨幣差價合約",
+
+  "Trade Bitcoin, Bitcoin Cash, Ethereum, Litecoin and Ripple anytime, anywhere.": "隨時隨地交易比特幣、比特幣現金、乙太坊、萊特幣和瑞波幣。",
+
+  "T&Cs Apply*": "適用條款與細則",
+
+  "Bitcoin": "比特幣",
+
+  "Over $100 billion is Bitcoin's market cap, the first and largest cryptocurrency. BTC prices are largely driven by supply and demand but can be affected by rumors of regulation or full-out regulation.": "比特幣的市值超過 1,000 億美元，是第一個也是最大的加密貨幣。比特幣價格主要由供需關係決定，但可能會受到監管傳聞或全面監管的影響。",
+
+  "Ethereum": "以太坊",
+
+  "Often referred to as the 'next Bitcoin', it is the second-largest cryptocurrency. Microsoft, JP Morgan, and Intel have recognized and supported Ethereum internationally. The blockchain-based Ethereum network also supports decentralized apps known as dApps.": "它被稱為“下一個比特幣”，也是第二大加密貨幣。 在國際上，微軟、摩根大通和英特爾皆認可並支持以太坊。基於區塊鏈的以太坊網路也支持被稱為 dApp 的去中心化應用程式。",
+
+  "Ripple": "瑞波幣",
+
+  "Ripple is both a transaction network and crypto token created in 2012. XRP is blockchain-based like Bitcoin, but according to the creators, it is less energy-intensive to mine, carries lower fees, and processes transactions more quicker.": "瑞波幣創建於 2012 年，既是一個交易網路，也是一種加密貨幣。瑞波幣與比特幣一樣是基於區塊鏈，根據創建者的說法，它擁有低耗能的開採模式、低交易成本，且處理交易的速度更快。",
+
+  "Litecoin": "萊特幣",
+
+  "Litecoin is a cryptocurrency founded in 2011, two years after Bitcoin, by a former Google engineer. It shares similar features with Bitcoin but has a different algorithm. The cryptocurrency's goal is to become a medium for daily transactions.": "萊特幣是一種加密貨幣，在比特幣問世後的兩年，由一位前谷歌工程師於 2011 年創立。它與比特幣具有相似的特徵，但卻有不同的演算法。該加密貨幣的目標是成為日常交易的媒介。",
+
+  "Bitcoin Cash": "比特幣現金",
+
+  "The Bitcoin spin-off was launched in 2017 and has a current market capitalisation of more than $6.3billion. Bitcoin Cash is designed to be used as a cheap payment system, much like Bitcoin was originally designed to be.": "比特幣現金在2017年推出，目前市值已超過63億美元。比特幣現金被設計作為廉價支付系統，就如同比特幣最初設計理念。",
+
+  "How To Trade Leveraged Products On Cryptocurrencies": "如何交易加密貨幣CFD",
+
+  "Go to the Cryptocurrencies section and choose your favorite instrument": "前往加密貨幣CFD頁面，選擇您喜歡的加密貨幣",
+
+  "Trade": "交易",
+
+  "CryptoText": "加密貨幣的發展、挑戰與政策",
+
+  "Trade Forex leveraged products": "外匯產品",
+
+  "Trade leveraged products on a wide variety of the world’s most popular currency pairs.": "交易世界上最熱門的貨幣槓桿產品",
+
+  "Start Now": "開始交易",
+
+  "What is Forex": "什麼是外匯？",
+
+  "Trading forex involves buying and selling currencies on the foreign exchange market for profit. Daily transactions worth trillions of dollars take place on the forex market, which is the world's most liquid financial market.": "每天價值數萬億美元的交易發生在外匯市場上，是世界上最具流動性的金融市場，您可透過買賣貨幣來獲取利潤。",
+
+  "Types of Forex Pairs": "貨幣對的類型",
+
+  "Stockbanx offers the most popular forex pairs like EUR/USD, GBP/USD, and EUR/GBP. Explore our wide range of major, minor and exotic currency pairs.": "Stockbanx 提供最熱門的貨幣對，包含主要、次要和外來貨幣對，如歐元/美元、英鎊/美元和歐元/英鎊。",
+
+  "Major": "主要貨幣對",
+
+  "The major currency pairs has two of the following currencies USD, EUR, JPY, CAD, GBP, and CHF.": "主要貨幣對包含以下貨幣：美元、歐元、日元、加元、英鎊和瑞士法郎。",
+
+  "Minor": "次要貨幣對",
+
+  "Minor Forex pairs, also known as cross-currency pairs or crosses, are currency pairs that do not include the US dollar. Examples of minor currency pairs include EUR/GBP, EUR/CHF, and GBP/JPY.": "次要貨幣對，也稱為交叉貨幣對或交叉盤，是不包括美元的貨幣對。 次要貨幣對如：歐元/英鎊、歐元/瑞士法郎和英鎊/日元。",
+
+  "Exotic Pairs stand out from these pairs because they contain a major currency (usually USD) and a currency from a developing or emerging market.": "外來貨幣對從這些貨幣對中脫穎而出，因為它們包含主要貨幣（通常是美元）和發展中或新興市場的貨幣。",
+
+  "More Instruments": "查看更多",
+
+  "What affects the prices of forex?": "什麼會影響外匯價格？",
+
+  "Below are some of the economic trends and events that will help those new to the market to become successful forex traders.": "下述為造成外匯價格波動的因素",
+
+  "Supply and demand": "供給與需求",
+
+  "Price inflation": "通貨膨脹",
+
+  "Currency strenght": "貨幣強弱",
+
+  "How to trade leveraged forex pairs with Stockbanx": "如何在Stockbanx進行外匯交易",
+
+  "Log in your account or create account": "登錄帳戶或註冊帳戶",
+
+  "Go to the forex section and choose your favorite instrument": "選擇喜歡的交易產品",
+
+  "Set your trade size": "制定交易規模",
+
+  "Choose direction (Buy or Sell) based on your assessment of the influencing factors": "根據您的評估選擇買入或賣出",
+
+  "Place your trade!": "開始交易",
+
+  "What Are Stocks?": "什麼是股票？",
+
+  "Get access to leveraged products on a wide variety of the world’s most popular currency pairs.": "交易世界上最熱門的貨幣槓桿產品",
+
+  "we are": "交易加密貨幣",
+
+  "The Market": "市場",
+
+  "Leaders": "全球領先",
+
+  "Trade your favorite instruments with a leading online broker": "通過領先的在線經紀商交易您喜愛的金融商品",
+
+  "Why Stockbanx Group?": "為什麼選擇Stockbanx?",
+
+  "WhyCpt": "Stockbanx持有包括FCA、FSCA和IFSC等全球知名監管牌照，透過靈活的支付方式和獨立的本地銀行帳戶實現安全的交易流程，並提供簡單易於上手的客戶介面，讓您能以0手續費和0.7點起的低點差進行交易。",
+
+  "Clients worldwide": "全球客户",
+
+  "USD client assets": "用戶資產",
+
+  "Daily executed trades": "每日交易訂單",
+
+  "Experience in the industry": "行業經驗",
+
+  "StocksText": "交易全球大型公司的股票，包括蘋果、微軟、特斯拉、臉書、網飛和亞馬遜等。",
+
+  "CommoditiesText": "對黃金、石油、白銀、天然氣等熱門商品提供最有競爭力的交易條件。",
+
+  "ForexText": "Stockbanx 提供最熱門的數十種貨幣對，如歐元/美元、英鎊/美元和歐元/英鎊等。",
+
+  "Choose The Most Reliable Trading Platform": "選擇最可靠的交易平台",
+
+  "A fast, clear, and innovative way to trade.": "安全、穩定和透明的交易平台。",
+
+  "relyText": "CPT為初學者和經驗豐富的交易者提供一個安全可靠的MT4交易軟件。立即開始在最受歡迎的線上平台進行交易。",
+
+  "IB Program": "合作夥伴",
+
+  "Stockbanx is an excellent choice for Introducing Brokers, offering interesting rewards programs and exciting incentives.": "CPT是您的絕佳合作夥伴（IB），我们提供豐富的獎勵方案和計劃。",
+
+  "Transparent IB Portal": "代理管理工具",
+
+  "Free access to trading tools - You will also be granted access to all our free trading tools to help assist with your trading decisions and help your clients.": "您將獲得我們所有免費交易工具的訪問權限，以便協助您和您的客戶進行交易。",
+
+  "Instant Rebate Payments": "即時返佣",
+
+  "Competitive and customisable rebate scheme - We always put our clients and partners first. You’ll be rewarded with extremely competitive and customisable rebate options.": "我們始終將客戶和合作夥伴放在首位，您將獲得極具競爭力與客製化的反佣制度。",
+
+  "Exclusive Rewards": "獎勵計劃",
+
+  "Get up to $10 commission for each standard lot your client trade. Be rewarded additionally through our tiered IB Rewards Program, which offers the chance to win a luxury car and other exciting Apple products.": "您可以從客戶的每手交易中賺取高達 10 美金，還可通過我們的IB獎勵計劃獲得額外獎勵，將有機會獲得豪車和其他豐富的Apple產品。",
+
+  "Flexibility": "靈活性",
+
+  "Customized support tailored to your needs. Our team welcomes any special requests that serve your needs and support better trading for your clients.": "根據您的需求提供客製化的服務，我們很樂意為您的需求提供幫助。",
+
+  "Market News": "市場新聞",
+
+  "Choose from a wide range of leveraged products on popular Forex pairs, indices, stocks, commodities, and much more available for trading! Experience a new level of trading with the right support when needed.": "您可以選擇熱門的貨幣對、指數、股票、大宗商品進行交易！我們將為您提供實時協助，讓您感受絕佳的交易體驗！",
+
+  "12+ years": "12年+",
+
+  "Trade Anytime": "隨時隨地",
+
+  "Anywhere": "輕鬆交易",
+
+  "22M": "22M",
+
+  "Read More": "閱讀更多",
+
+  "Indices": "指數",
+
+  "Trade global indices with competitive conditions": "指數",
+
+  "Zero commission trading on global indices including the FTSE, Nasdaq and Nikkei 225.": "零佣金交易全球指數，包括富時指數、納斯達克指數和日經225指數。",
+
+  "Start Now!": "開始交易",
+
+  "See more instruments": "更多交易產品",
+
+  "What are indices?": "什麼是指數",
+
+  "Indices measure the price performance of a group of shares from an exchange. Indices trading is a popular strategy for many traders and investors seeking exposure to an entire market or sector.": "指數是衡量一組股票在交易所中的價格表現，是許多交易員和投資者接觸交易市場的熱門選項。",
+
+  "Why trade leveraged products on indices?": "為何交易指數？",
+
+  "A leveraged product on indices can benefit you from upward and downward movements based on your position. Instead of buying a single stock, you can speculate on the price of multiple stocks for a lower price, allowing you to diversify your portfolio more.": "指數產品可以根據您的判斷在上漲或下跌的走勢中受益。相較於買進單一股票 ，指數產品可以使您的投資組合更加多樣化。",
+
+  "What are the different types of indices": "指數有哪些不同類型",
+
+  "Indices are widely traded because they are powerful global and country-specific economic health indicators. We will see below some of the biggest global, regional, and national indices to trade": "指數被廣泛交易，因為它們能反映市場整體變化。我們將在下面看到一些全球、區域和單一國家的交易指數：",
+
+  "To be deleted": "To be deleted",
+
+  "Some of the biggest U.S indices:": "美國主要指數：",
+
+  "S&P 500": "標普500指數",
+
+  "Standard & Poor's 500 Index, also known as the S&P 500, tracks 500 leading publicly traded companies in the United States by market capitalization. It includes companies like Twitter, Cisco Systems, eBay, MasterCard, McDonald's, Nike, PayPal, Pfizer, Starbucks, among others.": "標準普爾500指數，也被稱為標普500指數，追蹤美國500家領先的上市公司的市值。包括推特，思科系統，ebay，萬事達卡，麥當勞，耐克，PayPal，輝瑞，星巴克等公司。",
+
+  "USA30": "道瓊工業30指數",
+
+  "Dow Jones Industrial Average (DJIA) is an index containing stocks from 30 of the largest and most influential companies in the United States, including Apple, Chevron, Coca-Cola, Exxon Mobil, Visa, Goldman Sachs, and JPMorgan Chase. ": "道瓊工業指數（DJIA）包含來自美國30家最大和最有影響力的公司的股票，包括蘋果，雪佛龍，可口可樂，埃克森美孚，Visa，高盛和摩根大通。",
+
+  "TECH 100": "納斯達克100指數",
+
+  "The Nasdaq 100 Index is a basket of the 100 largest, most actively traded U.S companies listed on the Nasdaq stock exchange. The index includes companies from various industries except for the financial industry, like commercial and investment banks. These non-financial sectors include retail, biotechnology, industrial, technology, health care, and others.": "納斯達克 100 指數是在納斯達克證券交易所上市的前100 家交易量最大的公司。該指數包括除金融業以外的各個行業的公司，如商業和投資銀行。這些非金融部門包括零售、生物科技、工業、技術、醫療保健等。",
+
+  "Regional": "區域",
+
+  "Regional indices include companies from specific regions.": "區域指數包含來自特定地區的公司。",
+
+  "Some of the biggest EU indices:": "歐洲主要指數：",
+
+  "DAX40": "德國Dax指數",
+
+  "The DAX is a German blue-chip stock market index that tracks the performance of the 40 largest companies trading on the Frankfurt Stock Exchange. It covers sectors such as clothing, insurance, manufacturing, energy, transport, and many others.": "DAX是一個德國藍籌股市場指數，追蹤在法蘭克福證券交易所交易的40家最大公司的表現。它涵蓋了諸如服裝、保險、製造業、能源、運輸和其他許多行業。",
+
+  "FTSE100": "富時100指數",
+
+  "It is also known as the UK100 and is a list of the UK's hundred biggest companies by market capitalization. These companies include Unilever, Tesco, Barclays, Vodafone Group, GlaxoSmithKline and Sainsbury's covering industries such as food, pharmaceuticals, electronic products, banks, telecommunications and more.": "它也被稱為UK100，是英國市值前一百強公司，這些公司包含聯合利華、樂購、巴克萊、沃達豐集團、葛蘭素史克和塞恩斯伯裡，涵蓋食品、製藥、電子產品、銀行、電信等行業。",
+
+  "EUROSTOXX": "歐洲斯托克指數",
+
+  "The index covers 12 European countries and represents the 50 largest companies in Europe, such as Bayer, Danone, and Volkswagen Group, among others, listed in other European indices.": "該指數涵蓋12個歐洲國家，代表了歐洲50家最大的公司，如拜耳、達能和福斯汽車集團等，這些公司同時也包含在其他歐洲指數中。",
+
+  "National": "單一國家",
+
+  "Typically, national indices are used to reflect investor sentiment on the health of the economy inside a given country by analysing the performance of the stock market.": "單一國家指數用於通過分析股票市場的表現，來反映投資者對特定國家經濟情況的看法。",
+
+  "Some of the national indices covering Asia-Pacific region:": "亞太地區國家指數：",
+
+  "JAPAN225": "日經225指數",
+
+  "The Nikkei is short for Japan's Nikkei 225 Stock Average, the leading and most-respected index of Japanese stocks. It is a price-weighted index composed of Japan's top 225 blue-chip companies traded on the Tokyo Stock Exchange.": "日經指數是日本日經225平均指數的簡稱，是具權威的日本主要指數，價格由在東京證券交易所的前225家藍籌股公司加權組成。",
+
+  "HONGKONG50": "香港恆生指數",
+
+  "The Hang Seng Index or HSI is a free-float market capitalization-weighted index of the sixty largest companies that trade on the Hong Kong Exchange (HKEx). HKEx is among the largest stock exchanges in the world, with an aggregate market cap of more than $38 trillion as of 2022.": "恒生指數是在香港交易所（HKEx）的六十家最大公司的自由流通市值加權指數。香港交易所是全球最大的證券交易所之一，截至2022年，總市值超過38萬億美元。",
+
+  "ASX200": "澳大利亞標普指數200",
+
+  "The S&P/ASX 200 Index is the benchmark institutional investable stock market index in Australia, comprising the 200 largest stocks by float-adjusted market capitalization. ": "S&P/ASX 200指數是澳洲的主要指數，由200只最大的股票組成，按浮動調整市值計算。",
+
+  "Trade Indices": "交易指數",
+
+  "How to trade leveraged products on indices": "如何交易指數產品",
+
+  "Go to the indices section and choose your favorite instrument": "選擇喜歡的交易產品",
+
+  "How to trade leveraged products on commodities": "如何交易大宗商品",
+
+  "Learn more": "了解更多",
+
+  "Global": "全球",
+
+  "Global indices relay companies regardless of which stock exchange they are listed on and based.": "全球指數涵蓋了各個國家與各交易所的上市公司。",
+
+  "How To Trade Leveraged Products On Indices": "如何交易指數產品",
+
+  "Trade Indices with Stockbanx": "在Stockbanx交易指數",
+
+  "Take advantage of trading CFDs on indices like US500, UK100, and more, using MT4 on any device you prefer. Trade US30 with leverage up to 1:200 and low spreads.": "在您喜愛的設備上透過MT4交易軟件，以高達1:100的槓桿與極低的點差，交易如US500、UK100、US30等CFD指數商品。",
+
+  "partnerHead": "從客戶的每手交易中獲取高達 <span class='lot-trade'> $10 </span> 美金。",
+
+  "Why Partner With Stockbanx?": "為什麼成為Stockbanx合作夥伴?",
+
+  "Partnering with individuals and companies who share our values helps us power the pursuit of financial freedom for ambitious individuals.": "我們尋求與我們有相同願景的公司或個人成為我們的合作夥伴，並為我們的合作夥伴創造最大收益。",
+
+  "Commission Rebate": "返佣機制",
+
+  "Earn 10$ per lot on every trade you make today. There are no minimum requirements to qualify.": "每交易一標準手即可獲得高達10美金的佣金獎勵。",
+
+  "Advanced Platforms": "先進的交易平台",
+
+  "Trading platforms with user-friendly interfaces provide comprehensive tools for price analysis and technical analysis.": "簡易的操作介面為您提供全方位的分析功能。",
+
+  "Great Rewards": "豐厚的獎勵",
+
+  "Partner with Stockbanx International and earn great rewards. Benefit from our Rewards Program today by introducing new clients.": "成為Stockbanx合作夥伴，通過介紹新客戶從我們的獎勵計畫中賺取豐厚獎勵。",
+
+  "Support tailored to your needs. Whenever you have a special request, we're happy to help.": "根據您的需求提供客製化的服務，我們很樂意為您的需求提供幫助。",
+
+  "Support": "支持",
+
+  "Creative support and free marketing materials, including banners, business cards, newsletters, and promotional materials": "提供全面的支持服務，包含橫幅、名片、簡報和各式宣傳品。",
+
+  "Cutting-edge and intuitive trading platform for on-the-go traders.": "根據您的需求提供定制性的支持，無論您有特殊要求，我們都很樂意為您提供幫助。",
+
+  "How To Partner With Stockbanx?": "如何成為Stockbanx合作夥伴？",
+
+  "Get up to $10 commission for each standard lot your client trades. Be rewarded additionally through our tiered IB Rewards Program, which offers the chance to win a luxury car and other exciting Apple products.": "您可以從客戶的每手交易中賺取高達 10 美金，還可通過我們的IB獎勵計劃獲得額外獎勵，將有機會獲得豪車和其他豐富的Apple產品。",
+
+  "Starting": "從$10",
+
+  "from $10": "美元起",
+
+  "Unlock the earnings potential with our IB Program and get rewards for every trade.": "從客戶的每手交易中獲得佣金獎勵",
+
+  "Instant": "即時",
+
+  "Payment": "返佣",
+
+  "Get paid starting from $10 per lot": "每交易一標準手即可獲得高達10美元佣金獎勵",
+
+  "They Trade,": "他人交易，",
+
+  "You Earn!": "你來收益！",
+
+  "The more you refer, the greater your rewards. Start referring today and earn more.": "推薦越多，獎勵越高。立即開始推薦並賺取更多。",
+
+  "IB Partners": "合作夥伴",
+
+  "Portal!": "專屬後台!",
+
+  "an IB portal that offers advanced tools and an intuitive interface, so you can manage your clients with ease.": "直觀的IB後台，便於您輕鬆管理您的客戶。",
+
+  "Metatrader 4 Trading Platform": "MetaTrader 4交易平台",
+
+  "Trade on the world's most popular platform": "在全球最受歡迎的平台上進行交易",
+
+  "Sign up": "開立帳戶",
+
+  "Why Stockbanx Metatrader 4": "為什麼選擇CPT MetaTrader 4",
+
+  "With MetaTrader 4, traders can chart assets, place orders, and manage positions with everything they need. With advanced trading infrastructure, competitive pricing, and superior order execution, Stockbanx MT4 is one of the most powerful online forex trading platforms.": "Stockbanx MT4交易平台擁有先進的交易技術、具競爭力的市場報價與卓越的訂單執行。使用MetaTrader 4，交易者可以根據需求繪製圖表、交易和管理訂單。憑藉直觀的用戶界面和強大的交易功能，MT4是全球百萬交易者最為熱愛的交易平台。",
+
+  "With its intuitive user interface and powerful trading capabilities, MT4 is the most popular retail platform, used by millions worldwide traders.": "MT4 是最受歡迎的交易平台並被全球數百萬交易者所使用。",
+
+  "Get The Best Of": "優勢與特色：",
+
+  "cTrader's mission is to balance simple and complex functionality. It is an intuitive and easy-to-use trading platform for new and advanced traders.": "cTrader針對複雜的交易功能進行優化，適用於新手和專業交易者，是一個直觀且易於使用的平台。",
+
+  "57 preinstalled technical indicators": "內建57個技術指標",
+
+  "24 analytical charting tools": "24種圖表工具",
+
+  "3 chart types & 9 time frames": "3種圖表類型和9個時間段",
+
+  "1-click trading & trade from charts": "一鍵交易&圖表交易",
+
+  "Trailing Stop": "追蹤止損",
+
+  "Easy to use interface": "易於使用的介面",
+
+  "Fully customizable charts": "可自定義的圖表",
+
+  "Add custom EAs & indicators": "添加自訂的EA與指標",
+
+  "News feed & broker mailbox": "新聞推送&經紀商郵箱",
+
+  "Available for Windows or Mac": "適用於Windows和Mac",
+
+  "Download MT4": "下載MT4",
+
+  "Trade thousands of leveraged products instruments, including Forex, Shares, Metals, Indices and more. Execute orders and analyze markets on the go with our award-winning mobile platform.": "交易上千種的交易品項，包含外匯、股票、金屬、指數等等。使用我們屢獲殊榮的行動平台就能隨時隨地執行訂單並分析市場。",
+
+  "Metatrader 5 Trading Platform": "MetaTrader 5 交易平台",
+
+  "The most advanced trading platform": "最先進的交易平台",
+
+  "About MT5": "關於MT5",
+
+  "MT5, or MetaTrader 5, is the successor of MetaTrader 4 (MT4), a popular online trading platform. It was originally released as a beta version in 2010 by MetaQuotes Software Corp.": "MetaTrader 5，通常也稱為MT5，是眾所周知的MetaTrader 4 （MT4）的升級版。 MetaQuotes Software Corporation於2010年發布MT5，自那時起不斷地開發、測試及改進，憑藉簡易的交易方式，功能豐富的交易環境以及出色的自動化交易功能，使其成為新一代熱門交易平台。",
+
+  "MetaTrader 5 gives you access to trade leveraged products on your favorite instruments. MT5 has improved trading functionalities, enhanced scripting tools, and expert advisors, making it intuitive and advanced.": "MetaTrader 5為您提供在您喜歡的金融工具上進行槓桿交易的機會。 MT5擁有更強大的交易功能、更多的腳本工具以及專家顧問，使其更加直觀和先進。",
+
+  "Why Stockbanx Metatrader 5": "為什麼選擇CPT MetaTrader 5",
+
+  "MT5 provides professional traders with everything they need in today's dynamic markets, including more indicators, market orders, and instruments.": "MT5 為專業交易者提供當今市場中交易平台所需的一切，包括更多指標、交易訂單和各種交易工具。",
+
+  "Intuitive interface": "直觀的介面",
+
+  "Fully customizable": "個性化設置",
+
+  "Advanced analytics": "高級分析工具",
+
+  "Flexible and convenien": "靈活且便捷",
+
+  "Secure and stable platform": "安全穩定的平台",
+
+  "Industry-favourite choice": "行業首選",
+
+  "MetaTrader 5 expert advisors": "EA智能交易系統",
+
+  "More assets, more opportunities": "更多產品，更多機會",
+
+  "User-friendly interface": "用戶友好界面",
+
+  "With a wide range of professional trading features, fast entry, synchronization, and order processing capabilities, cTrader is a one-stop-shop platform preferred by advanced traders.": "cTrader憑藉著廣泛的專業交易特點、快速進入、同步和訂單處理能力，是專業交易員首選的一站式交易平台。",
+
+  "Why cTrader?": "為什麼選擇cTrader？",
+
+  "cTrader is a powerful trading platform that offers plenty of educational resources and in-depth market analysis to help you make informed trading decisions.": "cTrader 是一強大的交易平台，除了能提供大量的教育資源和深入的市場分析外，也能協助您做出明智的交易決策。",
+
+  "State-of-the-art trading technology": "先進的交易技術",
+
+  "Highly intuitive and advanced interface": "直觀用戶界面",
+
+  "Fast execution, low latency": "快速執行、低延遲",
+
+  "Cutting edge charting tools": "領先的圖表工具",
+
+  "cTrader Is For All Types Of Traders": "cTrader適用於所有類型的交易者 ",
+
+  "Key features and benefits": "獨特的功能與優勢",
+
+  "Detailed analysis and trading indicators": "詳細分析和交易指標",
+
+  "High speed order execution": "高速訂單執行",
+
+  "Multiple take-profit orders": "多重獲利指令",
+
+  "Extensive educational videos": "豐富的教學影片",
+
+  "Optimized expert advisor's processing": "EA智能交易系統",
+
+  "Advanced platform customisation": "定制化交易平台",
+
+  "Download cTrader": "下載 cTrader",
+
+  "With cTrader, you can customize your on-the-go trading experience with a variety of order types, technical analysis tools, price alerts, and trade statistics.": "使用 cTrader，您可以使用各種訂單類型、技術分析工具、價格提醒和交易統計功能來提升您的交易體驗。",
+
+  "Trade your favorite commodities with competitive conditions": "大宗商品",
+
+  "With Stockbanx, you can trade the most popular commodities in the world such as Oil, Gold, Natural Gas and many more.": "您可以0手續費交易世界上最熱門的大宗商品，如原油、黃金、天然氣等。",
+
+  "Which commodities perform better during inflation?": "哪些大宗商品在通貨膨脹期間有較佳的表現?",
+
+  "Commodities—precious metals, agriculture goods, and oil & gas have often been positioned as hedges against inflation. However, commodities tend to respond to changes in the dollar's relative strength in international markets rather than domestic inflation pressures.": "大宗商品包括貴金屬、農產品、石油和天然氣，價格往往會因美元在國際市場上相對強弱的變化而波動，因而經常被定位為通膨的避險工具。",
+
+  "Type of commodities": "大宗商品類型",
+
+  "By trading leveraged commodities with Stockbanx, you don't have to own any of these assets physically, just trade their price movement. Stockbanx MT4 & MT5 platform offers two types of commodities: energies & metals (hard commodities) and grains & other goods (soft commodities).": "通過CPT進行交易，您不必實際持有這些大宗商品，跟上價格趨勢即可獲利。CPT MT4和MT5平台提供兩種類型的大宗商品：能源和金屬（硬商品）；農產品和其他商品（軟商品）。",
+
+  "Energy": "能源",
+
+  "Start your trading journey with leveraged products on commodities such as natural gas, crude oil and Brent oil.": "選擇天然氣、原油和布蘭特原油等大宗商品開始您的交易。",
+
+  "Metals": "貴金屬",
+
+  "Get started trading leveraged products on popular metals, such as gold, silver, and copper, with zero commissions on the trades you make.": "我們為您提供零佣金的黃金、白銀和銅等熱門金屬交易產品。",
+
+  "Cocoa, sugar, wheat, corn, and coffee are among the soft commodities offered by Stockbanx.": "CPT提供的軟商品包含可哥，糖，小麥，玉米和咖啡。",
+
+  "What affects the prices of commodities?": "什麼影響大宗商品價格？",
+
+  "Like other markets, commodities are affected by supply and demand. Weather and currency fluctuations are two other variables that play a big role in affecting the price commodities as well.": "與其他市場一樣，大宗商品也受到供求關係的影響。天氣和貨幣波動是另外兩個變數，它們在影響商品價格方面也起著重要作用。",
+
+  "Grains": "農產品",
+
+  "What Are Commodities?": "什麼是大宗商品?",
+
+  "Go to the Commodities section and choose your favorite instrument": "前往大宗商品頁面，選擇您喜歡的大宗商品",
+
+  "Trade your favorite": "交易",
+
+  "Trade Commodities with Stockbanx": "在 Stockbanx 交易大宗商品",
+
+  "The opportunities are endless. Make the most of your investments with Oil, Gold, Natural Gas, and more! Trade these commodities with leverage up to 1:500 and spreads starting from 30 pips*.": "通過最高1:1000的槓桿與低至30的點差成本，交易原油、黃金、天然氣等大宗商品。",
+
+  "*Low spreads depend on product and account type.": "低點差取決於您選擇的商品和帳戶類型",
+
+  "Trade stocks with tight spreads": "股票",
+
+  "Trade leveraged products on shares with Stockbanx and get the benefits of our Zero Commission trading.": "CPT提供零手續費的股票交易環境",
+
+  "Zero Commission on Shares": "股票交易零手續費",
+
+  "You can trade leveraged products on shares from major markets in the world, including some of the largest companies in the world such as Apple, Tesla, Microsoft, Google, Amazon, and several others.": "交易全球大型公司股票產品，包括蘋果、特斯拉、微軟、谷歌、亞馬遜等。",
+
+  "Ready to learn more about stocks?": "了解更多股票交易的資訊？",
+
+  "Find out more about the fundamental and technical factors that affect the price of stocks. You can find the latest updates on the biggest global shares such as Netflix, Google, Amazon, Apple, and many others in the market news and featured articles section.": "了解更多關於影響股票價格的基本面和技術面因素，您可以在市場新聞和精選文章部分找到有關網飛、谷歌、亞馬遜、蘋果等全球大型公司股票的最新訊息。",
+
+  "Fundamental & Technical Analysis": "基本面與技術面分析",
+
+  "Traders can decide whether they want to rely exclusively on fundamental or technical analysis or if they would like to combine both.": "交易者可以單獨通過基本面分析或技術面分析，亦或是結合兩者去決定他們的交易策略。",
+
+  "Manage Risks": "風險管理",
+
+  "Based on your risk-reward ratio, you can determine how much potential profit you need to counteract a potential loss. If you have a 2:1 ratio, you can expect your potential profit to be twice your potential loss.": "根據您的風險收益率，您可以預期有多少潛在獲利與潛在損失。 如果您的預期獲利與預期損失是 2:1 的比率，可以預期您的潛在獲利是潛在損失的兩倍。",
+
+  "Test your strategy": "測試您的策略",
+
+  "Investing on a demo account might help you sharpen your skills before trading with real money.": "模擬帳戶可以幫助您在真實交易之前提升您的交易策略",
+
+  "How to trade leveraged products on shares": "如何進行股票交易",
+
+  "Go to the shares section and choose your favorite instrument": "選擇喜歡的交易產品",
+
+  "Trade Stocks with Stockbanx": "在 Stockbanx 交易股票",
+
+  "Unlock endless potential by trading top stocks like Amazon, Google, and Apple with leverage up to 1:100 and spreads as low as 20 pips*.": "通過最高1:20的槓桿與低至20的點差成本，交易亞馬遜、谷歌和蘋果等大型國際公司股票。",
+
+  "How To Make Informed Trading Decision": "如何定制您的交易决策",
+
+  "Financial events provide daily information for your trading decisions. Find out how to develop your market intuition and improve your risk management strategies with resources created by our market analysts.": "我們提供的每日市場分析，內容包含會影響特定資產價格的基本面和技術面等最新資訊，能幫助您做出更明智的交易決策。",
+
+  "newstrade": "我們為您提供每日金融事件與交易決策資訊，利用我們市場分析師所創建的資源，培養市場直覺及改進風險管理策略。",
+
+  "Explore a range of educational resources designed to help you improve your trading skills with the latest news and expert analysis.": "探索一系列教育資源，利用最新消息和專家分析提高交易技能。",
+
+  "Plan your trades and get alerts for volatility-causing chart patterns and indicators from our economic calendar.": "立即規劃您的交易並從我們的財經日曆中獲取市場相關重大資訊。",
+
+  "Take advantage of our online webinars and learn how to become a better trader with the help of our team of experts.": "透過線上研討會及我們專業團隊的幫助，學習如何成為更好的交易者。",
+
+  "Live Webinars": "線上直播研討會",
+
+  "Take part in live webinars hosted by our expert analysts. Develop new strategies and sharpen your trading skills.": "參加由我們的專業分析師所主持的線上直播研討會，制定新策略並提高您的交易技能。",
+
+  "MT4 Multi-Account Manager": "MT4多帳戶管理系統",
+
+  "Lot Allocation": "手數分配",
+
+  "Proportional By Balance": "資金佔比分配",
+
+  "Equity Percent Allocation": "股權佔比分配",
+
+  "Allocation by Equal Risk": "風險均衡分配",
+
+  "Percent Allocation by P/L": "盈虧比例百分比分配",
+
+  "Proportional By Equity": "股權比例分配",
+
+  "Proportional Allocation by P/L": "盈虧比例分配",
+
+  "Lot multiplier by volume fix": "以乘數比例配置交易手數",
+
+  "Money managers can place orders in bulk on all accountsoperating under a master account using Stockbanx's Multi AccountManager (MAM), an integrated software tool that will make theIB's journey more flexible.": "多帳戶管理人可以使用CPT的多帳戶管理系統（MAM）對所有帳戶進行批量下單，MAM是一款集成的軟體工具，將使代理業務更加靈活。",
+
+  "Partner with Stockbanx and receive:": "MAM主要功能:",
+
+  "Percent Allocation": "百分比分配",
+
+  "Ambassador": "品牌大使",
+
+  "Trade Forex with Stockbanx": "在 Stockbanx 交易外匯產品",
+
+  "Maximize your potential by trading the biggest, most sought-after currency pairs such as GBPUSD and EURUSD with leverage up to 1:500 and spreads starting from 1.6 pips*.": "通過最高1:1000的槓桿與低至1.6的點差成本，交易GBP/USD和EUR/USD等的熱門商品，使您的盈利達到最大化。",
+
+  "are pairs that do not include the U.S. dollar, but do include at least one of the world's other three major currencies such as USD, EUR, JPY, CAD, GBP and CHF.": "次要貨幣對，也稱為交叉貨幣對或交叉盤，是不包括美元的貨幣對。 次要貨幣對如：歐元/英鎊、歐元/瑞士法郎和英鎊/日元。",
+
+  "Margin & Leverage": "保證金 & 槓桿",
+
+  "Choose the account type that best fits your trading goals. For any further assistance, you could reach our dedicated support team via email or chat.": "選擇最適合您交易目標的帳戶類型。如果需要任何進一步的説明，可以通過電子郵件或客服聯繫我們。",
+
+  "Standard": "標準",
+
+  "Platinum": "鉑金",
+
+  "Max Leverage": "最大槓桿",
+
+  "Min. Deposits (USD)": "最低入金(美金)",
+
+  "Try Demo Account": "模擬帳戶",
+
+  "Client funds are guarded in separated bank accounts": "客戶資金被保存在獨立的銀行帳戶中。",
+
+  "Selected": "選定的",
+
+  "soon": "即將推出",
+
+  "Apple Airpod": "Apple Airpod",
+
+  "3rd Generation": "3rd Generation",
+
+  "Apple Watch": "Apple Watch",
+
+  "Elite": "精英",
+
+  "Elite+": "精英+",
+
+  "Luxury car": "豪華轎車",
+
+  "Black Tesla": "特斯拉",
+
+  "5Days 4Nights": "5天4夜",
+
+  "LSE Experience": "經驗",
+
+  "Allow Cookies": "同意Cookies政策",
+
+  "Commodity prices will increase 43% in 2023": "供應短缺，解密真相！ 2023年商品價格飆漲43%？",
+
+  "2022 - a `catastrophic` year for the crypto market": "厄運來襲！ 2022年幣圈寒冬總回顧！",
+
+  "2022: The year that shocked the global financial markets": "2022年全球投資市場驚濤駭浪！",
+
+  "Positive Outlook For Gold In 2023": "市場樂觀看好2023黃金前景",
+
+  "Nasdaq Soars 2% Ahead Of Q4 Earnings Reports": "第四季度財報公佈前納斯達克飆升 2%",
+
+  "html1": "html1",
+
+  "html2": "html2",
+
+  "html3": "html3",
+
+  "html4": "html4",
+
+  "html5": "html5",
+
+  "What are the advantages of partnering with Stockbanx International? ": "與CPT的合作優勢？",
+
+  "How do i open an IB account?": "如何註冊IB帳戶？",
+
+  "What is your IB compensation scheme? ": "代理返佣計畫？",
+
+  "How are the IB commissions added to my account?": "如何提取我的代理佣金？",
+
+  "How can I withdraw my IB commissions?": "IB佣金如何添加到我的帳戶中？",
+
+  "How can I refer my clients and add them to my IB account?": "如何推薦我的客戶並將其添加到我的代理帳戶？",
+
+  "What are your trading hours?": "交易時間？",
+
+  "Award-Winning Analyst Expertise:": "獲獎的專業技術：",
+
+  "What spreads do you offer?": "我們提供哪些點差？",
+
+  "Where can I view my account balance and check my trading history?": "如何查看帳戶餘額和交易記錄？",
+
+  "How can I access my historical data?": "如何查看帳戶歷史數據？",
+
+  "What is the minimum account leverage you offer?": "最低交易槓桿？",
+
+  "At what level will my position be stopped-out?": "什麼時候會發生強制平倉?",
+
+  "What are precious metal trading hours?": "貴金屬的交易時間？",
+
+  "Can I trade outside of trading hours?": "我可以在交易時間以外進行交易嗎？",
+
+  "Are Third Party payments allowed with Stockbanx?": "Stockbanx是否允許向第三方存款或提款？",
+
+  "How do I deposit funds into my account?": "如何將資金存入我的帳戶？",
+
+  "What is the minimum deposit?": "最低存款金額是多少？",
+
+  "What is the minimum withdrawal?": "最低提款金額是多少？",
+
+  "What are the charges on deposits and withdrawals?": "存款和提款手續費？",
+
+  "How long does it take to process a withdrawal?": "提款的處理時間？",
+
+  "How long does it take for funds to reach my bank account?": "資金到我的銀行帳戶需要多長時間？",
+
+  "What are your fees/charges/overnight fees?": "我們的費用/收費/隔夜利息是多少？",
+
+  "What are the advantages of partnering with Stockbanx?": "與CPT的合作優勢?",
+
+  "How do I open an IB account?": "如何註冊IB帳戶?",
+
+  "What is your IB compensation scheme?": "代理返佣計畫",
+
+  "How do I log in to my account using the Android app for MT4?": "如何使用MT4的安卓應用程式登入帳戶?",
+
+  "How do I log in to my account using the iPhone app for MT4?": "如何使用MT4的iPhone應用程式登入帳戶?",
+
+  "I forgot my MT4 password – what do I do?": "忘記MT4密碼–我應該怎麼做?",
+
+  "How can I change my MT4 Password?": "如何更改MT4密碼?",
+
+  "What commission is charged for trading on the MT4 platform?": "在MT4平台交易需要繳納佣金嗎?",
+
+  "How do I change my leverage?": "如何調整槓桿?",
+
+  "How do I install an Expert Advisor on MT4?": "如何在MT4安裝EA?",
+
+  "How do I add indicators to my chart?": "如何將指標加到圖表中?",
+
+  "How do I open a chart in MT4?": "如何在MT4中打開圖表?",
+
+  "How do I modify or delete a trade on the MT4 platform?": "如何在MT4平台修改或刪除訂單?",
+
+  "How do I change the time frame of my chart?": "如何更改圖表的時間框架?",
+
+  "How do I zoom in/out of my chart?": "如何放大/縮小圖表?",
+
+  "What account types do you offer?": "我們提供什麼帳戶類型?",
+
+  "What is the minimum deposit for Classic account?": "經典帳戶最低存款?",
+
+  "What is the minimum deposit for Prime account?": "尊榮帳戶最低存款?",
+
+  "How can I request for a Demo account?": "如何申請模擬帳戶?",
+
+  "Is a Swap Free account available?": "是否提供免息帳戶?",
+
+  "How do I top up my Demo account with funds?": "如何提高模擬帳戶內的資金?",
+
+  "How long can I practice on my Demo account?": "模擬帳戶可以使用多久?",
+
+  "Are the spreads on your demo account the same as live?": "模擬帳戶的點差是否和真實帳戶一樣?",
+
+  "Can I trade all products (FX, CFDs, commodities) from one Demo account?": "模擬帳戶可以交易所有產品（外匯、差價合約、大宗商品）嗎?",
+
+  "How can I create a Demo account on the MT4 trading platform?": "如何在MT4平台上開立模擬帳戶?",
+
+  "How do I open an Islamic account?": "如何開立伊斯蘭帳戶?",
+
+  "What is the maximum leverage you offer?": "我們提供的最大槓桿?",
+
+  "What is the minimum trade size?": "我們的最低交易量是多少?",
+
+  "What is the maximum trade size?": "我們的最大交易量是多少?",
+
+  "What is your margin call?": "我們的追加保證金通知?",
+
+  "What is your order execution speed?": "我們的訂單執行速度?",
+
+  "Can I open a Demo account?": "我可以開立模擬帳戶嗎?",
+
+  "Can I open a swap-free account?": "我可以開立免息帳戶嗎?",
+
+  "How do I open a live account?": "如何開立真實帳戶?",
+
+  "What are the advantages of trading with Stockbanx?": "在CPT交易的最大優勢?",
+
+  "As a Stockbanx partner, you will immediately benefit from the following: Commission Rebate: Start earning 10$ per lot today on every trade. No minimum requirements to qualify.Innovation: Experience our powerful software to track your introduced accounts and their activity easily.Loyalty: A unique loyalty program that recognizes your effortsMarketing Support: Full creative support and free marketing materials: Professionally designed banners Business cards Newsletters Promotional materials\nAdvanced Platforms: User-friendly trading platforms with ideal trading conditions.Flexibility: Customized support tailored to your needs. Our team welcomes any special requests that serve your needs and support better trading for your clients.": "成為CPT的合作夥伴，您將獲得以下權益：\n佣金：每筆交易都能賺取10美金\n\n創新：體驗我們完善的管理功能，輕鬆追蹤您的推薦帳戶和他們的交易情況。\n\n忠誠計劃：獨特的忠誠計畫，讓您的努力得到超額回報。\n\n行銷支持：全面的創意支持和免費的行銷材料：\n•\t專業設計的橫幅\n•\t名片\n•\t簡報\n•\t宣傳品\n\n先進的平台: 友善的操作介面和優質的交易平台。\n\n靈活性：根據您的需求提供客製化的服務。\n我們很樂意為您的需求提供幫助，以支援您提供客戶更好的交易體驗。",
+
+  "Sign up: Join our IB program and earn ongoing commissions from the trading activity of your clients.Refer: Start referring clients and track the daily volume trading of your referrals in our bespoke IB Portal. When your Client completes the registration form in the Client Portal and opens an MT4 account, your IB code will be provided by default.Earn Up to $10 per lot on your clients’ trading. The more they trade, the more you make!": "註冊：加入我們的IB計畫，從客戶的交易中獲取佣金。\n\n推薦：開始推薦客戶，並在我們的IB專屬頁面追蹤客戶的每日交易量。當您的客戶在用戶端中註冊和開設MT4帳戶時，將默認提供您的IB代碼。\n\n從客戶的每手交易中賺取高達10美元。交易越多，獲利越多！",
+
+  "CPTClassic: Earn $10 per lot on your clients’ trading.CPTPrime: Earn $3 per lot on your clients’ trading.": "經典帳戶每交易一標準手可獲得10美元；尊榮帳戶:每交易一標準手可獲得3美元。",
+
+  "All your clients trading activities are automatically displayed at EOD in your IB portal, along with the calculated commission": "所有客戶的交易活動和代理佣金會在一天結束時自動顯示在代理管理後台。",
+
+  "You can withdraw your IB commission anytime from the IB Portal.": "您可以隨時從代理管理後台提取佣金。",
+
+  "You should provide your clients with a unique IB referral link. Your clients will use that link to access our website; once they register through the Client Portal and open a live account, you will immediately see them added to your IB Portal.": "向您的客戶提供代理專屬推薦連結，客戶將使用該連結訪問我們的網站；一旦他們通過客戶端註冊並開立真實帳戶，您將立即看到他們被添加到你的代理帳戶下。",
+
+  "Trading hours for every instrument can be accessed in your MT4 Platform (Market Watch - Choose the symbol - Specification).": "MT4平台提供交易者查看所有產品的交易時間(市場報價 – 選擇交易產品 – 規格)",
+
+  "We have recently partnered with Trading Central, the award-winning user interface and analyst expertise that empowers today`s traders in validating suitable opportunities and optimizing their trading strategies.": "我們在近期與Trading Central達成合作，Trading Central擁有屢獲殊榮的專業分析師和用戶介面，交易者可以透過它優化交易策略。",
+
+  "We offer floating spreads for the Stockbanx Classic and the Stockbanx Prime accounts.\nThe Stockbanx Classic account offers spreads starting from 1.4 pips with no commissions. The Stockbanx Prime account offer spreads starting from 0.7 pip with no commissions.": "我們為經典帳戶和尊榮帳戶提供浮動點差。\n經典帳戶提供無佣金1.4起的點差；尊榮帳戶提供無佣金0.7起的點差。",
+
+  "Your account balance and trading history are available in the MT4 platform. They can also be accessed in the Client Portal.": "您的帳戶餘額和交易記錄可以在MT4平台和客戶端查看。",
+
+  "Historical data could be accessed from the MT4 trading platform, by clicking on the following: Tools - History Centre - Choose Instrument - Download.\nTo review your historical data, you need to click on the following: File - Open Offline - Open Offline Chart.": "歷史數據可以通過點擊MT4平台以下內容查看：工具–歷史資料中心–選擇對應的交易品種和時間週期–點擊導入–下載，下載後打開文件–離線打開–打開離線圖表。",
+
+  "The minimum leverage we offer is 1:50.": "我們提供的最低槓桿為1:50。",
+
+  "When your margin level percentage drops to 50% and 30% stop-out level.": "當您的保證金水準下降至50%和30%的止損水準。",
+
+  "Precious metals operate on similar trading hours to forex with the additional daily break at 21.00-22.00 GMT during BST (British Summer Time) and 22.00-23.00 during GMT DST (Daylight Saving Time).": "貴金屬的交易時間與外匯相似，休息時間為21:00-22：00（英國夏令時間），在格林威治標準時間（夏令時間）為22:00-23:00。",
+
+  "Unfortunately, no. Trades can only be placed during open market hours – but the markets will continue to evolve 24/7. Some traders prefer to use stop loss orders to minimise risk, to always check rolling fees & contract expiry dates before placing a trade to ensure they run as planned.": "不可以，我們僅提供交易者在公開市場時間進行交易。一些交易者選擇使用止損單以最大限度降低風險，在進行交易前瞭解需要支付的隔夜費用和合約到期日。",
+
+  "Third-party payments are not allowed whether you are funding your trading account or making a withdrawal request. Stockbanx only accepts and returns funds to the original source matching the trading account holder`s name.": "無論是存款還是提款，Stockbanx都不允許第三方支付，我們只接受來自於帳戶持有人姓名下的資金來源。同樣的，我們只能將資金歸還給帳戶持有人的帳戶中。",
+
+  "You can securely deposit funds in your Client Portal using any of the several available payment options. To access payment options, clickhere.": "您可以通過以下方式存入資金到您的帳戶，詳情請點擊此處。",
+
+  "The minimum deposit for the Stockbanx Classic Account is 0. The minimum deposit for the Stockbanx Prime Account is $5000.": "Stockbanx Classic 賬戶的最低存款額為 0。CPT Prime 和 ECN 賬戶的最低存款額為 1000 美元",
+
+  "The minimum withdrawal for the Stockbanx Classic and the Stockbanx Prime account is $50.": "最低為100美元",
+
+  "We do not charge any fees on deposits and withdrawals.Note: External fees might apply depending on your payment method.": "入金不收取；出金當月前三筆不收取，第四筆起收取25美元。",
+
+  "We process withdrawal requests within one working day.": "提款為1-3個工作日，不包含節假日。",
+
+  "We process withdrawal requests within one working day. The time needed for funds to be deposited in your account will depend on your bank`s policy. Bank withdrawals usually take between 3-7 working days, while credit/debit card withdrawals can take up to 8 working days.": "我們會在一個工作天內處理您的提款申請。資金存入帳戶所需的時間將取決於銀行政策，銀行提款通常需要3-7個工作天，信用卡/借記卡提款最多可能需要8個工作天。",
+
+  "Apart from spreads, we apply a withdrawal charge and overnight financing fees depending on the product.": "除點差外，我們將根據交易產品收取提款費和隔夜利息。",
+
+  "As a Stockbanx partner you will immediately benefit from the following:Commission Rebate: Start earning from 10$ per lot today on every trade, no minimum requirements to qualify. \n\r  Innovation:\n\r Experience our powerful software to easily track your introduced accounts and their activity.\n\r Loyalty: A unique loyalty program that recognizes your efforts.\n\r Marketing Support: Full creative support and free marketing materials:\n\r Professionally designed banners\n\r Business cards\n\r Newsletters\n\r Promotional materials\n\r Advanced Platforms: User-friendly trading platforms with ideal trading conditions.\n\r Flexibility: Customized support tailored to your needs.\n\r Our team welcomes any special requests that serve your needs and support better trading for your clients.": "成為CPT的合作夥伴，您將獲得以下權益：\n佣金：每筆交易都能賺取10美金\n\n創新：體驗我們完善的管理功能，輕鬆追蹤您的推薦帳戶和他們的交易情況。\n\n忠誠計劃：獨特的忠誠計畫，讓您的努力得到超額回報。\n\n行銷支持：全面的創意支持和免費的行銷材料：\n•\t專業設計的橫幅\n•\t名片\n•\t簡報\n•\t宣傳品\n\n先進的平台: 友善的操作介面和優質的交易平台。\n\n靈活性：根據您的需求提供客製化的服務。\n我們很樂意為您的需求提供幫助，以支援您提供客戶更好的交易體驗。",
+
+  "Sign up: Join our IB program and earn ongoing commissions from the trading activity of your clients. \n\r Refer: Start referring clients and track daily volume trading of your referrals in our bespoke IB Portal. When your client completes the registration form in the Client Portal and opens an MT4 account, your IB code will be provided by default.\r Earn: Start earning starting from $10 per lot on your clients’ trading. The more they trade, the more you make!": "註冊：加入我們的IB計畫，從客戶的交易中獲取佣金。\n\n推薦：開始推薦客戶，並在我們的IB專屬頁面追蹤客戶的每日交易量。當您的客戶在用戶端中註冊和開設MT4帳戶時，將默認提供您的IB代碼。\n\n從客戶的每手交易中賺取高達10美元。交易越多，獲利越多！",
+
+  "Stockbanx Classic: Earn starting from $10 per lot on your clients` trading.Stockbanx Prime: Earn $3 per lot on your clients’ trading.For registration and more information, please clickhere.": "經典帳戶每交易一標準手可獲得10美元；尊榮帳戶每交易一標準手可獲得3美元。註冊和更多資訊， 請點擊此處。",
+
+  "You can withdraw your IB commission once a week from the IB Portal.": "您可以在任何時候從代理管理後台提取佣金。",
+
+  "All your clients` trading activities are automatically displayed at EOD in your IB portal along with the calculated commission.": "所有客戶的交易活動和代理佣金會在一天結束時自動顯示在代理後台。",
+
+  "You should provide your clients with a unique IB referral link. Your clients will use that link to access our website, once they register through the Client Portal and open a live account, you will immediately see them added to your IB Portal.": "向您的客戶提供代理專屬推薦連結，客戶將使用該連結訪問我們的網站；一旦他們通過客戶端註冊並開設真實帳戶，您將立即看到他們被添加到你的代理帳戶下。",
+
+  "To login into your Stockbanx trading account, select ‘Login to an account’.\nSearch for Stockbanx to find the correct server for your account. Once you have selected the correct server, type in your login & password and then tap ‘Sign in’: Upon successful login, you will see the ‘Quotes’ screen.": "要登入您的Stockbanx交易帳戶，請選擇‘登入帳戶’。搜索Stockbanx為您的帳戶選擇正確的服務器.。選擇正確的服務器後，輸入您的用戶名和密碼，然後點擊‘登入’: 成功登入後，您將看到‘報價’頁面。\n",
+
+  "To login into your Stockbanx trading account in the MT4 iPhone app, tap on the ‘Settings’ tab, then ‘Trade Accounts’, then ‘Login to an existing account’. Next, type “CPT\" into the ‘Search’ field, select the relevant server, enter your login and password and tap ‘Sign In’. You will be logged in and redirected to the ‘Quotes’ tab if you have entered your details correctly.": "要在MT4的iPhone應用程式中登錄您的Stockbanx交易帳戶，請點擊“設置”選項，然後點擊“交易帳戶”，點擊“登錄到現有帳戶”。接下來，在「搜索」欄位中輸入「CPT」，選擇相關伺服器，輸入您的用戶名和密碼，然後點擊「登錄」。如果您輸入了正確詳細資訊，您將登錄並跳轉至到“報價”頁面。",
+
+  "To access the Client portal, select the “Accounts” section, select the relevant account, and click on the “key – change password” icon. Enter your registered email address and get a code. After submitting the code, please double-enter your new selected password.": "訪問客戶端，點選“帳戶”並選擇相關帳戶，點擊 “更改密碼”。輸入您註冊的電子郵件並獲取驗證碼，輸入驗證碼後，輸入您的新密碼。",
+
+  "Reset password from your MT4 platform:Go to your MT4 platform on computer > Click on \"Tools\" (top bar) > \"Options\" > \"Server\" tab > \"Change\" button > Choose to change the Master Password.": "從您的MT4平台重置密碼： 進入您電腦上的MT4平台 > 點擊頂部\"工具\"欄 > \"選項\" > \"伺服器\" 欄 > \"變更\" 按鈕 > 選擇更改主密碼。",
+
+  "There are no commissions on the Stockbanx Classic or the Stockbanx Prime accounts.": "經典帳戶和尊榮帳戶不需繳佣金。",
+
+  "You can request a change to the leverage of your trading account by logging into the Stockbanx Client Portal, clicking on “Accounts” section, selecting the relevant account number, and clicking on the “double arrow - leverage change” icon, selecting the suitable leverage from the options.": "來信客服郵箱 contact@stockbanx.com ，提供帳戶、姓名及欲調整之杠杆槓桿。",
+
+  "To install an Expert Advisor for automated or algorithmic trading, follow these steps:\n\r· Open the MT4 platform Select ‘File’ from the main menu\n\r· Click on ‘Open Data Folder’ to bring up a new folder panel\n\r· Select the ‘MQL4’ folder, followed by the ‘Experts’ file\n\r· Drag and drop your EA file(s) into this folder\n\r· Restart MetaTrader 4 for your changes to take affect\n\rIf your Expert Advisor or Indicator is from the third party, please consult the EA/Indicator`s provider for installation`s troubleshoot.": "安裝用於自動或演算法交易的EA，請執行以下步驟：:\n • 打開MT4平台，點擊菜單欄上的 ‘文件’ \n • 點擊‘打開數據檔夾’以打開一個新的檔夾\n • 選擇‘MQL4’文件夾, 然後選擇‘Experts’文件夾\n • 將您的EA文件複製粘貼至該文件夾中\n • 重新啟動MetaTrader 4使更改生效\n如果您的EA來自第三方，請諮詢第三方以解決安裝問題。 ",
+
+  "Indicators can be found in the ‘Navigator’ panel. After selecting the correct indicator, drag and drop the indicator onto the correct chart. A new panel will appear displaying multiple tabs which can be customized for inputs, colours and visualisation. Once the settings are correct, click ‘OK’ and the indicator will be applied to the chart.": "指標列表位於‘導航視窗’內，在需要添加到圖表的指標上單擊滑鼠右鍵，選擇「附加到圖表」，可以把指標添加到當前圖表上。也可以針對顏色和屬性進行自定義設置，設置完成後點擊兩下\"確定\"，指標將應用於圖表。",
+
+  "Right-click on the desired symbol in the Market Watch window. In the drop-down menu, select ‘Chart Window’.": "在市場觀察視窗中，您可以按右鍵您要查看的交易品種，下拉功能表選擇‘圖表視窗’。",
+
+  "Pending orders can be modified by clicking on the trade and selecting the option to `Modify` or `Delete Order`. Open trades cannot be deleted.": "掛單可以在‘交易’點擊想修改的訂單，選擇“修改或刪除訂單”進行修改。未平倉交易不能修改。",
+
+  "To change the time frame, select the chart then select the time period from the top tool bar. Alternatively, the time frame can be changed by right clicking on the chart, selecting Timeframes then you can choose your preferred option.": "要更改時間範圍，請選擇圖表，然後從頂部工具列中選擇時間段。或者，可以通過雙擊滑鼠右鍵圖表來更改時間範圍，選擇時間範圍，然後選擇喜歡的選項。",
+
+  "To zoom in/out select the chart you want to view, right click and choose ‘Zoom In’ or ‘Zoom Out’ option. Alternatively, from the main toolbar you can use the magnifying glass icons to zoom in and out.": "選擇您要查看的圖表，點擊滑鼠右鍵選擇“放大”或“縮小”。或是在上方工具欄，點擊即可將圖表放大或縮小。",
+
+  "In addition to our Islamic accounts, we offer 2 account types:Stockbanx Classic and Stockbanx Prime. The main differences are:\n\r Spreads:\n\r The Stockbanx Classic account starts at 1.4pip while the Stockbanx Prime account starts at 0.7pip.\n\r Minimum Deposits:\n\r The Stockbanx Classic account requires 0 minimum deposit while the Stockbanx Prime Account requires a $5000 minimum deposit.\n\r Dedicated Account Executive:\n\r Only available for the Stockbanx Prime accounts.There is no commission for the Stockbanx Classic and Stockbanx Prime accounts.": "除伊斯蘭帳戶外，我們還提供經典帳戶和尊榮帳戶。\n點差：經典帳戶1.4點起；尊榮帳戶0.7點起。\n最低存款：經典帳戶沒有最低限制，尊榮帳戶最低存款為5000美元。\n專屬客戶經理：僅適用於尊榮帳戶。",
+
+  "Stockbanx does not have any minimum amount for Classic accounts.": "經典帳戶沒有最低存款限制。",
+
+  "The minimum deposit amount is 5000 USD for Prime account.": "最低為500美元",
+
+  "You can register for a demo account by  <a target=\"_blank\" href=\"https://portal.cptinternational.com/#/en/user/register\">clicking</a> here. (Register - Client Portal (cptinternational.com))\nSimply select the Demo account option and complete the requested details. After submitting your information, you will receive an email with your Demo account details.": "您可以註冊一個模擬帳戶並填寫所需的詳細資訊，您將在提交後收到一封包含您的模擬帳戶詳細資訊的電子郵件。",
+
+  "Yes, Stockbanx offers traders a swap-free option trading account.  <a target=\"_blank\" href=\"https://cptmarkets.com/accounts/account-type\">click</a> here for more information.": "CPT提供免息帳戶。 點擊此處獲得更多資訊。",
+
+  "To top up your Demo account, please contact us and provide your login number and the additional funds requested.": "請聯繫係我們並提供您的登入帳號以及所需的額外資金金額。",
+
+  "Stockbanx offers a free practicing Demo account for a 30-day trial period after registration.": "Stockbanx提供免費練習的模擬帳戶，試用期為30天。",
+
+  "Yes. The Demo account mirrors our Live Classic or Prime accounts, with the same spreads and swap rates.": "是的，模擬帳戶和我們的經典帳戶和尊榮帳戶一致，具有相同的點差和隔夜利息。",
+
+  "Yes, all Demo accounts have access to all products, including currencies, commodities, indices, and stocks.": "是的，模擬帳戶可以交易所有產品, 包括貨幣、 大宗商品、指數和股票。",
+
+  "Open the MT4 terminal and follow the instructions: Click on File in the top left corner of the main menu, Go to Open an Account option, Click on Scan and select demo server CPTMarketsLimited-Demo, then click Next, Tick New Demo Account and click Next Fill in your details, select the account type, deposit amount, leverage and tick the Subscribe to Newsletters box, then click Next and You will be given a new set of demo login details.": "打開MT4後，請參照以下說明：\n 1. 點擊主菜單左上角的「文件」\n 2. 選擇「開新模擬帳戶」 \n3. 點擊「掃描」並選擇CPTMarkets-Demo演示伺服器，然後點擊「下一步」 \n4. 勾選「新模擬帳戶」並點擊「下一步」\n5. 填寫您的詳細資訊，選擇帳戶類型、存款金額、杠杆，並勾選「訂閱新聞快訊」框，然後點擊「下一步」 \n6. 您將獲得一組新的類比帳戶登錄資訊。欲瞭解更多說明，請訪問我們的視頻教程頁面。",
+
+  "To open an Islamic account, a “Swap-Free Account Agreement” has to be signed, which outlines details of the interest-free nature and general conditions of the account. Please be aware that Stockbanx reserves the right to monitor an interest-free account to ensure it is being used in good faith and for intended purposes. Contact you directly if we suspect any irregular trading behaviour. Please contact our Client Experience Team or Sales Department and we’ll help you through the process.": "開設伊斯蘭帳戶必須簽署「免隔夜利息帳戶協議」，協議內容包含帳戶的免息性質和一般條款等資訊。 請注意，Stockbanx保留監控免隔夜利息帳戶的權利，以確保該帳戶是出於誠信和預期目的而被使用。如果我們懷疑有任何異常交易行為，會直接聯繫您。或請聯繫我們的客服或銷售團隊，我們將為您提供說明。",
+
+  "The Maximum leverage we offer is 1:500, depending on the jurisdiction where the client is being onboarded.": "我們提供的最大槓桿為1:1000，取決於客戶所在地的司法管轄區。",
+
+  "This will depend on the instruments you are trading. Right-click on the product to check the minimum trade size and choose specification.": "這將取決於您選擇交易的產品，點擊查看產品最小交易量並選擇規格。",
+
+  "This will depend on the instruments you are trading. To check the maximum trade size, right-click on the product and choose specification.": "取決於您交易的產品。欲查看最大交易量，請雙擊右鍵產品並選擇規格。",
+
+  "Our margin calls are 50% for the Stockbanx Classic Account and Stockbanx Prime Account.\nNote: Your account may be subject to a margin call if your account equity falls to a level that is equal to the margin of your existing positions.": "經典帳戶和尊榮帳戶的追加保證金通知：資金低於保證金要求的50%。\n注意：如果您的帳戶淨值低於保證金要求，您的帳戶可能會被要求追加保證金。\n",
+
+  "Our average execution speed is around 0.3 seconds.": "我們的訂單平均執行速度為0.3秒。",
+
+  "Yes, you can open a free Demo account with a balance of $10,000 in simulated funds to test the platform and your trading strategies on live markets in a risk-free environment.": "是的，您可以開立模擬資金$10,000的免費模擬帳戶，無風險且免費體驗我們的交易平台。",
+
+  "Yes, we offer swap-free accounts which are exempted from swaps on currency majors, minors & precious metals. It is not possible to have a swap-free and swap-enabled account open at the same time, but you can convert your existing account to swap-free by contacting our dedicated account managers.": "是的，我們提供免息帳戶，這類帳戶被免除了貨幣對和貴金屬的隔夜利息。不可同時開設免息和具隔夜利息的帳戶，您可通過聯繫我們的專屬客戶經理將現有的帳戶轉換成免息帳戶。",
+
+  "Apply for an account by submitting your contact details, personal information (with proof of address), bank statement & trading experience. Once the application is complete & all appropriateness checks are valid, we’ll email you access codes to our client portal. Upon opening the portal with your unique details, you’ll be able to make your first deposit via secure transfer along with your proof of account.": "申請真實帳戶需提供您的聯繫方式、個人資料（含位址證明）、銀行對帳單等必要文件。一旦申請完成並且所提供的文件通過驗證，我們會透過電子郵件發送驗證碼送至客戶端，您將可以進行首次存款。",
+
+  "Join Stockbanx for the most rewarding trading experience.\n\nZero Commission Trading:\nTrading is now more affordable than ever, with no additional fees when investing in Forex, Indices Commodities, and many more instruments.\n\nNo Minimum deposit:\nOur trading accounts does not require any minimum deposit to start trading.\n\nAdvanced Platforms:\nUser-friendly trading platforms with ideal trading conditions.\n\nFlexibility:\nCustomized support tailored to your needs, we welcome any requests that serve your needs and support you to trade better.\n\nAward-Winning Analyst Expertise:\nWe`ve recently partnered with Trading Central, the award-winning user interface and analyst expertise that empowers today`s traders in validating suitable opportunities and optimizing their trading strategies.": "加入Stockbanx，獲得最具價值的交易體驗\n\n零佣金交易：\n零佣金交易外匯、指數、大宗商品等交易產品。\n\n無最低存款限制:\n我們的交易帳戶沒有最低存款限制即可進行交易。\n\n先進的交易平台：\n友善的操作介面和優質的交易平台。\n\n靈活性：\n根據您的需求提供客製化的服務，我們很樂意為您的需求提供幫助。\n\n屢獲殊榮的專業分析師：\n我們在近期與Trading Central達成合作，Trading Central擁有屢獲殊榮的專業分析師和用戶介面，交易者可以透過它優化交易策略。\n",
+
+  "The minimum deposit for the Stockbanx Classic Account is 0. The minimum deposit for the Stockbanx Prime Account is $500.": "最低為500美元",
+
+  "The minimum withdraw is 100.": "最低提款為100美元。",
+
+  "Deposit with zero commission. Free withdrawal up to three times per month. When your withdrawal exceeded three times within the same month, you will be charged $25 USD per additional withdrawal.": "入金不收取；出金當月前三筆不收取，第四筆起收取25美元。",
+
+  "We process withdrawal requests within 1-3 working day.": "1-3個工作日，不包含節假日。",
+
+  "We process requests within 1-3 working day.": "1-3個工作日，不包含節假日。",
+
+  "Access the website, click “forgot password” icon on log-in page. Enter your registered email address and get a code. After submitting the code, please follow the instructions.": "官網點擊登入--下方忘記密碼，輸入您註冊的電子郵箱並獲取驗證碼，輸入驗證碼，按指示操作即可。",
+
+  "Please contact the Support Team (contact@stockbanx.com), providing the account number, account name and request a change to the leverage.": "來信客服郵箱 contact@stockbanx.com ，提供帳戶、姓名及欲調整之槓桿。",
+
+  "Open the MT4 terminal and follow the instructions: Click on File in the top left corner of the main menu, Go to Open an Account option, Click on Scan and select demo server CPTMarkets-Demo, then click Next, Tick New Demo Account and click Next Fill in your details, select the account type, deposit amount, leverage and tick the Subscribe to Newsletters box, then click Next and You will be given a new set of demo login details": "打開MT4後，請參照以下說明：\n1. 點擊主菜單左上角的「文件」 \n2. 選擇「開新模擬帳戶」 \n3. 點擊「掃描」並選擇CPTMarkets-Demo演示伺服器，然後點擊「下一步」 \n4. 勾選「新模擬帳戶」並點擊「下一步」 \n5. 填寫您的詳細資訊，選擇帳戶類型、存款金額、杠杆，並勾選「訂閱新聞快訊」框，然後點擊「下一步」 \n6. 您將獲得一組新的類比帳戶登錄資訊。欲瞭解更多說明，請訪問我們的視頻教程頁面。",
+
+  "The Maximum leverage we offer is 1:1000, depending on the jurisdiction where the client is being onboarded.": "我們提供的最大槓桿為1:1000，取決於客戶所在地的司法管轄區。",
+
+  "Honoring Achievement Awards and Recognitions Earned by Stockbanx": "表彰 Stockbanx 獲得的成就獎和認可",
+
+  "Achieving Distinction, Awards that Validate Our Outstanding Performance": "取得優異成績，獎項證明了我們的傑出表現",
+
+  "Awarded by": "頒發者：",
+
+  "The Best trading Experience": "最佳交易體驗",
+
+  "The most innovative broker": "最具創新精神的經紀商",
+
+  "Best IB program UAE 2023": "阿聯酋 最佳 IB 課程 2023",
+
+  "Fastest growing broker UAE 2023": "2023 年增長最快的經紀商 阿拉伯聯合酋長國",
+
+  "Provider of international Financial Derivative UAE 2023": "國際金融衍生品提供商 阿拉伯聯合酋長國 2023",
+
+  "Best Regulated broker": "最佳監管經紀商",
+
+  "What is the minimum deposit requirement for opening an ECN account?": "開設ECN賬戶的最低存款要求是多少？",
+
+  "The minimum deposit required to open an ECN account is $100": "開設 ECN 賬戶所需的最低存款額為 100 美元",
+
+  "Elevate Your Tradng Experience With cTrader": "使用 cTrader 提升您的交易體驗",
+
+  "Unlock a realm of thrilling offers, bonuses, and promotions to amplify your trading adventure. At Stockbanx, we're dedicated to elevating your potential through trader-centric rewards. Dive into our latest campaigns and elevate your trading voyage to unprecedented levels.": "解鎖令人興奮的優惠、獎金和促銷活動，增強您的交易冒險。在 Stockbanx，我們致力於通過以交易者為中心的獎勵來提升您的潛力。深入了解我們的最新活動，將您的貿易之旅提升到前所未有的水平。",
+
+  "Unlock Up To 20% Bonus And Trade Smarter Today!": "立即解鎖高達 20% 的獎金並更智能地進行交易！",
+
+  "Join Stockbanx now and receive a trading bonus of 20% on registration.": "立即加入 Stockbanx，註冊即可獲得 20% 的交易獎勵。",
+
+  "Register now and receive a welcome bonus of $250!": "立即註冊即可獲得 250 美元的歡迎獎金！",
+
+  "Join Stockbanx now and receive a trading bonus of $250 on registration.": "立即加入 Stockbanx，註冊即可獲得 250 美元的交易獎金。",
+
+  "Deposit now & grab a 20% bonus, up to $500, to fuel your trading journey!": "立即存款即可獲得 20% 獎金，最高可達 500 美元，為您的交易之旅加油！",
+
+  "Join Stockbanx now and receive a trading bonus of $500 on registration.": "通過我們的 100% 獎金釋放您的潛力！",
+
+  "Unlock your potential with our 100% Bonus!": "通過我們的 100% 獎金釋放您的潛力！",
+
+  "Join Stockbanx now and receive a trading bonus of 100% on registration.": "立即加入 Stockbanx，註冊即可獲得 100% 的交易獎勵。",
+
+  "Join our exclusive 100% Bonus Campaign and increase your trading potential!": "加入我們獨家的 100% 獎金活動並增加您的交易潛力！",
+
+  "Terms and Conditions": "條款和條件",
+
+  "Register Your Details": "註冊您的詳細信息",
+
+  "Full Name": "姓名",
+
+  "Full Name is required": "需要全名",
+
+  "Phone Number": "電話號碼",
+
+  "Phone Number is required": "電話號碼為必填項",
+
+  "Email address is required": "電子郵件地址為必填項",
+
+  "I have read and consent to my data being used in accordance with the Privacy Policy": "我已閱讀並同意根據隱私政策使用我的數據",
+
+  "Registration Successful": "註冊成功",
+
+  "Supercharge Your Trading with Exclusive Offers!": "通過獨家優惠增強您的交易！",
+
+  "Email": "電子郵箱",
+
+  "Submit": "提交",
+
+  "Complaints Notice": "投訴通知",
+
+  "Liquidity Guidelines": "流動性指引",
+
+  "Leverage Adjustment Description": "槓桿調整說明",
+
+  "Terms & Conditions": "條款和條件",
+
+  "Website Terms & Conditions": "網站條款和條件",
+
+  "webinar": "網路研討會",
+
+  "We received your email and we'll get back to you very soon.": "我們已收到您的電子郵件，我們將盡快回覆您。",
+
+  "Average reply time 24 hours": "平均回覆時間24小時",
+
+  "In the meantime, we suggest you explore our website.": "同時，我們建議您瀏覽我們的網站。",
+
+  "Home": "首頁",
+
+  "A Spotlight on Stockbanx Events": "聚焦2023 Stockbanx",
+
+  "Egyption": "Egyption",
+
+  "Food Bank 2023": "Food Bank 2023",
+
+  "Egypt": "Egypt",
+
+  "Set in the scenic countryside of Dorset": "Set in the scenic countryside of Dorset",
+
+  "The Historical Fiction Writers' Retreat was a week-long haven for both budding.": "The Historical Fiction Writers' Retreat was a week-long haven for both budding.",
+
+  "Daily workshops led by renowned authors and historians covered topics like researching historical contexts, character development, and narrative techniques specific to historical fiction. The retreat also included guided tours to nearby historical sites and individual mentoring sessions, culminating in a cozy fireside reading session where participants shared excerpts from their works in progress.": "由著名作家和歷史學家主持的每日研討會涵蓋了研究歷史背景、人物發展和歷史小說特有的敘事技巧等主題。這次務虛會還包括帶導遊參觀附近的歷史遺跡和個人輔導課程，最後以舒適的爐邊閱讀會議結束，參與者分享了他們正在進行的作品的摘錄。",
+
+  "Forex Expo": "Forex Expo",
+
+  "Dubai": "Dubai",
+
+  "United Arab Emirates": "阿拉伯聯合大公國",
+
+  "Vietnam Awards": "Vietnam Awards",
+
+  "The Best Moments 2023": "2023 年最美好的時刻",
+
+  "Vietnam": "Vietnam",
+
+  "Discover our upcoming and past events, exhibitions, and seminars. Join us as we delve into the latest trends and insights in the financial world.": "立即探索Stockbanx精彩紛呈的活動、展會和研討會",
+
+  "Recap: Unforgettable": "Recap: Unforgettable",
+
+  "Forex Events in Our History": "我們歷史上的外匯事件",
+
+  "About The Trading Condition": "About The Trading Condition",
+
+  "Upcoming Events": "即將舉行的活動",
+
+  "Egypt investment Expo": "Egypt investment Expo",
+
+  "From 9:30 Am": "From 9:30 Am",
+
+  ", Booth No: 14": ", Booth No: 14",
+
+  "HCMC Traders Fair": "HCMC Traders Fair",
+
+  ", Booth No: M12-7": ", Booth No: M12-7",
+
+  "Previous Events:": "亮點回顧 – 2023 Stockbanx精彩活動",
+
+  "Take a journey with us as we revisit our exciting past events. These are the moments when we joined hands with traders, partners, and industry enthusiasts from across the globe.": "Take a journey with us as we revisit our exciting past events. These are the moments when we joined hands with traders, partners, and industry enthusiasts from across the globe.\n",
+
+  "Dec": "Dec",
+
+  "Nov": "Nov",
+
+  "Trading Education And Insights": "交易教育和見解",
+
+  "No matter your level of experience or where you are on your trading journey, we have the tools and educational resources to take you to the next level.": "無論您的經驗水平如何，或者您處於交易旅程的哪個階段，我們都有工具和教育資源來帶您進入新的水平。",
+
+  "Dive into the Learning Hub to Unlock your Trading Potential.": "深入學習中心釋放您的交易潛力。",
+
+  "Explore All Videos": "探索所有視頻",
+
+  "Sharpen your trading skills with our live webinars hosted by industry experts": "透過由行業專家主持的即時網路研討會來提高您的交易技能",
+
+  "Explore All Webinars": "探索所有網路研討會",
+
+  "Explore Our Extensive Collection of Tutorials, Informative Videos and In-Depth Learning Materials": "探索我們廣泛的教學、資訊影片和深入學習材料",
+
+  "Explore All Playlists": "探索所有播放列表",
+
+  "Explore All Promotions": "探索所有促銷活動",
+
+  "Featured Articles": "推薦文章",
+
+  "Explore All Articles": "探索所有文章",
+
+  "Back": "返回",
+
+  "Recap: Unforgettable Forex Events in Our History": "回顧：我們歷史上難忘的外匯事件",
+
+  "Embark on a thrilling exploration of our events section, where each occasion is a unique chapter in the dynamic narrative of Stockbanx": "每一活動皆是Stockbanx精采故事中的璀璨一頁，期待與您一同探索。",
+
+  "INTRODUCTION": "介紹",
+
+  "Forex Summit 2023": "杜拜外匯峰會 - Forex Summit 2023",
+
+  "Forex Summit 2023 - Dubai": "杜拜外匯峰會 - Forex Summit 2023",
+
+  "Proud moment! Stockbanx had an exhilarating experience at Smart Vision‘s Forex Summit 2023 in Ritz Carlton DIFC! We had 2 amazing days full of excitement, networking, workshops, and meetings with passionate traders & different service providers. Excited to announce that we received the Best Regulated Broker award.": "Stockbanx參與杜拜2023 Smart Vision Forex Summit. 在活動期間，我們的專業團隊全力以赴，致力於與業界內的交易者和服務提供商建立緊密的合作關係，並參與各種研討會和會議. 我們深感自豪獲得了「最佳監管經紀商」殊榮，充分證明了我們於線上交易卓越的表現。",
+
+  "Trade To Care - Egypt": "埃及公益善舉 - Trade To Care",
+
+  "Under our 'Trade to Care' campaign initiative, Stockbanx Group is proud to collaborate with the Egyptian Food Bank to give back to society and those in need.With over 2,000 boxes filled with food supplies, in every box packed, there's not just food, but hope and compassion for breadwinner mothers and their children, people with special abilities, and the elderly.Every contribution, every trade  made a difference, and together we're providing much-needed support to our community.": "Stockbanx與埃及食物銀行共同合作，傳遞真誠與關懷，推動社會正向發展。突破傳統式慈善捐贈，我們的同仁親赴埃及裝箱打包了逾2,000箱的食物，為弱勢群體提供充足的營養，給予他們希望與溫暖。這不僅僅是一種行動，更是一種責任，我們深切明白，每一次奉獻都是社會前進的驅動力。",
+
+  "Hanoi Traders Fair 2023, Vietnam": "越南河內展會- Traders Fair 2023",
+
+  "The Stockbanx team is still abuzz from all the engaging conversations we had with our newly forged connections today at the Traders Fair Hanoi FINEXPO (Finexpo.org). It has been an absolute pleasure for us to showcase our latest products, expertise, and brand offerings.This expo has served as a catalyst for us to cultivate deeper connections with the Vietnam Market, which we firmly believe will shape the future trajectory of Stockbanx here locally.We extend our heartfelt gratitude to our incredible team, partners, and clients in Vietnam for the warm welcome! We eagerly look forward to strengthening our relationships and remaining part of your trading journey.": "在此次金融展中，我們展示出卓越的專業知識和創新的金融產品。除了贏得了與會者的高度讚譽，更進一步加深了我們在越南市場的影響力。未來，Stockbanx將繼續引領您的投資之路，以實現更卓越的投資成功。",
+
+  "Seminar: Setting Trading Goals - Vietnam": "越南研討盛會  - 訂定交易目標",
+
+  "Hello again Vietnam! Stockbanx’ trip in Vietnam isn’t over yet! From Hanoi’s Traders Fair, we hosted a seminar in the vibrant Ho Chi Minh City last July 15, 2023 at the Sofitel Saigon Plaza. Our very own Ngoc Nguyen, Edwin Thinh Vu and Denys Peleshok, Head of Asia at Stockbanx, have gathered to introduce the subject of setting trading goals to Stockbanx' traders. 📈 Once again, as part of our commitment to continuous learning, we provided a seminar filled with interactive and informative materials to help you enhance your trading skills.Be on the lookout for upcoming seminars by Stockbanx in your area!": "Stockbanx於越南胡志明市成功舉辦引領外匯界的研討盛會，此次重點聚焦於交易目標的設定。我們的團隊分享了實用教材，以深入淺出、生動有趣的方式激發交易者的潛能。未來，我們將在全球各地舉辦更多的研討會，為您提供向業內專家學習，深入瞭解外匯交易的寶貴機會。",
+
+  "Money Expo 2023 - India": "印度孟買展會 - The Money Expo 2023",
+
+  "Money Expo 2023": "印度孟買展會 - The Money Expo 2023",
+
+  "India": "指數",
+
+  "Two whirlwind days at MoneyExpo India, each moment a treasure. Grateful and happy to participate in representing Stockbanx. Winning 'Most Reputable Forex Broker 2023' was a proud achievement, echoing the dedication of our remarkable team and the trust bestowed upon us. To all who joined us at Booth 39, your engaging conversations added a special spark to our mission. It was an absolute pleasure connecting with clients, partners, and Payment Service Providers, discussing the future of finance. The event also proved to be a fantastic opportunity to meet regional PR agencies and data providers, fostering valuable collaborations. Here's to more milestones, more growth, and the vibrant spirit of the Stockbanx family!": "此次展會不僅見證了金融領域的蓬勃發展，同時，Stockbanx脫穎而出，成功贏得「最佳聲譽經紀商」榮譽。在整個博覽會中，Stockbanx的B39展位成為最引人注目的焦點，現場氛圍熱情而活躍，我們的專業團隊與參與者、合作夥伴以及支付服務提供者歡快地交談。此外，此次活動也為我們提供了一個與當地公關機構和資料提供商交流互動的機會，為未來合作奠定基礎。",
+
+  "Traders Fair 2023 - South Africa": "南非展會 - Traders Fair 2023",
+
+  "Traders Fair 2023 - South Africa Stockbanx' was at the Traders Fair & Traders Awards, Johannesburg and our experience has been nothing short of extraordinary. We've had the privilege of connecting with the dynamic and enthusiastic South African trading community, and we're genuinely inspired by the depth of knowledge exhibited by both our South African traders and our esteemed partners.": "Stockbanx聚焦南非，參與備受矚目的Traders Fair & Traders Awards。這次體驗非同凡響，完美地展現了我們與南非市場及合作夥伴進行深度交流的過程。",
+
+  "Forex Expo 2023 - Dubai": "杜拜展會 - Forex Expo 2023",
+
+  "Dubai Forex Expo 2023: A Grand Showcase of Forex's Global Impact.The Dubai Forex Expo 2023, now in its sixth grand edition, took place on the 26th and 27th of September, 2023, and it has left a memorable mark on the world of forex trading. With its unprecedented scale of participation, it can confidently stake its claim as one of the largest forex expos in the world, if not the largest. This remarkable event provided an extravagant platform for Forex traders, IBs, Investors, Financial Institutions, and Brokers from across the Trading and Investing ecosystem to come together, collaborate, and establish connections poised to reshape the industry's future. A huge shoutout to our dedicated Stockbanx team for embodying our brand values throughout the event.": "杜拜作為中東地區的金融中心，此次博覽會以前所未有的規模鞏固了其作為全球最大外匯博覽會之一的地位。這樣全球性的展示和交流不僅能提升Stockbanx的品牌影響力，更能推動整個行業的進步和繁榮。",
+
+  "Education": "教育",
+
+  "Events": "活動",
+
+  "Get access to our educational": "獲得我們的教育機會",
+
+  "Partner Portal": "合作夥伴入口網站",
+
+  "Elevate Your Trading Game with Stockbanx!": "透過 Stockbanx 提升您的交易水平！",
+
+  "Trade the Global Markets with a regulated broker! Forex, Indices, Stocks, Crypto – Trade anytime, anywhere!": "與受監管的經紀商進行全球市場交易！外匯、指數、股票、加密貨幣 – 隨時隨地進行交易！",
+
+  "30+ FX INDUSTRY AWARDS": "30 多個外匯行業獎項",
+
+  "Why Trading With Stockbanx?": "為何選擇 Stockbanx 進行交易？",
+
+  "Discover thousands of CFDs on the world’s most popular financial instruments and get the best of our swap free trading": "發現全球最受歡迎的金融工具的數千種差價合約，並充分利用我們的免掉期交易",
+
+  "Experience In The Industry": "行業經驗",
+
+  "Daily Executed Trades": "每日交易訂單",
+
+  "Client Assets": "用戶資產",
+
+  "Clients Worldwide": "全球客户",
+
+  "Why Stockbanx Stands Out": "為什麼 Stockbanx 市場脫穎而出",
+
+  "Discover why traders worldwide choose Stockbanx for their online trading journey. Here's what sets us apart:": "了解為什麼世界各地的交易者選擇 Stockbanx 進行線上交易。這就是我們的與眾不同之處：",
+
+  "Intuitive Platform": "直覺的平台",
+
+  "Trade with ease on our user-friendly platform.:": "在我們用戶友好的平台上輕鬆交易：",
+
+  "Competitive Spreads": "有競爭力的點差",
+
+  "Enjoy tight spreads that maximize your profit potential.": "享受緊密的點差，最大限度地提高您的利潤潛力。",
+
+  "Global Regulatory Compliance and Licensing": "全球監管合規性和許可",
+
+  "Regulated by the Belize International Financial Services Commission under license number: No. IFSC000314/470": "受伯利茲國際金融服務委員會監管，牌照號碼：FSC000314/17",
+
+  "Registration number 6707165, NO.606110. Stockbanx U.K. Limited is an affiliated company of Stockbanx Limited.": "註冊號6707165、NO.606110。 Stockbanx U.K. Limited 是 Stockbanx Limited 的附屬公司。",
+
+  "Registration no. 2014 / 214730 / 07 and regulated by the Financial Sector Conduct Authority under license number 45954.": "註冊號碼。 2014 / 214730 / 07 並受金融部門行為監理局監管，許可證號為 45954。",
+
+  "With over 14 years of excellence and innovation, we open the door to top-notch access to financial markets through our advanced execution model. Unveil the exciting realm of online trading with leveraged products spanning hundreds of instruments across various asset classes.": "憑藉超過 14 年的卓越和創新，我們透過先進的執行模式打開了進入金融市場的大門。利用涵蓋不同資產類別的數百種工具的槓桿產品，揭開令人興奮的線上交易領域。",
+
+  "Select Your Perfect Account and Begin Your Trading JourneyNot sure which account suits you best? Explore our diverse range of accounts, including ECN, Classic, and Prime, and embark on a personalized trading adventure. Discover the perfect fit for your trading aspirations today!": "選擇您的完美帳戶並開始您的交易之旅不確定哪個帳戶最適合您？探索我們多樣化的帳戶，包括 ECN、Classic 和 Prime，並開始個人化的交易冒險。立即發現最適合您交易願望的產品！",
+
+  "Deposit": "存款",
+
+  "Margin Call": "追加保證金",
+
+  "Classic": "Stockbanx 經典",
+
+  "Payment Methods": "支付方式",
+
+  "Secure, Swift, and Seamless: Your Trustworthy Payment Gateway": "安全、快速、無縫：您值得信賴的支付網關",
+
+  "The Most Intuitive, User-Friendly Trading Platforms": "最直覺、使用者友善的交易平台",
+
+  "For experienced users, a feature-rich platform": "對於經驗豐富的用戶來說，這是一個功能豐富的平台",
+
+  "An all-in-one trading platform": "一體化交易平台",
+
+  "The popular, standard solution": "流行的標準解決方案",
+
+  "Trade without commission fees, keeping your costs low": "交易無佣金，降低您的成本",
+
+  "Join Stockbanx for a superior trading experience.": "加入 Stockbanx 以獲得卓越的交易體驗。",
+
+  "No": "否",
+
+  "Stockbanx understands that every client has different needs. Our platforms are all trusted, award-winning, so you can choose what works best for you.": "Stockbanx 了解每位客戶都有不同的需求。我們的平台都是值得信賴且屢獲殊榮的，因此您可以選擇最適合您的平台。",
+
+  "Support tailored to your needs. Whenever you have a special request, we are happy to help.": "根據您的需求量身定制的支援。每當您有特殊要求時，我們很樂意提供協助。",
+
+  "Choose Your Trading Adventure": "選擇您的交易冒險",
+
+  "Thank you!": "感謝！",
+
+  "We received your inquiry, and we'll get back to you very soon.": "我們已收到您的詢問，我們將盡快回覆您。",
+
+  "Visit our Website": "造訪我們的網站",
+
+  "Create a account": "建立帳戶",
+
+  "Individual": "個人",
+
+  "Partner": "夥伴",
+
+  "Corporate": "公司的",
+
+  "An individual brokerage account has the name of one account owner": "個人經紀帳戶有一個帳戶所有者的姓名",
+
+  "Stockbanx gives you a chance to grow together.": "Stockbanx 為您提供共同成長的機會。",
+
+  "Explore our comprehensive solution for corporates": "探索我們為企業提供的全面解決方案",
+
+  "Stockbanx Academy": "CPT學院",
+
+  "Optimize your forex trading with fees starting from just 1.6 PIPS": "優化您的外匯交易，費用低至 1.6 PIPS",
+
+  "Enhance your performance with Stockbanx - a reliable broker with 14 years in the market.": "透過 Stockbanx 提高您的業績 - 一家擁有 14 年市場經驗的可靠經紀商。",
+
+  "Leverage up to 1:1000": "交易槓桿最高為 1:1000",
+
+  "Diverse currency pairs for your selection": "多種貨幣對供您選擇",
+
+  "Best trading experience with MT4 & MT5": "MT4 和 MT5 的最佳交易體驗",
+
+  "Spreads starting from 1.6 Pips": "點差從 1.6 點起",
+
+  "Various promotional programs": "各種促銷活動",
+
+  "Fast deposits and withdrawals 24/5": "24/5 快速存取款",
+
+  "Margin requirement as low as 0.2%": "保證金要求低至0.2%",
+
+  "Over 30 FX INDUSTRY AWARDS": "超過 30 個外匯行業獎項",
+
+  "Easy entry with small capital": "小資本輕鬆進入",
+
+  "Buying/selling US and European stocks": "買入/賣出美國和歐洲股票",
+
+  "Especially 0% commission fee*": "特別是0%佣金*",
+
+  "Accelerate your international STOCK INVESTMENTS": "加速您的國際股票投資",
+
+  "Guidance on investing in US and European stocks with Stockbanx - a reliable broker with 14 years in the market.": "透過 Stockbanx 投資美國和歐洲股票的指南 - 擁有 14 年市場經驗的可靠經紀商。",
+
+  "GOLD PRICE could reach $3000 peak in 2024": "2024 年金價可能達到 3000 美元峰值",
+
+  "Are you ready to seize the opportunity with Stockbanx - a reliable broker with 14 years in the market?": "您準備好抓住 Stockbanx 的機會了嗎？Stockbanx 是一家擁有 14 年市場經驗的可靠經紀商。",
+
+  "Unleash the potential of commodities trading without the hassle of physical ownership. Here at Stockbanx, you can leverage the price movements of a diverse range of commodities, from energy and metals to agricultural goods, all on our advanced and user-friendly MT5 platform. This simplifies your entry into the commodities market, allowing you to capitalize on market trends without the burden of managing physical assets.": "釋放商品交易的潛力，無需物理所有權的麻煩。在 Stockbanx，您可以在我們先進且用戶友好的 MT5 平台上利用從能源、金屬到農產品等多種商品的價格變動。這簡化了您進入大宗商品市場的過程，使您能夠利用市場趨勢，而無需承擔管理實體資產的負擔。",
+
+  "Unleash Efficiency & Expertise MAM Accounts for Investors & Fund Managers": "為投資者和基金經理釋放效率和專業知識 MAM 帳戶",
+
+  "Unlock Your Outreach with MAM Accounts": "使用 MAM 帳號解鎖您的外展活動",
+
+  "Invest Smarter & Efficiently with MAM Stockbanx": "透過 MAM Stockbanx 進行更聰明、更有效率的投資",
+
+  "Stockbanx MAM elevates your investment experience.": "Stockbanx MAM 提升您的投資體驗。",
+
+  "This innovative solution caters to both ambitious investors seeking expert guidance and established fund managers looking to optimize client management.": "這項創新解決方案既能滿足尋求專家指導的雄心勃勃的投資者，又能滿足尋求優化客戶管理的成熟基金經理人的需求。",
+
+  "Why Stockbanx MAM Account?": "為什麼選擇 Stockbanx MAM 帳戶？",
+
+  "Investors": "投資者",
+
+  "Fund Managers": "基金經理",
+
+  "Empower Your Portfolio": "增強您的投資組合",
+
+  "Gain access to the strategies of seasoned fund managers, diversifying your holdings beyond your own capabilities.": "獲得經驗豐富的基金經理人的策略，使您的資產多元化，超越您自己的能力。",
+
+  "Tailored Control": "客製化控制",
+
+  "Maintain a level of control by customizing allocation within your MAM sub-account to align with your risk tolerance.": "透過在您的 MAM 子帳戶中自訂分配來保持一定程度的控制，以符合您的風險承受能力。",
+
+  "Effortless Management": "輕鬆管理",
+
+  "Free yourself from the burden of active monitoring. Trust a proven expert to navigate the markets on your behalf.": "將自己從主動監控的負擔中解放出來。相信一位久經考驗的專家會代表您駕馭市場。",
+
+  "Streamline Your Operations": "簡化您的營運",
+
+  "Manage multiple client accounts efficiently through a single master account, maximizing your time and resources.": "透過單一主帳戶有效管理多個客戶帳戶，最大限度地利用您的時間和資源。",
+
+  "Boost Transparency": "提高透明度",
+
+  "Provide real-time performance insights to sub-account holders, fostering trust and attracting new investors.": "為子帳戶持有人提供即時業績洞察，培養信任並吸引新投資者。",
+
+  "Expand Your Reach": "擴大您的影響力",
+
+  "Leverage the Stockbanx platform to connect with a wider pool of potential clients seeking qualified management.": "利用 Stockbanx 平台與更多尋求合格管理的潛在客戶建立聯繫。",
+
+  "Benefits for All": "為所有人帶來好處",
+
+  "Seamless Integration": "無縫整合",
+
+  "Manage your MAM account alongside your individual trading activity on our user-friendly platform.": "在我們用戶友好的平台上管理您的 MAM 帳戶以及您的個人交易活動。",
+
+  "Dedicated Support": "專門的支持",
+
+  "Our experienced team is readily available to address any queries related to MAM accounts.": "我們經驗豐富的團隊隨時可以解決與 MAM 帳戶相關的任何問題。",
+
+  "Advanced Technology": "先進的技術",
+
+  "Benefit from our secure and feature-rich platform designed for optimal investment management.": "受惠於我們專為優化投資管理而設計的安全且功能豐富的平台。",
+
+  "Transparent Calculation": "透明計算",
+
+  "We track the forex markets in real-time so that you get fast accreditation of commissions in your live trading account.": "我們即時追蹤外匯市場，以便您在真​​實交易帳戶中快速獲得佣金認證。",
+
+  "Withdraw your funds at any time.": "隨時提取您的資金。",
+
+  "All Stockbanx MAM managers can quickly calculate performance fees for all their clients, as needed.": "所有 Stockbanx MAM 經理都可以根據需要快速計算所有客戶的績效費用。",
+
+  "Take Control of Your Financial Future": "掌控您的財務未來",
+
+  "Open a MAM sub-account today and unlock the potential of expert-driven investing. Explore our directory of qualified fund managers and find the perfect fit for your goals.": "立即開設 MAM 子帳戶，釋放專家驅動投資的潛力。探索我們的合格基金經理人名錄，找到最適合您目標的基金經理人。",
+
+  "Get Started Here!": "從這裡開始！",
+
+  "Elevate your client management with Stockbanx MAM accounts. Learn more about our streamlined process and dedicated support system.": "透過 Stockbanx MAM 帳戶提升您的客戶管理。詳細了解我們的簡化流程和專用支援系統。",
+
+  "Become a MAM Manager Today!": "立即成為 MAM 經理！",
+
+  "Restricted Countries: Stockbanx PTY LTD (“CPT SA”) does not provide services for residents of certain countries including but not limited to the United States, United Kingdom, Canada, Israel, Iran, Cyprus, and North Korea or any country where such distribution or use would be contrary to local law or regulation.": "受限國家：Stockbanx PTY LTD（「CPT SA」）不為某些國家的居民提供服務，包括但不限於美國、英國、加拿大、以色列、伊朗、塞浦路斯和北韓或任何此類國家/地區的居民分發或使用將違反當地法律或法規。",
+
+  "You must be 18 years old, or of legal age as determined in your country. Upon registering an account with Stockbanx PTY LTD (“CPT SA”), you acknowledge that you are registering at your own free will, without solicitation on behalf of Stockbanx PTY LTD (“CPT SA”).": "您必須年滿 18 歲，或達到您所在國家/地區規定的法定年齡。在 Stockbanx PTY LTD（「CPT SA」）註冊帳戶後，您承認您是出於自願註冊，而不是代表 Stockbanx PTY LTD（「CPT SA」）進行招攬。",
+
+  "Stockbanx PTY LTD (“CPT SA”) does not direct its website and services to any individual in any country in which the use of its website and services are prohibited by local laws or regulations. When accessing this website from a country in which its use may or may not be prohibited, it is the user's responsibility to ensure that any use of the website or services adheres to local laws or regulations. Stockbanx PTY LTD (“CPT SA”) does not affirm that the information on its website is suitable for all jurisdictions.": "Stockbanx PTY LTD（「CPT SA」）不會將其網站和服務提供給當地法律或法規禁止使用其網站和服務的任何國家/地區的任何個人。當從可能或可能不禁止使用本網站的國家/地區存取本網站時，使用者有責任確保本網站或服務的任何使用均遵守當地法律或法規。 Stockbanx PTY LTD（「CPT SA」）不確認其網站上的資訊適用於所有司法管轄區。",
+
+  "testword": "testword",
+
+  "* It came to our attention that fraudulent websites are using our Company's Logo and/or Name. We advise our clients that the official domains of Stockbanx can be found ONLY on this website.": "* 我們注意到詐騙網站正在使用我們公司的徽標和/或名稱。我們建議我們的客戶，Stockbanx 的官方網域只能在本網站上找到。",
+
+  "Copy Trading": "社群跟單",
+
+  "Trade the world’s most popular currency leverage products": "",
+
+  "BID": "",
+
+  "Trade the world’s most popular cryptocurrencies with 10x leverage": "",
+
+  "ASK": "",
+
+  "Prime": "",
+
+  "execution": "",
+
+  "transaction": "",
+
+  "stream-payment": "",
+
+  "EUR/GBP": "",
+
+  "EURGBP": "",
+
+  "USDCAD": "",
+
+  "USD/CAD": "",
+
+  "EUR/USD": "",
+
+  "Trade Leveraged products on shares of the biggest companies in the world, including Apple, Microsoft, Tesla, Facebook, Netflix, and Amazon.": "",
+
+  "Our leading trading platform offers Gold, Oil, Silver, Gas, and many other commodities.": "",
+
+  "Take advantage of trading CFDs on indices like US500, UK100, and more, using MT4 on any device you prefer. Trade US30 with leverage up to 1|200 and low spreads.": "在您喜歡的任何裝置上使用 MT4，充分利用 US500、UK100 等指數的差價合約交易。以高達 1:100 的槓桿和低點差交易 30 美元。",
+
+  "Unlock endless potential by trading top stocks like Amazon, Google, and Apple with leverage up to 1|100 and spreads as low as 40 pips*.": "透過交易亞馬遜、谷歌和蘋果等頂級股票，槓桿高達 1:20，點差低至 40 點*，釋放無限潛力。",
+
+  "EURUSD": "",
+
+  "AUD/USD": "",
+
+  "AUDUSD": "",
+
+  "USD/JPY": "",
+
+  "USDJPY": "",
+
+  "GBPUSD": "",
+
+  "ECN": "",
+
+  "Name": "",
+
+  "Stockbanx Academy": "",
+
+  "Education is an essential component for successful trading. That’s why you can now explore a variety of valuable resources and information for all traders. Scroll down and find out more!": "",
+
+  "Get to know to Stockbanx": "",
+
+  "At Stockbanx, we're not just about providing trading solutions; we're about creating opportunities that empower our clients to navigate the financial markets more effectively and efficiently.": "",
+
+  "Stockbanx is a world- leading leveraged products broker in online trading of the global markets. Stockbanx offers 130+ leveraged product instruments for global investors to trade. We became the preferred brand of many traders by putting the funds safety as a top priority and providing an efficient, simple trading journey.": "",
+
+  "An Exciting Trading Beginning... ": "",
+
+  "Stockbanx aims to exceed your expectations by delivering an unparalleled online trading experience, offering an unprecedented level of service matched with state-of-the-art trading technologies.": "",
+
+  "We’d Love To Hear From You": "",
+
+  "Stockbanx operates globally with offices and teams around the world, offering localized support and tailored trading solutions. Our international reach allows us to understand and meet the unique needs of traders in different regions, making us a trusted partner in your financial journey.": "",
+
+  "Trade over 1,800 products safely, quickly and easily": "",
+
+  "Index trading has never been easier! Trade CFDs on indices such as Dow Jones, Nasdaq and other global indices.": "",
+
+  "Stock description": "",
+
+  "Embark On A Trading Journey": "",
+
+  "SHARE CFDs": "",
+
+  "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and IFSC Belize. ": "",
+
+  "Customized Solutions for Partners & Traders": "",
+
+  "For Traders": "",
+
+  "For Partners": "",
+
+  "Portfolio Diversification": "",
+
+  "At Stockbanx, you can unleash a diverse trading arsenal. Explore a vast selection of instruments – stocks, forex, and even commodities – all on a single, user-friendly platform. This empowers you to spread your risk across different markets, capitalize on various opportunities, and potentially maximize your returns as market conditions evolve.": "",
+
+  "Secure Transactions": "",
+
+  "We offer a wide range of secure payment methods, including trusted options like credit cards, bank transfers, and popular e-wallets. ": "",
+
+  "Fast Execution": "",
+
+  "This agility allows you to make informed decisions and react instantly to market shifts, potentially enhancing your trading success.": "",
+
+  "Dedicated Partner Portal": "",
+
+  "Track your client activity, monitor commissions, and access insightful data to optimize your marketing efforts. Additionally, our dedicated support team is always available to answer your questions and provide assistance whenever you need it.": "",
+
+  "Streamlined Payments": "",
+
+  "Enjoy the convenience of instant commission payments on qualifying activities, allowing you to access your earnings swiftly and reinvest them in your business growth.": "",
+
+  "Lucrative Commission Structure": "",
+
+  "Earn generous commissions on every successful trade your referred clients make. The more clients you bring in and the more they trade, the greater your earning potential.": "",
+
+  "Start Your Trading Journey": "",
+
+  "Account Types": "",
+
+  "More Details": "",
+
+  "The vision is to create the best trading experience for you to support your trading journey. So anyone, anywhere, can trade.": "",
+
+  "Our mission is to create a community that appreciates convenience, inclusivity, and transparency, therefore empowering Traders and Introduce Brokers to maximize value.": "",
+
+  "Trade On the Go": "",
+
+  "An outstanding global trading platform and the world's leading CFD and spread betting provider. Trade on MT4, MT5 or cTrader with Stockbanx.": "",
+
+  "How to Get Started": "",
+
+  "Sign up and verify your accounts": "",
+
+  "Fund Your Account": "",
+
+  "Fund your account, choose your  instrument and set your trade size": "",
+
+  "Newsletter Subscription": "",
+
+  "Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.": "",
+
+  "Loading...": "",
+
+  "I consent to my data being used as per the Privacy Policy & Terms.": "",
+
+  "The starting line of an exciting Trading Journey!": "",
+
+  "We'd Love To Hear From You": "",
+
+  "Our Licenses": "",
+
+  "To provide you with security, privacy and reliability, we're regulated by reputable international regulatory authorities.": "",
+
+  "Stockbanx operates globally with offices and teams around the world, offering localized support and tailored trading solutions. Our international reach allows us to understand and meet the unique needs of traders in different regions, making us a trusted partner in your financial journey..": "",
+
+  "Your Money is Yours": "",
+
+  "Local payment options": "",
+
+  "With multiple local and international payment providers, you have the freedom to choose.": "",
+
+  "Get to know Stockbanx": "",
+
+  "Our dedicated support specialists speak 15 languages. Support is available 24 hours a day, 7 days a week in English, Chinese, Thai, Vietnamese, Arabic, Bengali, Hindi and Urdu": "",
+
+  "Subject": "",
+
+  "Write Subject": "",
+
+  "Classify your business*": "",
+
+  "Introducing Broker": "",
+
+  "Institutional Partner": "",
+
+  "Individual Client": "",
+
+  "Other": "",
+
+  "First Name": "",
+
+  "Last Name": "",
+
+  "Email Address": "",
+
+  "Please select a business classification": "",
+
+  "Message": "",
+
+  "Type your message here": "",
+
+  "By submitting this form, you agree to receive emails from Stockbanx in accordance with our Terms & Conditions, Privacy Policy, and Cookie Policy.": "",
+
+  "submit": "",
+
+  "Our office is open five days a week, Monday to Friday. The support line is available 24 hours a day.": "",
+
+  "Complaints": "",
+
+  "Our dedicated support specialists speak 15 languages. Support is available 24 hours a day, 5 days a week in English, Chinese, Thai, Vietnamese, Arabic, Bengali, Hindi and Urdu.": "",
+
+  "Contacts": "",
+
+  "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and IFSC Belize.": "",
+
+  "We offer a wide range of secure payment methods, including trusted options like credit cards, bank transfers, and popular e-wallets.": "",
+
+  "Our leading trading platform offers Gold, Oil, Silver,Gas, and many other commodities.": "",
+
+  "Promotion of Access to Information Manual": "",
+
+  "Client Request For Access To Records & Information": "",
+
+  "How To Trade Forex With Stockbanx": "",
+
+  "The Complete Corporate Account": "",
+
+  "An account for institutial and retail business trading that allows multiple authoried users and corporate cash deposits": "",
+
+  "Open Trader Account": "",
+
+  "Open Partner Account": "",
+
+  "To open an account applying its easy and takes minutes": "",
+
+  "Fund": "",
+
+  "Deposit easily and scurity via debit card or bank transger": "",
+
+  "Hundred of markets on desktop, web and mobile": "",
+
+  "Your Money Is Yours": "",
+
+  "The corporate account": "",
+
+  "Fund from a compant card": "",
+
+  "Use allocated company money to fund and trade your account.": "",
+
+  "Trade in your business name": "",
+
+  "Opt to use trades and funds in a company name instead of a personal account.": "",
+
+  "Multiple authorised traders": "",
+
+  "Manage your trading - as well as your business - as a team, with multiple users able to access.": "",
+
+  "Discover the World of Opportunitie": "",
+
+  "Countries": "",
+
+  "Currencies": "",
+
+  "Trader Account": "",
+
+  "With a legacy dating back to 2008, Stockbanx has been at the forefront of CFD trading, providing unparalleled expertise and reliability to traders worldwide. Our Corporate CFD Trading Account is meticulously crafted to address the distinctive requirements of corporations, empowering them to seize opportunities presented by price movements across a diverse array of financial instruments. Elevate your trading experience with our CFD Trading Account and join the ranks of thousands of traders who rely on Stockbanx for their CFD trading essentials and unlock the potential of the financial markets.": "",
+
+  "IB Account": "",
+
+  "Backed by quality execution and transparent pricing": "",
+
+  "Money managers can place orders in bulk on all accounts operating under a master account using Stockbanx's Multi Account Manager (MAM), an integrated software tool that will make the IB's journey more flexible.": "",
+
+  "Execution Scorecard": "",
+
+  "A Broker You Can Trust": "",
+
+  "Equity Capital": "",
+
+  "Privately Held": "",
+
+  "Client Account": "",
+
+  "Daily Avg Revenu Trades": "",
+
+  "Discover the World of Opportunities": "",
+
+  "Gain instant access and trade indices from across the globe, including US500, UK100, and more. Trade US30 with leverage up to 1:100 and low spreads.": "",
+
+  "Invest Smarter & efficiently with MAM Stockbanx": "",
+
+  "Explore the variety of accounts we offer and choose the one that suits you best.": "",
+
+  "Trade CFDs with ease and seize market opportunities on a platform designed for swift execution and seamless access. Empower your trading journey and unlock your potential.": "",
+
+  "Deposits and withdrawals": "存款和取款",
+  "Experience the ease and security of deposits and withdrawals. Enjoy local, convenient, and safe payment methods, and seamless transactions.": "体验存款和取款的便捷和安全。享受本地、便捷和安全的支付方式，以及无缝的交易。",
+  "Your money is safe with us": "您的资金在我们这里是安全的",
+  "As the best retail multi-asset broker, we apply multiple layers of security to keep your funds safe and instantly available to you upon request.": "作为最好的零售多资产经纪商，我们应用多层安全措施，以确保您的资金安全，并在您需要时即时提供。",
+  "Segregated accounts": "隔离账户",
+  "We keep funds in segregated accounts in multiple tier-1 banks to ensure top security and peace of mind.": "我们将资金存放在多个一级银行的隔离账户中，以确保最高的安全性和安心。",
+  "Secure withdrawal transactions": "安全的取款交易",
+  "Your withdrawals are safe and secure, protected by one-time password verification methods.": "您的取款是安全的，通过一次性密码验证方法进行保护。",
+  "3D Secure payments": "3D 安全支付",
+  "We provide 3D Secure payments for all major credit cards such as Visa and Mastercard.": "我们为所有主要信用卡（如 Visa 和 Mastercard）提供 3D 安全支付。",
+  "Streamline your payments with Our Efficient System": "使用我们的高效系统简化您的支付",
+  "Enjoy our excellent payment system: easy deposits with global and local options, 24/7 access, and simple withdrawals.": "享受我们卓越的支付系统：全球和本地选项的便捷存款，24/7 访问，简单的取款。",
+  "Payment methods for your convenience": "为您的便捷提供的支付方式",
+  "Global, local and secure payment methods for seamless deposits and withdrawals.": "全球、本地和安全的支付方式，实现无缝存款和取款。",
+  "Your money is yours. Period": "您的钱是您的。就是这样。",
+  "Access your funds any day, any time with our instant withdrawal feature.": "通过我们的即时取款功能随时随地访问您的资金。",
+  "Forget about withdrawal fees": "忘记取款费用",
+  "We pay your third-party transaction fees so you don't have to.": "我们支付您的第三方交易费用，这样您就不必支付。",
+  "Deposit your funds in 3 easy steps": "三步轻松存款",
+  "Register and verify your account": "注册并验证您的账户",
+  "Choose one of the available payment methods": "选择一种可用的支付方式",
+  "Complete your deposit request": "完成您的存款请求",
+  "Frequently asked questions": "常见问题",
+  "What are instant deposits?": "什么是即时存款？",
+  "The term “instant” indicates that a transaction will be carried out within a few seconds without manual processing by our financial department specialists. Please note that although it's instantly processed on our side, your deposit requests may take some time to be processed on the payment system provider's side.": "“即时”表示交易将在几秒钟内完成，无需我们的财务部门专家手动处理。请注意，虽然我们这边即时处理，但您的存款请求在支付系统提供商那边可能需要一些时间处理。",
+  "Can I withdraw funds to an account that is not my own?": "我可以将资金取款到不是我自己的账户吗？",
+  "Funds can be withdrawn to your own personal accounts only. This is a safeguard put in place to ensure financial security.": "资金只能提取到您自己的个人账户。这是为了确保财务安全而设立的保障措施。",
+  "You must use your own personal payment accounts for deposits and withdrawals. We will not accept direct payments or payments to or from third parties. All the information you need regarding transactions can be found in your Personal Area. If your deposit payment method is unavailable during withdrawal, contact the Support team via chat for an alternative solution. Occasionally, some payment systems may be turned off due to maintenance.": "您必须使用自己的个人支付账户进行存款和取款。我们不接受直接付款或第三方付款或收款。您需要的所有交易信息都可以在您的个人区域找到。如果在取款时您的存款支付方式不可用，请通过聊天联系支持团队以获得替代解决方案。有时，由于维护原因，一些支付系统可能会关闭。",
+  "What payment accounts can I use to deposit and withdraw?": "我可以使用哪些支付账户进行存款和取款？",
+  "No, you cannot withdraw money from your demo account. Demo accounts are virtual trading accounts used for practicing trading and strategies, and the funds in them are completely virtual.": "不，您不能从您的模拟账户中取款。模拟账户是用于练习交易和策略的虚拟交易账户，里面的资金完全是虚拟的。",
+  "Can I withdraw money from a demo account?": "我可以从模拟账户中取钱吗？",
+  "Account security and client protection": "账户安全和客户保护",
+  "We are dedicated to offering a secure trading environment, complete with robust account safety, fund protection, and around-the-clock customer support to give you peace of mind.": "我们致力于提供一个安全的交易环境，包括强大的账户安全、资金保护和全天候的客户支持，让您安心。",
+  "We know that investment scams and trading risks are big concerns, which is why we prioritize your peace of mind. At Stockbanx, we use top-notch security measures to keep your account, money, and personal details safe all the time. With strong encryption and strict authentication steps, we maintain high security standards so you can trade confidently.": "我们知道投资诈骗和交易风险是大问题，这就是为什么我们优先考虑您的安心。在 Stockbanx，我们采用顶级的安全措施，以确保您的账户、资金和个人详细信息始终安全。通过强大的加密和严格的认证步骤，我们保持高安全标准，让您可以放心交易。",
+  "Your Trusted Broker": "您的可信赖经纪商",
+  "As a licensed and regulated leading global broker, we offer you multiple account security options": "作为持牌并受监管的领先全球经纪商，我们为您提供多种账户安全选项",
+  "Regulations": "法规",
+  "If you’ve been wondering, ‘are we legit?’, you can rest assured that we are a licensed broker, regulated by leading international governing bodies globally.": "如果您一直在想，“我们是否合法？” 您可以放心，我们是受全球领先国际监管机构监管的持牌经纪商。",
+  "Account security": "账户安全",
+  "Prevent unauthorized access to your secure trading accounts by choosing a security option – either phone or email – during your registration process.": "在注册过程中选择一个安全选项（电话或电子邮件），以防止未经授权的访问您的安全交易账户。",
+  "Payment Protection": "支付保护",
+  "Learn more about our safe and secure trading conditions and protection measures for a smooth trading experience.": "了解更多关于我们安全可靠的交易条件和保护措施，以获得流畅的交易体验。",
+  "Web attack protection": "网络攻击保护",
+  "Our Web Application Firewall (WAF) protects our infrastructure and servers from web threats like SQL injection, XSS attacks, and blocks harmful traffic.": "我们的 Web 应用防火墙 (WAF) 保护我们的基础设施和服务器免受 SQL 注入、XSS 攻击等网络威胁，并阻止有害流量。",
+  "Trading platform fault tolerance": "交易平台容错",
+  "Our DDoS protection offers you seamless order execution, 24/7 access to your Personal Area, swift deposits and withdrawals, and uninterrupted servers’ operations.": "我们的 DDoS 保护为您提供无缝的订单执行、24/7 访问个人区域、快速存款和取款以及不中断的服务器操作。",
+  "Zero trust approach": "零信任方法",
+  "Our Zero Trust model assumes minimal trust for company IT components and includes features like user and device authentication, restricted access, and network monitoring.": "我们的零信任模型假设对公司 IT 组件的信任度最小，包括用户和设备认证、受限访问和网络监控等功能。",
+  "Bug Bounty program": "漏洞赏金计划",
+  "You gain an extra layer of security with our Bug Bounty program, where we invite external experts to examine our platforms and give reviews that help us improve our services.": "通过我们的漏洞赏金计划，您获得了额外的一层安全保障，我们邀请外部专家检查我们的平台并提供帮助我们改进服务的审查。",
+  "Cybersecurity knowledge and skills": "网络安全知识和技能",
+  "Our Information Security Team are continuously updated on security technology and upgrade their skills through workshops and certifications.": "我们的信息安全团队不断更新安全技术，并通过研讨会和认证来提升他们的技能。",
+  "Trading Protection": "交易保护",
+  "Safeguard your trading strategy with our customized protection features, designed to provide robust security tailored to your needs.": "使用我们的定制保护功能保护您的交易策略，这些功能旨在提供根据您的需求量身定制的强大安全性。",
+  "Enjoy our excellent payment system:easy deposits with global and local options, 24/7 access, and simple withdrawals.": "享受我们卓越的支付系统：全球和本地选项的便捷存款，24/7 访问，简单的取款。",
+  "We safeguard your funds by holding them segregated from our own. Our funds are always larger, so we can meet your withdrawal needs any time of the day.": "我们通过将资金与我们的资金分开持有来保护您的资金。我们的资金始终更大，因此我们可以在一天中的任何时候满足您的取款需求。",
+  "Seamless withdrawals": "无缝取款",
+  "Our automatic withdrawal feature guarantees instant processing of your withdrawal requests, providing you access to your funds even on weekends. The speed of payment may vary depending on the payment method you choose.": "我们的自动取款功能保证即时处理您的取款请求，即使在周末也能让您访问您的资金。支付速度可能因您选择的支付方式而异。",
+  "3D Secure verification": "3D 安全验证",
+  "We prioritize secure trading by implementing 3D Secure technology for debit card transactions, which adds an extra layer of fraud protection. This system enhances security by sending a one-time pin to your phone that must be entered during the transaction, ensuring that only you can authorize the payment.": "我们通过为借记卡交易实施 3D Secure 技术优先考虑安全交易，这增加了一层额外的防欺诈保护。该系统通过将一次性 PIN 发送到您的手机来增强安全性，该 PIN 必须在交易过程中输入，确保只有您可以授权支付。",
+  "Trade confidently knowing you won’t owe your broker money; we prevent losses from exceeding your balance across all trading account types.": "自信地交易，知道您不会欠您的经纪人钱；我们防止损失超过您的所有交易账户类型的余额。",
+  "Stop Out Protection": "止损保护",
+  "Enjoy this unique secure trading protection feature that strengthens your positions and helps delay or avoid stop outs, particularly during increased volatility.": "享受这一独特的安全交易保护功能，该功能可以加强您的头寸，并帮助延迟或避免止损，特别是在波动性增加期间。",
+  "Enhance your security by familiarizing yourself with practices that help prevent unauthorized account activities, scams, and fraud attempts.": "通过了解有助于防止未经授权的账户活动、诈骗和欺诈尝试的做法来提高您的安全性。",
+  "Keep your Personal Area private, never share access and personal documents. Don’t let anyone use your name to create an Stockbanx account or share your security information.": "保持您的个人区域隐私，绝不共享访问权限和个人文件。不要让任何人使用您的姓名创建 Stockbanx 帐户或共享您的安全信息。",
+  "Only conduct financial activities within the Stockbanx Personal Area and avoid transferring funds to unknown accounts.": "仅在 Stockbanx 个人区域内进行财务活动，并避免将资金转移到未知账户。",
+  "Be vigilant towards suspicious links and unknown sources, never provide sensitive information if contacted unexpectedly, and reach out directly to Stockbanx via live chat or email for any concerns about fraudulent activities or message authenticity.": "对可疑链接和未知来源保持警惕，如果在未经预料的情况下被联系，绝不提供敏感信息，如果对欺诈活动或消息的真实性有任何担忧，请直接通过在线聊天或电子邮件联系 CPT。",
+  "Yes, Stockbanx is a well-regulated global broker, regulated by the Financial Sector Conduct Authority under license number 45954, to ensure the financial security of its clients.": "是的，Stockbanx 是一家受良好监管的全球经纪商，由金融部门行为监管局根据许可证号 45954 进行监管，以确保其客户的财务安全。",
+  "Is Stockbanx regulated?": "Stockbanx 受监管吗？",
+  "We are widely regarded as a safe and secure platform for trading, thanks to our status as a licensed and regulated broker overseen by prominent international regulatory bodies. We prioritize account safety by offering a variety of security measures such as phone or email verification, and advanced web attack protection with a Web Application Firewall (WAF). Furthermore, Stockbanx implements payment protection features, including segregated accounts and 3D Secure verification, and offers trading protections like Negative Balance Protection, ensuring that clients can trade with confidence and peace of mind.": "我们被广泛认为是一个安全可靠的交易平台，这要归功于我们作为持牌和受监管经纪商的地位，由著名的国际监管机构监督。我们通过提供各种安全措施（如电话或电子邮件验证）优先考虑账户安全，以及使用 Web 应用防火墙 (WAF) 提供的高级网络攻击保护。此外，CPT 实施支付保护功能，包括隔离账户和 3D 安全验证，并提供交易保护，如负余额保护，确保客户可以自信地和平安心地进行交易。",
+  "Is Stockbanx safe?": "Stockbanx 安全吗？",
+  "Stockbanx Fees": "Stockbanx 费用",
+  "Concentrate on trading, not expenses. We've designed a trading environment that minimizes costs for our clients.": "专注于交易，而不是费用。我们设计了一个交易环境，为客户最大限度地降低成本。",
+  "Account for every type of trader": "适用于每种类型交易者的账户",
+  "Choose the one that will maximize your returns while minimizing your costs.": "选择一个能在最大限度提高您的收益同时最小化您的成本的账户。",
+  "Offer Swap Free Account": "提供无交换账户",
+  "CPT’s Swap Free Account allows swap-free trading, which means clients can trade on a Swap Free Account without being charged overnight fees up to 7 consecutive days. From the 8th day onwards, a swap will be charged on the particular position.": "Stockbanx 的无交换账户允许无交换交易，这意味着客户可以在无交换账户上进行交易，最长不收取隔夜费用达 7 天。第 8 天起，将对特定头寸收取交换费用。",
+  "Commission and spreads": "佣金和点差",
+  "Learn more about commission and spreads for individual instruments": "了解有关单个工具的佣金和点差的更多信息",
+  "Trade the world’s largest market with spreads starting from 0.7 pips": "以点差从 0.7 点起在世界上最大的市场进行交易",
+  "Diversify your portfolio and trade oil, natural gas and metals": "分散投资组合并交易石油、天然气和金属",
+  "Trade stocks of the biggest names in the international stock market with low transaction costs": "以低交易成本交易国际股票市场的最大牌股票",
+  "Capitalize on the biggest names in tech and other industries": "利用科技和其他行业的最大牌名称",
+  "Trade confidently knowing you won’t owe your broker money; we prevent losses from exceeding your balance across all trading account types.": "放心交易，知道您不会欠经纪人钱；我们防止损失超过所有交易账户类型的余额。",
+  "Client protection": "客户保护",
+  "Major currency pairs are the most traded in forex, always involving the USD and another major currency, such as the EUR, JPY, GBP, CHF, AUD, CAD, and NZD. They are known for high liquidity and low volatility.": "主要货币对是外汇交易中交易量最大的货币对，通常涉及美元和其他主要货币，例如欧元、日元、英镑、瑞士法郎、澳元、加元和新西兰元。它们以高流动性和低波动性而闻名。",
+  "Minor currency pairs, or cross-currency pairs, exclude the USD and involve other major currencies like the EUR, GBP, JPY, CHF, CAD, AUD, and NZD.  These pairs tend to be less liquid and more volatile than major currency pairs.": "次要货币对或交叉货币对不包括美元，而是涉及欧元、英镑、日元、瑞士法郎、加元、澳元和新西兰元等其他主要货币。  与主要货币对相比，这些货币对的流动性往往较低且波动性更大。",
+  "Login": "登录"
+}
+

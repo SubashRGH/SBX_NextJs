@@ -1,0 +1,2259 @@
+{
+  "h1": "A simple example",
+
+  "change-locale": "Thay đổi vị trí \"{{changeTo}}\"",
+
+  "to-second-page": "Tới trang tiếp theo",
+
+  "error-with-status": "Lỗi {{statusCode}} đã xảy ra trên máy chủ",
+
+  "error-without-status": "Đã xảy ra lỗi trên máy chủ",
+
+  "title": "Home | next-i18next",
+
+  "Trade over 1900 global markets": "Giao dịch trên 1900 thị trường toàn cầu",
+
+  "Explore Markets": "Khám phá thị trường",
+
+  "Download MT5": "Tải xuống MetaTrader 5",
+
+  "Trade on the go": "Giao dịch mọi lúc mọi nơi",
+
+  "Take your trading journey to the next level with an intuitive and easy-to-use trading platform.": "Đưa hành trình giao dịch của bạn lên một tầm cao mới với nền tảng giao dịch trực quan và dễ sử dụng.",
+
+  "Google Play": "Google Play",
+
+  "Desktop": "PC",
+
+  "Deposit and Withdrawal Options": "Tùy chọn nạp và rút tiền",
+
+  "Risk Warning: Trading Contracts for Difference (CFDs) on margin carries a high level of risk and may not be suitable for all investors. Please ensure that you fully understand the risks and take the right measures to manage your risk": "Cảnh báo rủi ro: Giao dịch các sản phẩm đòn bẩy trên tiền ký quỹ có mức độ rủi ro cao và có thể không phù hợp với tất cả các nhà đầu tư. Vui lòng đảm bảo rằng bạn hiểu đầy đủ các rủi ro và thực hiện các biện pháp phù hợp để quản lý rủi ro của mình.",
+
+  "Partners": "Đối tác",
+
+  "Contact us": "Liên hệ chúng tôi",
+
+  "faq": "FAQs - Câu hỏi thường gặp",
+
+  "Sign in": "Đăng nhập",
+
+  "About": "Giới Thiệu",
+
+  "Products": "Các sản phẩm",
+
+  "Accounts": "Tài khoản",
+
+  "Platform": "Nền tảng",
+
+  "Learn to Trade": "Học cách giao dịch",
+
+  "Try Demo": "Dùng thử",
+
+  "Live Account": "Đăng ký",
+
+  "START TRADING": "BẮT ĐẦU GIAO DỊCH",
+
+  "We place a high priority on leveraged products and Forex trading needs of our customers": "Chúng tôi đặt ưu tiên cao cho các sản phẩm có đòn bẩy và nhu cầu giao dịch ngoại hối của khách hàng",
+
+  "Get in touch": "Liên lạc",
+
+  "Who We Are?": "Chúng tôi là ai?",
+
+  "Contact Details": "Chi tiết liên hệ",
+
+  "Legal Documents": "Văn Bản Pháp Lý",
+
+  "Forex": "Ngoại hối",
+
+  "Commodities": "Hàng hóa",
+
+  "Crypto FX": "Tiền điện tử",
+
+  "Trading Conditions": "Điều kiện giao dịch",
+
+  "Account Types": "Loại tài khoản",
+
+  "Referral Program": "Chương trình giới thiệu",
+
+  "Rewards Program": "Chương trình khen thưởng",
+
+  "MetaTrader4": "MT4",
+
+  "MetaTrader5": "MT5",
+
+  "cTrader": "cTrader",
+
+  "Market OverView": "Tổng quan thị trường",
+
+  "Knowledge Articles": "Bài viết kiến thức",
+
+  "Economic Calendar": "Lịch kinh tế",
+
+  "Webinars": "Hội thảo",
+
+  "Video Guides": "Video hướng dẫn",
+
+  "Disclaimer": "Tuyên bố miễn trừ trách nhiệm",
+
+  "DisclaimerFirst": "Chúng tôi cung cấp các dịch vụ liên quan đến các sản phẩm phái sinh tài chính phức tạp. Các hợp đồng FX và CFD trên cơ sở trực tuyến của chúng tôi được giao dịch trên cơ sở ký quỹ hoặc đòn bẩy, một loại giao dịch có mức độ rủi ro cao đối với vốn của bạn. Giá của hợp đồng bạn thực hiện với chúng tôi có thể thay đổi nhanh chóng, và lợi nhuận cũng như thua lỗ của bạn có thể gấp nhiều lần số tiền đầu tư hoặc tiền gửi ban đầu của bạn. Nếu bạn không có đủ tiền để đáp ứng các yêu cầu ký quỹ của mình, chúng tôi có thể đóng các vị trí mở của bạn ngay lập tức mà không cần thông báo trước. Có thể mất nhiều hơn số tiền gửi ban đầu của bạn.",
+
+  "DisclaimerSecond": "Kinh doanh những sản phẩm này có thể chỉ phù hợp với một số người. Bạn chỉ nên giao dịch các sản phẩm của chúng tôi nếu bạn hiểu và chấp nhận các rủi ro khi giao dịch trên cơ sở ký quỹ hoặc đòn bẩy và có thể duy trì các khoản lỗ tiềm ẩn.",
+
+  "DisclaimerThird": "Stockbanx là tên giao dịch được sử dụng bởi Stockbanx Limited, có trụ sở tại Belize và được quản lý bởi Ủy ban Dịch vụ Tài chính Quốc tế Belize theo số giấy phép: Số FSC000314/17 với địa chỉ đăng ký tại #45, 5th Avenue, Corozal Town, Corozal District, Belize",
+
+  "DisclaimerFour": "Stockbanx PTY LTD (“CPT SA”) là một công ty có liên kết chặt chẽ với Stockbanx Ltd. Stockbanx SA được đăng ký tại Nam Phi theo số đăng ký. 2014/214730/07 và được quản lý bởi Cơ quan quản lý ngành tài chính theo giấy phép số 45954, với địa chỉ văn phòng đã đăng ký tại 6 Kikuyu Road, Sunninghill, Johannesburg Gauteng, 2191, (Nam Phi).",
+
+  "DisclaimerFive": "Khách hàng muốn tham gia vào mối quan hệ kinh doanh với Stockbanx có thể liên hệ bằng cách truy cập trang web tại www.cptmarkets.com.",
+
+  "DisclaimerSix": "Stockbanx U.K. là tên giao dịch được sử dụng bởi Stockbanx U.K. Limited. Địa chỉ đăng ký của công ty được đặt tại Wales, Anh, được ủy quyền và quản lý bởi Cơ quan Quản lý Tài chính (FCA) theo số đăng ký SỐ 606110.",
+
+  "DisclaimerSeven": "Stockbanx U.K. Limited là công ty con của Stockbanx Limited. Để thiết lập mối quan hệ kinh doanh với Stockbanx U.K., vui lòng truy cập trang web chính thức của Stockbanx U.K. tại https://www.cptmarkets.co.uk hoặc email chính thức info@cptmarkets.co.uk",
+
+  "DisclaimerEight": "Cảnh báo rủi ro: Dịch vụ của chúng tôi bao gồm các sản phẩm giao dịch ký quỹ với rủi ro thua lỗ có thể vượt quá số tiền ký quỹ của bạn, điều này có thể không phù hợp với tất cả các nhà đầu tư. Vui lòng đảm bảo rằng bạn hiểu tất cả các rủi ro của giao dịch ký quỹ. Nhấp vào đây để đọc Chính sách quyền riêng tư, Cảnh báo rủi ro, Tiết lộ rủi ro và Tuyên bố từ chối trách nhiệm của chúng tôi",
+
+  "Stockbanx UK": "Stockbanx UK được đăng ký tại Anh và xứ Wales theo số đăng ký và được quản lý bởi Cơ quan quản lý tài chính theo số tham chiếu công ty 606110",
+
+  "Client funds are guarded in segregated bank accounts": "Tiền của khách hàng được bảo vệ trong các tài khoản ngân hàng tách biệt",
+
+  "Negative Balance Protection": "Bảo vệ số dư âm",
+
+  "Leverage up to 1:30": "Đòn bẩy lên đến 1:30",
+
+  "For Retail clients, Professional clients and Market Counterparties": "Đối với khách hàng bán lẻ, khách hàng chuyên nghiệp và đối tác thị trường",
+
+  "Continue": "Tiếp tục",
+
+  "Stockbanx": "Stockbanx PTY LTD (“CPT SA”) là một công ty có liên kết chặt chẽ với Stockbanx Ltd. Stockbanx SA được đăng ký tại Nam Phi theo số đăng ký 2014/214730/07 và được quản lý bởi Cơ quan quản lý ngành tài chính theo giấy phép số 45954",
+
+  "Stockbanx International": "Stockbanx International là tên giao dịch được sử dụng bởi Stockbanx Limited, được quy định bởi Ủy ban Dịch vụ Tài chính Quốc tế Belize theo số giấy phép: Số FSC000314/17",
+
+  "Leverage up to 1:500": "Đòn bẩy lên tới 1:1000",
+
+  "The information on the website is displayed in accordance with the regulation you have chosen. If you would like to switch to a different regulation, you can select another one from the menu and the website will adjust accordingly.": "Các thông tin trên trang web được hiển thị theo quy định mà bạn đã chọn. Nếu bạn muốn chuyển sang quy định khác, bạn có thể chọn quy định khác từ menu và trang web sẽ điều chỉnh theo.",
+
+  "Open Account": "Đăng ký",
+
+  "Fill in your details using our registration form to Create your account with Stockbanx International instantly.": "Điền thông tin chi tiết vào biểu mẫu đăng ký của chúng tôi để tạo tài khoản của bạn với Stockbanx ngay lập tức.",
+
+  "Start Referring": "Bắt đầu giới thiệu",
+
+  "Start referring clients and track the daily volume Trading of your referrals in our tailored IB Portal.": "Bắt đầu giới thiệu khách hàng và theo dõi khối lượng giao dịch hàng ngày của những người bạn giới thiệu thông qua Cổng thông tin IB.",
+
+  "Start Earning": "Bắt đầu kiếm tiền",
+
+  "You can earn up to $10 per lot on your clients' trading. The more they trade, the more you make!": "Bạn có thể kiếm được tới 10 đô la cho mỗi lot từ giao dịch của khách hàng. Họ giao dịch càng nhiều, bạn càng kiếm được nhiều tiền!",
+
+  "Become a partner": "Trở thành đối tác",
+
+  "Get to know more about Stockbanx's services and products": "Tìm hiểu thêm về các dịch vụ và sản phẩm của Stockbanx",
+
+  "Reach out to our support team, available 18/5": "Liên hệ với nhóm hỗ trợ của chúng tôi, có sẵn 24/5",
+
+  "Read and download our legal documents": "Đọc và tải xuống các tài liệu pháp lý của chúng tôi",
+
+  "Trade Major and Minor forex pairs": "Giao dịch các cặp ngoại hối chính và phụ",
+
+  "Trade popular commodities with competitive conditions": "Giao dịch các mặt hàng phổ biến với điều kiện cạnh tranh",
+
+  "Trade shares of the biggest companies in the world": "Giao dịch cổ phiếu của các công ty lớn nhất thế giới",
+
+  "Trade leveraged products on Indices": "Giao dịch các sản phẩm có đòn bẩy trên Chỉ số",
+
+  "Trade your favorite cryptocurrencies with Stockbanx": "Giao dịch tiền điện tử yêu thích của bạn với Stockbanx",
+
+  "Pricing": "Định giá",
+
+  "Trading Condition": "Điều kiện giao dịch",
+
+  "Have a look at our spread and leverage": "Hãy xem mức chênh lệch và đòn bẩy của chúng tôi",
+
+  "Choose from the different account that we offer": "Chọn từ tài khoản khác mà chúng tôi cung cấp",
+
+  "Promotions & Rewards": "Khuyến mãi & Phần thưởng",
+
+  "Refer A Friend": "Giới thiệu bạn bè",
+
+  "The more you refer, the higher the reward": "Bạn giới thiệu càng nhiều, phần thưởng càng cao",
+
+  "Partner with us and earn great rewards": "Hợp tác với chúng tôi và kiếm được phần thưởng lớn",
+
+  "Promotions": "Khuyến mãi",
+
+  "Take advantage of our promotions and bonuses": "Tận dụng các chương trình khuyến mãi và tiền thưởng của chúng tôi",
+
+  "Trading Platforms": "Nền tảng giao dịch",
+
+  "Metatrader4": "Metatrader4",
+
+  "The most popular trading platfrom": "Nền tảng giao dịch phổ biến nhất",
+
+  "Metatrader5": "Metatrader5",
+
+  "Advanced and intuitive trading platfrom": "Nền tảng giao dịch tiên tiến và trực quan",
+
+  "CTrader": "CTrader",
+
+  "Seamless trading experiance": "Nền tảng giao dịch tiên tiến và trực quan",
+
+  "Market Updates": "Cập nhật thị trường",
+
+  "Market Overview": "Tổng quan thị trường",
+
+  "Discover fundamental and technical analysis": "Khám phá phân tích cơ bản và kỹ thuật",
+
+  "Learn how to make informed trading decisions": "Tìm hiểu cách đưa ra quyết định giao dịch sáng suốt",
+
+  "Forecast potential volatility on your favorite assets": "Dự báo biến động tiềm năng trên tài sản yêu thích của bạn",
+
+  "Learn From Experts": "Học hỏi từ các chuyên gia",
+
+  "Learn directly from our experts at live webinars": "Học hỏi trực tiếp từ các chuyên gia của chúng tôi tại các hội thảo trên web trực tiếp",
+
+  "Get access to our educational videos": "Nhận quyền truy cập vào các video giáo dục của chúng tôi",
+
+  "search": "tìm",
+
+  "Popular": "Phổ biến",
+
+  "Crypto": "Tiền điện tử",
+
+  "Instruments": "Sản phẩm",
+
+  "Bid Price": "Giá Mua",
+
+  "Ask Price": "Giá Bán",
+
+  "Spread": "Spread",
+
+  "Change": "%Thay đổi",
+
+  "Trend": "Xu hướng",
+
+  "GBP/USD": "GBP/USD",
+
+  "Stockbanx's Reward Structure": "Cơ cấu phần thưởng của Stockbanx",
+
+  "The more you refer, the higher the reward.": "Bạn giới thiệu càng nhiều, phần thưởng càng cao",
+
+  "Premium": "Premium",
+
+  "New clients must fulfill below criteria for the Partner to be qualified for the rewards:": "Khách hàng mới phải đáp ứng các tiêu chí dưới đây để đối tác đủ điều kiện nhận phần thưởng:",
+
+  "1. Minimum 8 standard lots traded per client": "1. Tối thiểu 8 lots tiêu chuẩn được giao dịch cho mỗi khách hàng",
+
+  "2. Minimum deposit of $1,000": "2. Tiền gửi tối thiểu 1.000 USD cho mỗi khách hàng",
+
+  "Get": "Nhận",
+
+  "Win": "Thắng",
+
+  "New Clients": "Khách hàng mới",
+
+  "Net Deposit $": "Tiền gửi ròng $",
+
+  "Total Lots Traded (new)": "Tổng số lot đã giao dịch (mới)",
+
+  "Stocks": "Cổ phiếu",
+
+  "Learn With Us": "Tìm hiểu với chúng tôi",
+
+  "Crypto CFD": "Hợp đồng chênh lệch Tiền điện tử",
+
+  "Fill in a simple online application form through our official website.": "Điền vào một mẫu đơn trực tuyến đơn giản thông qua trang web chính thức của chúng tôi.",
+
+  "Provide identification to keep your account safe.": "Cung cấp thông tin nhận dạng để giữ an toàn cho tài khoản của bạn.",
+
+  "Fund your trading account": "Cấp tiền cho tài khoản giao dịch của bạn",
+
+  "Download and install (MetaTrader 4) platformvia our official website so that you can access your account,check your balance via Stockbanx server, execute trades and start making profits.": "Tải xuống và cài đặt nền tảng (MetaTrader 4) qua trang web chính thức của chúng tôi để bạn có thể truy cập tài khoản của mình, kiểm tra số dư của mình qua máy chủ Stockbanx, thực hiện giao dịch và bắt đầu kiếm lợi nhuận.",
+
+  "Open Account": "Mở tài khoản",
+
+  "Start Trading": "Bắt đầu giao dịch",
+
+  "Have questions? we're here to help.": "Có một vài câu hỏi? Chúng tôi ở đây để giúp đỡ.",
+
+  "Top FAQs": "Câu hỏi thường gặp",
+
+  "General": "Tổng quan",
+
+  "Introducing Brokers": "Giới thiệu môi giới",
+
+  "Deposits and Withdrawals": "Nạp tiền và Rút tiền",
+
+  "allowCookies": "Trang web này sử dụng cookie. Vui lòng xem lại chính sách <a href='https://filetest.cptinternational.com/Contents/cptsatest/Legal/CPT_SA_Complaints_Notice.pdf' target='_blank' class='cookies-class'>  cookie  của chúng tôi. </a>  Nếu bạn đồng ý với việc chúng tôi sử dụng cookie, vui lòng tiếp tục sử dụng trang web của chúng tôi.",
+
+  "Our office is open five days a week, Monday to Friday. The support line is available 18 hours a day.": "Văn phòng của chúng tôi mở cửa năm ngày một tuần, từ thứ Hai đến thứ Sáu. Đường dây hỗ trợ hoạt động 18 giờ mỗi ngày.",
+
+  "Belize": "Belize",
+
+  "2118 Guava Street": "2118 Guava Street",
+
+  "Belama Phase 1, Belize City": "Belama Phase 1, Belize City",
+
+  "Belize - Stockbanx Belize": "Belize - Stockbanx Belize",
+
+  "Click how to get there": "Kiểm tra cách đến đó",
+
+  "South Africa": "Nam Phi",
+
+  "Unit 1, Village Corner": "Unit 1, Village Corner",
+
+  "57 Via Latina Crescent, Irene Corporate Corner": "57 Via Latina Crescent, Irene Corporate Corner",
+
+  "Gauteng, 0178 - Stockbanx SA": "Gauteng, 0178 - Stockbanx SA",
+
+  "Canary Wharf, London,E14 5NR - Stockbanx UK": "Canary Wharf, London,E14 5NR - Stockbanx UK",
+
+  "United Kingdom": "Vương quốc Anh",
+
+  "Chat with us": "Trò chuyện với chúng tôi",
+
+  "Start a chat with our customer support team, available 18/5": "Bắt đầu trò chuyện với nhóm hỗ trợ khách hàng của chúng tôi, luôn sẵn sàng 18 giờ/5 ngày",
+
+  "Start Chat": "Bắt đầu trò chuyện",
+
+  "Media Collaboration": "Hợp tác truyền thông",
+
+  "Email us on": "Gửi email cho chúng tôi tại địa chỉ",
+
+  "Email Us": "Gửi email cho chúng tôi",
+
+  "For complaints": "Khiếu nại",
+
+  "Reach us on": "Liên hệ với chúng tôi theo địa chỉ",
+
+  "Career": "Sự nghiệp",
+
+  "Send us you CV": "Gửi CV của bạn cho chúng tôi",
+
+  "Legal Docuements": "Văn Bản Pháp Lý",
+
+  "Get access to all relevant legal documents before opening a trading account": "Được tiếp cận với tất cả các văn bản pháp lý có liên quan trước khi mở tài khoản giao dịch",
+
+  "Privacy Policy": "Chính sách bảo mật",
+
+  "Risk Disclosure": "Tuyên bố rủi ro",
+
+  "Licence Regulation": "Quy định giấy phép",
+
+  "AML Compliance": "Tuân thủ AML",
+
+  "Cookies Policy": "Chính sách Cookies",
+
+  "CS. Agreement": "CS. Hiệp ước",
+
+  "Get to know": "Làm quen",
+
+  "You deserve the best trading experience": "Bạn xứng đáng có trải nghiệm giao dịch tốt nhất",
+
+  "Stockbanx is a world- leading leveraged products broker in online trading of the global markets. Stockbanx offers 130+ leveraged product instruments for global investors to trade. We became the preferred brand of many traders by putting the funds safety as a top priority and providing an efficient, safe, simple trading journey.": "Stockbanx là nhà môi giới sản phẩm đòn bẩy hàng đầu thế giới trong giao dịch trực tuyến trên thị trường toàn cầu. Stockbanx cung cấp hơn 130 công cụ sản phẩm có đòn bẩy cho các nhà đầu tư toàn cầu giao dịch. Chúng tôi đã trở thành thương hiệu ưa thích của nhiều nhà giao dịch bằng cách đặt an toàn vốn làm ưu tiên hàng đầu và cung cấp một hành trình giao dịch đơn giản, an toàn và hiệu quả.",
+
+  "The most rewarding trading experience.": "Một trải nghiệm giao dịch tuyệt vời.",
+
+  "Trading Experience.": "Kinh nghiệm giao dịch.",
+
+  "Stockbanx promises to exceed your expectations": "Stockbanx hứa hẹn sẽ vượt qua mong đợi của bạn bằng cách mang lại trải nghiệm giao dịch trực tuyến tuyệt vời, cung cấp mức độ dịch vụ chưa từng có phù hợp với công nghệ giao dịch tiên tiến nhất.",
+
+  "Open Account": "Đăng ký ngay!",
+
+  "Mission": "Sứ mệnh",
+
+  "Our mission is to create a community that appreciates convenience": "Sứ mệnh của chúng tôi là tạo ra một cộng đồng coi trọng sự tiện lợi, toàn diện và minh bạch, từ đó trao quyền cho Nhà giao dịch và Nhà môi giới để tối đa hóa giá trị.",
+
+  "Vision": "Tầm nhìn",
+
+  "The vision is to create the best trading experience for you to be successful. So anyone, anywhere, can trade.": "Tầm nhìn của chúng tôi là tạo ra trải nghiệm giao dịch tốt nhất để bạn thành công. Vì vậy, bất cứ ai, tại bất cứ nơi đâu đều có thể giao dịch.",
+
+  "Safe And Secure": "An toàn và bảo mật",
+
+  "All funds are protected by industry-leading security protocols.": "Tất cả các quỹ được bảo vệ bởi các giao thức bảo mật hàng đầu trong ngành. Chúng tôi cung cấp bảo vệ số dư âm và tiền của Khách hàng được giữ trong các tài khoản ủy thác tách biệt với các ngân hàng cấp một.",
+
+  "Create Account": "Mở tài khoản",
+
+  "Rewards": "Phần thưởng",
+
+  "Traders can compete against each other and get rewarded for their trading skills while IBs can also benefit from unique loyalty programs that recognize their efforts.": "Các nhà giao dịch có thể cạnh tranh với nhau và nhận phần thưởng cho kỹ năng giao dịch của họ trong khi IB cũng có thể hưởng lợi từ các chương trình khách hàng thân thiết độc đáo ghi nhận nỗ lực của họ.",
+
+  "Innovation": "Sự đổi mới",
+
+  "Experience our easy to use and intuitive platforms. With exclusive AI plug-ins, interactive webinars, trading forums and much more.": "Trải nghiệm các nền tảng trực quan và dễ sử dụng của chúng tôi. Với các plug-in AI độc quyền, hội thảo trên web tương tác, diễn đàn giao dịch và hơn thế nữa.",
+
+  "Choose An Account": "Chọn một tài khoản",
+
+  "chooseAccount": "Stockbanx cung cấp hai loại tài khoản giao dịch: CPTClassic và CPTPrime.",
+
+  "supportChat": "Chọn loại tài khoản phù hợp nhất với mục tiêu giao dịch của bạn. Để được hỗ trợ thêm, bạn có thể liên hệ với nhóm hỗ trợ chuyên dụng của chúng tôi qua email hoặc chat.",
+
+  "Minimum Deposits (USD)": "Tiền gửi tối thiểu (USD)",
+
+  "Spreads starting from (Pips)": "Chênh lệch giá (Pips)",
+
+  "Commission": "Hoa hồng",
+
+  "Leverage": "Đòn bẩy tối đa",
+
+  "Stop Out": "Mức ngưng giao dịch",
+
+  "Stockbanx Classic": "Stockbanx Classic",
+
+  "Stockbanx Prime": "Stockbanx Prime",
+
+  "Margin call": "Gọi ký quỹ",
+
+  "Referral Benefits": "Lợi ích giới thiệu",
+
+  "Lorem ipsum dolor sit amet, consetetur sadipscing elitr": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+
+  "Lorem Ipsum": "Lorem Ipsum",
+
+  "Easy Steps To Earn!": "Các bước dễ dàng để kiếm tiền!",
+
+  "Open a live account": "Mở một tài khoản trực tuyến",
+
+  "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+
+  "Get your referral link": "Nhận liên kết giới thiệu của bạn",
+
+  "Start referring and earning": "Bắt đầu giới thiệu và kiếm tiền",
+
+  "Rewards You Actually Use!": "Phần thưởng mà bạn thực sự sử dụng!",
+
+  "Lorem": "Lorem",
+
+  "An Innovative": "Một sáng kiến",
+
+  "Stet clita kasd Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+
+  "Choose the account type that suits your trading experience": "Chọn loại tài khoản phù hợp với kinh nghiệm giao dịch của bạn",
+
+  "Dedicated Account Manager": "Người quản lý tài khoản chuyên dụng",
+
+  "How To Open A Trading Account?": "Làm thế nào để mở một tài khoản giao dịch?",
+
+  "Manage all of your financial assets, long and short term, in one portfolio": "Quản lý tất cả các tài sản tài chính của bạn, dài hạn và ngắn hạn, trong một danh mục đầu tư",
+
+  "The trading hours (in GMT+0) for all instruments in winter (November to March)": "Giờ giao dịch (tính theo GMT+0) cho tất cả các công cụ vào mùa đông (tháng 11 đến tháng 3):",
+
+  "Trading Products": "Sản phẩm giao dịch",
+
+  "Find more details about trading our products": "Tìm thêm thông tin về giao dịch trên các sản phẩm của chúng tôi",
+
+  "Trading Hours": "Thời gian giao dịch",
+
+  "Sunday：23:05 - 24:00\nMonday：00:00 - 21:59\nTuesday to Thursday：01:01 - 21:59\nFriday：01:01 - 21:55": "Chủ Nhật：23:05 - 24:00 \nThứ Hai：00:00 - 21:59 \nThứ Ba đến Thứ Sáu：01:01 - 21:59 \nThứ Sáu：01:01 - 21:55",
+
+  "Equity": "Vốn chủ sở hữu",
+
+  "Trade a wide range of leveraged products with tight Spreads as low as 0.5 Pips": "Giao dịch nhiều loại sản phẩm có Đòn bẩy với Chênh lệch thấp chỉ 0,5 Pips",
+
+  "Markets": "Thị trường",
+
+  "Spread from": "Chênh lệch từ",
+
+  "Majors": "Các cặp tiền tệ chính",
+
+  "Minors": "Các cặp tiền tệ phụ",
+
+  "Exotic": "Các cặp tiền tệ ngoại lai",
+
+  "FX": "FX\n",
+
+  "XAUUSD": "XAUUSD\n",
+
+  "UKOUSD": "UKOUSD\n",
+
+  "U30USD": "U30USD\n",
+
+  "NASUSD": "NASUSD\n",
+
+  "SPXUSD": "SPXUSD\n",
+
+  "100GBP": "100GBP\n",
+
+  "E50EUR": "E50EUR\n",
+
+  "D30EUR": "D30EUR\n",
+
+  "H33HKD": "H33HKD\n",
+
+  "225JPY": "225JPY\n",
+
+  "CHN50USD": "CHN50USD\n",
+
+  "US Stocks": "Chứng khoán Mỹ",
+
+  "Future Contracts": "Hợp đồng tương lai\n",
+
+  "INDIA": "INDIA",
+
+  "2. Margin & Leverage:": "2. Ký quỹ & đòn bẩy:",
+
+  "Maximum leverage changes based on your account’s equity": "Mức thay đổi đòn bẩy tối đa sẽ dựa trên vốn chủ sở hữu tài khoản",
+
+  "3. Spreads": "3. Chênh lệch",
+
+  "More than X instrument pairs with tight Spreads as low as 0.7 Pips": "Hơn X cặp công cụ với Chênh lệch thấp tới 0,7 pips",
+
+  "4. Overnight Positions (Swaps)": "4. Phí qua đêm (Swaps)",
+
+  "5. Execution Policy": "5. Chính sách thực hiện",
+
+  "All our trades are executed in less than a second": "Tất cả các giao dịch của chúng tôi được thực hiện trong chưa đầy một giây",
+
+  "No requotes policy": "Không có chính sách báo giá lại",
+
+  "Real-time market execution": "Khớp lệnh thị trường theo thời gian thực",
+
+  "Trading Time based on (GMT+0)": "Thời gian giao dịch dựa trên (GMT+0)",
+
+  "Trading Time based on (GMT+4)": "Thời gian giao dịch dựa trên (GMT+4)",
+
+  "Sunday：22:05 - 24:00\nMonday to Thursday：00:00 - 21:59, 22:05 - 24:00\nFriday：00:00 - 21:55": "Chủ Nhật：22:05 - 24:00\nThứ 2 đến Thứ 5：00:00 - 21:59, 22:05 - 24:00\nThứ 6：00:00 - 21:55",
+
+  "Sunday：23:05 - 24:00\nMonday to Thursday：00:00 - 21:59, 23:01 - 24:00\nFriday：00:00 - 21:55": "Chủ Nhật：23:05 - 24:00\nThứ 2 đến Thứ 5：00:00 - 21:59, 23:01 - 24:00\nThứ 6：00:00 - 21:55",
+
+  "Sunday：23:05 - 24:00\nMonday：00:00 - 21:59 Tuesday to Thursday：01:01 - 21:59\nFriday：01:01 - 21:55": "Chủ Nhật：23:05 - 24:00\nThứ 2：00:00 - 21:59 Thứ 3 đến Thứ 5：01:01 - 21:59\nThứ 6：01:01 - 21:55",
+
+  "Sunday：23:05 - 24:00\nMonday to Thursday：00:00 - 21:15, 21:30 - 22:00, 23:05 - 24:00\nFriday：00:00 - 21:15 , 21:30 - 21:55": "Chủ Nhật：23:05 - 24:00\nThứ 2 đến Thứ 5：00:00 - 21:15, 21:30 - 22:00, 23:05 - 24:00\nThứ 6：00:00 - 21:15 , 21:30 - 21:55",
+
+  "Monday to Friday：02:00 - 09:30, 10:00 - 21:45": "Thứ 2 đến Thứ 6：02:00 - 09:30, 10:00 - 21:45",
+
+  "Monday to Friday：14:30 - 21:00": "Thứ 2 đến Thứ 6：14:30 - 21:00",
+
+  "Monday to Thursday：02:01 - 10:10, 10:40 - 21:45 \nFriday：02:01 - 21:45": "Thứ 2 đến Thứ 5：02:01 - 10:10, 10:40 - 21:45 Thứ 6：02:01 - 21:45",
+
+  "For the leverage we can offer:": "Đối với đòn bẩy chúng tôi có thể cung cấp:",
+
+  "Less than $500 equity": "Vốn chủ sở hữu thấp hơn $500",
+
+  "between $500 -$20,000 equity": "trong khoảng vốn từ $500 đến $20,000",
+
+  "between $20,000-$50,000 equity": "trong khoảng vốn từ $20,000 đến $50,000",
+
+  "between $50,000-$100,000 equity": "trong khoảng vốn từ $50,000 đến $100,000",
+
+  "between $100,000- $200,000 equity": "trong khoảng vốn từ $100,000 đến $200,000",
+
+  "between $200,000 - $1,000,000 equity": "trong khoảng vốn từ $200,000 đến $1,000,000",
+
+  "above $1,000,000": "trên $1,000,000",
+
+  "Majors Spreads from X": "Cặp chính, chênh lệch từ X",
+
+  "Minors Spreads from X": "Cặp phụ, chênh lệch từ X",
+
+  "Exotic Spreads from X": "Cặp ngoại lai, chênh lệch từ X",
+
+  "Spreads from X": "Phí giao dịch từ X",
+
+  "Futures": "Tương lai",
+
+  "Spreads from X ": "Chênh lệch từ X ",
+
+  "Swap is the interest that is applied to all forex trading positions that are left open overnight between Monday to Friday (at 17:00 EST) for all open positions. Swap rates differ from one currency pair to another.": "Phí qua đêm là lãi suất được áp dụng cho tất cả các vị thế giao dịch ngoại hối được mở qua đêm từ Thứ 2 đến Thứ 6 (lúc 17:00 EST) cho tất cả các vị thế mở. Tỷ giá hoán đổi khác nhau giữa các cặp tiền tệ này với cặp tiền tệ khác.",
+
+  "Please bear in mind that when trading forex pairs, triple swaps are charged on Wednesdays (to cover the weekend fee). Overnight fees for oil and natural gas are charged on Friday.": "Xin lưu ý rằng khi giao dịch các cặp ngoại hối, các phí qua đêm được tính 3 lần vào Thứ Tư (để trang trải phí cuối tuần). Phí qua đêm đối với dầu và khí đốt tự nhiên được tính vào Thứ 6.",
+
+  "XAGUSD": "XAGUSD",
+
+  "XNGUSD": "XNGUSD",
+
+  "USOUSD": "USOUSD",
+
+  "Spreads": "Chênh lệch",
+
+  "5*24 Hours Online Customer Service providing online support and assistance": "Hỗ trợ 24*5 với dịch vụ trợ giúp và chăm sóc khách hàng trực tuyến",
+
+  "Learn More": "Tìm hiểu thêm",
+
+  "How To Trade Leveraged Products On Commodities": "Cách giao dịch các sản phẩm hàng hóa có đòn bẩy",
+
+  "Trade cryptocurrencies with Zero Commission": "Giao dịch tiền điện tử với hoa hồng bằng KHÔNG",
+
+  "Go long or short on the world's most popular cryptocurrencies with 1:10 leverage.": "Mua hoặc bán các loại tiền điện tử phổ biến nhất thế giới với tỷ lệ đòn bẩy 1:10.",
+
+  "Stockbanx offers you 5 major cryptocurrencies, including Bitcoin, Bitcoin Cash, Litecoin, Ripple, and Ethereum, against the US dollar.": "Stockbanx cung cấp cho bạn 5 loại tiền điện tử chính, bao gồm Bitcoin, Bitcoin Cash, Litecoin, Ripple và Ethereum, so với đồng đô la Mỹ.",
+
+  "What is a Crypto?": "Tiền điện tử là gì?",
+
+  "Cryptocurrencies (Crypto) are virtual currencies that use a decentralised network for financial transactions. Trade leveraged products on major cryptocurrencies such as Bitcoin, Ethereum and more – by speculating on their price movements without actually owning them.": "Tiền điện tử (Crypto) là loại tiền ảo sử dụng mạng phi tập trung cho các giao dịch tài chính. Giao dịch các sản phẩm có đòn bẩy trên các loại tiền điện tử lớn như Bitcoin, Ethereum, v.v. – bằng cách suy đoán về biến động giá của chúng mà không thực sự sở hữu chúng.",
+
+  "Why trade cryptocurrency leveraged products with Stockbanx?": "Tại sao nên giao dịch các sản phẩm đòn bẩy tiền điện tử với Stockbanx?",
+
+  "No digital wallet": "Không cần ví kỹ thuật số",
+
+  "You can trade cryptocurrency on the same MT4 platform.": "Bạn có thể giao dịch tiền điện tử trên cùng một nền tảng MT4.",
+
+  "Zero Commission": "Không tính phí hoa hồng",
+
+  "No need to pay a commission on any transaction*": "Không cần trả hoa hồng cho bất kỳ giao dịch nào*",
+
+  "Leveraged crypto trading": "Giao dịch tiền điện tử có đòn bẩy",
+
+  "Get higher capital when you trade cryptocurrencies with up to 1:10 leverage.": "Nhận vốn cao hơn khi bạn giao dịch tiền điện tử với đòn bẩy lên tới 1:10.",
+
+  "All trading strategies allowed": "Hỗ trợ tất cả các hệ thống giao dịch",
+
+  "Expert advisors & algorithmic trading strategies are welcome to ensure you have the flexibility to trade your favorite cryptocurrencies.": "Các cố vấn chuyên gia & hệ thống giao dịch theo thuật toán luôn được chào đón để đảm bảo bạn có thể linh hoạt giao dịch các loại tiền điện tử yêu thích của mình.",
+
+  "Trade Cryptocurrency CFDs 24/7": "Giao dịch CFDs tiền điện tử 24/5",
+
+  "Trade Bitcoin, Bitcoin Cash, Ethereum, Litecoin and Ripple anytime, anywhere.": "Giao dịch Bitcoin, Bitcoin Cash, Ethereum, Litecoin và Ripple mọi lúc, mọi nơi.",
+
+  "T&Cs Apply*": "Áp dụng T&C*",
+
+  "Bitcoin": "Bitcoin",
+
+  "Over $100 billion is Bitcoin's market cap, the first and largest cryptocurrency. BTC prices are largely driven by supply and demand but can be affected by rumors of regulation or full-out regulation.": "Hơn 100 tỷ đô la là vốn hóa thị trường của Bitcoin, loại tiền điện tử đầu tiên và lớn nhất. Giá BTC chủ yếu được thúc đẩy bởi cung và cầu nhưng có thể bị ảnh hưởng bởi tin đồn về quy định hoặc quy định đầy đủ.",
+
+  "Ethereum": "Ethereum",
+
+  "Often referred to as the 'next Bitcoin', it is the second-largest cryptocurrency. Microsoft, JP Morgan, and Intel have recognized and supported Ethereum internationally. The blockchain-based Ethereum network also supports decentralized apps known as dApps.": "Thường được gọi là 'Bitcoin tiếp theo', đây là loại tiền điện tử lớn thứ hai. Microsoft, JP Morgan và Intel đã công nhận và hỗ trợ Ethereum trên phạm vi quốc tế. Mạng Ethereum dựa trên chuỗi khối cũng hỗ trợ các ứng dụng phi tập trung được gọi là dApps.",
+
+  "Ripple": "Ripple",
+
+  "Ripple is both a transaction network and crypto token created in 2012. XRP is blockchain-based like Bitcoin, but according to the creators, it is less energy-intensive to mine, carries lower fees, and processes transactions more quicker.": "Ripple vừa là mạng giao dịch vừa là mã thông báo tiền điện tử được tạo ra vào năm 2012. XRP dựa trên chuỗi khối giống như Bitcoin, nhưng theo những người sáng tạo, nó ít tốn năng lượng hơn để khai thác, có phí thấp hơn và xử lý giao dịch nhanh hơn.",
+
+  "Litecoin": "Litecoin",
+
+  "Litecoin is a cryptocurrency founded in 2011, two years after Bitcoin, by a former Google engineer. It shares similar features with Bitcoin but has a different algorithm. The cryptocurrency's goal is to become a medium for daily transactions.": "Litecoin là một loại tiền điện tử được thành lập vào năm 2011, hai năm sau Bitcoin, bởi một cựu kỹ sư của Google. Nó chia sẻ các tính năng tương tự với Bitcoin nhưng có một thuật toán khác. Mục tiêu của tiền điện tử là trở thành phương tiện cho các giao dịch hàng ngày.",
+
+  "Bitcoin Cash": "Bitcoin Cash",
+
+  "The Bitcoin spin-off was launched in 2017 and has a current market capitalisation of more than $6.3billion. Bitcoin Cash is designed to be used as a cheap payment system, much like Bitcoin was originally designed to be.": "Phần spin-off Bitcoin đã được ra mắt vào năm 2017 và có vốn hóa thị trường hiện tại là hơn 6,3 tỷ đô la. Bitcoin Cash được thiết kế để sử dụng như một hệ thống thanh toán giá rẻ, giống như Bitcoin được thiết kế ban đầu.",
+
+  "How To Trade Leveraged Products On Cryptocurrencies": "Cách giao dịch các sản phẩm tiền điện tử có đòn bẩy",
+
+  "Go to the Cryptocurrencies section and choose your favorite instrument": "Đi tới <span class='text-high'> danh mục Tiền điện tử </span>  và chọn sản phẩm yêu thích của bạn",
+
+  "Trade": "Giao dịch",
+
+  "CryptoText": "Tiền điện tử: Sự phát triển, thách thức và chính sách",
+
+  "Trade Forex leveraged products": "Các sản phẩm đòn bẩy Forex",
+
+  "Trade leveraged products on a wide variety of the world’s most popular currency pairs.": "Giao dịch các sản phẩm có đòn bẩy trên nhiều loại cặp tiền tệ phổ biến nhất trên thế giới.",
+
+  "Start Now": "Bắt đầu ngay bây giờ!",
+
+  "What is Forex": "Forex là gì",
+
+  "Trading forex involves buying and selling currencies on the foreign exchange market for profit. Daily transactions worth trillions of dollars take place on the forex market, which is the world's most liquid financial market.": "Giao dịch forex liên quan đến việc mua và bán tiền tệ trên thị trường Ngoại Hối để kiếm lời. Các giao dịch hàng ngày trị giá hàng nghìn tỷ đô la diễn ra trên thị trường Ngoại Hối, đây là thị trường tài chính có tính thanh khoản cao nhất thế giới.",
+
+  "Types of Forex Pairs": "Các loại cặp Ngoại Hối",
+
+  "Stockbanx offers the most popular forex pairs like EUR/USD, GBP/USD, and EUR/GBP. Explore our wide range of major, minor and exotic currency pairs.": "Stockbanx cung cấp các cặp Ngoại Hối phổ biến nhất như EUR/USD, GBP/USD và EUR/GBP. Khám phá hàng loạt các cặp tiền tệ chính, phụ và ngoại lai của chúng tôi.",
+
+  "Major": "Các cặp tiền tệ chính",
+
+  "The major currency pairs has two of the following currencies USD, EUR, JPY, CAD, GBP, and CHF.": "Các cặp tiền tệ chính có hai trong số các loại tiền sau USD, EUR, JPY, CAD, GBP và CHF.",
+
+  "Minor": "Các cặp tiền tệ phụ",
+
+  "Minor Forex pairs, also known as cross-currency pairs or crosses, are currency pairs that do not include the US dollar. Examples of minor currency pairs include EUR/GBP, EUR/CHF, and GBP/JPY.": "Các cặp ngoại hối phụ, hay còn được gọi là các cặp tiền tệ chéo hoặc cặp chéo, là các cặp tiền tệ không bao gồm đồng đô la Mỹ. Ví dụ về các cặp tiền tệ phụ bao gồm EUR/GBP, EUR/CHF và GBP/JPY.",
+
+  "Exotic Pairs stand out from these pairs because they contain a major currency (usually USD) and a currency from a developing or emerging market.": "Các cặp ngoại lai nổi bật vì chúng chứa một loại tiền tệ chính (thường là USD) và một loại tiền tệ từ một thị trường đang phát triển hoặc mới nổi.",
+
+  "More Instruments": "Nhiều sản phẩm hơn",
+
+  "What affects the prices of forex?": "Điều gì ảnh hưởng đến giá của Ngoại Hối?",
+
+  "Below are some of the economic trends and events that will help those new to the market to become successful forex traders.": "Dưới đây là một số xu hướng và sự kiện kinh tế sẽ giúp những người mới tham gia thị trường trở thành nhà giao dịch Ngoại Hối thành công.",
+
+  "Supply and demand": "Cung và cầu",
+
+  "Price inflation": "Lạm phát giá cả",
+
+  "Currency strenght": "Sức mạnh tiền tệ",
+
+  "How to trade leveraged forex pairs with Stockbanx": "Cách giao dịch các cặp Ngoại Hối có đòn bẩy với Stockbanx",
+
+  "Log in your account or create account": "Đăng nhập tài khoản của bạn hoặc tạo tài khoản mới",
+
+  "Go to the forex section and choose your favorite instrument": "Chuyển đến phần ngoại hối và chọn sản phẩm yêu thích của bạn",
+
+  "Set your trade size": "Đặt quy mô giao dịch của bạn",
+
+  "Choose direction (Buy or Sell) based on your assessment of the influencing factors": "Chọn hướng (Mua hoặc Bán) dựa trên đánh giá của bạn về các yếu tố ảnh hưởng",
+
+  "Place your trade!": "Bắt đầu giao dịch ngay!",
+
+  "What Are Stocks?": "Cổ phiếu là gì?",
+
+  "Get access to leveraged products on a wide variety of the world’s most popular currency pairs.": "Truy cập vào các sản phẩm có đòn bẩy trên nhiều loại cặp tiền tệ phổ biến nhất toàn cầu.",
+
+  "we are": "Chúng tôi là",
+
+  "The Market": "Thị trường",
+
+  "Leaders": "Những người dẫn đầu",
+
+  "Trade your favorite instruments with a leading online broker": "Giao dịch với các công cụ yêu thích của bạn với một nhà môi giới trực tuyến hàng đầu",
+
+  "Why Stockbanx Group?": "Vì sao Stockbanx market được ưa chuộng ?",
+
+  "WhyCpt": "Giao dịch với hoa hồng bằng 0 và mức spread thấp chỉ từ 0.7 pip trên một nền tảng giao dịch trực quan và dễ sử dụng. Stockbanx nắm giữ nhiều giấy phép từ các cơ quan tài chính có uy tín trên toàn thế giới bao gồm FCA Vương quốc Anh, AOFA Nam Phi và IFSC Belize. Chúng tôi cung cấp các phương thức thanh toán linh hoạt với các tài khoản ngân hàng địa phương riêng biệt để có hành trình giao dịch an toàn hơn.",
+
+  "Clients worldwide": "Khách hàng trên toàn thế giới",
+
+  "USD client assets": "Tài sản khách hàng USD",
+
+  "Daily executed trades": "Các giao dịch được thực hiện hàng ngày",
+
+  "Experience in the industry": "Kinh nghiệm trong ngành",
+
+  "StocksText": "Giao dịch các sản phẩm đòn bẩy trên cổ phiếu của các công ty lớn nhất trên thế giới, bao gồm Apple, Microsoft, Tesla, Facebook, Netflix và Amazon.",
+
+  "CommoditiesText": "Tiếp cận với Vàng, Dầu, Bạc, Khí đốt và nhiều mặt hàng khác. Giao dịch các mặt hàng phổ biến với điều kiện cạnh tranh.",
+
+  "ForexText": "Stockbanx cung cấp các cặp ngoại hối phổ biến nhất như EUR/USD, GBP/USD và EUR/GBP. Khám phá hàng loạt các cặp tiền tệ chính và phụ của chúng tôi.",
+
+  "Choose The Most Reliable Trading Platform": "Chọn nền tảng giao dịch đáng tin cậy nhất",
+
+  "A fast, clear, and innovative way to trade.": "Một cách giao dịch nhanh chóng, tiện lợi và đổi mới.",
+
+  "relyText": "Một nền tảng dễ sử dụng cho cả người mới bắt đầu lẫn các nhà giao dịch có kinh nghiệm, nền tảng Stockbanx MT4 được tối ưu hóa để giao dịch trong mọi điều kiện thị trường. Bắt đầu giao dịch tài sản tài chính trên nền tảng trực tuyến phổ biến nhất hiện nay.",
+
+  "IB Program": "Chương trình IB",
+
+  "Stockbanx is an excellent choice for Introducing Brokers, offering interesting rewards programs and exciting incentives.": "Stockbanx là một lựa chọn tuyệt vời cho các Nhà môi giới tài chính, cung cấp các chương trình phần thưởng thú vị và các ưu đãi hấp dẫn.",
+
+  "Transparent IB Portal": "Cổng thông tin IB minh bạch",
+
+  "Free access to trading tools - You will also be granted access to all our free trading tools to help assist with your trading decisions and help your clients.": "Truy cập miễn phí vào các công cụ giao dịch - Bạn cũng sẽ được cấp quyền truy cập vào tất cả các công cụ giao dịch miễn phí của chúng tôi để giúp hỗ trợ các quyết định giao dịch của bạn và giúp khách hàng của bạn.",
+
+  "Instant Rebate Payments": "Thanh toán lợi nhuận IB tức thì",
+
+  "Competitive and customisable rebate scheme - We always put our clients and partners first. You’ll be rewarded with extremely competitive and customisable rebate options.": "Tùy chỉnh mức hoa hồng cạnh tranh- Chúng tôi luôn đặt khách hàng và đối tác của mình lên hàng đầu. Bạn sẽ nhận được mức hoa hồng cạnh tranh và tùy ý chỉnh sửa theo ý muốn.",
+
+  "Exclusive Rewards": "Phần thưởng độc quyền",
+
+  "Get up to $10 commission for each standard lot your client trade. Be rewarded additionally through our tiered IB Rewards Program, which offers the chance to win a luxury car and other exciting Apple products.": "Nhận hoa hồng lên tới $10 cho mỗi lot tiêu chuẩn mà khách hàng của bạn giao dịch. Được thưởng thêm thông qua Chương trình Phần thưởng IB theo cấp bậc của chúng tôi, mang đến cơ hội nhận được một chiếc ô tô sang trọng và các sản phẩm thú vị khác của Apple.",
+
+  "Flexibility": "Tính linh hoạt",
+
+  "Customized support tailored to your needs. Our team welcomes any special requests that serve your needs and support better trading for your clients.": "Tùy chỉnh hỗ trợ phù hợp với nhu cầu của bạn. Chúng tôi hoan nghênh mọi yêu cầu đặc biệt để phục vụ nhu cầu của bạn và hỗ trợ giao dịch tốt hơn cho khách hàng của bạn.",
+
+  "Market News": "Tin tức thị trường",
+
+  "Choose from a wide range of leveraged products on popular Forex pairs, indices, stocks, commodities, and much more available for trading! Experience a new level of trading with the right support when needed.": "Chọn từ một loạt các sản phẩm có đòn bẩy trên các cặp ngoại hối, chỉ số, cổ phiếu, hàng hóa phổ biến và nhiều sản phẩm có sẵn khác để giao dịch! Trải nghiệm một cấp độ giao dịch hoàn toàn mới với sự hỗ trợ phù hợp khi cần thiết.",
+
+  "12+ years": "Hơn 12 năm",
+
+  "Trade Anytime": "Giao dịch Mọi lúc",
+
+  "Anywhere": "Mọi nơi",
+
+  "22M": "22M",
+
+  "Read More": "Đọc thêm",
+
+  "Indices": "Chỉ số",
+
+  "Trade global indices with competitive conditions": "Chỉ số toàn cầu với các điều kiện cạnh tranh",
+
+  "Zero commission trading on global indices including the FTSE, Nasdaq and Nikkei 225.": "Giao dịch không hoa hồng trên các chỉ số toàn cầu bao gồm FTSE, Nasdaq và Nikkei 225.",
+
+  "Start Now!": "Bắt đầu ngay!",
+
+  "See more instruments": "Xem thêm các công cụ khác",
+
+  "What are indices?": "Chỉ số là gì?",
+
+  "Indices measure the price performance of a group of shares from an exchange. Indices trading is a popular strategy for many traders and investors seeking exposure to an entire market or sector.": "Các chỉ số đo lường hiệu suất giá của một nhóm cổ phiếu từ một cuộc trao đổi. Giao dịch chỉ số là một chiến lược phổ biến đối với nhiều nhà giao dịch và nhà đầu tư muốn tiếp xúc với toàn bộ thị trường hoặc lĩnh vực.",
+
+  "Why trade leveraged products on indices?": "Tại sao lại giao dịch các sản phẩm có đòn bẩy trên các chỉ số?",
+
+  "A leveraged product on indices can benefit you from upward and downward movements based on your position. Instead of buying a single stock, you can speculate on the price of multiple stocks for a lower price, allowing you to diversify your portfolio more.": "Một sản phẩm có đòn bẩy trên các chỉ số có thể mang lại lợi ích cho bạn từ các chuyển động tăng và giảm dựa trên vị thế của bạn. Thay vì mua một cổ phiếu, bạn có thể suy đoán giá của nhiều cổ phiếu với mức giá thấp hơn, cho phép bạn đa dạng hóa danh mục đầu tư của mình hơn.",
+
+  "What are the different types of indices": "Các loại chỉ số khác nhau là gì",
+
+  "Indices are widely traded because they are powerful global and country-specific economic health indicators. We will see below some of the biggest global, regional, and national indices to trade": "Các chỉ số được giao dịch rộng rãi vì chúng là các chỉ số sức khỏe của nền kinh tế toàn cầu và quốc gia cụ thể. Chúng ta sẽ xem bên dưới một số chỉ số toàn cầu, khu vực và quốc gia lớn nhất để giao dịch:",
+
+  "To be deleted": "Bị xóa",
+
+  "Some of the biggest U.S indices:": "Một vài chỉ số lớn nhất của Hoa Kỳ:",
+
+  "S&P 500": "S&P 500",
+
+  "Standard & Poor's 500 Index, also known as the S&P 500, tracks 500 leading publicly traded companies in the United States by market capitalization. It includes companies like Twitter, Cisco Systems, eBay, MasterCard, McDonald's, Nike, PayPal, Pfizer, Starbucks, among others.": "Chỉ số Standard & Poor's 500, còn được gọi là S&P 500, theo dõi 500 công ty giao dịch công khai hàng đầu ở Hoa Kỳ theo giá trị vốn hóa thị trường. Nó bao gồm các công ty như Twitter, Cisco Systems, eBay, MasterCard, McDonald's, Nike, PayPal, Pfizer, Starbucks.",
+
+  "USA30": "USA30",
+
+  "Dow Jones Industrial Average (DJIA) is an index containing stocks from 30 of the largest and most influential companies in the United States, including Apple, Chevron, Coca-Cola, Exxon Mobil, Visa, Goldman Sachs, and JPMorgan Chase. ": "Chỉ số Trung bình Công nghiệp Dow Jones (DJIA) là một chỉ số bao gồm các cổ phiếu của 30 công ty lớn nhất và có ảnh hưởng nhất tại Hoa Kỳ, bao gồm Apple, Chevron, Coca-Cola, Exxon Mobil, Visa, Goldman Sachs và JPMorgan Chase. ",
+
+  "TECH 100": "TECH 100",
+
+  "The Nasdaq 100 Index is a basket of the 100 largest, most actively traded U.S companies listed on the Nasdaq stock exchange. The index includes companies from various industries except for the financial industry, like commercial and investment banks. These non-financial sectors include retail, biotechnology, industrial, technology, health care, and others.": "Chỉ số Nasdaq 100 là một rổ gồm 100 công ty lớn nhất, được giao dịch tích cực nhất của Hoa Kỳ được niêm yết trên thị trường chứng khoán Nasdaq. Chỉ số này bao gồm các công ty từ các ngành công nghiệp khác nhau ngoại trừ ngành tài chính, như ngân hàng thương mại và đầu tư. Các lĩnh vực phi tài chính này bao gồm bán lẻ, công nghệ sinh học, công nghiệp, công nghệ, chăm sóc sức khỏe và các lĩnh vực khác.",
+
+  "Regional": "Khu vực",
+
+  "Regional indices include companies from specific regions.": "Các chỉ số khu vực bao gồm các công ty từ các khu vực cụ thể.",
+
+  "Some of the biggest EU indices:": "Một số chỉ số lớn nhất của EU:",
+
+  "DAX40": "DAX30",
+
+  "The DAX is a German blue-chip stock market index that tracks the performance of the 40 largest companies trading on the Frankfurt Stock Exchange. It covers sectors such as clothing, insurance, manufacturing, energy, transport, and many others.": "DAX là chỉ số thị trường chứng khoán blue-chip của Đức theo dõi hiệu suất của 40 công ty lớn nhất giao dịch trên Sở giao dịch chứng khoán Frankfurt. Nó bao gồm các lĩnh vực như quần áo, bảo hiểm, sản xuất, năng lượng, vận tải và nhiều lĩnh vực khác.",
+
+  "FTSE100": "FTSE100",
+
+  "It is also known as the UK100 and is a list of the UK's hundred biggest companies by market capitalization. These companies include Unilever, Tesco, Barclays, Vodafone Group, GlaxoSmithKline and Sainsbury's covering industries such as food, pharmaceuticals, electronic products, banks, telecommunications and more.": "Nó còn được gọi là UK100 và là danh sách hàng trăm công ty lớn nhất của Vương quốc Anh theo giá trị vốn hóa thị trường. Những công ty này bao gồm Unilever, Tesco, Barclays, Vodafone Group, GlaxoSmithKline và Sainsbury's bao gồm các ngành công nghiệp như thực phẩm, dược phẩm, sản phẩm điện tử, ngân hàng, viễn thông, v.v.",
+
+  "EUROSTOXX": "EUROSTOXX",
+
+  "The index covers 12 European countries and represents the 50 largest companies in Europe, such as Bayer, Danone, and Volkswagen Group, among others, listed in other European indices.": "Chỉ số này bao gồm 12 quốc gia châu Âu và đại diện cho 50 công ty lớn nhất ở châu Âu, chẳng hạn như Bayer, Danone và Volkswagen Group, trong số những công ty khác, được liệt kê trong các chỉ số châu Âu khác.",
+
+  "National": "Quốc gia",
+
+  "Typically, national indices are used to reflect investor sentiment on the health of the economy inside a given country by analysing the performance of the stock market.": "Thông thường, các chỉ số quốc gia được sử dụng để phản ánh tâm lý của nhà đầu tư về sức khỏe của nền kinh tế trong một quốc gia nhất định bằng cách phân tích hoạt động của thị trường chứng khoán.",
+
+  "Some of the national indices covering Asia-Pacific region:": "Một số chỉ số quốc gia khu vực châu Á - Thái Bình Dương:",
+
+  "JAPAN225": "JAPAN225",
+
+  "The Nikkei is short for Japan's Nikkei 225 Stock Average, the leading and most-respected index of Japanese stocks. It is a price-weighted index composed of Japan's top 225 blue-chip companies traded on the Tokyo Stock Exchange.": "Chỉ số Nikkei là viết tắt của Nikkei 225 Stock Average của Nhật Bản, chỉ số chứng khoán hàng đầu và được kính trọng nhất của Nhật Bản. Nó là một chỉ số theo giá bao gồm 225 công ty blue-chip hàng đầu của Nhật Bản được giao dịch trên thị trường chứng khoán Tokyo.",
+
+  "HONGKONG50": "HONGKONG50",
+
+  "The Hang Seng Index or HSI is a free-float market capitalization-weighted index of the sixty largest companies that trade on the Hong Kong Exchange (HKEx). HKEx is among the largest stock exchanges in the world, with an aggregate market cap of more than $38 trillion as of 2022.": "Chỉ số Hang Seng hay HSI là chỉ số trọng số vốn hóa thị trường thả nổi tự do của sáu mươi công ty lớn nhất giao dịch trên Sàn giao dịch Hồng Kông (HKEx). HKEx là một trong những sàn giao dịch chứng khoán lớn nhất thế giới, với tổng vốn hóa thị trường hơn 38 nghìn tỷ USD tính đến năm 2022.",
+
+  "ASX200": "ASX200",
+
+  "The S&P/ASX 200 Index is the benchmark institutional investable stock market index in Australia, comprising the 200 largest stocks by float-adjusted market capitalization. ": "Chỉ số S&P/ASX 200 là chỉ số chuẩn về thị trường chứng khoán có thể đầu tư của tổ chức ở Úc, bao gồm 200 cổ phiếu lớn nhất theo vốn hóa thị trường được điều chỉnh thả nổi. ",
+
+  "Trade Indices": "Giao dịch Chỉ số chứng khoán",
+
+  "How to trade leveraged products on indices": "Cách giao dịch các Chỉ số chứng khoán có đòn bẩy",
+
+  "Go to the indices section and choose your favorite instrument": "Chuyển đến phần chỉ số và chọn sản phẩm yêu thích của bạn",
+
+  "How to trade leveraged products on commodities": "Cách giao dịch các sản phẩm hàng hóa có đòn bẩy",
+
+  "Learn more": "Tìm hiểu thêm",
+
+  "Global": "Toàn cầu",
+
+  "Global indices relay companies regardless of which stock exchange they are listed on and based.": "Các chỉ số toàn cầu kết nối với các công ty bất kể họ được niêm yết hay dựa trên sàn giao dịch chứng khoán nào.",
+
+  "How To Trade Leveraged Products On Indices": "Cách giao dịch các Chỉ số chứng khoán có đòn bẩy",
+
+  "Trade Indices with Stockbanx": "Giao dịch Chỉ số với Stockbanx",
+
+  "Take advantage of trading CFDs on indices like US500, UK100, and more, using MT4 on any device you prefer. Trade US30 with leverage up to 1:200 and low spreads.": "Khám phá giao dịch CFD trên các chỉ số như US500, UK100, v.v. bằng cách sử dụng MT4 trên bất kỳ thiết bị nào bạn muốn. Giao dịch US30 với đòn bẩy lên tới 1:100 và chênh lệch thấp.",
+
+  "partnerHead": "Nhận tới <span class='lot-trade'> $10 </span> đô la cho mỗi lot được giao dịch bởi khách hàng của bạn",
+
+  "Why Partner With Stockbanx?": "Tại sao lại hợp tác với Stockbanx?",
+
+  "Partnering with individuals and companies who share our values helps us power the pursuit of financial freedom for ambitious individuals.": "Hợp tác với các cá nhân và công ty giúp chia sẻ các giá trị của chúng tôi. Điều đó giúp chúng tôi tăng cường sức mạnh theo đuổi tự do tài chính cho các cá nhân đầy tham vọng.",
+
+  "Commission Rebate": "Chiết Khấu Hoa Hồng",
+
+  "Earn 10$ per lot on every trade you make today. There are no minimum requirements to qualify.": "Kiếm tới $10 trên lot giao dịch bạn thực hiện ngay hôm nay. Không có yêu cầu tối thiểu để tham gia.",
+
+  "Advanced Platforms": "Nền tảng nâng cao",
+
+  "Trading platforms with user-friendly interfaces provide comprehensive tools for price analysis and technical analysis.": "Các nền tảng giao dịch có giao diện thân thiện với người dùng cung cấp các công cụ toàn diện để phân tích giá và phân tích kỹ thuật.",
+
+  "Great Rewards": "Phần thưởng hấp dẫn",
+
+  "Partner with Stockbanx International and earn great rewards. Benefit from our Rewards Program today by introducing new clients.": "Hợp tác với Stockbanx và nhận ưu đãi hấp dẫn. Hưởng lợi từ Chương trình Phần thưởng của chúng tôi ngay hôm nay bằng cách giới thiệu khách hàng mới.",
+
+  "Support tailored to your needs. Whenever you have a special request, we're happy to help.": "Hỗ trợ phù hợp với nhu cầu của bạn. Bất cứ khi nào bạn có yêu cầu đặc biệt, chúng tôi luôn sẵn lòng trợ giúp.",
+
+  "Support": "Hỗ trợ",
+
+  "Creative support and free marketing materials, including banners, business cards, newsletters, and promotional materials": "Hỗ trợ sáng tạo và tài liệu tiếp thị miễn phí, bao gồm biểu ngữ, danh thiếp, bản tin và tài liệu quảng cáo",
+
+  "Cutting-edge and intuitive trading platform for on-the-go traders.": "Hỗ trợ phù hợp với nhu cầu của bạn. Bất cứ khi nào bạn có yêu cầu đặc biệt, chúng tôi luôn sẵn lòng trợ giúp..",
+
+  "How To Partner With Stockbanx?": "Làm thế nào để hợp tác với Stockbanx?",
+
+  "Get up to $10 commission for each standard lot your client trades. Be rewarded additionally through our tiered IB Rewards Program, which offers the chance to win a luxury car and other exciting Apple products.": "Nhận hoa hồng lên tới $10 cho mỗi lot tiêu chuẩn mà khách hàng của bạn giao dịch. Được thưởng thêm thông qua Chương trình Phần thưởng IB theo cấp bậc, mang đến cơ hội giành được một chiếc ô tô sang trọng và các sản phẩm thú vị khác của Apple.",
+
+  "Starting": "Bắt đầu",
+
+  "from $10": "từ $10",
+
+  "Unlock the earnings potential with our IB Program and get rewards for every trade.": "Mở khóa tiềm năng kiếm tiền với Chương trình IB của chúng tôi và nhận phần thưởng cho mọi giao dịch",
+
+  "Instant": "Tức thì",
+
+  "Payment": "Thanh toán",
+
+  "Get paid starting from $10 per lot": "Nhận từ $10 mỗi lô",
+
+  "They Trade,": "Họ giao dịch,",
+
+  "You Earn!": "Bạn nhận tiền!",
+
+  "The more you refer, the greater your rewards. Start referring today and earn more.": "Bạn giới thiệu càng nhiều, phần thưởng của bạn càng lớn. Bắt đầu giới thiệu ngay hôm nay và kiếm thêm tiền",
+
+  "IB Partners": "Đối tác IB",
+
+  "Portal!": "Cổng thông tin!",
+
+  "an IB portal that offers advanced tools and an intuitive interface, so you can manage your clients with ease.": "Cổng thông tin IB cung cấp các công cụ nâng cao và giao diện trực quan để bạn có thể quản lý khách hàng của mình một cách dễ dàng.",
+
+  "Metatrader 4 Trading Platform": "Nền tảng giao dịch Metatrader 4",
+
+  "Trade on the world's most popular platform": "Giao dịch trên nền tảng phổ biến nhất thế giới",
+
+  "Sign up": "Đăng ký",
+
+  "Why Stockbanx Metatrader 4": "Vì sao là Stockbanx Metatrader 4",
+
+  "With MetaTrader 4, traders can chart assets, place orders, and manage positions with everything they need. With advanced trading infrastructure, competitive pricing, and superior order execution, Stockbanx MT4 is one of the most powerful online forex trading platforms.": "Với MetaTrader 4, các nhà giao dịch có thể lập biểu đồ tài sản, đặt lệnh và quản lý các vị thế bằng mọi thứ họ cần. Với cơ sở hạ tầng giao dịch tiên tiến, giá cả cạnh tranh và khớp lệnh vượt trội, Stockbanx MT4 là một trong những nền tảng giao dịch ngoại hối trực tuyến tuyệt vời nhất. Với giao diện người dùng trực quan và khả năng giao dịch mạnh mẽ,",
+
+  "With its intuitive user interface and powerful trading capabilities, MT4 is the most popular retail platform, used by millions worldwide traders.": "MT4 là nền tảng bán lẻ phổ biến nhất, được sử dụng bởi hàng triệu nhà giao dịch trên toàn thế giới.",
+
+  "Get The Best Of": "Tận dụng tối đa",
+
+  "cTrader's mission is to balance simple and complex functionality. It is an intuitive and easy-to-use trading platform for new and advanced traders.": "Nhiệm vụ của cTrader là cân bằng chức năng đơn giản và phức tạp. Đây là một nền tảng giao dịch trực quan và dễ sử dụng dành cho cả nhà giao dịch mới và chuyên nghiệp.",
+
+  "57 preinstalled technical indicators": "57 chỉ báo kỹ thuật được cài đặt sẵn",
+
+  "24 analytical charting tools": "24 công cụ phân tích biểu đồ",
+
+  "3 chart types & 9 time frames": "3 loại biểu đồ & 9 khung thời gian",
+
+  "1-click trading & trade from charts": "Giao dịch với 1 cú nhấp chuột & giao dịch từ biểu đồ",
+
+  "Trailing Stop": "Lệnh Trailing Stop",
+
+  "Easy to use interface": "Giao diện dễ sử dụng",
+
+  "Fully customizable charts": "Biểu đồ hoàn toàn tùy biến",
+
+  "Add custom EAs & indicators": "Thêm tùy chỉnh EAs & chỉ số",
+
+  "News feed & broker mailbox": "Nguồn cấp tin tức & hộp thư môi giới",
+
+  "Available for Windows or Mac": "Có sẵn cho Windows hoặc Mac",
+
+  "Download MT4": "Tải xuống MT4",
+
+  "Trade thousands of leveraged products instruments, including Forex, Shares, Metals, Indices and more. Execute orders and analyze markets on the go with our award-winning mobile platform.": "Giao dịch hàng nghìn công cụ sản phẩm có đòn bẩy, bao gồm Ngoại hối, Cổ phiếu, Kim loại, Chỉ số, v.v. Thực hiện các lệnh và phân tích thị trường mọi lúc mọi nơi với nền tảng di động đã giành giải thưởng của chúng tôi.",
+
+  "Metatrader 5 Trading Platform": "Nền tảng giao dịch Metatrader 5",
+
+  "The most advanced trading platform": "Nền tảng giao dịch tiên tiến nhất",
+
+  "About MT5": "Giới thiệu về MT5",
+
+  "MT5, or MetaTrader 5, is the successor of MetaTrader 4 (MT4), a popular online trading platform. It was originally released as a beta version in 2010 by MetaQuotes Software Corp.": "MT5, hay MetaTrader 5, là phiên bản kế thừa của MetaTrader 4 (MT4), một nền tảng giao dịch trực tuyến phổ biến. Ban đầu, nó được phát hành dưới dạng phiên bản beta vào năm 2010 bởi MetaQuotes Software Corp.",
+
+  "MetaTrader 5 gives you access to trade leveraged products on your favorite instruments. MT5 has improved trading functionalities, enhanced scripting tools, and expert advisors, making it intuitive and advanced.": "Kể từ đó, MetaQuotes đã liên tục phát triển, thử nghiệm và cải tiến MT5, biến nó thành nền tảng giao dịch thế hệ tiếp theo.",
+
+  "Why Stockbanx Metatrader 5": "Vì sao là Stockbanx MetaTrader 5",
+
+  "MT5 provides professional traders with everything they need in today's dynamic markets, including more indicators, market orders, and instruments.": "MT5 cung cấp cho các nhà giao dịch chuyên nghiệp mọi thứ họ cần trong thị trường năng động ngày nay, bao gồm nhiều chỉ báo, lệnh thị trường và công cụ.",
+
+  "Intuitive interface": "Giao diện trực quan",
+
+  "Fully customizable": "Hoàn toàn tùy biến",
+
+  "Advanced analytics": "Phân tích nâng cao",
+
+  "Flexible and convenien": "Linh hoạt và thuận tiện",
+
+  "Secure and stable platform": "Nền tảng an toàn và ổn định",
+
+  "Industry-favourite choice": "Lựa chọn yêu thích của ngành",
+
+  "MetaTrader 5 expert advisors": "Cố vấn chuyên gia MetaTrader 5",
+
+  "More assets, more opportunities": "Thêm tài sản, thêm cơ hội",
+
+  "User-friendly interface": "Thân thiện với người dùng",
+
+  "With a wide range of professional trading features, fast entry, synchronization, and order processing capabilities, cTrader is a one-stop-shop platform preferred by advanced traders.": "Với một loạt các tính năng giao dịch chuyên nghiệp, khả năng nhập lệnh, đồng bộ hóa và xử lý lệnh nhanh chóng, cTrader là nền tảng 'one-stop-shop' được các nhà giao dịch tiên tiến ưa thích.",
+
+  "Why cTrader?": "Tại sao lại là cTrader?",
+
+  "cTrader is a powerful trading platform that offers plenty of educational resources and in-depth market analysis to help you make informed trading decisions.": "cTrader là một nền tảng giao dịch mạnh mẽ cung cấp nhiều tài nguyên giáo dục và phân tích thị trường chuyên sâu để giúp bạn đưa ra các quyết định giao dịch sáng suốt.",
+
+  "State-of-the-art trading technology": "Công nghệ giao dịch tiên tiến nhất",
+
+  "Highly intuitive and advanced interface": "Giao diện trực quan và hiện đại",
+
+  "Fast execution, low latency": "Khớp lệnh nhanh, độ trễ thấp",
+
+  "Cutting edge charting tools": "Công cụ biểu đồ tối tân",
+
+  "cTrader Is For All Types Of Traders": "cTrader dành cho tất cả các loại nhà giao dịch",
+
+  "Key features and benefits": "Các tính năng và lợi ích chính",
+
+  "Detailed analysis and trading indicators": "Phân tích chi tiết và các chỉ số giao dịch",
+
+  "High speed order execution": "Khớp lệnh tốc độ cao",
+
+  "Multiple take-profit orders": "Nhiều lệnh chốt lời",
+
+  "Extensive educational videos": "Video giáo dục mở rộng",
+
+  "Optimized expert advisor's processing": "Tối ưu hóa quá trình cố vấn chuyên gia",
+
+  "Advanced platform customisation": "Tùy chỉnh nền tảng nâng cao",
+
+  "Download cTrader": "Tải xuống cTrader",
+
+  "With cTrader, you can customize your on-the-go trading experience with a variety of order types, technical analysis tools, price alerts, and trade statistics.": "Với cTrader, bạn có thể tùy chỉnh trải nghiệm giao dịch khi đang di chuyển của mình với nhiều loại lệnh, công cụ phân tích kỹ thuật, cảnh báo giá và thống kê giao dịch.",
+
+  "Trade your favorite commodities with competitive conditions": "Hàng hóa yêu thích của bạn với các điều kiện cạnh tranh",
+
+  "With Stockbanx, you can trade the most popular commodities in the world such as Oil, Gold, Natural Gas and many more.": "Chúng tôi cung cấp giao dịch không hoa hồng đối với các mặt hàng phổ biến nhất thế giới như Dầu, Vàng, Khí tự nhiên, v.v.",
+
+  "Which commodities perform better during inflation?": "Những mặt hàng nào hoạt động tốt hơn trong thời kỳ lạm phát?",
+
+  "Commodities—precious metals, agriculture goods, and oil & gas have often been positioned as hedges against inflation. However, commodities tend to respond to changes in the dollar's relative strength in international markets rather than domestic inflation pressures.": "Hàng hóa—kim loại quý, hàng nông nghiệp và dầu khí thường được định vị là hàng rào chống lại lạm phát. Tuy nhiên, hàng hóa có xu hướng phản ứng với những thay đổi về sức mạnh tương đối của đồng đô la trên thị trường quốc tế hơn là áp lực lạm phát trong nước.",
+
+  "Type of commodities": "Loại hàng hóa",
+
+  "By trading leveraged commodities with Stockbanx, you don't have to own any of these assets physically, just trade their price movement. Stockbanx MT4 & MT5 platform offers two types of commodities: energies & metals (hard commodities) and grains & other goods (soft commodities).": "Bằng cách giao dịch hàng hóa có đòn bẩy với Stockbanx, bạn không cần phải sở hữu vật chất bất kỳ tài sản nào trong số này, chỉ cần giao dịch biến động giá của chúng. Nền tảng Stockbanx MT4 & MT5 cung cấp hai loại hàng hóa: năng lượng & kim loại (hàng hóa cứng) và ngũ cốc & hàng hóa khác (hàng hóa mềm).",
+
+  "Energy": "Năng lượng",
+
+  "Start your trading journey with leveraged products on commodities such as natural gas, crude oil and Brent oil.": "Bắt đầu hành trình giao dịch của bạn với các sản phẩm đòn bẩy trên các mặt hàng như khí tự nhiên, dầu thô và dầu Brent.",
+
+  "Metals": "Kim loại",
+
+  "Get started trading leveraged products on popular metals, such as gold, silver, and copper, with zero commissions on the trades you make.": "Bắt đầu giao dịch các sản phẩm có đòn bẩy trên các kim loại phổ biến, chẳng hạn như vàng, bạc và đồng, mà không mất phí hoa hồng cho các giao dịch bạn thực hiện.",
+
+  "Cocoa, sugar, wheat, corn, and coffee are among the soft commodities offered by Stockbanx.": "Ca cao, đường, lúa mì, ngô và cà phê là một trong những mặt hàng mềm do Stockbanx cung cấp.",
+
+  "What affects the prices of commodities?": "Điều gì ảnh hưởng đến giá cả hàng hóa?",
+
+  "Like other markets, commodities are affected by supply and demand. Weather and currency fluctuations are two other variables that play a big role in affecting the price commodities as well.": "Giống như các thị trường khác, hàng hóa bị ảnh hưởng bởi cung và cầu. Biến động thời tiết và tiền tệ là hai biến số khác cũng đóng vai trò lớn trong việc ảnh hưởng đến giá cả hàng hóa.",
+
+  "Grains": "Các loại ngũ cốc",
+
+  "What Are Commodities?": "Hàng hóa là gì?",
+
+  "Go to the Commodities section and choose your favorite instrument": "Chuyển đến phần Hàng Hóa và chọn sản phẩm yêu thích của bạn",
+
+  "Trade your favorite": "Giao dịch sản phẩm yêu thích",
+
+  "Trade Commodities with Stockbanx": "Giao dịch Hàng hóa với Stockbanx",
+
+  "The opportunities are endless. Make the most of your investments with Oil, Gold, Natural Gas, and more! Trade these commodities with leverage up to 1:500 and spreads starting from 30 pips*.": "Các cơ hội là vô tận. Tận dụng tối đa các khoản đầu tư của bạn với Dầu, Vàng, Khí tự nhiên, v.v.! Giao dịch những mặt hàng này với đòn bẩy lên tới 1:1000 và chênh lệch bắt đầu từ 30 pips*.",
+
+  "*Low spreads depend on product and account type.": "*Chênh lệch thấp tùy thuộc vào sản phẩm và loại tài khoản.",
+
+  "Trade stocks with tight spreads": "Giao dịch Cổ phiếu với mức chênh lệch thấp",
+
+  "Trade leveraged products on shares with Stockbanx and get the benefits of our Zero Commission trading.": "Giao dịch các sản phẩm cổ phiếu có đòn bẩy với Stockbanx và nhận các lợi ích từ giao dịch không mất phí của chúng tôi.",
+
+  "Zero Commission on Shares": "Phí giao dịch bằng 0 đối với cổ phiếu",
+
+  "You can trade leveraged products on shares from major markets in the world, including some of the largest companies in the world such as Apple, Tesla, Microsoft, Google, Amazon, and several others.": "Bạn có thể giao dịch các sản phẩm có đòn bẩy trên cổ phiếu từ các thị trường lớn trên thế giới, bao gồm một số công ty lớn nhất thế giới như Apple, Tesla, Microsoft, Google, Amazon và một số công ty khác.",
+
+  "Ready to learn more about stocks?": "Sẵn sàng để tìm hiểu thêm về cổ phiếu?",
+
+  "Find out more about the fundamental and technical factors that affect the price of stocks. You can find the latest updates on the biggest global shares such as Netflix, Google, Amazon, Apple, and many others in the market news and featured articles section.": "Tìm hiểu thêm về các yếu tố cơ bản và kỹ thuật ảnh hưởng đến giá cổ phiếu. Bạn có thể tìm thấy các bản cập nhật mới nhất về các cổ phiếu lớn nhất toàn cầu như Netflix, Google, Amazon, Apple và nhiều công ty khác trong phần tin tức thị trường và bài viết nổi bật.",
+
+  "Fundamental & Technical Analysis": "Phân tích Cơ bản & Kỹ thuật",
+
+  "Traders can decide whether they want to rely exclusively on fundamental or technical analysis or if they would like to combine both.": "Các nhà giao dịch có thể quyết định xem họ muốn chỉ dựa vào phân tích cơ bản hoặc phân tích kỹ thuật hay họ muốn kết hợp cả hai.",
+
+  "Manage Risks": "Quản lý rủi ro",
+
+  "Based on your risk-reward ratio, you can determine how much potential profit you need to counteract a potential loss. If you have a 2:1 ratio, you can expect your potential profit to be twice your potential loss.": "Dựa trên tỷ lệ rủi ro-lợi nhuận, bạn có thể xác định bạn cần bao nhiêu lợi nhuận tiềm năng để chống lại khoản lỗ tiềm ẩn. Nếu bạn có tỷ lệ 2:1, bạn có thể kỳ vọng lợi nhuận tiềm năng của mình sẽ gấp đôi khoản lỗ tiềm năng.",
+
+  "Test your strategy": "Kiểm tra chiến lược của bạn",
+
+  "Investing on a demo account might help you sharpen your skills before trading with real money.": "Đầu tư vào tài khoản demo có thể giúp bạn nâng cao kỹ năng của mình trước khi giao dịch bằng tiền thật.",
+
+  "How to trade leveraged products on shares": "Cách giao dịch các sản phẩm có đòn bẩy trên cổ phiếu",
+
+  "Go to the shares section and choose your favorite instrument": "Chuyển đến phần cổ phiếu và chọn sản phẩm yêu thích của bạn",
+
+  "Trade Stocks with Stockbanx": "Giao dịch cổ phiếu với Stockbanx",
+
+  "Unlock endless potential by trading top stocks like Amazon, Google, and Apple with leverage up to 1:100 and spreads as low as 20 pips*.": "Mở khóa tiềm năng vô tận bằng cách giao dịch các cổ phiếu hàng đầu như Amazon, Google và Apple với tỷ lệ đòn bẩy lên tới 1:20 và mức chênh lệch thấp tới 20 pips*.",
+
+  "How To Make Informed Trading Decision": "Làm thế nào để đưa ra quyết định giao dịch sáng suốt",
+
+  "Financial events provide daily information for your trading decisions. Find out how to develop your market intuition and improve your risk management strategies with resources created by our market analysts.": "Các sự kiện tài chính cung cấp thông tin hàng ngày cho các quyết định giao dịch của bạn. Tìm hiểu cách phát triển trực giác thị trường và cải thiện chiến lược quản lý rủi ro của bạn với các tài liệu do các nhà phân tích thị trường của chúng tôi chia sẻ.",
+
+  "newstrade": "Các nhà giao dịch chuyên nghiệp luôn hành động khi thị trường biến động. Chúng tôi cung cấp phân tích thị trường hàng ngày bao gồm tổng quan cơ bản và kỹ thuật về những tin tức mới nhất ảnh hưởng đến giá của một tài sản cụ thể để giúp bạn đưa ra quyết định giao dịch sáng suốt",
+
+  "Explore a range of educational resources designed to help you improve your trading skills with the latest news and expert analysis.": "Khám phá một loạt các tài liệu giáo dục được thiết kế để giúp bạn cải thiện kỹ năng giao dịch của mình với những tin tức mới nhất và phân tích của chuyên gia.",
+
+  "Plan your trades and get alerts for volatility-causing chart patterns and indicators from our economic calendar.": "Lập kế hoạch giao dịch của bạn và nhận thông báo từ chúng tôi về sự kiện liên quan đến lịch kinh tế sẽ gây biến động các mẫu biểu đồ và chỉ báo",
+
+  "Take advantage of our online webinars and learn how to become a better trader with the help of our team of experts.": "Tận dụng các hội thảo trực tuyến của chúng tôi và tìm hiểu cách để trở thành một nhà giao dịch giỏi hơn với sự trợ giúp từ đội ngũ chuyên gia của Stockbanx.",
+
+  "Live Webinars": "Hội thảo trực tuyến",
+
+  "Take part in live webinars hosted by our expert analysts. Develop new strategies and sharpen your trading skills.": "Tham gia các hội thảo trực tuyến do các chuyên gia phân tích của chúng tôi tổ chức. Phát triển các chiến lược mới và nâng cao kỹ năng giao dịch của bạn.",
+
+  "MT4 Multi-Account Manager": "Trình quản lý nhiều tài khoản MT4",
+
+  "Lot Allocation": "Phân bổ lot",
+
+  "Proportional By Balance": "Theo tỷ lệ theo số dư",
+
+  "Equity Percent Allocation": "Phân bổ phần trăm vốn chủ sở hữu",
+
+  "Allocation by Equal Risk": "Phân bổ theo rủi ro bình đẳng",
+
+  "Percent Allocation by P/L": "Phân bổ phần trăm theo P/L",
+
+  "Proportional By Equity": "Theo tỷ lệ theo vốn chủ sở hữu",
+
+  "Proportional Allocation by P/L": "Phân bổ theo tỷ lệ P/L",
+
+  "Lot multiplier by volume fix": "Hệ số lot theo khối lượng cố định",
+
+  "Money managers can place orders in bulk on all accountsoperating under a master account using Stockbanx's Multi AccountManager (MAM), an integrated software tool that will make theIB's journey more flexible.": "Các nhà quản lý quỹ có thể đặt lệnh số lượng lớn trên tất cả các tài khoản hoạt động dưới một tài khoản chính bằng cách sử dụng Trình quản lý nhiều tài khoản (MAM) của Stockbanx, một công cụ phần mềm tích hợp sẽ giúp hành trình IB của bạn trở nên linh hoạt hơn.",
+
+  "Partner with Stockbanx and receive:": "Trở thành đối tác với Stockbanx và nhận:",
+
+  "Percent Allocation": "Phân bổ phần trăm",
+
+  "Ambassador": "Đại sứ",
+
+  "Trade Forex with Stockbanx": "Giao dịch Ngoại hối với Stockbanx",
+
+  "Maximize your potential by trading the biggest, most sought-after currency pairs such as GBPUSD and EURUSD with leverage up to 1:500 and spreads starting from 1.6 pips*.": "Tối đa hóa tiềm năng của bạn bằng cách giao dịch các cặp tiền tệ lớn nhất, được tìm kiếm nhiều nhất như GBPUSD và EURUSD với tỷ lệ đòn bẩy lên tới 1:1000 và chênh lệch bắt đầu từ 1,6 pips*.",
+
+  "are pairs that do not include the U.S. dollar, but do include at least one of the world's other three major currencies such as USD, EUR, JPY, CAD, GBP and CHF.": "là các cặp không bao gồm đồng đô la Mỹ, nhưng bao gồm ít nhất một trong ba loại tiền tệ chính khác của thế giới như USD, EUR, JPY, CAD, GBP và CHF.",
+
+  "Margin & Leverage": "Ký quỹ & Đòn bẩy",
+
+  "Choose the account type that best fits your trading goals. For any further assistance, you could reach our dedicated support team via email or chat.": "Chọn loại tài khoản phù hợp nhất với mục tiêu giao dịch của bạn. Để được hỗ trợ thêm, bạn có thể liên hệ với nhóm hỗ trợ chuyên dụng của chúng tôi qua email hoặc trò chuyện.",
+
+  "Standard": "Tiêu chuẩn",
+
+  "Platinum": "Bạch kim",
+
+  "Max Leverage": "Đòn bẩy tối đa",
+
+  "Min. Deposits (USD)": "Tiền nạp tối thiểu (USD)",
+
+  "Try Demo Account": "Dùng thử tài khoản Demo",
+
+  "Client funds are guarded in separated bank accounts": "Tiền của khách hàng được bảo vệ trong các tài khoản ngân hàng riêng biệt",
+
+  "Selected": "Đã chọn",
+
+  "soon": "Sắp ra mắt",
+
+  "Apple Airpod": "Tai nghe Airpod của Apple",
+
+  "3rd Generation": "Thế hệ thứ 3",
+
+  "Apple Watch": "Đồng hồ thông minh Apple Watch",
+
+  "Elite": "Ưu tú",
+
+  "Elite+": "Ưu tú+",
+
+  "Luxury car": "Xe hơi sang trọng",
+
+  "Black Tesla": "Tesla Đen",
+
+  "5Days 4Nights": "5 Ngày 4 Đêm",
+
+  "LSE Experience": "Trải nghiệm",
+
+  "Allow Cookies": "Cho phép Cookies",
+
+  "Commodity prices will increase 43% in 2023": "Giá hàng hóa sẽ tăng 43% vào năm 2023",
+
+  "2022 - a `catastrophic` year for the crypto market": "2022 - một năm 'thảm họa' đối với thị trường tiền điện tử",
+
+  "2022: The year that shocked the global financial markets": "2022: Năm gây chấn động thị trường tài chính toàn cầu",
+
+  "Positive Outlook For Gold In 2023": "Triển vọng tích cực cho vàng năm 2023",
+
+  "Nasdaq Soars 2% Ahead Of Q4 Earnings Reports": "Nasdaq tăng vọt 2% trước báo cáo thu nhập quý 4",
+
+  "html1": "html1",
+
+  "html2": "html2",
+
+  "html3": "html3",
+
+  "html4": "html4",
+
+  "html5": "html5",
+
+  "What are the advantages of partnering with Stockbanx International? ": "Những lợi thế của việc hợp tác với Stockbanx International là gì?",
+
+  "How do i open an IB account?": "Làm cách nào để mở tài khoản IB?",
+
+  "What is your IB compensation scheme? ": "Chương trình trả thưởng IB của bạn là gì?␣",
+
+  "How are the IB commissions added to my account?": "Hoa hồng IB được thêm vào tài khoản của tôi như thế nào?",
+
+  "How can I withdraw my IB commissions?": "Làm cách nào tôi có thể rút tiền hoa hồng IB của mình?",
+
+  "How can I refer my clients and add them to my IB account?": "Làm cách nào tôi có thể giới thiệu khách hàng của mình và thêm họ vào tài khoản IB của mình?",
+
+  "What are your trading hours?": "Giờ giao dịch của bạn là gì?",
+
+  "Award-Winning Analyst Expertise:": "Chuyên môn của nhà phân tích từng đoạt giải thưởng:",
+
+  "What spreads do you offer?": "Bạn cung cấp những mức chênh lệch nào?",
+
+  "Where can I view my account balance and check my trading history?": "Tôi có thể xem số dư tài khoản và kiểm tra lịch sử giao dịch của mình ở đâu?",
+
+  "How can I access my historical data?": "Làm cách nào tôi có thể truy cập dữ liệu lịch sử của mình?",
+
+  "What is the minimum account leverage you offer?": "Đòn bẩy tài khoản tối thiểu mà bạn cung cấp là gì?",
+
+  "At what level will my position be stopped-out?": "Vị trí của tôi sẽ bị dừng ở cấp độ nào?",
+
+  "What are precious metal trading hours?": "Giờ giao dịch kim loại quý là gì?",
+
+  "Can I trade outside of trading hours?": "Tôi có thể giao dịch ngoài giờ giao dịch không?",
+
+  "Are Third Party payments allowed with Stockbanx?": "Thanh toán của bên thứ ba có được phép với Stockbanx không?",
+
+  "How do I deposit funds into my account?": "Làm cách nào để gửi tiền vào tài khoản của tôi?",
+
+  "What is the minimum deposit?": "Khoản tiền gửi tối thiểu là gì?",
+
+  "What is the minimum withdrawal?": "Số tiền rút tối thiểu là bao nhiêu?",
+
+  "What are the charges on deposits and withdrawals?": "Phí gửi tiền và rút tiền là gì?",
+
+  "How long does it take to process a withdrawal?": "Mất bao lâu để xử lý một giao dịch rút tiền?",
+
+  "How long does it take for funds to reach my bank account?": "Mất bao lâu để tiền đến được tài khoản ngân hàng của tôi?",
+
+  "What are your fees/charges/overnight fees?": "Phí/phí/phí qua đêm của bạn là gì?",
+
+  "What are the advantages of partnering with Stockbanx?": "Những lợi thế của việc hợp tác với Stockbanx là gì?",
+
+  "How do I open an IB account?": "Làm cách nào để mở tài khoản IB?",
+
+  "What is your IB compensation scheme?": "Kế hoạch bồi thường IB của bạn là gì?",
+
+  "How do I log in to my account using the Android app for MT4?": "Làm cách nào để tôi đăng nhập vào tài khoản của mình bằng ứng dụng Android dành cho MT4?",
+
+  "How do I log in to my account using the iPhone app for MT4?": "Làm cách nào để tôi đăng nhập vào tài khoản của mình bằng ứng dụng iPhone dành cho MT4?",
+
+  "I forgot my MT4 password – what do I do?": "Tôi quên mật khẩu MT4 – tôi phải làm gì?",
+
+  "How can I change my MT4 Password?": "Làm cách nào để thay đổi Mật khẩu MT4 của tôi?",
+
+  "What commission is charged for trading on the MT4 platform?": "Phí hoa hồng khi giao dịch trên nền tảng MT4 là bao nhiêu?",
+
+  "How do I change my leverage?": "Làm cách nào để thay đổi đòn bẩy của tôi?",
+
+  "How do I install an Expert Advisor on MT4?": "Làm cách nào để tôi cài đặt Expert Advisor trên MT4?",
+
+  "How do I add indicators to my chart?": "Làm cách nào để thêm các chỉ báo vào biểu đồ của tôi?",
+
+  "How do I open a chart in MT4?": "Làm cách nào để mở biểu đồ trong MT4?",
+
+  "How do I modify or delete a trade on the MT4 platform?": "Làm cách nào để sửa đổi hoặc xóa giao dịch trên nền tảng MT4?",
+
+  "How do I change the time frame of my chart?": "Làm cách nào để thay đổi khung thời gian của biểu đồ?",
+
+  "How do I zoom in/out of my chart?": "Làm cách nào để phóng to/thu nhỏ biểu đồ của tôi?",
+
+  "What account types do you offer?": "Bạn cung cấp những loại tài khoản nào?",
+
+  "What is the minimum deposit for Classic account?": "Khoản tiền gửi tối thiểu cho tài khoản Classic là bao nhiêu?",
+
+  "What is the minimum deposit for Prime account?": "Khoản tiền gửi tối thiểu cho tài khoản Prime là bao nhiêu?",
+
+  "How can I request for a Demo account?": "Làm cách nào tôi có thể yêu cầu tài khoản Demo?",
+
+  "Is a Swap Free account available?": "Tài khoản Swap Free có sẵn không?",
+
+  "How do I top up my Demo account with funds?": "Làm cách nào để nạp tiền vào tài khoản Demo của tôi?",
+
+  "How long can I practice on my Demo account?": "Tôi có thể thực hành trong bao lâu trên tài khoản Demo của mình?",
+
+  "Are the spreads on your demo account the same as live?": "Mức chênh lệch trên tài khoản demo của bạn có giống với mức chênh lệch trực tiếp không?",
+
+  "Can I trade all products (FX, CFDs, commodities) from one Demo account?": "Tôi có thể giao dịch tất cả các sản phẩm (FX, CFD, hàng hóa) từ một tài khoản Demo không?",
+
+  "How can I create a Demo account on the MT4 trading platform?": "Làm cách nào để tạo tài khoản Demo trên nền tảng giao dịch MT4?",
+
+  "How do I open an Islamic account?": "Làm cách nào để mở một tài khoản Hồi giáo?",
+
+  "What is the maximum leverage you offer?": "Đòn bẩy tối đa bạn cung cấp là gì?",
+
+  "What is the minimum trade size?": "Quy mô giao dịch tối thiểu là gì?",
+
+  "What is the maximum trade size?": "Quy mô giao dịch tối đa là bao nhiêu?",
+
+  "What is your margin call?": "Cuộc gọi ký quỹ của bạn là gì?",
+
+  "What is your order execution speed?": "Tốc độ thực hiện lệnh của bạn là gì?",
+
+  "Can I open a Demo account?": "Tôi có thể mở tài khoản Demo không?",
+
+  "Can I open a swap-free account?": "Tôi có thể mở một tài khoản miễn phí qua đêm không?",
+
+  "How do I open a live account?": "Làm cách nào để mở một tài khoản trực tiếp?",
+
+  "What are the advantages of trading with Stockbanx?": "Những lợi thế của giao dịch với Stockbanx là gì?",
+
+  "As a Stockbanx partner, you will immediately benefit from the following: Commission Rebate: Start earning 10$ per lot today on every trade. No minimum requirements to qualify.Innovation: Experience our powerful software to track your introduced accounts and their activity easily.Loyalty: A unique loyalty program that recognizes your effortsMarketing Support: Full creative support and free marketing materials: Professionally designed banners Business cards Newsletters Promotional materials\nAdvanced Platforms: User-friendly trading platforms with ideal trading conditions.Flexibility: Customized support tailored to your needs. Our team welcomes any special requests that serve your needs and support better trading for your clients.": "Với tư cách là đối tác Stockbanx, bạn sẽ ngay lập tức được hưởng lợi từ những điều sau: Chiết khấu hoa hồng: Bắt đầu kiếm 10 đô la mỗi lô ngay hôm nay trên mọi giao dịch. Không có yêu cầu tối thiểu để đủ điều kiện. Đổi mới: Trải nghiệm phần mềm mạnh mẽ của chúng tôi để theo dõi các tài khoản được giới thiệu của bạn và hoạt động của họ một cách dễ dàng. Mức độ trung thành: Một chương trình khách hàng thân thiết độc đáo ghi nhận những nỗ lực của bạn Hỗ trợ tiếp thị: Hỗ trợ sáng tạo đầy đủ và tài liệu tiếp thị miễn phí: Biểu ngữ được thiết kế chuyên nghiệp Danh thiếp Bản tin Tài liệu quảng cáo\nNền tảng nâng cao: Nền tảng giao dịch thân thiện với người dùng với các điều kiện giao dịch lý tưởng. Tính linh hoạt: Hỗ trợ tùy chỉnh phù hợp với nhu cầu của bạn. Nhóm của chúng tôi hoan nghênh mọi yêu cầu đặc biệt phục vụ nhu cầu của bạn và hỗ trợ giao dịch tốt hơn cho khách hàng của bạn.",
+
+  "Sign up: Join our IB program and earn ongoing commissions from the trading activity of your clients.Refer: Start referring clients and track the daily volume trading of your referrals in our bespoke IB Portal. When your Client completes the registration form in the Client Portal and opens an MT4 account, your IB code will be provided by default.Earn Up to $10 per lot on your clients’ trading. The more they trade, the more you make!": "Đăng ký: Tham gia chương trình IB của chúng tôi và kiếm tiền hoa hồng liên tục từ hoạt động giao dịch của khách hàng của bạn. Giới thiệu: Bắt đầu giới thiệu khách hàng và theo dõi khối lượng giao dịch hàng ngày của những người bạn giới thiệu trong Cổng thông tin IB riêng của chúng tôi. Khi Khách hàng của bạn hoàn thành biểu mẫu đăng ký trong Cổng thông tin khách hàng và mở tài khoản MT4, mã IB của bạn sẽ được cung cấp theo mặc định. Kiếm tới $10 mỗi lô từ giao dịch của khách hàng. Họ giao dịch càng nhiều, bạn càng kiếm được nhiều tiền!",
+
+  "CPTClassic: Earn $10 per lot on your clients’ trading.CPTPrime: Earn $3 per lot on your clients’ trading.": "CPTClassic: Kiếm $10 mỗi lô từ giao dịch của khách hàng của bạn.CPTPrime: Kiếm $3 mỗi lô từ giao dịch của khách hàng của bạn.",
+
+  "All your clients trading activities are automatically displayed at EOD in your IB portal, along with the calculated commission": "Tất cả các hoạt động giao dịch của khách hàng của bạn được tự động hiển thị tại EOD trong cổng IB của bạn, cùng với hoa hồng được tính",
+
+  "You can withdraw your IB commission anytime from the IB Portal.": "Bạn có thể rút tiền hoa hồng IB của mình bất cứ lúc nào từ Cổng thông tin IB.",
+
+  "You should provide your clients with a unique IB referral link. Your clients will use that link to access our website; once they register through the Client Portal and open a live account, you will immediately see them added to your IB Portal.": "Bạn nên cung cấp cho khách hàng của mình một liên kết giới thiệu IB duy nhất. Khách hàng của bạn sẽ sử dụng liên kết đó để truy cập trang web của chúng tôi; sau khi họ đăng ký qua Cổng thông tin khách hàng và mở tài khoản trực tiếp, bạn sẽ thấy ngay họ được thêm vào Cổng thông tin IB của bạn.",
+
+  "Trading hours for every instrument can be accessed in your MT4 Platform (Market Watch - Choose the symbol - Specification).": "Giờ giao dịch cho mọi công cụ có thể được truy cập trong Nền tảng MT4 của bạn (Theo dõi thị trường - Chọn ký hiệu - Thông số kỹ thuật).",
+
+  "We have recently partnered with Trading Central, the award-winning user interface and analyst expertise that empowers today`s traders in validating suitable opportunities and optimizing their trading strategies.": "Gần đây, chúng tôi đã hợp tác với Trading Central, giao diện người dùng từng đoạt giải thưởng và chuyên môn phân tích giúp trao quyền cho các nhà giao dịch ngày nay trong việc xác thực các cơ hội phù hợp và tối ưu hóa các chiến lược giao dịch của họ.",
+
+  "We offer floating spreads for the Stockbanx Classic and the Stockbanx Prime accounts.\nThe Stockbanx Classic account offers spreads starting from 1.4 pips with no commissions. The Stockbanx Prime account offer spreads starting from 0.7 pip with no commissions.": "Chúng tôi cung cấp mức chênh lệch thả nổi cho các tài khoản Stockbanx Classic và Stockbanx Prime.\nTài khoản Stockbanx Classic cung cấp mức chênh lệch bắt đầu từ 1,4 pip mà không có hoa hồng. Ưu đãi tài khoản Stockbanx Prime có mức chênh lệch bắt đầu từ 0,7 pip mà không có hoa hồng.",
+
+  "Your account balance and trading history are available in the MT4 platform. They can also be accessed in the Client Portal.": "Số dư tài khoản và lịch sử giao dịch của bạn có sẵn trên nền tảng MT4. Chúng cũng có thể được truy cập trong Cổng khách hàng.",
+
+  "Historical data could be accessed from the MT4 trading platform, by clicking on the following: Tools - History Centre - Choose Instrument - Download.\nTo review your historical data, you need to click on the following: File - Open Offline - Open Offline Chart.": "Dữ liệu lịch sử có thể được truy cập từ nền tảng giao dịch MT4 bằng cách nhấp vào các mục sau: Công cụ - Trung tâm lịch sử - Chọn công cụ - Tải xuống.\nĐể xem lại dữ liệu lịch sử của mình, bạn cần nhấp vào mục sau: Tệp - Mở ngoại tuyến - Mở biểu đồ ngoại tuyến.",
+
+  "The minimum leverage we offer is 1:50.": "Đòn bẩy tối thiểu chúng tôi cung cấp là 1:50.",
+
+  "When your margin level percentage drops to 50% and 30% stop-out level.": "Khi tỷ lệ phần trăm mức ký quỹ của bạn giảm xuống 50% và mức dừng giao dịch 30%.",
+
+  "Precious metals operate on similar trading hours to forex with the additional daily break at 21.00-22.00 GMT during BST (British Summer Time) and 22.00-23.00 during GMT DST (Daylight Saving Time).": "Kim loại quý hoạt động theo giờ giao dịch tương tự như ngoại hối với giờ nghỉ bổ sung hàng ngày là 21:00-22:00 GMT trong BST (Giờ mùa hè của Anh) và 22:00-23:00 trong GMT DST (Giờ tiết kiệm ánh sáng ban ngày).",
+
+  "Unfortunately, no. Trades can only be placed during open market hours – but the markets will continue to evolve 24/7. Some traders prefer to use stop loss orders to minimise risk, to always check rolling fees & contract expiry dates before placing a trade to ensure they run as planned.": "Tiếc là không có. Giao dịch chỉ có thể được thực hiện trong giờ thị trường mở – nhưng thị trường sẽ tiếp tục phát triển 24/7. Một số nhà giao dịch thích sử dụng lệnh cắt lỗ để giảm thiểu rủi ro, luôn kiểm tra phí luân chuyển và ngày hết hạn hợp đồng trước khi đặt giao dịch để đảm bảo giao dịch diễn ra theo đúng kế hoạch.",
+
+  "Third-party payments are not allowed whether you are funding your trading account or making a withdrawal request. Stockbanx only accepts and returns funds to the original source matching the trading account holder`s name.": "Thanh toán của bên thứ ba không được phép cho dù bạn đang cấp tiền cho tài khoản giao dịch của mình hay thực hiện yêu cầu rút tiền. Stockbanx chỉ chấp nhận và trả tiền về nguồn ban đầu khớp với tên của chủ tài khoản giao dịch.",
+
+  "You can securely deposit funds in your Client Portal using any of the several available payment options. To access payment options, clickhere.": "Bạn có thể gửi tiền một cách an toàn vào Cổng thông tin khách hàng của mình bằng bất kỳ tùy chọn thanh toán nào có sẵn. Để truy cập các tùy chọn thanh toán, hãy nhấp vào đây.",
+
+  "The minimum deposit for the Stockbanx Classic Account is 0. The minimum deposit for the Stockbanx Prime Account is $5000.": "Khoản tiền gửi tối thiểu cho Tài khoản Stockbanx Classic là 0. Khoản tiền gửi tối thiểu cho Tài khoản Stockbanx Prime Và ECN là $1000.",
+
+  "The minimum withdrawal for the Stockbanx Classic and the Stockbanx Prime account is $50.": "Số tiền rút tối thiểu cho tài khoản Stockbanx Classic và Stockbanx Prime là $50.",
+
+  "We do not charge any fees on deposits and withdrawals.Note: External fees might apply depending on your payment method.": "Chúng tôi không tính bất kỳ khoản phí nào đối với tiền gửi và rút tiền. Lưu ý: Phí bên ngoài có thể áp dụng tùy thuộc vào phương thức thanh toán của bạn.",
+
+  "We process withdrawal requests within one working day.": "Chúng tôi xử lý các yêu cầu rút tiền trong vòng một ngày làm việc.",
+
+  "We process withdrawal requests within one working day. The time needed for funds to be deposited in your account will depend on your bank`s policy. Bank withdrawals usually take between 3-7 working days, while credit/debit card withdrawals can take up to 8 working days.": "Chúng tôi xử lý các yêu cầu rút tiền trong vòng một ngày làm việc. Thời gian cần thiết để tiền được gửi vào tài khoản của bạn sẽ phụ thuộc vào chính sách của ngân hàng của bạn. Rút tiền qua ngân hàng thường mất từ ​​3-7 ngày làm việc, trong khi rút tiền bằng thẻ tín dụng/thẻ ghi nợ có thể mất tới 8 ngày làm việc.",
+
+  "Apart from spreads, we apply a withdrawal charge and overnight financing fees depending on the product.": "Ngoài chênh lệch, chúng tôi áp dụng phí rút tiền và phí tài trợ qua đêm tùy thuộc vào sản phẩm.",
+
+  "As a Stockbanx partner you will immediately benefit from the following:Commission Rebate: Start earning from 10$ per lot today on every trade, no minimum requirements to qualify. \n\r  Innovation:\n\r Experience our powerful software to easily track your introduced accounts and their activity.\n\r Loyalty: A unique loyalty program that recognizes your efforts.\n\r Marketing Support: Full creative support and free marketing materials:\n\r Professionally designed banners\n\r Business cards\n\r Newsletters\n\r Promotional materials\n\r Advanced Platforms: User-friendly trading platforms with ideal trading conditions.\n\r Flexibility: Customized support tailored to your needs.\n\r Our team welcomes any special requests that serve your needs and support better trading for your clients.": "Là đối tác Stockbanx, bạn sẽ ngay lập tức được hưởng lợi từ những điều sau: Hoàn tiền hoa hồng: Bắt đầu kiếm tiền từ 10 đô la mỗi lô ngay hôm nay trên mỗi giao dịch, không có yêu cầu tối thiểu để đủ điều kiện.\n\n  Sự đổi mới:\n\n Trải nghiệm phần mềm mạnh mẽ của chúng tôi để dễ dàng theo dõi các tài khoản được giới thiệu của bạn và hoạt động của chúng.\n\n Lòng trung thành: Một chương trình lòng trung thành duy nhất ghi nhận những nỗ lực của bạn.\n\n Hỗ trợ tiếp thị: Hỗ trợ sáng tạo đầy đủ và tài liệu tiếp thị miễn phí:\n\n Banner thiết kế chuyên nghiệp\n\n Danh thiếp\n\n bản tin\n\n Tài liệu quảng cáo\n\n Nền tảng nâng cao: Nền tảng giao dịch thân thiện với người dùng với các điều kiện giao dịch lý tưởng.\n\n Tính linh hoạt: Hỗ trợ tùy chỉnh phù hợp với nhu cầu của bạn.\n\n Nhóm của chúng tôi hoan nghênh mọi yêu cầu đặc biệt phục vụ nhu cầu của bạn và hỗ trợ giao dịch tốt hơn cho khách hàng của bạn.",
+
+  "Sign up: Join our IB program and earn ongoing commissions from the trading activity of your clients. \n\r Refer: Start referring clients and track daily volume trading of your referrals in our bespoke IB Portal. When your client completes the registration form in the Client Portal and opens an MT4 account, your IB code will be provided by default.\r Earn: Start earning starting from $10 per lot on your clients’ trading. The more they trade, the more you make!": "Đăng ký: Tham gia chương trình IB của chúng tôi và kiếm tiền hoa hồng liên tục từ hoạt động giao dịch của khách hàng của bạn.\n\n Giới thiệu: Bắt đầu giới thiệu khách hàng và theo dõi khối lượng giao dịch hàng ngày của những người được giới thiệu của bạn trong Cổng thông tin IB riêng của chúng tôi. Khi khách hàng của bạn hoàn thành biểu mẫu đăng ký trong Cổng thông tin khách hàng và mở tài khoản MT4, mã IB của bạn sẽ được cung cấp theo mặc định.\n Kiếm tiền: Bắt đầu kiếm tiền từ $10 mỗi lô trên giao dịch của khách hàng của bạn. Họ giao dịch càng nhiều, bạn càng kiếm được nhiều tiền!",
+
+  "Stockbanx Classic: Earn starting from $10 per lot on your clients` trading.Stockbanx Prime: Earn $3 per lot on your clients’ trading.For registration and more information, please clickhere.": "Stockbanx Classic: Kiếm tiền bắt đầu từ $10 mỗi lô trên giao dịch của khách hàng của bạn.Stockbanx Prime: Kiếm $3 mỗi lô trên giao dịch của khách hàng của bạn. Để đăng ký và biết thêm thông tin, vui lòng nhấp vào đây.",
+
+  "You can withdraw your IB commission once a week from the IB Portal.": "Bạn có thể rút tiền hoa hồng IB của mình mỗi tuần một lần từ Cổng thông tin IB.",
+
+  "All your clients` trading activities are automatically displayed at EOD in your IB portal along with the calculated commission.": "Tất cả các hoạt động giao dịch của khách hàng của bạn sẽ tự động được hiển thị tại EOD trong cổng IB của bạn cùng với hoa hồng được tính toán.",
+
+  "You should provide your clients with a unique IB referral link. Your clients will use that link to access our website, once they register through the Client Portal and open a live account, you will immediately see them added to your IB Portal.": "Bạn nên cung cấp cho khách hàng của mình một liên kết giới thiệu IB duy nhất. Khách hàng của bạn sẽ sử dụng liên kết đó để truy cập trang web của chúng tôi, sau khi họ đăng ký qua Cổng thông tin khách hàng và mở tài khoản trực tiếp, bạn sẽ thấy ngay họ được thêm vào Cổng IB của bạn.",
+
+  "To login into your Stockbanx trading account, select ‘Login to an account’.\nSearch for Stockbanx to find the correct server for your account. Once you have selected the correct server, type in your login & password and then tap ‘Sign in’: Upon successful login, you will see the ‘Quotes’ screen.": "Để đăng nhập vào tài khoản giao dịch Stockbanx của bạn, hãy chọn 'Đăng nhập vào tài khoản'.\nTìm kiếm Stockbanx để tìm đúng máy chủ cho tài khoản của bạn. Khi bạn đã chọn đúng máy chủ, hãy nhập thông tin đăng nhập và mật khẩu của mình, sau đó nhấn ‘Đăng nhập’: Sau khi đăng nhập thành công, bạn sẽ thấy màn hình ‘Báo giá’.",
+
+  "To login into your Stockbanx trading account in the MT4 iPhone app, tap on the ‘Settings’ tab, then ‘Trade Accounts’, then ‘Login to an existing account’. Next, type “CPT\" into the ‘Search’ field, select the relevant server, enter your login and password and tap ‘Sign In’. You will be logged in and redirected to the ‘Quotes’ tab if you have entered your details correctly.": "Để đăng nhập vào tài khoản giao dịch Stockbanx của bạn trong ứng dụng MT4 iPhone, hãy nhấn vào tab 'Cài đặt', sau đó nhấn vào 'Tài khoản giao dịch', sau đó nhấn vào 'Đăng nhập vào tài khoản hiện có'. Tiếp theo, nhập “CPT\" vào trường 'Tìm kiếm', chọn máy chủ phù hợp, nhập thông tin đăng nhập và mật khẩu của bạn rồi nhấn 'Đăng nhập'. Bạn sẽ đăng nhập và được chuyển hướng đến tab 'Báo giá' nếu bạn đã nhập chính xác thông tin của mình .",
+
+  "To access the Client portal, select the “Accounts” section, select the relevant account, and click on the “key – change password” icon. Enter your registered email address and get a code. After submitting the code, please double-enter your new selected password.": "Để truy cập cổng Khách hàng, hãy chọn phần “Tài khoản”, chọn tài khoản có liên quan và nhấp vào biểu tượng “khóa – thay đổi mật khẩu”. Nhập địa chỉ email đã đăng ký của bạn và nhận mã. Sau khi gửi mã, vui lòng nhập hai lần mật khẩu mới đã chọn của bạn.",
+
+  "Reset password from your MT4 platform:Go to your MT4 platform on computer > Click on \"Tools\" (top bar) > \"Options\" > \"Server\" tab > \"Change\" button > Choose to change the Master Password.": "Đặt lại mật khẩu từ nền tảng MT4 của bạn: Truy cập nền tảng MT4 của bạn trên máy tính > Nhấp vào \"Công cụ\" (thanh trên cùng) > \"Tùy chọn\" > tab \"Máy chủ\" > nút \"Thay đổi\" > Chọn thay đổi Mật khẩu chính.",
+
+  "There are no commissions on the Stockbanx Classic or the Stockbanx Prime accounts.": "Không có hoa hồng đối với tài khoản Stockbanx Classic hoặc Stockbanx Prime.",
+
+  "You can request a change to the leverage of your trading account by logging into the Stockbanx Client Portal, clicking on “Accounts” section, selecting the relevant account number, and clicking on the “double arrow - leverage change” icon, selecting the suitable leverage from the options.": "Bạn có thể yêu cầu thay đổi đòn bẩy cho tài khoản giao dịch của mình bằng cách đăng nhập vào Cổng thông tin khách hàng Stockbanx, nhấp vào phần “Tài khoản”, chọn số tài khoản có liên quan và nhấp vào biểu tượng “mũi tên kép - thay đổi đòn bẩy”, chọn tùy chọn phù hợp. đòn bẩy từ các tùy chọn.",
+
+  "To install an Expert Advisor for automated or algorithmic trading, follow these steps:\n\r· Open the MT4 platform Select ‘File’ from the main menu\n\r· Click on ‘Open Data Folder’ to bring up a new folder panel\n\r· Select the ‘MQL4’ folder, followed by the ‘Experts’ file\n\r· Drag and drop your EA file(s) into this folder\n\r· Restart MetaTrader 4 for your changes to take affect\n\rIf your Expert Advisor or Indicator is from the third party, please consult the EA/Indicator`s provider for installation`s troubleshoot.": "Để cài đặt Expert Advisor cho giao dịch tự động hoặc theo thuật toán, hãy làm theo các bước sau:\n\n· Mở nền tảng MT4 Chọn 'Tệp' từ menu chính\n\n· Nhấp vào ‘Mở thư mục dữ liệu’ để hiển thị bảng thư mục mới\n\n· Chọn thư mục ‘MQL4’, tiếp theo là tệp ‘Chuyên gia’\n\n· Kéo và thả (các) tệp EA của bạn vào thư mục này\n\n· Khởi động lại MetaTrader 4 để những thay đổi của bạn có hiệu lực\n\nNếu Expert Advisor hoặc Indicator của bạn đến từ bên thứ ba, vui lòng tham khảo ý kiến ​​của nhà cung cấp EA/Indicator để biết cách khắc phục sự cố khi cài đặt.",
+
+  "Indicators can be found in the ‘Navigator’ panel. After selecting the correct indicator, drag and drop the indicator onto the correct chart. A new panel will appear displaying multiple tabs which can be customized for inputs, colours and visualisation. Once the settings are correct, click ‘OK’ and the indicator will be applied to the chart.": "Bạn có thể tìm thấy các chỉ báo trong bảng điều khiển 'Navigator'. Sau khi chọn đúng chỉ báo, hãy kéo và thả chỉ báo vào đúng biểu đồ. Một bảng điều khiển mới sẽ xuất hiện hiển thị nhiều tab có thể được tùy chỉnh cho đầu vào, màu sắc và hình ảnh. Sau khi cài đặt chính xác, hãy nhấp vào 'OK' và chỉ báo sẽ được áp dụng cho biểu đồ.",
+
+  "Right-click on the desired symbol in the Market Watch window. In the drop-down menu, select ‘Chart Window’.": "Nhấp chuột phải vào biểu tượng mong muốn trong cửa sổ Market Watch. Trong menu thả xuống, chọn 'Cửa sổ biểu đồ'.",
+
+  "Pending orders can be modified by clicking on the trade and selecting the option to `Modify` or `Delete Order`. Open trades cannot be deleted.": "Có thể sửa đổi các lệnh đang chờ xử lý bằng cách nhấp vào giao dịch và chọn tùy chọn `Sửa đổi` hoặc `Xóa lệnh`. Không thể xóa các giao dịch đang mở.",
+
+  "To change the time frame, select the chart then select the time period from the top tool bar. Alternatively, the time frame can be changed by right clicking on the chart, selecting Timeframes then you can choose your preferred option.": "Để thay đổi khung thời gian, hãy chọn biểu đồ rồi chọn khoảng thời gian từ thanh công cụ trên cùng. Ngoài ra, khung thời gian có thể được thay đổi bằng cách nhấp chuột phải vào biểu đồ, chọn Khung thời gian, sau đó bạn có thể chọn tùy chọn ưa thích của mình.",
+
+  "To zoom in/out select the chart you want to view, right click and choose ‘Zoom In’ or ‘Zoom Out’ option. Alternatively, from the main toolbar you can use the magnifying glass icons to zoom in and out.": "Để phóng to/thu nhỏ, hãy chọn biểu đồ bạn muốn xem, nhấp chuột phải và chọn tùy chọn 'Phóng to' hoặc 'Thu nhỏ'. Ngoài ra, từ thanh công cụ chính, bạn có thể sử dụng các biểu tượng kính lúp để phóng to và thu nhỏ.",
+
+  "In addition to our Islamic accounts, we offer 2 account types:Stockbanx Classic and Stockbanx Prime. The main differences are:\n\r Spreads:\n\r The Stockbanx Classic account starts at 1.4pip while the Stockbanx Prime account starts at 0.7pip.\n\r Minimum Deposits:\n\r The Stockbanx Classic account requires 0 minimum deposit while the Stockbanx Prime Account requires a $5000 minimum deposit.\n\r Dedicated Account Executive:\n\r Only available for the Stockbanx Prime accounts.There is no commission for the Stockbanx Classic and Stockbanx Prime accounts.": "Ngoài tài khoản Hồi giáo, chúng tôi còn cung cấp 2 loại tài khoản: Stockbanx Classic và Stockbanx Prime. Sự khác biệt chính là:\n\n Chênh lệch:\n\n Tài khoản Stockbanx Classic bắt đầu ở mức 1,4pip trong khi tài khoản Stockbanx Prime bắt đầu ở mức 0,7pip.\n\n Tiền gửi tối thiểu:\n\n Tài khoản Stockbanx Classic yêu cầu khoản tiền gửi tối thiểu bằng 0 trong khi Tài khoản Stockbanx Prime yêu cầu khoản tiền gửi tối thiểu $5000.\n\n Nhân viên điều hành tài khoản chuyên dụng:\n\n Chỉ có sẵn cho các tài khoản Stockbanx Prime. Không có hoa hồng cho các tài khoản Stockbanx Classic và Stockbanx Prime.",
+
+  "Stockbanx does not have any minimum amount for Classic accounts.": "Stockbanx không có bất kỳ số tiền tối thiểu nào cho tài khoản Cổ điển.",
+
+  "The minimum deposit amount is 5000 USD for Prime account.": "Số tiền gửi tối thiểu là 5000 USD cho tài khoản Prime.",
+
+  "You can register for a demo account by  <a target=\"_blank\" href=\"https://portal.cptinternational.com/#/en/user/register\">clicking</a> here. (Register - Client Portal (cptinternational.com))\nSimply select the Demo account option and complete the requested details. After submitting your information, you will receive an email with your Demo account details.": "Bạn có thể đăng ký tài khoản demo bằng cách <a target=\"_blank\" href=\"https://portal.cptinternational.com/#/en/user/register\">nhấp vào</a> tại đây. (Đăng ký - Cổng thông tin khách hàng (cptinternational.com))\nChỉ cần chọn tùy chọn tài khoản Demo và hoàn thành các chi tiết được yêu cầu. Sau khi gửi thông tin của bạn, bạn sẽ nhận được email có chi tiết tài khoản Demo của mình.",
+
+  "Yes, Stockbanx offers traders a swap-free option trading account.  <a target=\"_blank\" href=\"https://cptmarkets.com/accounts/account-type\">click</a> here for more information.": "Có, Stockbanx cung cấp cho các nhà giao dịch một tài khoản giao dịch quyền chọn miễn phí qua đêm. <a target=\"_blank\" href=\"https://cptmarkets.com/accounts/account-type\">nhấp</a> vào đây để biết thêm thông tin.",
+
+  "To top up your Demo account, please contact us and provide your login number and the additional funds requested.": "Để nạp tiền vào tài khoản Demo của bạn, vui lòng liên hệ với chúng tôi và cung cấp số đăng nhập của bạn cũng như số tiền bổ sung được yêu cầu.",
+
+  "Stockbanx offers a free practicing Demo account for a 30-day trial period after registration.": "Stockbanx cung cấp tài khoản Demo thực hành miễn phí trong thời gian dùng thử 30 ngày sau khi đăng ký.",
+
+  "Yes. The Demo account mirrors our Live Classic or Prime accounts, with the same spreads and swap rates.": "Đúng. Tài khoản Demo phản ánh các tài khoản Live Classic hoặc Prime của chúng tôi, với cùng mức chênh lệch và tỷ lệ hoán đổi.",
+
+  "Yes, all Demo accounts have access to all products, including currencies, commodities, indices, and stocks.": "Có, tất cả các tài khoản Demo đều có quyền truy cập vào tất cả các sản phẩm, bao gồm tiền tệ, hàng hóa, chỉ số và cổ phiếu.",
+
+  "Open the MT4 terminal and follow the instructions: Click on File in the top left corner of the main menu, Go to Open an Account option, Click on Scan and select demo server CPTMarketsLimited-Demo, then click Next, Tick New Demo Account and click Next Fill in your details, select the account type, deposit amount, leverage and tick the Subscribe to Newsletters box, then click Next and You will be given a new set of demo login details.": "Mở phần mềm đầu cuối MT4 và làm theo hướng dẫn: Nhấp vào Tệp ở góc trên cùng bên trái của menu chính, Chuyển đến tùy chọn Mở tài khoản, Nhấp vào Quét và chọn máy chủ demo CPTMarketsLimited-Demo, sau đó nhấp vào Tiếp theo, Đánh dấu vào Tài khoản Demo mới và nhấp vào Tiếp theo Điền thông tin chi tiết của bạn, chọn loại tài khoản, số tiền gửi, đòn bẩy và đánh dấu vào ô Đăng ký nhận bản tin, sau đó nhấp vào Tiếp theo và Bạn sẽ được cung cấp một bộ chi tiết đăng nhập demo mới.",
+
+  "To open an Islamic account, a “Swap-Free Account Agreement” has to be signed, which outlines details of the interest-free nature and general conditions of the account. Please be aware that Stockbanx reserves the right to monitor an interest-free account to ensure it is being used in good faith and for intended purposes. Contact you directly if we suspect any irregular trading behaviour. Please contact our Client Experience Team or Sales Department and we’ll help you through the process.": "Để mở một tài khoản Hồi giáo, bạn phải ký \"Thỏa thuận tài khoản miễn phí qua đêm\", trong đó nêu chi tiết về bản chất miễn lãi và các điều kiện chung của tài khoản. Xin lưu ý rằng Stockbanx bảo lưu quyền giám sát tài khoản miễn lãi để đảm bảo tài khoản đó được sử dụng một cách thiện chí và đúng mục đích. Liên hệ trực tiếp với bạn nếu chúng tôi nghi ngờ bất kỳ hành vi giao dịch bất thường nào. Vui lòng liên hệ với Nhóm trải nghiệm khách hàng hoặc Phòng kinh doanh của chúng tôi và chúng tôi sẽ giúp bạn thực hiện quy trình.",
+
+  "The Maximum leverage we offer is 1:500, depending on the jurisdiction where the client is being onboarded.": "Đòn bẩy tối đa mà chúng tôi cung cấp là 1:500, tùy thuộc vào khu vực tài phán mà khách hàng đang được giới thiệu.",
+
+  "This will depend on the instruments you are trading. Right-click on the product to check the minimum trade size and choose specification.": "Điều này sẽ phụ thuộc vào các công cụ bạn đang giao dịch. Nhấp chuột phải vào sản phẩm để kiểm tra quy mô giao dịch tối thiểu và chọn thông số kỹ thuật.",
+
+  "This will depend on the instruments you are trading. To check the maximum trade size, right-click on the product and choose specification.": "Điều này sẽ phụ thuộc vào các công cụ bạn đang giao dịch. Để kiểm tra quy mô giao dịch tối đa, nhấp chuột phải vào sản phẩm và chọn thông số kỹ thuật.",
+
+  "Our margin calls are 50% for the Stockbanx Classic Account and Stockbanx Prime Account.\nNote: Your account may be subject to a margin call if your account equity falls to a level that is equal to the margin of your existing positions.": "Lệnh gọi ký quỹ của chúng tôi là 50% đối với Tài khoản Stockbanx Classic và Tài khoản Stockbanx Prime.\nLưu ý: Tài khoản của bạn có thể bị yêu cầu ký quỹ nếu vốn chủ sở hữu tài khoản của bạn giảm xuống mức bằng với mức ký quỹ của các vị trí hiện tại của bạn.",
+
+  "Our average execution speed is around 0.3 seconds.": "Tốc độ thực hiện trung bình của chúng tôi là khoảng 0,3 giây.",
+
+  "Yes, you can open a free Demo account with a balance of $10,000 in simulated funds to test the platform and your trading strategies on live markets in a risk-free environment.": "Có, bạn có thể mở tài khoản Demo miễn phí với số dư 10.000 đô la tiền mô phỏng để kiểm tra nền tảng và các chiến lược giao dịch của bạn trên thị trường trực tiếp trong môi trường không có rủi ro.",
+
+  "Yes, we offer swap-free accounts which are exempted from swaps on currency majors, minors & precious metals. It is not possible to have a swap-free and swap-enabled account open at the same time, but you can convert your existing account to swap-free by contacting our dedicated account managers.": "Có, chúng tôi cung cấp các tài khoản miễn phí qua đêm được miễn phí qua đêm đối với các loại tiền tệ chính, phụ & kim loại quý. Không thể mở đồng thời tài khoản miễn phí qua đêm và tài khoản có hỗ trợ qua đêm, nhưng bạn có thể chuyển đổi tài khoản hiện tại của mình thành tài khoản miễn phí qua đêm bằng cách liên hệ với người quản lý tài khoản tận tâm của chúng tôi.",
+
+  "Apply for an account by submitting your contact details, personal information (with proof of address), bank statement & trading experience. Once the application is complete & all appropriateness checks are valid, we’ll email you access codes to our client portal. Upon opening the portal with your unique details, you’ll be able to make your first deposit via secure transfer along with your proof of account.": "Đăng ký tài khoản bằng cách gửi chi tiết liên hệ, thông tin cá nhân (có bằng chứng địa chỉ), sao kê ngân hàng & kinh nghiệm giao dịch. Khi đơn đăng ký hoàn tất và tất cả các kiểm tra tính phù hợp đều hợp lệ, chúng tôi sẽ gửi email cho bạn mã truy cập vào cổng thông tin khách hàng của chúng tôi. Khi mở cổng với thông tin chi tiết duy nhất của bạn, bạn sẽ có thể thực hiện khoản tiền gửi đầu tiên của mình thông qua chuyển khoản an toàn cùng với bằng chứng tài khoản của bạn.",
+
+  "Join Stockbanx for the most rewarding trading experience.\n\nZero Commission Trading:\nTrading is now more affordable than ever, with no additional fees when investing in Forex, Indices Commodities, and many more instruments.\n\nNo Minimum deposit:\nOur trading accounts does not require any minimum deposit to start trading.\n\nAdvanced Platforms:\nUser-friendly trading platforms with ideal trading conditions.\n\nFlexibility:\nCustomized support tailored to your needs, we welcome any requests that serve your needs and support you to trade better.\n\nAward-Winning Analyst Expertise:\nWe`ve recently partnered with Trading Central, the award-winning user interface and analyst expertise that empowers today`s traders in validating suitable opportunities and optimizing their trading strategies.": "Tham gia Stockbanx để có trải nghiệm giao dịch bổ ích nhất.\n\nGiao dịch không hoa hồng:\nGiao dịch giờ đây dễ dàng hơn bao giờ hết, không tính thêm phí khi đầu tư vào Ngoại hối, Hàng hóa Chỉ số và nhiều công cụ khác.\n\nKhông có tiền gửi tối thiểu:\nTài khoản giao dịch của chúng tôi không yêu cầu bất kỳ khoản tiền gửi tối thiểu nào để bắt đầu giao dịch.\n\nNền tảng nâng cao:\nNền tảng giao dịch thân thiện với người dùng với các điều kiện giao dịch lý tưởng.\n\nUyển chuyển:\nHỗ trợ tùy chỉnh phù hợp với nhu cầu của bạn, chúng tôi hoan nghênh mọi yêu cầu phục vụ nhu cầu của bạn và hỗ trợ bạn giao dịch tốt hơn.\n\nChuyên môn của nhà phân tích từng đoạt giải thưởng:\nGần đây, chúng tôi đã hợp tác với Trading Central, giao diện người dùng từng đoạt giải thưởng và kiến ​​thức chuyên môn của nhà phân tích giúp trao quyền cho các nhà giao dịch ngày nay trong việc xác thực các cơ hội phù hợp và tối ưu hóa các chiến lược giao dịch của họ.",
+
+  "The minimum deposit for the Stockbanx Classic Account is 0. The minimum deposit for the Stockbanx Prime Account is $500.": "Khoản tiền gửi tối thiểu cho Tài khoản Stockbanx Classic là 0. Khoản tiền gửi tối thiểu cho Tài khoản Stockbanx Prime là $500.",
+
+  "The minimum withdraw is 100.": "Số tiền rút tối thiểu là 100.",
+
+  "Deposit with zero commission. Free withdrawal up to three times per month. When your withdrawal exceeded three times within the same month, you will be charged $25 USD per additional withdrawal.": "Gửi tiền với hoa hồng bằng không. Rút tiền miễn phí tối đa ba lần mỗi tháng. Khi số tiền rút của bạn vượt quá ba lần trong cùng một tháng, bạn sẽ bị tính phí $25 USD cho mỗi lần rút thêm.",
+
+  "We process withdrawal requests within 1-3 working day.": "Chúng tôi xử lý yêu cầu rút tiền trong vòng 1-3 ngày làm việc.",
+
+  "We process requests within 1-3 working day.": "Chúng tôi xử lý yêu cầu trong vòng 1-3 ngày làm việc.",
+
+  "Access the website, click “forgot password” icon on log-in page. Enter your registered email address and get a code. After submitting the code, please follow the instructions.": "Truy cập trang web, nhấp vào biểu tượng “quên mật khẩu” trên trang đăng nhập. Nhập địa chỉ email đã đăng ký của bạn và nhận mã. Sau khi gửi mã, vui lòng làm theo hướng dẫn.",
+
+  "Please contact the Support Team (contact@stockbanx.com), providing the account number, account name and request a change to the leverage.": "Vui lòng liên hệ với Nhóm hỗ trợ (contact@stockbanx.com), cung cấp số tài khoản, tên tài khoản và yêu cầu thay đổi đòn bẩy.",
+
+  "Open the MT4 terminal and follow the instructions: Click on File in the top left corner of the main menu, Go to Open an Account option, Click on Scan and select demo server CPTMarkets-Demo, then click Next, Tick New Demo Account and click Next Fill in your details, select the account type, deposit amount, leverage and tick the Subscribe to Newsletters box, then click Next and You will be given a new set of demo login details": "Mở phần mềm đầu cuối MT4 và làm theo hướng dẫn: Nhấp vào Tệp ở góc trên cùng bên trái của menu chính, Chuyển đến tùy chọn Mở tài khoản, Nhấp vào Quét và chọn máy chủ demo CPTMarkets-Demo, sau đó nhấp vào Tiếp theo, Đánh dấu vào Tài khoản Demo mới và nhấp vào Tiếp theo Điền thông tin chi tiết của bạn, chọn loại tài khoản, số tiền gửi, đòn bẩy và đánh dấu vào ô Đăng ký nhận bản tin, sau đó nhấp vào Tiếp theo và Bạn sẽ được cung cấp một bộ chi tiết đăng nhập demo mới",
+
+  "The Maximum leverage we offer is 1:1000, depending on the jurisdiction where the client is being onboarded.": "Đòn bẩy tối đa mà chúng tôi cung cấp là 1:1000, tùy thuộc vào khu vực tài phán mà khách hàng đang được giới thiệu.",
+
+  "Honoring Achievement Awards and Recognitions Earned by Stockbanx": "Các giải thưởng sự công nhận tôn vinh thành tự của Stockbanx",
+
+  "Achieving Distinction, Awards that Validate Our Outstanding Performance": "Đạt được sự khác biệt, giải thưởng xác nhận thành tích xuất sắc của chúng tôi",
+
+  "Awarded by": "Trao thưởng bởi",
+
+  "The Best trading Experience": "Trải nghiệm giao dịch tốt nhất",
+
+  "The most innovative broker": "Nhà môi giới sáng tạo nhất",
+
+  "Best IB program UAE 2023": "Chương trình IB tốt nhất UAE 2023",
+
+  "Fastest growing broker UAE 2023": "Nhà môi giới phát triển nhanh nhất UAE 2023",
+
+  "Provider of international Financial Derivative UAE 2023": "Nhà cung cấp phái sinh tài chính quốc tế UAE 2023",
+
+  "Best Regulated broker": "Nhà môi giới được cấp phép tốt nhất",
+
+  "What is the minimum deposit requirement for opening an ECN account?": "Yêu cầu tiền gửi tối thiểu để mở tài khoản ECN là bao nhiêu?",
+
+  "The minimum deposit required to open an ECN account is $100": "Khoản tiền gửi tối thiểu bắt buộc để mở tài khoản ECN là $1000.",
+
+  "Elevate Your Tradng Experience With cTrader": "Nâng cao trải nghiệm giao dịch của bạn với cTrader",
+
+  "Unlock a realm of thrilling offers, bonuses, and promotions to amplify your trading adventure. At Stockbanx, we're dedicated to elevating your potential through trader-centric rewards. Dive into our latest campaigns and elevate your trading voyage to unprecedented levels.": "Mở khóa một thế giới với nhiều ưu đãi, tiền thưởng và khuyến mãi hấp dẫn để gia tăng khả năng giao dịch của bạn. Tại Stockbanx, chúng tôi tận tâm nâng cao tiềm năng của bạn thông qua các phần thưởng và lấy nhà giao dịch làm trọng tâm. Tìm hiểu thêm về các sự kiện mới nhất của chúng tôi và nâng hành trình giao dịch của bạn lên mức chưa từng có.",
+
+  "Unlock Up To 20% Bonus And Trade Smarter Today!": "Nhận tiền thưởng lên tới 20% và giao dịch thông minh hơn ngay hôm nay!",
+
+  "Join Stockbanx now and receive a trading bonus of 20% on registration.": "Tham gia Stockbanx ngay bây giờ và nhận tiền thưởng giao dịch 20% khi đăng ký.",
+
+  "Register now and receive a welcome bonus of $250!": "Đăng ký ngay bây giờ và nhận phần thưởng chào mừng trị giá $250!",
+
+  "Join Stockbanx now and receive a trading bonus of $250 on registration.": "Tham gia Stockbanx ngay bây giờ và nhận tiền thưởng giao dịch trị giá 250 USD khi đăng ký.",
+
+  "Deposit now & grab a 20% bonus, up to $500, to fuel your trading journey!": "Gửi tiền ngay bây giờ và nhận phần thưởng 20%, lên tới 500 USD, để tiếp sức cho hành trình giao dịch của bạn!",
+
+  "Join Stockbanx now and receive a trading bonus of $500 on registration.": "Tham gia Stockbanx ngay bây giờ và nhận tiền thưởng giao dịch trị giá 500 USD khi đăng ký.",
+
+  "Unlock your potential with our 100% Bonus!": "Mở khóa tiềm năng của bạn với Tiền thưởng 100% của chúng tôi!",
+
+  "Join Stockbanx now and receive a trading bonus of 100% on registration.": "Tham gia Stockbanx ngay bây giờ và nhận tiền thưởng giao dịch 100% khi đăng ký.",
+
+  "Join our exclusive 100% Bonus Campaign and increase your trading potential!": "Tham gia sự kiện thưởng 100% độc quyền của chúng tôi và tăng tiềm năng giao dịch của bạn!",
+
+  "Terms and Conditions": "Các điều khoản và điều kiện",
+
+  "Register Your Details": "Đăng ký thông tin chi tiết của bạn",
+
+  "Full Name": "Họ và tên",
+
+  "Full Name is required": "Tên đầy đủ là bắt buộc",
+
+  "Phone Number": "Số điện thoại",
+
+  "Phone Number is required": "Số điện thoại là bắt buộc",
+
+  "Email address is required": "Địa chỉ Email là bắt buộc",
+
+  "I have read and consent to my data being used in accordance with the Privacy Policy": "Tôi đã đọc và đồng ý cho phép dữ liệu của tôi được sử dụng theo <a href='/about/legal-documents' class='underline'> Chính sách quyền riêng tư  </a>",
+
+  "Registration Successful": "Đăng ký thành công",
+
+  "Supercharge Your Trading with Exclusive Offers!": "Tăng cường khả năng giao dịch của bạn với các ưu đãi độc quyền!",
+
+  "Email": "Email",
+
+  "Submit": "Nộp",
+
+  "Complaints Notice": "Thông báo Khiếu nại",
+
+  "Liquidity Guidelines": "Nguyên tắc thanh khoản",
+
+  "Leverage Adjustment Description": "Mô tả điều chỉnh đòn bẩy",
+
+  "Terms & Conditions": "Điều khoản và điều kiện",
+
+  "Website Terms & Conditions": "Điều khoản & Điều kiện của trang web",
+
+  "webinar": "Welcome to Stockbanx' exclusive TradingWebinar   series,   your   gateway   to   grasping the art of trading. We are excited to invite you to our <span class='text-high'> exclusive weekly multilingual webinar series,  </span> where you'll gain invaluable insights into the dynamic world of trading.With   topics   ranging   from   Introduction   to Online   Trading   and   Basics   of   Markets   forTraders and Investors.",
+
+  "We received your email and we'll get back to you very soon.": "Chúng tôi đã nhận được email của bạn và chúng tôi sẽ sớm liên hệ lại với bạn.",
+
+  "Average reply time 24 hours": "Thời gian trả lời trung bình 24 giờ",
+
+  "In the meantime, we suggest you explore our website.": "Trong thời gian chờ đợi, chúng tôi khuyên bạn nên khám phá trang web của chúng tôi.",
+
+  "Home": "Trang chủ",
+
+  "A Spotlight on Stockbanx Events": "",
+
+  "Egyption": "",
+
+  "Food Bank 2023": "",
+
+  "Egypt": "",
+
+  "Set in the scenic countryside of Dorset": "",
+
+  "The Historical Fiction Writers' Retreat was a week-long haven for both budding.": "",
+
+  "Daily workshops led by renowned authors and historians covered topics like researching historical contexts, character development, and narrative techniques specific to historical fiction. The retreat also included guided tours to nearby historical sites and individual mentoring sessions, culminating in a cozy fireside reading session where participants shared excerpts from their works in progress.": "",
+
+  "Forex Expo": "",
+
+  "Dubai": "",
+
+  "United Arab Emirates": "",
+
+  "Vietnam Awards": "",
+
+  "The Best Moments 2023": "",
+
+  "Vietnam": "",
+
+  "Discover our upcoming and past events, exhibitions, and seminars. Join us as we delve into the latest trends and insights in the financial world.": "",
+
+  "Recap: Unforgettable": "",
+
+  "Forex Events in Our History": "",
+
+  "About The Trading Condition": "",
+
+  "Upcoming Events": "",
+
+  "Egypt investment Expo": "",
+
+  "From 9:30 Am": "",
+
+  ", Booth No: 14": "",
+
+  "HCMC Traders Fair": "",
+
+  ", Booth No: M12-7": "",
+
+  "Previous Events:": "",
+
+  "Take a journey with us as we revisit our exciting past events. These are the moments when we joined hands with traders, partners, and industry enthusiasts from across the globe.": "",
+
+  "Dec": "",
+
+  "Nov": "",
+
+  "Trading Education And Insights": "",
+
+  "No matter your level of experience or where you are on your trading journey, we have the tools and educational resources to take you to the next level.": "",
+
+  "Dive into the Learning Hub to Unlock your Trading Potential.": "",
+
+  "Explore All Videos": "",
+
+  "Sharpen your trading skills with our live webinars hosted by industry experts": "",
+
+  "Explore All Webinars": "",
+
+  "Explore Our Extensive Collection of Tutorials, Informative Videos and In-Depth Learning Materials": "",
+
+  "Explore All Playlists": "",
+
+  "Explore All Promotions": "",
+
+  "Featured Articles": "",
+
+  "Explore All Articles": "",
+
+  "Back": "",
+
+  "Recap: Unforgettable Forex Events in Our History": "",
+
+  "Embark on a thrilling exploration of our events section, where each occasion is a unique chapter in the dynamic narrative of Stockbanx": "Bắt tay vào cuộc khám phá ly kỳ về phần sự kiện của chúng tôi, trong đó mỗi dịp là một chương độc đáo trong câu chuyện sôi động của Stockbanx",
+
+  "INTRODUCTION": "",
+
+  "Forex Summit 2023": "",
+
+  "Forex Summit 2023 - Dubai": "",
+
+  "Proud moment! Stockbanx had an exhilarating experience at Smart Vision‘s Forex Summit 2023 in Ritz Carlton DIFC! We had 2 amazing days full of excitement, networking, workshops, and meetings with passionate traders & different service providers. Excited to announce that we received the Best Regulated Broker award.": "",
+
+  "Trade To Care - Egypt": "",
+
+  "Under our 'Trade to Care' campaign initiative, Stockbanx Group is proud to collaborate with the Egyptian Food Bank to give back to society and those in need.With over 2,000 boxes filled with food supplies, in every box packed, there's not just food, but hope and compassion for breadwinner mothers and their children, people with special abilities, and the elderly.Every contribution, every trade  made a difference, and together we're providing much-needed support to our community.": "",
+
+  "Hanoi Traders Fair 2023, Vietnam": "",
+
+  "The Stockbanx team is still abuzz from all the engaging conversations we had with our newly forged connections today at the Traders Fair Hanoi FINEXPO (Finexpo.org). It has been an absolute pleasure for us to showcase our latest products, expertise, and brand offerings.This expo has served as a catalyst for us to cultivate deeper connections with the Vietnam Market, which we firmly believe will shape the future trajectory of Stockbanx here locally.We extend our heartfelt gratitude to our incredible team, partners, and clients in Vietnam for the warm welcome! We eagerly look forward to strengthening our relationships and remaining part of your trading journey.": "",
+
+  "Seminar: Setting Trading Goals - Vietnam": "",
+
+  "Hello again Vietnam! Stockbanx’ trip in Vietnam isn’t over yet! From Hanoi’s Traders Fair, we hosted a seminar in the vibrant Ho Chi Minh City last July 15, 2023 at the Sofitel Saigon Plaza. Our very own Ngoc Nguyen, Edwin Thinh Vu and Denys Peleshok, Head of Asia at Stockbanx, have gathered to introduce the subject of setting trading goals to Stockbanx' traders. 📈 Once again, as part of our commitment to continuous learning, we provided a seminar filled with interactive and informative materials to help you enhance your trading skills.Be on the lookout for upcoming seminars by Stockbanx in your area!": "",
+
+  "Money Expo 2023 - India": "",
+
+  "Money Expo 2023": "",
+
+  "India": "",
+
+  "Two whirlwind days at MoneyExpo India, each moment a treasure. Grateful and happy to participate in representing Stockbanx. Winning 'Most Reputable Forex Broker 2023' was a proud achievement, echoing the dedication of our remarkable team and the trust bestowed upon us. To all who joined us at Booth 39, your engaging conversations added a special spark to our mission. It was an absolute pleasure connecting with clients, partners, and Payment Service Providers, discussing the future of finance. The event also proved to be a fantastic opportunity to meet regional PR agencies and data providers, fostering valuable collaborations. Here's to more milestones, more growth, and the vibrant spirit of the Stockbanx family!": "",
+
+  "Traders Fair 2023 - South Africa": "",
+
+  "Traders Fair 2023 - South Africa Stockbanx' was at the Traders Fair & Traders Awards, Johannesburg and our experience has been nothing short of extraordinary. We've had the privilege of connecting with the dynamic and enthusiastic South African trading community, and we're genuinely inspired by the depth of knowledge exhibited by both our South African traders and our esteemed partners.": "",
+
+  "Forex Expo 2023 - Dubai": "",
+
+  "Dubai Forex Expo 2023: A Grand Showcase of Forex's Global Impact.The Dubai Forex Expo 2023, now in its sixth grand edition, took place on the 26th and 27th of September, 2023, and it has left a memorable mark on the world of forex trading. With its unprecedented scale of participation, it can confidently stake its claim as one of the largest forex expos in the world, if not the largest. This remarkable event provided an extravagant platform for Forex traders, IBs, Investors, Financial Institutions, and Brokers from across the Trading and Investing ecosystem to come together, collaborate, and establish connections poised to reshape the industry's future. A huge shoutout to our dedicated Stockbanx team for embodying our brand values throughout the event.": "",
+
+  "Education": "",
+
+  "Events": "",
+
+  "Get access to our educational": "Được tiếp cận với chương trình giáo dục của chúng tôi",
+
+  "Partner Portal": "Cổng đối tác",
+
+  "Elevate Your Trading Game with Stockbanx!": "",
+
+  "Trade the Global Markets with a regulated broker! Forex, Indices, Stocks, Crypto – Trade anytime, anywhere!": "Giao dịch trên Thị trường Toàn cầu với một nhà môi giới được quản lý! Forex, Chỉ số, Cổ phiếu, Tiền điện tử - Giao dịch mọi lúc, mọi nơi!",
+
+  "30+ FX INDUSTRY AWARDS": "Hơn 30 GIẢI THƯỞNG NGÀNH FX",
+
+  "Why Trading With Stockbanx?": "Tại sao nên giao dịch với Stockbanx?",
+
+  "Discover thousands of CFDs on the world’s most popular financial instruments and get the best of our swap free trading": "Khám phá hàng nghìn CFD trên các công cụ tài chính phổ biến nhất thế giới và tận dụng tối đa giao dịch miễn phí qua đêm của chúng tôi",
+
+  "Experience In The Industry": "Kinh nghiệm trong ngành",
+
+  "Daily Executed Trades": "Giao dịch thực hiện mỗi ngày",
+
+  "Client Assets": "Tài sản khách hàng USD",
+
+  "Clients Worldwide": "Khách hàng trên toàn thế giới",
+
+  "Why Stockbanx Stands Out": "Tại sao Stockbanx Nổi Bật",
+
+  "Discover why traders worldwide choose Stockbanx for their online trading journey. Here's what sets us apart:": "Khám phá lý do tại sao các nhà giao dịch trên toàn thế giới chọn Stockbanx cho hành trình giao dịch trực tuyến của họ. Đây là điều khiến chúng tôi khác biệt:",
+
+  "Intuitive Platform": "Nền tảng trực quan",
+
+  "Trade with ease on our user-friendly platform.:": "Giao dịch dễ dàng trên nền tảng thân thiện với người dùng của chúng tôi",
+
+  "Competitive Spreads": "Spreads cạnh tranh",
+
+  "Enjoy tight spreads that maximize your profit potential.": "Tận hưởng mức spreads thấp để tối đa hóa tiềm năng lợi nhuận của bạn.",
+
+  "Global Regulatory Compliance and Licensing": "Tuân thủ các quy định và Giấy phép toàn cầu",
+
+  "Regulated by the Belize International Financial Services Commission under license number: No. IFSC000314/470": "Được quản lý bởi Ủy ban Dịch vụ Tài chính Quốc tế Belize theo số giấy phép: Số FSC000314/17",
+
+  "Registration number 6707165, NO.606110. Stockbanx U.K. Limited is an affiliated company of Stockbanx Limited.": "Số đăng ký SỐ 606110. Stockbanx UK Limited là công ty liên kết của Stockbanx Limited.",
+
+  "Registration no. 2014 / 214730 / 07 and regulated by the Financial Sector Conduct Authority under license number 45954.": "Số đăng ký. 2014/214730/07 và được quản lý bởi Cơ quan quản lý ngành tài chính theo giấy phép số 45954.",
+
+  "With over 14 years of excellence and innovation, we open the door to top-notch access to financial markets through our advanced execution model. Unveil the exciting realm of online trading with leveraged products spanning hundreds of instruments across various asset classes.": "Với hơn 14 năm xuất sắc và đổi mới, chúng tôi mở ra cánh cửa tiếp cận vào thị trường tài chính hàng đầu thông qua mô hình tiên tiến của mình. Khám phá thế giới thú vị của giao dịch trực tuyến với các sản phẩm đòn bẩy bao gồm hàng trăm công cụ trên nhiều loại tài sản khác nhau.",
+
+  "Select Your Perfect Account and Begin Your Trading JourneyNot sure which account suits you best? Explore our diverse range of accounts, including ECN, Classic, and Prime, and embark on a personalized trading adventure. Discover the perfect fit for your trading aspirations today!": "Chọn tài khoản hoàn hảo của bạn và bắt đầu hành trình giao dịch của bạn. Bạn không chắc tài khoản nào phù hợp với mình nhất? Khám phá nhiều loại tài khoản đa dạng của chúng tôi, bao gồm ECN, Classic và Prime, đồng thời bắt tay vào hành trình giao dịch của riêng bạn. Hãy khám phá sự phù hợp hoàn hảo cho khát vọng giao dịch của bạn ngay hôm nay!",
+
+  "Deposit": "Nạp tiền",
+
+  "Margin Call": "Gọi ký quỹ",
+
+  "Classic": "Stockbanx Classic",
+
+  "Payment Methods": "Phương thức thanh toán",
+
+  "Secure, Swift, and Seamless: Your Trustworthy Payment Gateway": "An toàn, nhanh chóng và ổn định: Cổng thanh toán đáng tin cậy của bạn",
+
+  "The Most Intuitive, User-Friendly Trading Platforms": "Nền tảng giao dịch trực quan, thân thiện với người dùng nhất",
+
+  "For experienced users, a feature-rich platform": "Dành cho người dùng có kinh nghiệm, một nền tảng giàu tính năng",
+
+  "An all-in-one trading platform": "Nền tảng giao dịch tất cả trong một",
+
+  "The popular, standard solution": "Giải pháp phổ biến, tiêu chuẩn",
+
+  "Trade without commission fees, keeping your costs low": "Giao dịch không mất phí hoa hồng, luôn giữ chi phí của bạn ở mức thấp",
+
+  "Join Stockbanx for a superior trading experience.": "Tham gia Stockbanx để có trải nghiệm giao dịch vượt trội.",
+
+  "No": "Không",
+
+  "Stockbanx understands that every client has different needs. Our platforms are all trusted, award-winning, so you can choose what works best for you.": "Stockbanx hiểu rằng mỗi khách hàng đều có những nhu cầu khác nhau. Tất cả các nền tảng của chúng tôi đều đáng tin cậy, từng đoạt giải thưởng, vì vậy bạn có thể chọn những gì phù hợp nhất với mình.",
+
+  "Support tailored to your needs. Whenever you have a special request, we are happy to help.": "Hỗ trợ theo nhu cầu của bạn. Bất cứ khi nào bạn có yêu cầu đặc biệt, chúng tôi sẵn lòng trợ giúp.",
+
+  "Choose Your Trading Adventure": "Lựa chọn hành trình giao dịch của riêng bạn",
+
+  "Thank you!": "Xin cảm ơn!",
+
+  "We received your inquiry, and we'll get back to you very soon.": "",
+
+  "Visit our Website": "",
+
+  "Create a account": "Tạo một tài khoản",
+
+  "Individual": "Cá nhân",
+
+  "Partner": "Cộng sự",
+
+  "Corporate": "Công ty",
+
+  "An individual brokerage account has the name of one account owner": "Tài khoản môi giới cá nhân có tên của một chủ tài khoản",
+
+  "Stockbanx gives you a chance to grow together.": "Stockbanx mang đến cho bạn cơ hội cùng nhau phát triển.",
+
+  "Explore our comprehensive solution for corporates": "Khám phá giải pháp toàn diện của chúng tôi dành cho doanh nghiệp",
+
+  "Stockbanx Academy": "Học viện Stockbanx",
+
+  "Optimize your forex trading with fees starting from just 1.6 PIPS": "Tối ưu giao dịch ngoại hối với phí chỉ từ 1.6 PIPS",
+
+  "Enhance your performance with Stockbanx - a reliable broker with 14 years in the market.": "Nâng cao hiệu suất của bạn cùng với Stockbanx - Nhà môi giới đáng tin cậy với 14 năm trên thị trường",
+
+  "Leverage up to 1:1000": "Đòn bảy lên tới 1:1000",
+
+  "Diverse currency pairs for your selection": "Các cặp tiền đa dạng cho bạn lựa chọn",
+
+  "Best trading experience with MT4 & MT5": "Trải nghiệm giao dịch tốt nhất với MT4 & MT5",
+
+  "Spreads starting from 1.6 Pips": "Chênh lệch bắt đầu từ 1.6 Pips",
+
+  "Various promotional programs": "Đa dạng chương trình khuyến mãi",
+
+  "Fast deposits and withdrawals 24/5": "Nạp rút nhanh chóng 24/5",
+
+  "Margin requirement as low as 0.2%": "Ký quỹ chỉ từ 0.2%",
+
+  "Over 30 FX INDUSTRY AWARDS": "Hơn 30 GIẢI THƯỞNG NGÀNH FX",
+
+  "Easy entry with small capital": "Tham gia dễ dàng với số vốn nhỏ",
+
+  "Buying/selling US and European stocks": "Mua/bán cổ phiếu phiếu Mỹ và Châu Âu",
+
+  "Especially 0% commission fee*": "Đặc biệt 0% phí hoa hồng*",
+
+  "Accelerate your international STOCK INVESTMENTS": "Tăng tốc đầu tư CỔ PHIẾU QUỐC TẾ",
+
+  "Guidance on investing in US and European stocks with Stockbanx - a reliable broker with 14 years in the market.": "Hướng dẫn cách đầu tư cổ phiếu Mỹ và Châu Âu cũng Stockbanx - Nhà môi giới đáng tin cậy với 14 năm trên thị trường.",
+
+  "GOLD PRICE could reach $3000 peak in 2024": "GIÁ VÀNG có thể đạt đỉnh 3000$ trong năm 2024",
+
+  "Are you ready to seize the opportunity with Stockbanx - a reliable broker with 14 years in the market?": "Bạn đã sẵn sàng nắm bắt cơ hội cùng Stockbanx - Nhà môi giới đáng tin cậy với 14 năm trên thị trường.",
+
+  "Unleash the potential of commodities trading without the hassle of physical ownership. Here at Stockbanx, you can leverage the price movements of a diverse range of commodities, from energy and metals to agricultural goods, all on our advanced and user-friendly MT5 platform. This simplifies your entry into the commodities market, allowing you to capitalize on market trends without the burden of managing physical assets.": "Phát huy tiềm năng của giao dịch hàng hóa mà không cần phải sở hữu vật lý. Tại Stockbanx, bạn có thể tận dụng các biến động giá của một loạt các hàng hóa đa dạng, từ năng lượng và kim loại đến hàng nông nghiệp, tất cả đều trên nền tảng MT5 tiên tiến và thân thiện với người dùng của chúng tôi. Điều này giúp đơn giản hóa việc nhập cửa của bạn vào thị trường hàng hóa, cho phép bạn tận dụng các xu hướng thị trường mà không cần phải đối mặt với gánh nặng của việc quản lý tài sản vật lý.",
+
+  "Unleash Efficiency & Expertise MAM Accounts for Investors & Fund Managers": "Mở khóa hiệu quả và chuyên môn của các tài khoản MAM cho các nhà đầu tư và quản lý quỹ",
+
+  "Unlock Your Outreach with MAM Accounts": "Mở khóa tiếp cận của bạn với các tài khoản MAM",
+
+  "Invest Smarter & Efficiently with MAM Stockbanx": "Đầu tư một cách thông minh và hiệu quả với MAM Stockbanx",
+
+  "Stockbanx MAM elevates your investment experience.": "Stockbanx MAM nâng cao trải nghiệm đầu tư của bạn.",
+
+  "This innovative solution caters to both ambitious investors seeking expert guidance and established fund managers looking to optimize client management.": "Giải pháp đổi mới này phục vụ cả những nhà đầu tư có tham vọng đang tìm kiếm sự hướng dẫn của các chuyên gia và các quản lý quỹ đã được thành lập đang tìm cách tối ưu hóa quản lý khách hàng.",
+
+  "Why Stockbanx MAM Account?": "Tại sao tài khoản MAM của Stockbanx?",
+
+  "Investors": "Nhà đầu tư",
+
+  "Fund Managers": "Quản lý quỹ",
+
+  "Empower Your Portfolio": "Tăng cường danh mục đầu tư của bạn",
+
+  "Gain access to the strategies of seasoned fund managers, diversifying your holdings beyond your own capabilities.": "Tiếp cận các chiến lược của các nhà quản lý quỹ có kinh nghiệm, đa dạng hóa quỹ đầu tư của bạn vượt xa khả năng cá nhân.",
+
+  "Tailored Control": "Kiểm soát được điều chỉnh",
+
+  "Maintain a level of control by customizing allocation within your MAM sub-account to align with your risk tolerance.": "Giữ mức độ kiểm soát bằng cách tùy chỉnh phân bổ trong tài khoản con MAM của bạn để phù hợp với ngưỡng chịu đựng rủi ro của bạn.",
+
+  "Effortless Management": "Quản lý dễ dàng",
+
+  "Free yourself from the burden of active monitoring. Trust a proven expert to navigate the markets on your behalf.": "Giải phóng bản thân khỏi gánh nặng của việc giám sát hoạt động một cách tích cực. Tin tưởng vào một chuyên gia đã được chứng minh để điều hướng thị trường thay bạn.",
+
+  "Streamline Your Operations": "Tối ưu hóa hoạt động của bạn",
+
+  "Manage multiple client accounts efficiently through a single master account, maximizing your time and resources.": "Quản lý nhiều tài khoản khách hàng một cách hiệu quả thông qua một tài khoản chính, tối ưu hóa thời gian và tài nguyên của bạn.",
+
+  "Boost Transparency": "Tăng cường Sự minh bạch",
+
+  "Provide real-time performance insights to sub-account holders, fostering trust and attracting new investors.": "Cung cấp thông tin về hiệu suất thời gian thực cho các chủ tài khoản phụ, tạo niềm tin và thu hút các nhà đầu tư mới.",
+
+  "Expand Your Reach": "Mở rộng Phạm vi của Bạn",
+
+  "Leverage the Stockbanx platform to connect with a wider pool of potential clients seeking qualified management.": "Tận dụng nền tảng Stockbanx để kết nối với một nguồn khách hàng tiềm năng rộng lớn đang tìm kiếm quản lý chuyên nghiệp.",
+
+  "Benefits for All": "Lợi ích cho Tất cả",
+
+  "Seamless Integration": "Tích hợp Mượt mà",
+
+  "Manage your MAM account alongside your individual trading activity on our user-friendly platform.": "Quản lý tài khoản MAM của bạn cùng với hoạt động giao dịch cá nhân trên nền tảng thân thiện với người dùng của chúng tôi.",
+
+  "Dedicated Support": "Hỗ trợ Chuyên nghiệp",
+
+  "Our experienced team is readily available to address any queries related to MAM accounts.": "Đội ngũ giàu kinh nghiệm của chúng tôi sẵn sàng giải đáp mọi thắc mắc liên quan đến các tài khoản MAM.",
+
+  "Advanced Technology": "Công nghệ Tiên tiến",
+
+  "Benefit from our secure and feature-rich platform designed for optimal investment management.": "Hưởng lợi từ nền tảng an toàn và đầy đủ tính năng của chúng tôi được thiết kế cho quản lý đầu tư tối ưu.",
+
+  "Transparent Calculation": "Tính toán Trong suốt",
+
+  "We track the forex markets in real-time so that you get fast accreditation of commissions in your live trading account.": "Chúng tôi theo dõi thị trường ngoại hối theo thời gian thực để bạn nhận được việc thanh toán hoa hồng nhanh chóng trong tài khoản giao dịch trực tiếp của bạn.",
+
+  "Withdraw your funds at any time.": "Rút tiền của bạn bất kỳ lúc nào.",
+
+  "All Stockbanx MAM managers can quickly calculate performance fees for all their clients, as needed.": "Tất cả các quản lý MAM của Stockbanx có thể tính phí hiệu suất cho tất cả các khách hàng của họ một cách nhanh chóng, khi cần thiết.",
+
+  "Take Control of Your Financial Future": "Kiểm soát Tương lai Tài chính của Bạn",
+
+  "Open a MAM sub-account today and unlock the potential of expert-driven investing. Explore our directory of qualified fund managers and find the perfect fit for your goals.": "Mở tài khoản con MAM ngay hôm nay và mở khóa tiềm năng của việc đầu tư do các chuyên gia thúc đẩy. Khám phá thư mục của chúng tôi về các quản lý quỹ đủ điều kiện và tìm sự phù hợp hoàn hảo cho mục tiêu của bạn.",
+
+  "Get Started Here!": "Bắt đầu Tại đây!",
+
+  "Elevate your client management with Stockbanx MAM accounts. Learn more about our streamlined process and dedicated support system.": "Nâng cao quản lý khách hàng của bạn với các tài khoản MAM của Stockbanx. Tìm hiểu thêm về quy trình được tinh chỉnh của chúng tôi và hệ thống hỗ trợ tận tâm.",
+
+  "Become a MAM Manager Today!": "Trở thành Quản lý MAM Ngay Hôm nay!",
+
+  "Restricted Countries: Stockbanx PTY LTD (“CPT SA”) does not provide services for residents of certain countries including but not limited to the United States, United Kingdom, Canada, Israel, Iran, Cyprus, and North Korea or any country where such distribution or use would be contrary to local law or regulation.": "Các quốc gia bị hạn chế: Stockbanx PTY LTD (“CPT SA”) không cung cấp dịch vụ cho cư dân của một số quốc gia nhất định, bao gồm nhưng không giới hạn ở Hoa Kỳ, Vương quốc Anh, Canada, Israel, Iran, Síp và Bắc Triều Tiên hoặc bất kỳ quốc gia nào có điều kiện như vậy. việc phân phối hoặc sử dụng sẽ trái với luật pháp hoặc quy định của địa phương.",
+
+  "You must be 18 years old, or of legal age as determined in your country. Upon registering an account with Stockbanx PTY LTD (“CPT SA”), you acknowledge that you are registering at your own free will, without solicitation on behalf of Stockbanx PTY LTD (“CPT SA”).": "Bạn phải đủ 18 tuổi hoặc đủ tuổi hợp pháp được xác định ở quốc gia của bạn. Khi đăng ký tài khoản với Stockbanx PTY LTD (“CPT SA”), bạn thừa nhận rằng bạn đang đăng ký theo ý muốn của mình mà không cần phải chào mời thay mặt cho Stockbanx PTY LTD (“CPT SA”).",
+
+  "Stockbanx PTY LTD (“CPT SA”) does not direct its website and services to any individual in any country in which the use of its website and services are prohibited by local laws or regulations. When accessing this website from a country in which its use may or may not be prohibited, it is the user's responsibility to ensure that any use of the website or services adheres to local laws or regulations. Stockbanx PTY LTD (“CPT SA”) does not affirm that the information on its website is suitable for all jurisdictions.": "Stockbanx PTY LTD (“CPT SA”) không hướng trang web và dịch vụ của mình tới bất kỳ cá nhân nào ở bất kỳ quốc gia nào mà việc sử dụng trang web và dịch vụ của họ bị luật pháp hoặc quy định địa phương cấm. Khi truy cập trang web này từ một quốc gia mà việc sử dụng nó có thể bị cấm hoặc không, trách nhiệm của người dùng là đảm bảo rằng mọi hoạt động sử dụng trang web hoặc dịch vụ đều tuân thủ luật pháp hoặc quy định của địa phương. Stockbanx PTY LTD (“CPT SA”) không khẳng định rằng thông tin trên trang web của mình phù hợp với mọi khu vực pháp lý.",
+
+  "testword": "",
+
+  "* It came to our attention that fraudulent websites are using our Company's Logo and/or Name. We advise our clients that the official domains of Stockbanx can be found ONLY on this website.": "* Chúng tôi nhận thấy rằng các trang web lừa đảo đang sử dụng Logo và/hoặc Tên của Công ty chúng tôi. Chúng tôi khuyên khách hàng của mình rằng CHỈ có thể tìm thấy các miền chính thức của Stockbanx trên trang web này.",
+
+  "Copy Trading": "Sao chép giao dịch",
+
+  "Trade the world’s most popular currency leverage products": "Giao dịch các sản phẩm đòn bẩy tiền tệ phổ biến nhất thế giới",
+
+  "BID": "Giá mua",
+
+  "Trade the world’s most popular cryptocurrencies with 10x leverage": "Giao dịch các loại tiền điện tử phổ biến nhất thế giới với đòn bẩy 10 lần",
+
+  "ASK": "Giá bán",
+
+  "Prime": "Chính",
+
+  "execution": "thực hiện",
+
+  "transaction": "giao dịch",
+
+  "stream-payment": "thanh toán luồng",
+
+  "EUR/GBP": "EUR/GBP",
+
+  "EURGBP": "EURGBP",
+
+  "USDCAD": "USDCAD",
+
+  "USD/CAD": "USD/CAD",
+
+  "EUR/USD": "EUR/USD",
+
+  "Trade Leveraged products on shares of the biggest companies in the world, including Apple, Microsoft, Tesla, Facebook, Netflix, and Amazon.": "Giao dịch các sản phẩm đòn bẩy trên cổ phiếu của các công ty lớn nhất thế giới, bao gồm Apple, Microsoft, Tesla, Facebook, Netflix và Amazon.",
+
+  "Our leading trading platform offers Gold, Oil, Silver, Gas, and many other commodities.": "Nền tảng giao dịch hàng đầu của chúng tôi cung cấp Vàng, Dầu, Bạc, Gas và nhiều hàng hóa khác.",
+
+  "Take advantage of trading CFDs on indices like US500, UK100, and more, using MT4 on any device you prefer. Trade US30 with leverage up to 1|200 and low spreads.": "Tận dụng việc giao dịch CFD trên các chỉ số như US500, UK100 và nhiều chỉ số khác, sử dụng MT4 trên bất kỳ thiết bị nào bạn thích. Giao dịch US30 với đòn bẩy lên đến 1:100 và chênh lệch thấp.",
+
+  "Unlock endless potential by trading top stocks like Amazon, Google, and Apple with leverage up to 1|100 and spreads as low as 40 pips*.": "Mở khóa tiềm năng vô tận bằng cách giao dịch các cổ phiếu hàng đầu như Amazon, Google và Apple với đòn bẩy lên đến 1:20 và chênh lệch thấp nhất là 40 pips*.",
+
+  "EURUSD": "EURUSD",
+
+  "AUD/USD": "AUD/USD",
+
+  "AUDUSD": "AUDUSD",
+
+  "USD/JPY": "USD/JPY",
+
+  "USDJPY": "USDJPY",
+
+  "GBPUSD": "GBPUSD",
+
+  "ECN": "ECN",
+
+  "Name": "Tên",
+
+  "Stockbanx Academy": "Học viện Stockbanx",
+
+  "Education is an essential component for successful trading. That’s why you can now explore a variety of valuable resources and information for all traders. Scroll down and find out more!": "Giáo dục là thành phần thiết yếu cho giao dịch thành công. Đó là lý do tại sao bạn có thể khám phá nhiều tài nguyên và thông tin quý giá cho tất cả các nhà giao dịch. Cuộn xuống và tìm hiểu thêm!",
+
+  "Get to know to Stockbanx": "Tìm hiểu về Stockbanx",
+
+  "At Stockbanx, we're not just about providing trading solutions; we're about creating opportunities that empower our clients to navigate the financial markets more effectively and efficiently.": "Tại Stockbanx, chúng tôi không chỉ cung cấp các giải pháp giao dịch; chúng tôi còn tạo ra cơ hội để khách hàng của chúng tôi có thể điều hướng thị trường tài chính một cách hiệu quả và hiệu suất hơn.",
+
+  "Stockbanx is a world- leading leveraged products broker in online trading of the global markets. Stockbanx offers 130+ leveraged product instruments for global investors to trade. We became the preferred brand of many traders by putting the funds safety as a top priority and providing an efficient, simple trading journey.": "Stockbanx là nhà môi giới sản phẩm đòn bẩy hàng đầu thế giới trong giao dịch trực tuyến trên thị trường toàn cầu. Stockbanx cung cấp hơn 130 công cụ sản phẩm đòn bẩy cho các nhà đầu tư toàn cầu để giao dịch. Chúng tôi trở thành thương hiệu được nhiều nhà giao dịch ưa chuộng bằng cách đặt sự an toàn của quỹ lên hàng đầu và cung cấp một hành trình giao dịch hiệu quả, đơn giản.",
+
+  "An Exciting Trading Beginning... ": "Khởi đầu giao dịch đầy thú vị...",
+
+  "Stockbanx aims to exceed your expectations by delivering an unparalleled online trading experience, offering an unprecedented level of service matched with state-of-the-art trading technologies.": "Stockbanx nhằm vượt qua sự mong đợi của bạn bằng cách cung cấp một trải nghiệm giao dịch trực tuyến vô song, cung cấp một mức độ dịch vụ chưa từng có kết hợp với các công nghệ giao dịch tiên tiến.",
+
+  "We’d Love To Hear From You": "Chúng tôi rất muốn nghe từ bạn",
+
+  "Stockbanx operates globally with offices and teams around the world, offering localized support and tailored trading solutions. Our international reach allows us to understand and meet the unique needs of traders in different regions, making us a trusted partner in your financial journey.": "Stockbanx hoạt động toàn cầu với các văn phòng và đội ngũ trên khắp thế giới, cung cấp hỗ trợ địa phương và các giải pháp giao dịch tùy chỉnh. Phạm vi quốc tế của chúng tôi cho phép chúng tôi hiểu và đáp ứng các nhu cầu đặc biệt của các nhà giao dịch ở các khu vực khác nhau, làm cho chúng tôi trở thành đối tác đáng tin cậy trong hành trình tài chính của bạn.",
+
+  "Trade over 1,800 products safely, quickly and easily": "Giao dịch hơn 1,800 sản phẩm một cách an toàn, nhanh chóng và dễ dàng",
+
+  "Index trading has never been easier! Trade CFDs on indices such as Dow Jones, Nasdaq and other global indices.": "Giao dịch chỉ số chưa bao giờ dễ dàng hơn! Giao dịch CFD trên các chỉ số như Dow Jones, Nasdaq và các chỉ số toàn cầu khác.",
+
+  "Stock description": "Mô tả cổ phiếu",
+
+  "Embark On A Trading Journey": "Bắt đầu một hành trình giao dịch",
+
+  "SHARE CFDs": "CFDs cổ phiếu",
+
+  "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and IFSC Belize. ": "Giao dịch với phí hoa hồng bằng 0 và mức chênh lệch thấp bắt đầu từ 0,7 pip trên nền tảng giao dịch thân thiện với người dùng và phản hồi nhanh. Stockbanx nắm giữ nhiều giấy phép từ các cơ quan tài chính uy tín trên toàn thế giới bao gồm FCA UK, AOFA Nam Phi và FSC Belize.␣",
+
+  "Customized Solutions for Partners & Traders": "Giải pháp tùy chỉnh cho Đối tác & Nhà giao dịch",
+
+  "For Traders": "Dành cho Nhà giao dịch",
+
+  "For Partners": "Dành cho Đối tác",
+
+  "Portfolio Diversification": "Đa dạng hóa danh mục đầu tư",
+
+  "At Stockbanx, you can unleash a diverse trading arsenal. Explore a vast selection of instruments – stocks, forex, and even commodities – all on a single, user-friendly platform. This empowers you to spread your risk across different markets, capitalize on various opportunities, and potentially maximize your returns as market conditions evolve.": "Tại Stockbanx, bạn có thể khai phá một kho vũ khí giao dịch đa dạng. Khám phá một loạt các công cụ - cổ phiếu, ngoại hối và thậm chí hàng hóa - tất cả trên một nền tảng thân thiện với người dùng. Điều này cho phép bạn phân tán rủi ro của mình trên các thị trường khác nhau, tận dụng các cơ hội khác nhau và có thể tối đa hóa lợi nhuận của mình khi điều kiện thị trường thay đổi.",
+
+  "Secure Transactions": "Giao dịch an toàn",
+
+  "We offer a wide range of secure payment methods, including trusted options like credit cards, bank transfers, and popular e-wallets. ": "Chúng tôi cung cấp nhiều phương thức thanh toán an toàn, bao gồm các tùy chọn đáng tin cậy như thẻ tín dụng, chuyển khoản ngân hàng và ví điện tử phổ biến.",
+
+  "Fast Execution": "Thực hiện nhanh chóng",
+
+  "This agility allows you to make informed decisions and react instantly to market shifts, potentially enhancing your trading success.": "Sự linh hoạt này cho phép bạn đưa ra các quyết định có thông tin và phản ứng ngay lập tức với các biến động của thị trường, có thể nâng cao thành công giao dịch của bạn.",
+
+  "Dedicated Partner Portal": "Cổng thông tin đối tác chuyên dụng",
+
+  "Track your client activity, monitor commissions, and access insightful data to optimize your marketing efforts. Additionally, our dedicated support team is always available to answer your questions and provide assistance whenever you need it.": "Theo dõi hoạt động của khách hàng của bạn, giám sát hoa hồng và truy cập dữ liệu chuyên sâu để tối ưu hóa nỗ lực tiếp thị của bạn. Ngoài ra, đội ngũ hỗ trợ chuyên dụng của chúng tôi luôn sẵn sàng trả lời các câu hỏi của bạn và cung cấp hỗ trợ bất cứ khi nào bạn cần.",
+
+  "Streamlined Payments": "Thanh toán hợp lý",
+
+  "Enjoy the convenience of instant commission payments on qualifying activities, allowing you to access your earnings swiftly and reinvest them in your business growth.": "Tận hưởng sự tiện lợi của việc thanh toán hoa hồng ngay lập tức cho các hoạt động đủ điều kiện, cho phép bạn truy cập thu nhập của mình một cách nhanh chóng và tái đầu tư vào sự phát triển kinh doanh của bạn.",
+
+  "Lucrative Commission Structure": "Cơ cấu hoa hồng hấp dẫn",
+
+  "Earn generous commissions on every successful trade your referred clients make. The more clients you bring in and the more they trade, the greater your earning potential.": "Kiếm hoa hồng hào phóng trên mỗi giao dịch thành công mà khách hàng bạn giới thiệu thực hiện. Càng nhiều khách hàng bạn mang đến và họ giao dịch nhiều hơn, tiềm năng kiếm tiền của bạn càng lớn.",
+
+  "Start Your Trading Journey": "Bắt đầu hành trình giao dịch của bạn",
+
+  "Account Types": "Loại tài khoản",
+
+  "More Details": "Chi tiết thêm",
+
+  "The vision is to create the best trading experience for you to support your trading journey. So anyone, anywhere, can trade.": "Tầm nhìn là tạo ra trải nghiệm giao dịch tốt nhất cho bạn để hỗ trợ hành trình giao dịch của bạn. Vì vậy, bất kỳ ai, bất kỳ nơi đâu, đều có thể giao dịch.",
+
+  "Our mission is to create a community that appreciates convenience, inclusivity, and transparency, therefore empowering Traders and Introduce Brokers to maximize value.": "Sứ mệnh của chúng tôi là tạo ra một cộng đồng đánh giá cao sự tiện lợi, sự bao trùm và minh bạch, do đó trao quyền cho các Nhà giao dịch và Người giới thiệu môi giới tối đa hóa giá trị.",
+
+  "Trade On the Go": "Giao dịch mọi lúc, mọi nơi",
+
+  "An outstanding global trading platform and the world's leading CFD and spread betting provider. Trade on MT4, MT5 or cTrader with Stockbanx.": "Một nền tảng giao dịch toàn cầu xuất sắc và nhà cung cấp hàng đầu thế giới về CFD và đặt cược chênh lệch. Giao dịch trên MT4, MT5 hoặc cTrader với Stockbanx.",
+
+  "How to Get Started": "Cách bắt đầu",
+
+  "Sign up and verify your accounts": "Đăng ký và xác minh tài khoản của bạn",
+
+  "Fund Your Account": "Nạp tiền vào tài khoản của bạn",
+
+  "Fund your account, choose your  instrument and set your trade size": "Nạp tiền vào tài khoản của bạn, chọn công cụ và đặt quy mô giao dịch của bạn",
+
+  "Newsletter Subscription": "Đăng ký nhận bản tin",
+
+  "Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.": "Tin tức Forex theo thời gian thực và các cập nhật giao dịch mới nhất. Cập nhật tin tức mới nhất về thị trường tiền tệ và hàng hóa.",
+
+  "Loading...": "Đang tải...",
+
+  "I consent to my data being used as per the Privacy Policy & Terms.": "Tôi đồng ý cho dữ liệu của tôi được sử dụng theo Chính sách Bảo mật & Điều khoản.",
+
+  "The starting line of an exciting Trading Journey!": "Điểm khởi đầu của một hành trình giao dịch đầy thú vị!",
+
+  "We'd Love To Hear From You": "Chúng tôi rất muốn nghe từ bạn",
+
+  "Our Licenses": "Giấy phép của chúng tôi",
+
+  "To provide you with security, privacy and reliability, we're regulated by reputable international regulatory authorities.": "Để cung cấp cho bạn sự an toàn, bảo mật và tin cậy, chúng tôi được điều chỉnh bởi các cơ quan quản lý quốc tế uy tín.",
+
+  "Stockbanx operates globally with offices and teams around the world, offering localized support and tailored trading solutions. Our international reach allows us to understand and meet the unique needs of traders in different regions, making us a trusted partner in your financial journey..": "Stockbanx hoạt động trên toàn cầu với các văn phòng và đội ngũ trên khắp thế giới, cung cấp hỗ trợ địa phương và các giải pháp giao dịch tùy chỉnh. Phạm vi quốc tế của chúng tôi cho phép chúng tôi hiểu và đáp ứng nhu cầu độc đáo của các nhà giao dịch ở các khu vực khác nhau, làm cho chúng tôi trở thành đối tác đáng tin cậy trong hành trình tài chính của bạn.",
+
+  "Your Money is Yours": "Tiền của bạn là của bạn",
+
+  "Local payment options": "Tùy chọn thanh toán địa phương",
+
+  "With multiple local and international payment providers, you have the freedom to choose.": "Với nhiều nhà cung cấp thanh toán địa phương và quốc tế, bạn có sự tự do để lựa chọn.",
+
+  "Get to know Stockbanx": "Tìm hiểu về Stockbanx",
+
+  "Our dedicated support specialists speak 15 languages. Support is available 24 hours a day, 7 days a week in English, Chinese, Thai, Vietnamese, Arabic, Bengali, Hindi and Urdu": "Các chuyên gia hỗ trợ tận tâm của chúng tôi nói được 15 ngôn ngữ. Hỗ trợ có sẵn 24 giờ mỗi ngày, 7 ngày mỗi tuần bằng tiếng Anh, tiếng Trung, tiếng Thái, tiếng Việt, tiếng Ả Rập, tiếng Bengal, tiếng Hindi và tiếng Urdu.",
+
+  "Subject": "Chủ đề",
+
+  "Write Subject": "Viết chủ đề",
+
+  "Classify your business*": "Phân loại doanh nghiệp của bạn*",
+
+  "Introducing Broker": "Giới thiệu môi giới",
+
+  "Institutional Partner": "Đối tác tổ chức",
+
+  "Individual Client": "Khách hàng cá nhân",
+
+  "Other": "Khác",
+
+  "First Name": "Tên",
+
+  "Last Name": "Họ",
+
+  "Email Address": "Địa chỉ email",
+
+  "Please select a business classification": "Vui lòng chọn phân loại doanh nghiệp",
+
+  "Message": "Tin nhắn",
+
+  "Type your message here": "Nhập tin nhắn của bạn ở đây",
+
+  "By submitting this form, you agree to receive emails from Stockbanx in accordance with our Terms & Conditions, Privacy Policy, and Cookie Policy.": "Bằng cách gửi biểu mẫu này, bạn đồng ý nhận email từ Stockbanx theo Điều khoản & Điều kiện, Chính sách Bảo mật và Chính sách Cookie của chúng tôi.",
+
+  "submit": "gửi",
+
+  "Our office is open five days a week, Monday to Friday. The support line is available 24 hours a day.": "Văn phòng của chúng tôi mở cửa năm ngày một tuần, từ Thứ Hai đến Thứ Sáu. Đường dây hỗ trợ có sẵn 24 giờ mỗi ngày.",
+
+  "Complaints": "Khiếu nại",
+
+  "Our dedicated support specialists speak 15 languages. Support is available 24 hours a day, 5 days a week in English, Chinese, Thai, Vietnamese, Arabic, Bengali, Hindi and Urdu.": "Các chuyên gia hỗ trợ tận tâm của chúng tôi nói được 15 ngôn ngữ. Hỗ trợ có sẵn 24 giờ mỗi ngày, 5 ngày mỗi tuần bằng tiếng Anh, tiếng Trung, tiếng Thái, tiếng Việt, tiếng Ả Rập, tiếng Bengal, tiếng Hindi và tiếng Urdu.",
+
+  "Contacts": "Liên lạc",
+
+  "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and IFSC Belize.": "Giao dịch với phí hoa hồng bằng 0 và mức chênh lệch thấp bắt đầu từ 0,7 pip trên nền tảng giao dịch thân thiện với người dùng và phản hồi nhanh. Stockbanx nắm giữ nhiều giấy phép từ các cơ quan tài chính uy tín trên toàn thế giới bao gồm FCA UK, AOFA Nam Phi và FSC Belize.",
+
+  "We offer a wide range of secure payment methods, including trusted options like credit cards, bank transfers, and popular e-wallets.": "Chúng tôi cung cấp nhiều phương thức thanh toán an toàn, bao gồm các tùy chọn đáng tin cậy như thẻ tín dụng, chuyển khoản ngân hàng và ví điện tử phổ biến.",
+
+  "Our leading trading platform offers Gold, Oil, Silver,Gas, and many other commodities.": "Nền tảng giao dịch hàng đầu của chúng tôi cung cấp Vàng, Dầu, Bạc, Gas và nhiều mặt hàng khác.",
+
+  "Promotion of Access to Information Manual": "Khuyến khích tiếp cận sổ tay thông tin",
+
+  "Client Request For Access To Records & Information": "Yêu cầu của Khách hàng về Quyền truy cập vào Hồ sơ & Thông tin",
+
+  "How To Trade Forex With Stockbanx": "Cách giao dịch các cặp Ngoại Hối có đòn bẩy với Stockbanx",
+
+  "The Complete Corporate Account": "Tài khoản doanh nghiệp hoàn chỉnh",
+
+  "An account for institutial and retail business trading that allows multiple authoried users and corporate cash deposits": "Một tài khoản dành cho giao dịch kinh doanh bán lẻ và tổ chức cho phép nhiều người dùng được ủy quyền và gửi tiền mặt của công ty",
+
+  "Open Trader Account": "Mở tài khoản nhà giao dịch",
+
+  "Open Partner Account": "Mở tài khoản đối tác",
+
+  "To open an account applying its easy and takes minutes": "Để mở một tài khoản, việc đăng ký thật dễ dàng và chỉ mất vài phút",
+
+  "Fund": "Quỹ",
+
+  "Deposit easily and scurity via debit card or bank transger": "Gửi tiền dễ dàng và bảo đảm thông qua thẻ ghi nợ hoặc chuyển khoản ngân hàng",
+
+  "Hundred of markets on desktop, web and mobile": "Hàng trăm thị trường trên máy tính để bàn, web và thiết bị di động",
+
+  "Your Money Is Yours": "Tiền của bạn là của bạn",
+
+  "The corporate account": "Tài khoản công ty",
+
+  "Fund from a compant card": "Vốn từ thẻ công ty",
+
+  "Use allocated company money to fund and trade your account.": "Sử dụng tiền công ty được phân bổ để tài trợ và giao dịch tài khoản của bạn.",
+
+  "Trade in your business name": "Trao đổi tên doanh nghiệp của bạn",
+
+  "Opt to use trades and funds in a company name instead of a personal account.": "Chọn sử dụng các giao dịch và tiền dưới tên công ty thay vì tài khoản cá nhân.",
+
+  "Multiple authorised traders": "Nhiều nhà giao dịch được ủy quyền",
+
+  "Manage your trading - as well as your business - as a team, with multiple users able to access.": "Quản lý giao dịch của bạn - cũng như doanh nghiệp của bạn - theo nhóm, với nhiều người dùng có thể truy cập.",
+
+  "Discover the World of Opportunitie": "Khám phá thế giới cơ hội",
+
+  "Countries": "Quốc gia",
+
+  "Currencies": "Tiền tệ",
+
+  "Trader Account": "Tài khoản giao dịch viên",
+
+  "With a legacy dating back to 2008, Stockbanx has been at the forefront of CFD trading, providing unparalleled expertise and reliability to traders worldwide. Our Corporate CFD Trading Account is meticulously crafted to address the distinctive requirements of corporations, empowering them to seize opportunities presented by price movements across a diverse array of financial instruments. Elevate your trading experience with our CFD Trading Account and join the ranks of thousands of traders who rely on Stockbanx for their CFD trading essentials and unlock the potential of the financial markets.": "Với bề dày lịch sử từ năm 2008, Stockbanx đã đi đầu trong giao dịch CFD, cung cấp kiến ​​thức chuyên môn và độ tin cậy tuyệt vời cho các nhà giao dịch trên toàn thế giới. Tài khoản Giao dịch CFD Doanh nghiệp của chúng tôi được thiết kế tỉ mỉ để giải quyết các yêu cầu đặc biệt của các công ty, giúp họ nắm bắt các cơ hội do biến động giá mang lại trên nhiều loại công cụ tài chính. Nâng cao trải nghiệm giao dịch của bạn với Tài khoản giao dịch CFD của chúng tôi và gia nhập hàng nghìn nhà giao dịch dựa vào Thị trường Stockbanx để có được những kiến ​​thức cần thiết về giao dịch CFD và khai phá tiềm năng của thị trường tài chính.",
+
+  "IB Account": "Tài khoản IB",
+
+  "Backed by quality execution and transparent pricing": "Được hỗ trợ bởi việc thực hiện chất lượng và giá cả minh bạch",
+
+  "Money managers can place orders in bulk on all accounts operating under a master account using Stockbanx's Multi Account Manager (MAM), an integrated software tool that will make the IB's journey more flexible.": "Người quản lý tiền có thể đặt lệnh hàng loạt trên tất cả các tài khoản hoạt động bằng tài khoản chính bằng cách sử dụng Trình quản lý nhiều tài khoản (MAM) của Stockbanx, một công cụ phần mềm tích hợp sẽ giúp hành trình của IB linh hoạt hơn.",
+
+  "Execution Scorecard": "Thẻ điểm thực hiện",
+
+  "A Broker You Can Trust": "Một nhà môi giới bạn có thể tin cậy",
+
+  "Equity Capital": "Vốn chủ sở hữu",
+
+  "Privately Held": "Tư nhân",
+
+  "Client Account": "Client Account",
+
+  "Daily Avg Revenu Trades": "Tài khoản khách hàng",
+
+  "Discover the World of Opportunities": "Khám phá thế giới cơ hội",
+
+  "Gain instant access and trade indices from across the globe, including US500, UK100, and more. Trade US30 with leverage up to 1:100 and low spreads.": "Có được quyền truy cập tức thì và giao dịch các chỉ số từ khắp nơi trên thế giới, bao gồm US500, UK100, v.v. Giao dịch US30 với đòn bẩy lên tới 1:100 và mức chênh lệch thấp.",
+
+  "Invest Smarter & efficiently with MAM Stockbanx": "Đầu tư thông minh hơn và hiệu quả hơn với MAM Stockbanx",
+
+  "Explore the variety of accounts we offer and choose the one that suits you best.": "Khám phá nhiều loại tài khoản chúng tôi cung cấp và chọn tài khoản phù hợp với bạn nhất.",
+
+  "Trade CFDs with ease and seize market opportunities on a platform designed for swift execution and seamless access. Empower your trading journey and unlock your potential.": "Chúng tôi đặt ưu tiên cao vào việc cung cấp các sản phẩm có đòn bẩy và đáp ứng nhu cầu giao dịch Forex của khách hàng.",
+
+  "Deposits and withdrawals": "Gửi tiền và rút tiền",
+  "Experience the ease and security of deposits and withdrawals. Enjoy local, convenient, and safe payment methods, and seamless transactions.": "Trải nghiệm sự dễ dàng và an toàn khi gửi và rút tiền. Tận hưởng các phương thức thanh toán địa phương, tiện lợi và an toàn, và các giao dịch suôn sẻ.",
+  "Your money is safe with us": "Tiền của bạn an toàn với chúng tôi",
+  "As the best retail multi-asset broker, we apply multiple layers of security to keep your funds safe and instantly available to you upon request.": "Là nhà môi giới tài sản đa năng tốt nhất, chúng tôi áp dụng nhiều lớp bảo mật để giữ tiền của bạn an toàn và sẵn sàng ngay lập tức khi bạn yêu cầu.",
+  "Segregated accounts": "Tài khoản tách biệt",
+  "We keep funds in segregated accounts in multiple tier-1 banks to ensure top security and peace of mind.": "Chúng tôi giữ tiền trong các tài khoản tách biệt tại nhiều ngân hàng hạng nhất để đảm bảo an ninh tối đa và sự yên tâm.",
+  "Secure withdrawal transactions": "Giao dịch rút tiền an toàn",
+  "Your withdrawals are safe and secure, protected by one-time password verification methods.": "Các khoản rút tiền của bạn an toàn và được bảo vệ bằng các phương thức xác minh mật khẩu một lần.",
+  "3D Secure payments": "Thanh toán 3D Secure",
+  "We provide 3D Secure payments for all major credit cards such as Visa and Mastercard.": "Chúng tôi cung cấp thanh toán 3D Secure cho tất cả các thẻ tín dụng chính như Visa và Mastercard.",
+  "Streamline your payments with Our Efficient System": "Đơn giản hóa thanh toán của bạn với Hệ thống hiệu quả của chúng tôi",
+  "Enjoy our excellent payment system: easy deposits with global and local options, 24/7 access, and simple withdrawals.": "Tận hưởng hệ thống thanh toán tuyệt vời của chúng tôi: gửi tiền dễ dàng với các tùy chọn toàn cầu và địa phương, truy cập 24/7 và rút tiền đơn giản.",
+  "Payment methods for your convenience": "Phương thức thanh toán tiện lợi cho bạn",
+  "Global, local and secure payment methods for seamless deposits and withdrawals.": "Phương thức thanh toán toàn cầu, địa phương và an toàn cho các khoản gửi và rút tiền suôn sẻ.",
+  "Your money is yours. Period": "Tiền của bạn là của bạn. Chấm hết.",
+  "Access your funds any day, any time with our instant withdrawal feature.": "Truy cập tiền của bạn mọi ngày, mọi lúc với tính năng rút tiền ngay lập tức của chúng tôi.",
+  "Forget about withdrawal fees": "Quên phí rút tiền đi",
+  "We pay your third-party transaction fees so you don't have to.": "Chúng tôi trả phí giao dịch bên thứ ba của bạn để bạn không phải trả.",
+  "Deposit your funds in 3 easy steps": "Gửi tiền của bạn trong 3 bước dễ dàng",
+  "Register and verify your account": "Đăng ký và xác minh tài khoản của bạn",
+  "Choose one of the available payment methods": "Chọn một trong các phương thức thanh toán có sẵn",
+  "Complete your deposit request": "Hoàn thành yêu cầu gửi tiền của bạn",
+  "Frequently asked questions": "Câu hỏi thường gặp",
+  "What are instant deposits?": "Gửi tiền ngay lập tức là gì?",
+  "The term “instant” indicates that a transaction will be carried out within a few seconds without manual processing by our financial department specialists. Please note that although it's instantly processed on our side, your deposit requests may take some time to be processed on the payment system provider's side.": "Thuật ngữ \"ngay lập tức\" cho thấy giao dịch sẽ được thực hiện trong vài giây mà không cần xử lý thủ công bởi các chuyên gia của bộ phận tài chính của chúng tôi. Xin lưu ý rằng mặc dù giao dịch được xử lý ngay lập tức từ phía chúng tôi, yêu cầu gửi tiền của bạn có thể mất một thời gian để được xử lý từ phía nhà cung cấp hệ thống thanh toán.",
+  "Can I withdraw funds to an account that is not my own?": "Tôi có thể rút tiền vào tài khoản không phải của tôi không?",
+  "Funds can be withdrawn to your own personal accounts only. This is a safeguard put in place to ensure financial security.": "Tiền chỉ có thể được rút vào tài khoản cá nhân của bạn. Đây là biện pháp bảo vệ để đảm bảo an toàn tài chính.",
+  "You must use your own personal payment accounts for deposits and withdrawals. We will not accept direct payments or payments to or from third parties. All the information you need regarding transactions can be found in your Personal Area. If your deposit payment method is unavailable during withdrawal, contact the Support team via chat for an alternative solution. Occasionally, some payment systems may be turned off due to maintenance.": "Bạn phải sử dụng tài khoản thanh toán cá nhân của riêng mình cho các khoản gửi và rút tiền. Chúng tôi sẽ không chấp nhận các khoản thanh toán trực tiếp hoặc thanh toán đến hoặc từ các bên thứ ba. Tất cả thông tin bạn cần liên quan đến giao dịch có thể được tìm thấy trong Khu vực cá nhân của bạn. Nếu phương thức thanh toán gửi tiền của bạn không khả dụng khi rút tiền, hãy liên hệ với nhóm Hỗ trợ qua trò chuyện để có giải pháp thay thế. Đôi khi, một số hệ thống thanh toán có thể bị tắt do bảo trì.",
+  "What payment accounts can I use to deposit and withdraw?": "Tôi có thể sử dụng tài khoản thanh toán nào để gửi và rút tiền?",
+  "No, you cannot withdraw money from your demo account. Demo accounts are virtual trading accounts used for practicing trading and strategies, and the funds in them are completely virtual.": "Không, bạn không thể rút tiền từ tài khoản demo của mình. Tài khoản demo là tài khoản giao dịch ảo được sử dụng để thực hành giao dịch và chiến lược, và tiền trong đó hoàn toàn ảo.",
+  "Can I withdraw money from a demo account?": "Tôi có thể rút tiền từ tài khoản demo không?",
+  "Account security and client protection": "Bảo mật tài khoản và bảo vệ khách hàng",
+  "We are dedicated to offering a secure trading environment, complete with robust account safety, fund protection, and around-the-clock customer support to give you peace of mind.": "Chúng tôi cam kết cung cấp một môi trường giao dịch an toàn, với đầy đủ an toàn tài khoản mạnh mẽ, bảo vệ tiền và hỗ trợ khách hàng suốt ngày đêm để bạn yên tâm.",
+  "We know that investment scams and trading risks are big concerns, which is why we prioritize your peace of mind. At Stockbanx, we use top-notch security measures to keep your account, money, and personal details safe all the time. With strong encryption and strict authentication steps, we maintain high security standards so you can trade confidently.": "Chúng tôi biết rằng lừa đảo đầu tư và rủi ro giao dịch là những mối quan tâm lớn, đó là lý do tại sao chúng tôi ưu tiên sự an tâm của bạn. Tại Stockbanx, chúng tôi sử dụng các biện pháp bảo mật hàng đầu để giữ tài khoản, tiền và thông tin cá nhân của bạn an toàn mọi lúc. Với mã hóa mạnh mẽ và các bước xác thực nghiêm ngặt, chúng tôi duy trì các tiêu chuẩn bảo mật cao để bạn có thể giao dịch tự tin.",
+  "Your Trusted Broker": "Nhà môi giới đáng tin cậy của bạn",
+  "As a licensed and regulated leading global broker, we offer you multiple account security options": "Là một nhà môi giới hàng đầu toàn cầu được cấp phép và điều chỉnh, chúng tôi cung cấp cho bạn nhiều tùy chọn bảo mật tài khoản",
+  "Regulations": "Quy định",
+  "If you’ve been wondering, ‘are we legit?’, you can rest assured that we are a licensed broker, regulated by leading international governing bodies globally.": "Nếu bạn đã tự hỏi, 'chúng tôi có hợp pháp không?', bạn có thể yên tâm rằng chúng tôi là một nhà môi giới được cấp phép, được điều chỉnh bởi các cơ quan quản lý quốc tế hàng đầu trên toàn cầu.",
+  "Account security": "Bảo mật tài khoản",
+  "Prevent unauthorized access to your secure trading accounts by choosing a security option – either phone or email – during your registration process.": "Ngăn chặn truy cập trái phép vào tài khoản giao dịch bảo mật của bạn bằng cách chọn một tùy chọn bảo mật - điện thoại hoặc email - trong quá trình đăng ký của bạn.",
+  "Payment Protection": "Bảo vệ thanh toán",
+  "Learn more about our safe and secure trading conditions and protection measures for a smooth trading experience.": "Tìm hiểu thêm về các điều kiện giao dịch an toàn và bảo mật của chúng tôi và các biện pháp bảo vệ để có trải nghiệm giao dịch suôn sẻ.",
+  "Web attack protection": "Bảo vệ khỏi tấn công web",
+  "Our Web Application Firewall (WAF) protects our infrastructure and servers from web threats like SQL injection, XSS attacks, and blocks harmful traffic.": "Tường lửa ứng dụng web (WAF) của chúng tôi bảo vệ cơ sở hạ tầng và máy chủ của chúng tôi khỏi các mối đe dọa web như SQL injection, các cuộc tấn công XSS và chặn lưu lượng có hại.",
+  "Trading platform fault tolerance": "Khả năng chịu lỗi của nền tảng giao dịch",
+  "Our DDoS protection offers you seamless order execution, 24/7 access to your Personal Area, swift deposits and withdrawals, and uninterrupted servers’ operations.": "Bảo vệ DDoS của chúng tôi cung cấp cho bạn thực hiện lệnh liền mạch, truy cập 24/7 vào Khu vực Cá nhân của bạn, gửi và rút tiền nhanh chóng và hoạt động máy chủ không bị gián đoạn.",
+  "Zero trust approach": "Phương pháp không tin cậy",
+  "Our Zero Trust model assumes minimal trust for company IT components and includes features like user and device authentication, restricted access, and network monitoring.": "Mô hình Không tin cậy của chúng tôi giả định tin cậy tối thiểu đối với các thành phần CNTT của công ty và bao gồm các tính năng như xác thực người dùng và thiết bị, truy cập hạn chế và giám sát mạng.",
+  "Bug Bounty program": "Chương trình Bug Bounty",
+  "You gain an extra layer of security with our Bug Bounty program, where we invite external experts to examine our platforms and give reviews that help us improve our services.": "Bạn nhận được một lớp bảo mật bổ sung với chương trình Bug Bounty của chúng tôi, nơi chúng tôi mời các chuyên gia bên ngoài kiểm tra nền tảng của chúng tôi và đưa ra đánh giá giúp chúng tôi cải thiện dịch vụ của mình.",
+  "Cybersecurity knowledge and skills": "Kiến thức và kỹ năng an ninh mạng",
+  "Our Information Security Team are continuously updated on security technology and upgrade their skills through workshops and certifications.": "Đội ngũ Bảo mật Thông tin của chúng tôi liên tục cập nhật về công nghệ bảo mật và nâng cấp kỹ năng của họ thông qua các hội thảo và chứng chỉ.",
+  "Trading Protection": "Bảo vệ giao dịch",
+  "Safeguard your trading strategy with our customized protection features, designed to provide robust security tailored to your needs.": "Bảo vệ chiến lược giao dịch của bạn với các tính năng bảo vệ tùy chỉnh của chúng tôi, được thiết kế để cung cấp bảo mật mạnh mẽ phù hợp với nhu cầu của bạn.",
+  "Enjoy our excellent payment system:easy deposits with global and local options, 24/7 access, and simple withdrawals.": "Tận hưởng hệ thống thanh toán tuyệt vời của chúng tôi: gửi tiền dễ dàng với các tùy chọn toàn cầu và địa phương, truy cập 24/7 và rút tiền đơn giản.",
+  "We safeguard your funds by holding them segregated from our own. Our funds are always larger, so we can meet your withdrawal needs any time of the day.": "Chúng tôi bảo vệ tiền của bạn bằng cách giữ chúng tách biệt với tiền của chúng tôi. Tiền của chúng tôi luôn lớn hơn, vì vậy chúng tôi có thể đáp ứng nhu cầu rút tiền của bạn bất cứ lúc nào.",
+  "Seamless withdrawals": "Rút tiền suôn sẻ",
+  "Our automatic withdrawal feature guarantees instant processing of your withdrawal requests, providing you access to your funds even on weekends. The speed of payment may vary depending on the payment method you choose.": "Tính năng rút tiền tự động của chúng tôi đảm bảo xử lý ngay lập tức các yêu cầu rút tiền của bạn, cung cấp cho bạn quyền truy cập vào tiền của bạn ngay cả vào cuối tuần. Tốc độ thanh toán có thể thay đổi tùy thuộc vào phương thức thanh toán bạn chọn.",
+  "3D Secure verification": "Xác minh 3D Secure",
+  "We prioritize secure trading by implementing 3D Secure technology for debit card transactions, which adds an extra layer of fraud protection. This system enhances security by sending a one-time pin to your phone that must be entered during the transaction, ensuring that only you can authorize the payment.": "Chúng tôi ưu tiên giao dịch an toàn bằng cách triển khai công nghệ 3D Secure cho các giao dịch thẻ ghi nợ, điều này bổ sung một lớp bảo vệ chống gian lận bổ sung. Hệ thống này tăng cường bảo mật bằng cách gửi mã pin một lần đến điện thoại của bạn mà bạn phải nhập trong quá trình giao dịch, đảm bảo rằng chỉ có bạn mới có thể ủy quyền thanh toán.",
+  "Trade confidently knowing you won’t owe your broker money; we prevent losses from exceeding your balance across all trading account types.": "Giao dịch tự tin biết rằng bạn sẽ không nợ tiền nhà môi giới; chúng tôi ngăn ngừa tổn thất vượt quá số dư của bạn trên tất cả các loại tài khoản giao dịch.",
+  "Stop Out Protection": "Bảo vệ Stop Out",
+  "Enjoy this unique secure trading protection feature that strengthens your positions and helps delay or avoid stop outs, particularly during increased volatility.": "Tận hưởng tính năng bảo vệ giao dịch an toàn độc đáo này giúp củng cố vị thế của bạn và giúp trì hoãn hoặc tránh stop out, đặc biệt là trong thời kỳ biến động gia tăng.",
+  "Enhance your security by familiarizing yourself with practices that help prevent unauthorized account activities, scams, and fraud attempts.": "Nâng cao bảo mật của bạn bằng cách làm quen với các thực hành giúp ngăn chặn các hoạt động tài khoản trái phép, lừa đảo và các nỗ lực gian lận.",
+  "Keep your Personal Area private, never share access and personal documents. Don’t let anyone use your name to create an Stockbanx account or share your security information.": "Giữ Khu vực Cá nhân của bạn ở chế độ riêng tư, không bao giờ chia sẻ quyền truy cập và tài liệu cá nhân. Đừng để ai sử dụng tên của bạn để tạo tài khoản Stockbanx hoặc chia sẻ thông tin bảo mật của bạn.",
+  "Only conduct financial activities within the Stockbanx Personal Area and avoid transferring funds to unknown accounts.": "Chỉ thực hiện các hoạt động tài chính trong Khu vực Cá nhân Stockbanx và tránh chuyển tiền đến các tài khoản không xác định.",
+  "Be vigilant towards suspicious links and unknown sources, never provide sensitive information if contacted unexpectedly, and reach out directly to Stockbanx via live chat or email for any concerns about fraudulent activities or message authenticity.": "Hãy cảnh giác với các liên kết đáng ngờ và các nguồn không xác định, không bao giờ cung cấp thông tin nhạy cảm nếu bị liên hệ bất ngờ và liên hệ trực tiếp với Stockbanx qua trò chuyện trực tiếp hoặc email nếu có bất kỳ lo ngại nào về các hoạt động gian lận hoặc tính xác thực của tin nhắn.",
+  "Yes, Stockbanx is a well-regulated global broker, regulated by the Financial Sector Conduct Authority under license number 45954, to ensure the financial security of its clients.": "Vâng, Stockbanx là một nhà môi giới toàn cầu được quản lý tốt, được quản lý bởi Cơ quan Quản lý Ngành Tài chính theo số giấy phép 45954, để đảm bảo an ninh tài chính cho khách hàng của mình.",
+  "Is Stockbanx regulated?": "Stockbanx có được quản lý không?",
+  "We are widely regarded as a safe and secure platform for trading, thanks to our status as a licensed and regulated broker overseen by prominent international regulatory bodies. We prioritize account safety by offering a variety of security measures such as phone or email verification, and advanced web attack protection with a Web Application Firewall (WAF). Furthermore, Stockbanx implements payment protection features, including segregated accounts and 3D Secure verification, and offers trading protections like Negative Balance Protection, ensuring that clients can trade with confidence and peace of mind.": "Chúng tôi được coi là một nền tảng an toàn và bảo mật để giao dịch, nhờ vào trạng thái của chúng tôi là một nhà môi giới được cấp phép và quản lý dưới sự giám sát của các cơ quan quản lý quốc tế nổi tiếng. Chúng tôi ưu tiên bảo mật tài khoản bằng cách cung cấp nhiều biện pháp bảo mật khác nhau như xác minh qua điện thoại hoặc email, và bảo vệ chống tấn công web tiên tiến với Tường lửa Ứng dụng Web (WAF). Hơn nữa, Stockbanx triển khai các tính năng bảo vệ thanh toán, bao gồm tài khoản tách biệt và xác minh 3D Secure, và cung cấp các biện pháp bảo vệ giao dịch như Bảo vệ Số dư âm, đảm bảo rằng khách hàng có thể giao dịch với sự tự tin và an tâm.",
+  "Is Stockbanx safe?": "Stockbanx có an toàn không?",
+  "Stockbanx Fees": "Phí Stockbanx",
+  "Concentrate on trading, not expenses. We've designed a trading environment that minimizes costs for our clients.": "Tập trung vào giao dịch, không phải chi phí. Chúng tôi đã thiết kế một môi trường giao dịch giảm thiểu chi phí cho khách hàng của mình.",
+  "Account for every type of trader": "Tài khoản cho mọi loại nhà giao dịch",
+  "Choose the one that will maximize your returns while minimizing your costs.": "Chọn loại tài khoản sẽ tối đa hóa lợi nhuận của bạn trong khi giảm thiểu chi phí của bạn.",
+  "Offer Swap Free Account": "Cung cấp Tài khoản Miễn phí Hoán đổi",
+  "CPT’s Swap Free Account allows swap-free trading, which means clients can trade on a Swap Free Account without being charged overnight fees up to 7 consecutive days. From the 8th day onwards, a swap will be charged on the particular position.": "Tài khoản Miễn phí Hoán đổi của Stockbanx cho phép giao dịch không hoán đổi, có nghĩa là khách hàng có thể giao dịch trên Tài khoản Miễn phí Hoán đổi mà không bị tính phí qua đêm lên đến 7 ngày liên tiếp. Từ ngày thứ 8 trở đi, phí hoán đổi sẽ được tính trên vị trí cụ thể.",
+  "Commission and spreads": "Hoa hồng và chênh lệch giá",
+  "Learn more about commission and spreads for individual instruments": "Tìm hiểu thêm về hoa hồng và chênh lệch giá cho các công cụ riêng lẻ",
+  "Trade the world’s largest market with spreads starting from 0.7 pips": "Giao dịch trên thị trường lớn nhất thế giới với chênh lệch giá bắt đầu từ 0,7 pip",
+  "Diversify your portfolio and trade oil, natural gas and metals": "Đa dạng hóa danh mục đầu tư của bạn và giao dịch dầu, khí đốt tự nhiên và kim loại",
+  "Trade stocks of the biggest names in the international stock market with low transaction costs": "Giao dịch cổ phiếu của các tên tuổi lớn nhất trên thị trường chứng khoán quốc tế với chi phí giao dịch thấp",
+  "Capitalize on the biggest names in tech and other industries": "Tận dụng các tên tuổi lớn nhất trong lĩnh vực công nghệ và các ngành công nghiệp khác",
+  "Trade confidently knowing you won’t owe your broker money; we prevent losses from exceeding your balance across all trading account types.": "Giao dịch một cách tự tin khi biết rằng bạn sẽ không nợ tiền môi giới; chúng tôi ngăn ngừa tổn thất vượt quá số dư của bạn trên tất cả các loại tài khoản giao dịch.",
+  "Client protection": "Bảo vệ khách hàng",
+  "Major currency pairs are the most traded in forex, always involving the USD and another major currency, such as the EUR, JPY, GBP, CHF, AUD, CAD, and NZD. They are known for high liquidity and low volatility.": "Các cặp tiền tệ chính được giao dịch nhiều nhất trong ngoại hối, luôn liên quan đến USD và các loại tiền tệ chính khác, chẳng hạn như EUR, JPY, GBP, CHF, AUD, CAD và NZD. Chúng được biết đến với tính thanh khoản cao và độ biến động thấp.",
+  "Minor currency pairs, or cross-currency pairs, exclude the USD and involve other major currencies like the EUR, GBP, JPY, CHF, CAD, AUD, and NZD.  These pairs tend to be less liquid and more volatile than major currency pairs.": "Các cặp tiền tệ nhỏ hoặc các cặp tiền tệ chéo, loại trừ USD và liên quan đến các loại tiền tệ chính khác như EUR, GBP, JPY, CHF, CAD, AUD và NZD.  Các cặp này có xu hướng ít thanh khoản hơn và dễ biến động hơn các cặp tiền tệ chính.",
+  "Sign up and verify your new trading account.": "Đăng ký và xác minh tài khoản giao dịch mới của bạn.",
+  "Exclusive 30% Welcome Bonus!": "Ưu đãi 30% Chào mừng khách hàng mới!",
+  "Starting on August 5th, 2024, kickstart your trading journey with our Exclusive 30% Welcome Bonus.": "Bắt đầu từ ngày 5 tháng 8 năm 2024, hãy bắt đầu hành trình giao dịch của bạn với Ưu đãi đặc biệt 30%.",
+  "Apply Now": "Đăng ký ngay",
+  "Terms & Conditions apply": " Áp dụng Điều khoản & Điều kiện",
+  "Winning at the Starting Line": "Chiến thắng ngay từ Vạch Xuất Phát",
+  "Maximize your trading potential from the very beginning with Stockbanx.": "Tối đa hóa tiềm năng giao dịch của bạn ngay từ những bước đầu với Stockbanx.",
+  "Increased Trading Capital": "Tăng Vốn Giao dịch",
+  "Risk Mitigation": "Giảm thiểu Rủi ro",
+  "Enhanced Trading Opportunities": "Gia tăng Cơ hội Giao dịch",
+  "How to Get Your Bonus": "Cách nhận tiền thưởng của bạn",
+  "New User": "Người dùng mới",
+  "Existing User": "Người dùng hiện tại",
+  "Step 1": "Bước 1",
+  "Open an Account": "Mở tài khoản",
+  "Step 2": "Bước 2",
+  "Apply": "Đăng ký",
+  "Apply for the promotion. Our Support team or Relations Manager will contact you shortly.": "Đăng ký chương trình ưu đãi. Nhóm hỗ trợ hoặc Quản lý quan hệ của chúng tôi sẽ sớm liên hệ với bạn.",
+  "Step 3": "Bước 3",
+  "Deposit funds": "Gửi tiền",
+  "Deposit your first funds and claim your bonus.": "Thực hiện gửi tiền lần đầu tiên của bạn và nhận tiền thưởng."
+}
+

@@ -1,0 +1,4 @@
+Sitemap: https://cptmarkets.com/sitemap.xml
+User-agent: *
+Allow: 
+Sitemap: https://cptmarkets.com/sitemap.xml

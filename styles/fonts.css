@@ -1,0 +1,14 @@
+@font-face{
+    font-family: GlowSansJ-Normal-Regular;
+    src:url('../public/fonts/GlowSansSC-Normal-Regular.otf')
+}
+
+@font-face{
+    font-family: TaipeiSansTCBeta-Bold;
+    src:url('../public/fonts/TaipeiSansTCBeta-Bold.ttf')
+}
+
+@font-face{
+    font-family: GlowSansJ-Normal-Bold;
+    src:url('../public/fonts/GlowSansJ-Normal-Bold.otf')
+}

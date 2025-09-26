@@ -1,0 +1,2238 @@
+{
+  "h1": "h1 test",
+
+  "change-locale": "changer-région",
+
+  "to-second-page": "vers-seconde-page",
+
+  "error-with-status": "erreur-avec-état",
+
+  "error-without-status": "erreur-sans-état",
+
+  "title": "titre",
+
+  "Trade over 1900 global markets": "Négocier sur 1900+ marchés mondiaux",
+
+  "Explore Markets": "Explorer les marchés",
+
+  "Download MT5": "Télécharger MT5",
+
+  "Trade on the go": "Négociez lorsque vous êtes en déplacement",
+
+  "Take your trading journey to the next level with an intuitive and easy-to-use trading platform.": "Passez à la vitesse supérieure grâce à une plateforme de trading intuitive et facile à utiliser.",
+
+  "Google Play": "Google Play",
+
+  "Desktop": "Bureau",
+
+  "Deposit and Withdrawal Options": "Options de dépôt et de retrait",
+
+  "Risk Warning: Trading Contracts for Difference (CFDs) on margin carries a high level of risk and may not be suitable for all investors. Please ensure that you fully understand the risks and take the right measures to manage your risk": "Avertissement sur les risques : La négociation de contrats de différence (CFD) sur marge comporte un niveau de risque élevé et peut ne pas convenir à tous les investisseurs. Veillez à comprendre pleinement les risques et à prendre les mesures adéquates pour les gérer",
+
+  "Partners": "Partenaires",
+
+  "Contact us": "Nous contacter",
+
+  "faq": "faq",
+
+  "Sign in": "S'identifier",
+
+  "About": "A propos de",
+
+  "Products": "Produits",
+
+  "Accounts": "Comptes",
+
+  "Platform": "Plateforme",
+
+  "Learn to Trade": "Apprendre à faire du trading",
+
+  "Try Demo": "Essayer la démo",
+
+  "Live Account": "Open Account",
+
+  "START TRADING": "COMMENCER A TRAITER",
+
+  "We place a high priority on leveraged products and Forex trading needs of our customers": "Nous accordons beaucoup d'importance aux produits à effet de levier et aux besoins de nos clients en matière de transactions sur le marché des changes",
+
+  "Get in touch": "Prendre contact",
+
+  "Who We Are?": "Qui sommes-nous ?",
+
+  "Contact Details": "Coordonnées",
+
+  "Legal Documents": "Documents juridiques",
+
+  "Forex": "Marché des changes",
+
+  "Commodities": "Matières premières",
+
+  "Crypto FX": "Crypto FX",
+
+  "Trading Conditions": "Conditions de trading",
+
+  "Account Types": "Types de comptes",
+
+  "Referral Program": "Programme de recommandation",
+
+  "Rewards Program": "Programme de fidélisation",
+
+  "MetaTrader4": "MetaTrader4",
+
+  "MetaTrader5": "MetaTrader5",
+
+  "cTrader": "cTrader",
+
+  "Market OverView": "Aperçu du marché",
+
+  "Knowledge Articles": "Articles de connaissances",
+
+  "Economic Calendar": "Calendrier économique",
+
+  "Webinars": "Webinaires",
+
+  "Video Guides": "Guides vidéo",
+
+  "Disclaimer": "Clause de non-responsabilité",
+
+  "DisclaimerFirst": "Nous fournissons des services liés à des produits financiers dérivés complexes. Les contrats de change et de CFD sur notre site en ligne sont négociés sur la base d'une marge ou d'un effet de levier, un type de négociation qui comporte un degré élevé de risque pour votre capital. Le prix du contrat que vous concluez avec nous peut changer rapidement, et vos profits et pertes peuvent être supérieurs à votre investissement ou dépôt initial. Si vous ne détenez pas suffisamment de fonds pour répondre à vos exigences de marge, nous pouvons clôturer vos positions ouvertes immédiatement et sans préavis. Il est possible de perdre plus que votre dépôt initial. Assurez-vous que vous comprenez et acceptez les risques avant de négocier sur une marge ou avec un effet de levier et que vous pouvez supporter des pertes potentielles.",
+
+  "DisclaimerSecond": "ClauseDeNonResponsabilitéDeuxième",
+
+  "DisclaimerThird": "Stockbanx est le nom commercial utilisé par Stockbanx Limited, situé au Belize et réglementé par la Commission des services financiers internationaux du Belize sous le numéro de licence : No. FSC000314/17 et dont l'adresse est #45, 5th Avenue, Corozal Town, Corozal District, Belize",
+
+  "DisclaimerFour": "Stockbanx PTY LTD (\"Stockbanx SA\") est une société étroitement liée à Stockbanx Ltd. Stockbanx SA est enregistrée en Afrique du Sud sous le numéro d'enregistrement 2014 / 214730 / 07 et réglementée par la Financial Sector Conduct Authority sous le numéro de licence 45954, avec une adresse de siège social à 6 Kikuyu Road, Sunninghill, Johannesburg Gauteng, 2191, South Africa. Les clients souhaitant entrer en relation d'affaires avec Stockbanx ne pourront le faire qu'en visitant son site Internet à l'adresse www.cptmarkets.com. ou l'email officiel <a href='mailto:contact@stockbanx.com' class='link-footer'> contact@stockbanx.com </a>",
+
+  "DisclaimerFive": "ClauseDeNonResponsabilitéCinquième",
+
+  "DisclaimerSix": "Stockbanx U.K. est le nom commercial utilisé par Stockbanx U.K. Limited. L'adresse de la société est située au Pays de Galles, en Angleterre, autorisée et gérée par la Financial Conduct Authority (FCA) sous le numéro d'enregistrement 6707165, NO.606110. Stockbanx U.K. Limited est une société affiliée de Stockbanx Limited. Pour établir une relation d'affaires avec Stockbanx U.K., veuillez consulter le site officiel de Stockbanx U.K. à l'adresse https://www.cptmarkets.co.uk ou l'adresse électronique officielle info@cptmarkets.co.uk.",
+
+  "DisclaimerSeven": "ClauseDeNonResponsabilitéSeptième",
+
+  "DisclaimerEight": "Avertissement sur les risques : Nous ne garantissons pas que les informations fournies ici sont exactes, à jour ou complètes, et ne doivent donc pas être considérées comme telles. Les informations fournies ici, qu'elles proviennent d'un tiers ou non, ne doivent pas être considérées comme une recommandation, ni comme une offre d'achat ou de vente, ni comme la sollicitation d'une offre d'achat ou de vente d'un titre, d'un produit ou d'un instrument financier, ni comme une invitation à participer à une stratégie de négociation particulière. Nous conseillons à tout lecteur de ce contenu de rechercher ses propres conseils. La reproduction ou la redistribution de ces informations n'est pas autorisée sans l'accord de Stockbanx.",
+
+  "Stockbanx UK": "Stockbanx UK Limited (Stockbanx UK) est une société autorisée et réglementée par la Financial Conduct Authority (FCA), numéro d'enregistrement 606110.",
+
+  "Client funds are guarded in segregated bank accounts": "Les fonds des clients sont conservés sur des comptes bancaires distincts",
+
+  "Negative Balance Protection": "Protection solde négatif",
+
+  "Leverage up to 1:30": "Effet de levier jusqu'à 1:30",
+
+  "For Retail clients, Professional clients and Market Counterparties": "Pour les clients individuels, professionnels et les homologues du marché",
+
+  "Continue": "Continuer",
+
+  "Stockbanx": "Stockbanx PTY LTD (Stockbanx SA) est une société autorisée et réglementée par la Financial Sector Conduct Authority (AOFA), licence n° 45954.",
+
+  "Stockbanx International": "Stockbanx Limited (Stockbanx Belize) est une société autorisée et réglementée par la Commission des services financiers internationaux de Belize, licence n° FSC000314/17.",
+
+  "Leverage up to 1:500": "Effet de levier jusqu'à 1:500",
+
+  "The information on the website is displayed in accordance with the regulation you have chosen. If you would like to switch to a different regulation, you can select another one from the menu and the website will adjust accordingly.": "Les informations sur le site web sont affichées conformément à la régulation que vous avez choisi. Si vous souhaitez passer à une autre régulation, vous pouvez en sélectionner une autre dans le menu et le site web s'adaptera en fonction.",
+
+  "Open Account": "S'inscrire",
+
+  "Fill in your details using our registration form to Create your account with Stockbanx International instantly.": "Saisissez vos coordonnées à l'aide de notre formulaire d'inscription pour créer instantanément votre compte auprès de Stockbanx International.",
+
+  "Start Referring": "Commencez à recommander des clients",
+
+  "Start referring clients and track the daily volume Trading of your referrals in our tailored IB Portal.": "Commencez à recommander des clients et suivez le volume quotidien des transactions de vos recommandations sur notre portail IB personnalisé.",
+
+  "Start Earning": "Commencer à gagner de l'argent",
+
+  "You can earn up to $10 per lot on your clients' trading. The more they trade, the more you make!": "Vous pouvez gagner jusqu'à 10 $ par lot sur les transactions de vos clients. Plus ils négocient, plus vous gagnez !",
+
+  "Become a partner": "Devenez partenaire",
+
+  "Get to know more about Stockbanx's services and products": "En savoir plus sur les services et produits Stockbanx",
+
+  "Reach out to our support team, available 18/5": "Contactez notre équipe d'assistance, disponible 24/5",
+
+  "Read and download our legal documents": "Lisez et téléchargez notre documentation juridique",
+
+  "Trade Major and Minor forex pairs": "Négociez les paires majeures et mineures du Forex",
+
+  "Trade popular commodities with competitive conditions": "Échangez des matières premières courantes à des conditions préférentielles",
+
+  "Trade shares of the biggest companies in the world": "Négociez des actions des plus grandes entreprises du monde",
+
+  "Trade leveraged products on Indices": "Négociez des produits à effet de levier sur les indices",
+
+  "Trade your favorite cryptocurrencies with Stockbanx": "Négociez vos crypto-monnaies préférées avec Stockbanx",
+
+  "Pricing": "Tarification",
+
+  "Trading Condition": "Conditions de vente",
+
+  "Have a look at our spread and leverage": "Consultez notre spread et notre effet de levier",
+
+  "Choose from the different account that we offer": "Choisissez parmi les différents comptes que nous proposons",
+
+  "Promotions & Rewards": "Promotions et récompenses",
+
+  "Refer A Friend": "Recommandez un ami",
+
+  "The more you refer, the higher the reward": "Plus vous en recommandez, et plus importante sera la récompense",
+
+  "Partner with us and earn great rewards": "Devenez notre partenaire et obtenez de superbes récompenses",
+
+  "Promotions": "Promotions",
+
+  "Take advantage of our promotions and bonuses": "Profitez de nos promotions et de nos bonus",
+
+  "Trading Platforms": "Plateformes de trading",
+
+  "Metatrader4": "Metatrader4",
+
+  "The most popular trading platfrom": "La plateforme de trading la plus populaire",
+
+  "Metatrader5": "Metatrader5",
+
+  "Advanced and intuitive trading platfrom": "Plateforme de trading de pointe et intuitive",
+
+  "CTrader": "cTrader",
+
+  "Seamless trading experiance": "Une expérience commerciale toute en souplesse",
+
+  "Market Updates": "Mises à jour du marché",
+
+  "Market Overview": "Aperçu du marché",
+
+  "Discover fundamental and technical analysis": "Découvrir l'analyse fondamentale et technique",
+
+  "Learn how to make informed trading decisions": "Apprendre à prendre des décisions commerciales en connaissance de cause",
+
+  "Forecast potential volatility on your favorite assets": "Prévoyez la volatilité potentielle de vos actifs préférés",
+
+  "Learn From Experts": "Apprendre des experts",
+
+  "Learn directly from our experts at live webinars": "Apprendre directement auprès de nos experts lors de webinaires en live",
+
+  "Get access to our educational videos": "Accédez à nos vidéos didactiques",
+
+  "search": "Rechercher",
+
+  "Popular": "Populaire",
+
+  "Crypto": "Crypto",
+
+  "Instruments": "Instruments",
+
+  "Bid Price": "Prix de la proposition",
+
+  "Ask Price": "Prix demandé",
+
+  "Spread": "Spread",
+
+  "Change": "Echanger",
+
+  "Trend": "Tendance",
+
+  "GBP/USD": "GBP/USD",
+
+  "Stockbanx's Reward Structure": "Structure des récompenses de Stockbanx",
+
+  "The more you refer, the higher the reward.": "Plus vous recommandez de personnes, plus la récompense est élevée.",
+
+  "Premium": "Prime",
+
+  "New clients must fulfill below criteria for the Partner to be qualified for the rewards:": "Les nouveaux clients doivent remplir les critères ci-dessous pour que le partenaire puisse bénéficier des récompenses :",
+
+  "1. Minimum 8 standard lots traded per client": "1. Minimum de 8 lots standard négociés par client",
+
+  "2. Minimum deposit of $1,000": "2. Dépôt minimum de 1 000 dollars",
+
+  "Get": "Obtenez",
+
+  "Win": "Gagnez",
+
+  "New Clients": "Nouveaux clients",
+
+  "Net Deposit $": "Dépôt net $",
+
+  "Total Lots Traded (new)": "Total des lots négociés (nouveau)",
+
+  "Stocks": "Actions",
+
+  "Learn With Us": "Apprenez avec nous",
+
+  "Crypto CFD": "CFD crypto",
+
+  "Fill in a simple online application form through our official website.": "Remplissez un simple formulaire de candidature en ligne sur notre site officiel.",
+
+  "Provide identification to keep your account safe.": "Fournissez une pièce d'identité pour assurer la sécurité de votre compte.",
+
+  "Fund your trading account": "Alimentez votre compte de négociation",
+
+  "Download and install (MetaTrader 4) platformvia our official website so that you can access your account,check your balance via Stockbanx server, execute trades and start making profits.": "Téléchargez et installez la plateforme (MetaTrader4) via notre site officiel afin de pouvoir accéder à votre compte, vérifier votre solde via le serveur Stockbanx, exécuter des transactions et commencer à réaliser des profits.",
+
+  "Open Account": "Ouvrir un compte",
+
+  "Start Trading": "Commencez à négocier",
+
+  "Have questions? we're here to help.": "Des questions ? Nous sommes là pour vous aider.",
+
+  "Top FAQs": "Principales FAQ",
+
+  "General": "Général",
+
+  "Introducing Brokers": "Présentation des courtiers",
+
+  "Deposits and Withdrawals": "Dépôts et retraits",
+
+  "allowCookies": "Ce site web utilise des cookies. Veuillez consulter notre <a href='https://filetest.cptinternational.com/Contents/cptsatest/Legal/CPT_SA_Complaints_Notice.pdf' target='_blank' class='cookies-class'> politique en matière de cookies </a>.  Si vous acceptez notre utilisation des cookies, veuillez continuer à utiliser notre site web. ",
+
+  "Our office is open five days a week, Monday to Friday. The support line is available 18 hours a day.": "Notre bureau est ouvert cinq jours par semaine, du lundi au vendredi. La ligne d'assistance est disponible 18 heures par jour.",
+
+  "Belize": "Belize",
+
+  "2118 Guava Street": "2118 Guava Street",
+
+  "Belama Phase 1, Belize City": "Belama Phase 1, Belize City",
+
+  "Belize - Stockbanx Belize": "Belize - Stockbanx Belize",
+
+  "Click how to get there": "Cliquez sur comment s'y rendre",
+
+  "South Africa": "Afrique du Sud",
+
+  "Unit 1, Village Corner": "Unit 1, Village Corner",
+
+  "57 Via Latina Crescent, Irene Corporate Corner": "57 Via Latina Crescent, Irene Corporate Corner",
+
+  "Gauteng, 0178 - Stockbanx SA": "Gauteng, 0178 - Stockbanx SA",
+
+  "Canary Wharf, London,E14 5NR - Stockbanx UK": "Canary Wharf, London,E14 5NR - Stockbanx UK",
+
+  "United Kingdom": "Royaume-Uni",
+
+  "Chat with us": "Chatez avec nous",
+
+  "Start a chat with our customer support team, available 18/5": "Commencez à chatter avec notre équipe d'assistance à la clientèle, disponible 18/5",
+
+  "Start Chat": "Commencez à chatter",
+
+  "Media Collaboration": "Collaboration avec les médias",
+
+  "Email us on": "Envoyez-nous un e-mail à l'adresse suivante",
+
+  "Email Us": "Envoyez-nous un e-mail",
+
+  "For complaints": "Pour les réclamations",
+
+  "Reach us on": "Contactez-nous sur",
+
+  "Career": "Carrière",
+
+  "Send us you CV": "Envoyez-nous votre CV",
+
+  "Legal Docuements": "Documents juridiques",
+
+  "Get access to all relevant legal documents before opening a trading account": "Accéder à tous les documents juridiques pertinents avant d'ouvrir un compte de trading",
+
+  "Privacy Policy": "Politique de confidentialité",
+
+  "Risk Disclosure": "Information sur les risques",
+
+  "Licence Regulation": "Réglementation sur les licences",
+
+  "AML Compliance": "Conformité à la législation sur la lutte contre le blanchiment d'argent",
+
+  "Cookies Policy": "Politique relative aux cookies",
+
+  "CS. Agreement": "Contrat de vente conditionnelle",
+
+  "Get to know": "Apprendre à connaître",
+
+  "You deserve the best trading experience": "Vous méritez la meilleure expérience de trading",
+
+  "Stockbanx is a world- leading leveraged products broker in online trading of the global markets. Stockbanx offers 130+ leveraged product instruments for global investors to trade. We became the preferred brand of many traders by putting the funds safety as a top priority and providing an efficient, safe, simple trading journey.": "Stockbanx est un courtier en produits à effet de levier leader mondial dans le domaine du trading en ligne sur les marchés mondiaux. Stockbanx propose plus de 130 instruments de produits à effet de levier aux investisseurs mondiaux. Nous sommes devenus la marque préférée de nombreux traders en plaçant la sécurité des fonds en tête des priorités et en proposant un parcours de trading efficace, sûr et simple.",
+
+  "The most rewarding trading experience.": "L'expérience de trading la plus gratifiante.",
+
+  "Trading Experience.": "Expérience de trading.",
+
+  "Stockbanx promises to exceed your expectations": "Stockbanx vise à dépasser vos attentes en vous offrant une expérience de trading en ligne inégalée, en proposant un niveau de service sans précédent associé à des technologies de trading de pointe.",
+
+  "Open Account": "Inscrivez-vous maintenant !",
+
+  "Mission": "Mission",
+
+  "Our mission is to create a community that appreciates convenience": "Notre mission est de créer une communauté qui apprécie la commodité, l'inclusivité et la transparence, permettant ainsi aux négociants et aux courtiers d'optimiser leur valeur.",
+
+  "Vision": "Vision",
+
+  "The vision is to create the best trading experience for you to be successful. So anyone, anywhere, can trade.": "L'objectif est de créer la meilleure expérience de trading possible pour que vous puissiez réussir. Pour que tout le monde, n'importe où, puisse trader.",
+
+  "Safe And Secure": "Sûr et sécurisé",
+
+  "All funds are protected by industry-leading security protocols.": "Tous les fonds sont protégés par des protocoles de sécurité de pointe. Nous offrons une protection contre les soldes négatifs et les fonds de nos clients sont conservés sur des comptes fiduciaires distincts dans des banques de premier plan.",
+
+  "Create Account": "Créez un compte",
+
+  "Rewards": "Récompenses",
+
+  "Traders can compete against each other and get rewarded for their trading skills while IBs can also benefit from unique loyalty programs that recognize their efforts.": "Les traders peuvent se mesurer les uns aux autres et être récompensés pour leurs compétences en matière de trading, tandis que les courtiers remisiers (IB) peuvent également bénéficier de programmes de fidélité uniques qui reconnaissent leurs efforts.",
+
+  "Innovation": "Innovation",
+
+  "Experience our easy to use and intuitive platforms. With exclusive AI plug-ins, interactive webinars, trading forums and much more.": "Découvrez nos plateformes intuitives et faciles à utiliser. Avec des plug-ins IA exclusifs, des webinaires interactifs, des forums de trading et bien plus encore.",
+
+  "Choose An Account": "Choisissez un compte",
+
+  "chooseAccount": "choisirCompte",
+
+  "supportChat": "chatSupportTechnique",
+
+  "Minimum Deposits (USD)": "Dépôts minimums (USD)",
+
+  "Spreads starting from (Pips)": "Spreads à partir de (Pips)",
+
+  "Commission": "Commission",
+
+  "Leverage": "Effet de levier",
+
+  "Stop Out": "Stop Out",
+
+  "Stockbanx Classic": "Stockbanx Classique",
+
+  "Stockbanx Prime": "Stockbanx Prime",
+
+  "Margin call": "Appel de marge",
+
+  "Referral Benefits": "Avantages de la recommandation",
+
+  "Lorem ipsum dolor sit amet, consetetur sadipscing elitr": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+
+  "Lorem Ipsum": "Lorem Ipsum",
+
+  "Easy Steps To Earn!": "Des étapes faciles pour gagner !",
+
+  "Open a live account": "Ouvrir un compte en direct",
+
+  "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+
+  "Get your referral link": "Obtenez votre lien de recommandation",
+
+  "Start referring and earning": "Commencez à recommander et à gagner",
+
+  "Rewards You Actually Use!": "Des récompenses que vous utilisez vraiment !",
+
+  "Lorem": "Lorem",
+
+  "An Innovative": "Une approche innovante",
+
+  "Stet clita kasd Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed": "Stet clita kasd Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+
+  "Choose the account type that suits your trading experience": "Choisissez le type de compte qui correspond à votre expérience de trading",
+
+  "Dedicated Account Manager": "Responsable de compte spécifique",
+
+  "How To Open A Trading Account?": "Comment ouvrir un compte de trading ?",
+
+  "Manage all of your financial assets, long and short term, in one portfolio": "Gérer tous vos actifs financiers, à long et à court terme, dans un seul portefeuille",
+
+  "The trading hours (in GMT+0) for all instruments in winter (November to March)": "Les heures de négociation (en GMT+0) pour tous les instruments en hiver (novembre à mars)",
+
+  "Trading Products": "Produits de trading",
+
+  "Find more details about trading our products": "Plus d'informations sur le trading de nos produits",
+
+  "Trading Hours": "Heures d'ouverture",
+
+  "Sunday：23:05 - 24:00\nMonday：00:00 - 21:59\nTuesday to Thursday：01:01 - 21:59\nFriday：01:01 - 21:55": "Dimanche : 23h05 - 24h00\nLundi : 00h00 - 21h59\nMardi à jeudi : 01h01 - 21h59\nVendredi : 01h01 - 21h55",
+
+  "Equity": "Fonds propres",
+
+  "Trade a wide range of leveraged products with tight Spreads as low as 0.5 Pips": "Négociez une large gamme de produits à effet de levier avec des spreads serrés à partir de 0,5 pips.",
+
+  "Markets": "Marchés",
+
+  "Spread from": "Spreads à partir de",
+
+  "Majors": "Majeurs",
+
+  "Minors": "Mineurs",
+
+  "Exotic": "Exotique",
+
+  "FX": "FX",
+
+  "XAUUSD": "XAUUSD",
+
+  "UKOUSD": "UKOUSD",
+
+  "U30USD": "U30USD",
+
+  "NASUSD": "NASUSD",
+
+  "SPXUSD": "SPXUSD",
+
+  "100GBP": "100GBP",
+
+  "E50EUR": "E50EUR",
+
+  "D30EUR": "D30EUR",
+
+  "H33HKD": "H33HKD",
+
+  "225JPY": "225JPY",
+
+  "CHN50USD": "CHN50USD",
+
+  "US Stocks": "Actions américaines",
+
+  "Future Contracts": "Contrats futurs",
+
+  "INDIA": "Inde",
+
+  "2. Margin & Leverage:": "2. Marge et effet de levier :",
+
+  "Maximum leverage changes based on your account’s equity": "L'effet de levier maximum varie en fonction des fonds propres de votre compte",
+
+  "3. Spreads": "3. Spreads",
+
+  "More than X instrument pairs with tight Spreads as low as 0.7 Pips": "Plus de X paires d'instruments avec des spreads serrés aussi bas que 0.7 Pips",
+
+  "4. Overnight Positions (Swaps)": "4. Positions au jour le jour (swaps)",
+
+  "5. Execution Policy": "5. Politique d'exécution",
+
+  "All our trades are executed in less than a second": "Toutes nos transactions sont exécutées en moins d'une seconde",
+
+  "No requotes policy": "Politique de non-recotation du prix",
+
+  "Real-time market execution": "Exécution du marché en temps réel",
+
+  "Trading Time based on (GMT+0)": "Heure de négociation basée sur (GMT+0)",
+
+  "Trading Time based on (GMT+4)": "Heure de négociation basée sur (GMT+4)",
+
+  "Sunday：22:05 - 24:00\nMonday to Thursday：00:00 - 21:59, 22:05 - 24:00\nFriday：00:00 - 21:55": "Dimanche : 22h05 - 24h00\nDu lundi au jeudi ：00h00 - 21h59, 22h05 - 24h00\nVendredi ：00h00 - 21h55",
+
+  "Sunday：23:05 - 24:00\nMonday to Thursday：00:00 - 21:59, 23:01 - 24:00\nFriday：00:00 - 21:55": "Dimanche ：23h05 - 24h00\nDu lundi au jeudi ：00h00 - 21h59, 23h01 - 24h00\nVendredi ：00h00 - 21h55",
+
+  "Sunday：23:05 - 24:00\nMonday：00:00 - 21:59 Tuesday to Thursday：01:01 - 21:59\nFriday：01:01 - 21:55": "Dimanche : 23h05 - 24h00\nLundi : 00h00 - 21h59 Mardi à jeudi : 01h01 - 21h59\nVendredi : 01h01 - 21h55",
+
+  "Sunday：23:05 - 24:00\nMonday to Thursday：00:00 - 21:15, 21:30 - 22:00, 23:05 - 24:00\nFriday：00:00 - 21:15 , 21:30 - 21:55": "Dimanche ：23h05 - 24h00\nDu lundi au jeudi ：00h00 - 21h15, 21h30 - 22h00, 23h05 - 24h00\nVendredi ：00h00 - 21h15 , 21h30 - 21h55",
+
+  "Monday to Friday：02:00 - 09:30, 10:00 - 21:45": "Du lundi au vendredi ：02h00 - 09h30, 10h00 - 21h45",
+
+  "Monday to Friday：14:30 - 21:00": "Du lundi au vendredi ：14h30 - 21h00",
+
+  "Monday to Thursday：02:01 - 10:10, 10:40 - 21:45 \nFriday：02:01 - 21:45": "Du lundi au jeudi ：02h01 - 10h10, 10h40 - 21h45 \nVendredi ：02h01 - 21h45",
+
+  "For the leverage we can offer:": "Comme effet de levier nous pouvons offrir :",
+
+  "Less than $500 equity": "Moins de 500 $ de fonds propres",
+
+  "between $500 -$20,000 equity": "entre 500 $ et 20 000 $ de fonds propres",
+
+  "between $20,000-$50,000 equity": "entre 20 000 $ et 50 000 $ de fonds propres",
+
+  "between $50,000-$100,000 equity": "entre 50 000 $ et 100 000 $ de fonds propres",
+
+  "between $100,000- $200,000 equity": "entre 100 000 $ et 200 000 $ de fonds propres",
+
+  "between $200,000 - $1,000,000 equity": "entre 200 000 $ et 1 000 000 $ de fonds propres",
+
+  "above $1,000,000": "au-delà de 1 000 000 $",
+
+  "Majors Spreads from X": "Spreads majeurs à partir de X",
+
+  "Minors Spreads from X": "Spreads mineurs à partir de X",
+
+  "Exotic Spreads from X": "Spreads exotiques à partir de X",
+
+  "Spreads from X": "Spreads à partir de X",
+
+  "Futures": "Futurs",
+
+  "Spreads from X ": "Spreads à partir de X ",
+
+  "Swap is the interest that is applied to all forex trading positions that are left open overnight between Monday to Friday (at 17:00 EST) for all open positions. Swap rates differ from one currency pair to another.": "Le swap est l'intérêt appliqué à toutes les positions de trading sur le marché des changes qui sont laissées ouvertes pendant la nuit entre le lundi et le vendredi (à 17h00 EST) pour toutes les positions ouvertes. Les taux de swap diffèrent d'une paire de devises à l'autre.",
+
+  "Please bear in mind that when trading forex pairs, triple swaps are charged on Wednesdays (to cover the weekend fee). Overnight fees for oil and natural gas are charged on Friday.": "N'oubliez pas que lors de la négociation de paires de devises, les triples swaps sont facturés le mercredi (pour couvrir les frais du week-end). Les frais de nuit pour le pétrole et le gaz naturel sont facturés le vendredi.",
+
+  "XAGUSD": "XAGUSD",
+
+  "XNGUSD": "XNGUSD",
+
+  "USOUSD": "USOUSD",
+
+  "Spreads": "Spreads",
+
+  "5*24 Hours Online Customer Service providing online support and assistance": "Service clientèle en ligne 5*24 heures fournissant un support et une assistance en ligne",
+
+  "Learn More": "En savoir plus",
+
+  "How To Trade Leveraged Products On Commodities": "Comment négocier des produits à effet de levier sur les matières premières",
+
+  "Trade cryptocurrencies with Zero Commission": "Trader des crypto-monnaies avec zéro commission",
+
+  "Go long or short on the world's most popular cryptocurrencies with 1:10 leverage.": "Vous pouvez prendre des positions longues ou courtes sur les crypto-monnaies les plus populaires au monde avec un effet de levier de 1:10.",
+
+  "Stockbanx offers you 5 major cryptocurrencies, including Bitcoin, Bitcoin Cash, Litecoin, Ripple, and Ethereum, against the US dollar.": "Stockbanx vous offre 5 crypto-monnaies majeures, y compris le Bitcoin, Bitcoin Cash, Litecoin, Ripple, et Ethereum, contre le dollar américain.",
+
+  "What is a Crypto?": "Qu'est-ce qu'une crypto ?",
+
+  "Cryptocurrencies (Crypto) are virtual currencies that use a decentralised network for financial transactions. Trade leveraged products on major cryptocurrencies such as Bitcoin, Ethereum and more – by speculating on their price movements without actually owning them.": "Les crypto-monnaies (Crypto) sont des monnaies virtuelles qui utilisent un réseau décentralisé pour les transactions financières. Négociez des produits à effet de levier sur les principales crypto-monnaies telles que le Bitcoin, l'Ethereum et plus encore - en spéculant sur l'évolution de leur cours sans les posséder réellement.",
+
+  "Why trade cryptocurrency leveraged products with Stockbanx?": "Pourquoi négocier des produits à effet de levier en crypto-monnaies avec Stockbanx ?",
+
+  "No digital wallet": "Pas de portefeuille numérique",
+
+  "You can trade cryptocurrency on the same MT4 platform.": "Vous pouvez négocier des crypto-monnaies sur la même plateforme MT4.",
+
+  "Zero Commission": "Zéro commission",
+
+  "No need to pay a commission on any transaction*": "Pas de commission à payer sur les transactions*",
+
+  "Leveraged crypto trading": "Trading de crypto-monnaies avec effet de levier",
+
+  "Get higher capital when you trade cryptocurrencies with up to 1:10 leverage.": "Obtenez un capital plus élevé lorsque vous négociez des crypto-monnaies avec un effet de levier allant jusqu'à 1:10.",
+
+  "All trading strategies allowed": "Toutes les stratégies de trading sont permises",
+
+  "Expert advisors & algorithmic trading strategies are welcome to ensure you have the flexibility to trade your favorite cryptocurrencies.": "Les conseillers experts et les stratégies de trading algorithmiques sont les bienvenus pour vous permettre de négocier vos crypto-monnaies préférées.",
+
+  "Trade Cryptocurrency CFDs 24/7": "Trader les CFDs sur les crypto-monnaies 24/5",
+
+  "Trade Bitcoin, Bitcoin Cash, Ethereum, Litecoin and Ripple anytime, anywhere.": "Échangez du Bitcoin, du Bitcoin cash, de l'Ethereum, du Litecoin et du Ripple à tout moment et n'importe où.",
+
+  "T&Cs Apply*": "Les conditions générales de vente s'appliquent*",
+
+  "Bitcoin": "Bitcoin",
+
+  "Over $100 billion is Bitcoin's market cap, the first and largest cryptocurrency. BTC prices are largely driven by supply and demand but can be affected by rumors of regulation or full-out regulation.": "La capitalisation boursière du bitcoin, la première et la plus importante des crypto-monnaies, s'élève à plus de 100 milliards de dollars. Les prix du BTC dépendent en grande partie de l'offre et de la demande, mais ils peuvent être affectés par des rumeurs de réglementation ou par une réglementation complète.",
+
+  "Ethereum": "Ethereum",
+
+  "Often referred to as the 'next Bitcoin', it is the second-largest cryptocurrency. Microsoft, JP Morgan, and Intel have recognized and supported Ethereum internationally. The blockchain-based Ethereum network also supports decentralized apps known as dApps.": "Souvent appelé le \"prochain Bitcoin\", il s'agit de la deuxième plus grande crypto-monnaie. Microsoft, JP Morgan et Intel ont reconnu et soutenu Ethereum au niveau international. Le réseau Ethereum, basé sur la blockchain, prend également en charge des applications décentralisées connues sous le nom de dApps.",
+
+  "Ripple": "Ripple",
+
+  "Ripple is both a transaction network and crypto token created in 2012. XRP is blockchain-based like Bitcoin, but according to the creators, it is less energy-intensive to mine, carries lower fees, and processes transactions more quicker.": "Ripple est à la fois un réseau de transactions et un jeton cryptographique créé en 2012. Le XRP est basé sur la blockchain comme le Bitcoin, mais selon ses créateurs, il est moins gourmand en énergie pour le minage, les frais sont moins élevés et les transactions sont traitées plus rapidement.",
+
+  "Litecoin": "Litecoin",
+
+  "Litecoin is a cryptocurrency founded in 2011, two years after Bitcoin, by a former Google engineer. It shares similar features with Bitcoin but has a different algorithm. The cryptocurrency's goal is to become a medium for daily transactions.": "Litecoin est une crypto-monnaie fondée en 2011, deux ans après le Bitcoin, par un ancien ingénieur de Google. Elle présente des caractéristiques similaires à celles du Bitcoin, mais son algorithme est différent. L'objectif de la crypto-monnaie est de devenir un moyen de transactions quotidiennes.",
+
+  "Bitcoin Cash": "Bitcoin cash",
+
+  "The Bitcoin spin-off was launched in 2017 and has a current market capitalisation of more than $6.3billion. Bitcoin Cash is designed to be used as a cheap payment system, much like Bitcoin was originally designed to be.": "La spin-off de Bitcoin a été lancée en 2017 et a une capitalisation boursière actuelle de plus de 6,3 milliards de dollars. Bitcoin Cash est conçu pour être utilisé comme un système de paiement bon marché, tout comme Bitcoin a été conçu à l'origine.",
+
+  "How To Trade Leveraged Products On Cryptocurrencies": "Comment négocier des produits à effet de levier sur les crypto-monnaies",
+
+  "Go to the Cryptocurrencies section and choose your favorite instrument": "Allez dans la section crypto-monnaies et choisissez votre instrument préféré",
+
+  "Trade": "Trader",
+
+  "CryptoText": "CryptoTexte",
+
+  "Trade Forex leveraged products": "Négocier des produits à effet de levier sur le marché des changes",
+
+  "Trade leveraged products on a wide variety of the world’s most popular currency pairs.": "Négociez des produits à effet de levier sur une grande variété de paires de devises parmi les plus populaires au monde.",
+
+  "Start Now": "Commencez maintenant",
+
+  "What is Forex": "Qu'est-ce que le Forex",
+
+  "Trading forex involves buying and selling currencies on the foreign exchange market for profit. Daily transactions worth trillions of dollars take place on the forex market, which is the world's most liquid financial market.": "La négociation sur le marché des changes consiste à acheter et à vendre des devises en vue de réaliser des bénéfices. Des transactions quotidiennes d'une valeur de plusieurs billions de dollars ont lieu sur le marché des changes, qui est le marché financier le plus liquide au monde.",
+
+  "Types of Forex Pairs": "Types de paires Forex",
+
+  "Stockbanx offers the most popular forex pairs like EUR/USD, GBP/USD, and EUR/GBP. Explore our wide range of major, minor and exotic currency pairs.": "Stockbanx propose les paires de devises les plus populaires telles que EUR/USD, GBP/USD et EUR/GBP. Explorez notre large gamme de paires de devises majeures, mineures et exotiques.",
+
+  "Major": "Majeures",
+
+  "The major currency pairs has two of the following currencies USD, EUR, JPY, CAD, GBP, and CHF.": "Les principales paires de devises comprennent deux des devises suivantes : USD, EUR, JPY, CAD, GBP et CHF.",
+
+  "Minor": "Mineures",
+
+  "Minor Forex pairs, also known as cross-currency pairs or crosses, are currency pairs that do not include the US dollar. Examples of minor currency pairs include EUR/GBP, EUR/CHF, and GBP/JPY.": "Les paires mineures de devises, également appelées paires de devises croisées ou crosses, sont des paires de devises qui n'incluent pas le dollar américain. Les paires EUR/GBP, EUR/CHF et GBP/JPY sont des exemples de paires de devises mineures.",
+
+  "Exotic Pairs stand out from these pairs because they contain a major currency (usually USD) and a currency from a developing or emerging market.": "Les paires exotiques se distinguent de ces paires par le fait qu'elles contiennent une devise majeure (généralement l'USD) et une devise d'un marché en développement ou émergent.",
+
+  "More Instruments": "Autres instruments",
+
+  "What affects the prices of forex?": "Qu'est-ce qui influence les prix du Forex ?",
+
+  "Below are some of the economic trends and events that will help those new to the market to become successful forex traders.": "Voici quelques-unes des tendances et des événements économiques qui aideront les nouveaux venus sur le marché à devenir de bons traders sur le marché des changes.",
+
+  "Supply and demand": "L'offre et la demande",
+
+  "Price inflation": "L'inflation des prix",
+
+  "Currency strenght": "Solidité de la devise",
+
+  "How to trade leveraged forex pairs with Stockbanx": "Comment négocier des paires de devises à effet de levier avec Stockbanx",
+
+  "Log in your account or create account": "Connectez-vous à votre compte ou créez un compte",
+
+  "Go to the forex section and choose your favorite instrument": "Allez dans la section Forex et choisissez votre instrument préféré",
+
+  "Set your trade size": "Définissez la taille de votre transaction",
+
+  "Choose direction (Buy or Sell) based on your assessment of the influencing factors": "Choisissez une option (achat ou vente) en fonction de votre évaluation des facteurs d'influence",
+
+  "Place your trade!": "Effectuez votre transaction !",
+
+  "What Are Stocks?": "Qu'est-ce qu'une action ?",
+
+  "Get access to leveraged products on a wide variety of the world’s most popular currency pairs.": "Accédez à des produits à effet de levier sur une grande variété de paires de devises parmi les plus populaires au monde.",
+
+  "we are": "nous sommes",
+
+  "The Market": "les leaders",
+
+  "Leaders": "sur le marché",
+
+  "Trade your favorite instruments with a leading online broker": "Négociez vos instruments préférés avec un courtier en ligne de premier plan",
+
+  "Why Stockbanx Group?": "Pourquoi le Groupe Stockbanx ?",
+
+  "WhyCpt": "Tradez avec 0 commission et des spreads bas à partir de 0.7 pips sur une plateforme de trading réactive et conviviale. Stockbanx détient de nombreuses licences d'autorités financières prestigieuses dans le monde entier, y compris la FCA UK, la AOFA South Africa et l'IFSC Belize. Nous offrons des méthodes de paiement flexibles avec des comptes bancaires locaux séparés pour un parcours de trading plus sûr.",
+
+  "Clients worldwide": "Une clientèle internationale",
+
+  "USD client assets": "Actifs clients en USD",
+
+  "Daily executed trades": "Opérations exécutées quotidiennement",
+
+  "Experience in the industry": "Expérience du secteur",
+
+  "StocksText": "Négociez des produits à effet de levier sur les actions des plus grandes entreprises du monde, notamment Apple, Microsoft, Tesla, Facebook, Netflix et Amazon.",
+
+  "CommoditiesText": "Notre plateforme de négociation de premier plan propose de l'or, du pétrole, de l'argent, du gaz et bien d'autres matières premières. Investissez dans des matières premières populaires à des conditions compétitives.",
+
+  "ForexText": "Stockbanx propose les paires de devises les plus populaires telles que EUR/USD, GBP/USD et EUR/GBP. Explorez notre large gamme de paires de devises majeures et mineures.",
+
+  "Choose The Most Reliable Trading Platform": "Choisissez la plateforme de trading la plus fiable",
+
+  "A fast, clear, and innovative way to trade.": "Une façon rapide, claire et innovante de faire des affaires.",
+
+  "relyText": "Facile à utiliser pour les débutants et les traders expérimentés, la plateforme Stockbanx MT4 est optimisée pour le trading dans toutes les conditions de marché. Ouvrez un compte dès aujourd'hui pour trader sur la plateforme en ligne la plus populaire pour le trading d'actifs financiers.",
+
+  "IB Program": "Programme courtier remisier (IB)",
+
+  "Stockbanx is an excellent choice for Introducing Brokers, offering interesting rewards programs and exciting incentives.": "Stockbanx est un excellent choix pour les courtiers remisiers (IB), car il offre des programmes de récompense intéressants et des primes attrayantes.",
+
+  "Transparent IB Portal": "Portail courtier remisier (IB) transparent",
+
+  "Free access to trading tools - You will also be granted access to all our free trading tools to help assist with your trading decisions and help your clients.": "Accès gratuit aux outils de trading ; vous aurez également accès à tous nos outils de trading gratuits pour vous aider dans vos décisions de trading et aider vos clients.",
+
+  "Instant Rebate Payments": "Paiements instantanés des remises",
+
+  "Competitive and customisable rebate scheme - We always put our clients and partners first. You’ll be rewarded with extremely competitive and customisable rebate options.": "Un système de rabais compétitif et personnalisable ; nous donnons toujours la priorité à nos clients et à nos partenaires. Vous serez récompensés par des options de rabais extrêmement compétitives et personnalisables.",
+
+  "Exclusive Rewards": "Primes exclusives",
+
+  "Get up to $10 commission for each standard lot your client trade. Be rewarded additionally through our tiered IB Rewards Program, which offers the chance to win a luxury car and other exciting Apple products.": "Recevez jusqu'à 10 $ de commission pour chaque lot standard négocié par votre client. Recevez des récompenses supplémentaires grâce à notre programme de récompenses de courtier remisier (IB) à plusieurs niveaux, qui offre la possibilité de gagner une voiture de luxe et d'autres produits attrayants Apple.",
+
+  "Flexibility": "Souplesse",
+
+  "Customized support tailored to your needs. Our team welcomes any special requests that serve your needs and support better trading for your clients.": "Un support personnalisé adapté à vos besoins. Notre équipe est à l'écoute de toutes les demandes spéciales qui répondent à vos besoins et permettent d'améliorer les transactions pour vos clients.",
+
+  "Market News": "Nouvelles du marché",
+
+  "Choose from a wide range of leveraged products on popular Forex pairs, indices, stocks, commodities, and much more available for trading! Experience a new level of trading with the right support when needed.": "Choisissez parmi une large gamme de produits à effet de levier sur les paires de devises, les indices, les actions, les matières premières et bien plus encore, disponibles pour le trading ! Faites l'expérience d'un nouveau niveau de trading en bénéficiant d'un soutien adapté en cas de besoin.",
+
+  "12+ years": "Plus de 12 ans",
+
+  "Trade Anytime": "Négociez à tout moment",
+
+  "Anywhere": "N'importe où",
+
+  "22M": "22M",
+
+  "Read More": "En savoir plus",
+
+  "Indices": "Indices",
+
+  "Trade global indices with competitive conditions": "Des indices mondiaux à traiter à des conditions compétitives",
+
+  "Zero commission trading on global indices including the FTSE, Nasdaq and Nikkei 225.": "Négociation sans commission sur les indices mondiaux tels que le FTSE, le Nasdaq et le Nikkei 225.",
+
+  "Start Now!": "Commencez maintenant !",
+
+  "See more instruments": "Voir d'autres instruments",
+
+  "What are indices?": "Que sont les indices ?",
+
+  "Indices measure the price performance of a group of shares from an exchange. Indices trading is a popular strategy for many traders and investors seeking exposure to an entire market or sector.": "Les indices mesurent l'évolution du cours d'un groupe d'actions d'une bourse. La négociation d'indices est une stratégie populaire pour de nombreux traders et investisseurs qui cherchent à se positionner sur l'ensemble d'un marché ou d'un secteur.",
+
+  "Why trade leveraged products on indices?": "Pourquoi négocier des produits à effet de levier sur des indices ?",
+
+  "A leveraged product on indices can benefit you from upward and downward movements based on your position. Instead of buying a single stock, you can speculate on the price of multiple stocks for a lower price, allowing you to diversify your portfolio more.": "Un produit à effet de levier sur les indices peut vous faire bénéficier des mouvements à la hausse et à la baisse en fonction de votre position. Au lieu d'acheter une seule action, vous pouvez spéculer sur le prix de plusieurs actions à un prix inférieur, ce qui vous permet de diversifier davantage votre portefeuille.",
+
+  "What are the different types of indices": "Quels sont les différents types d'indices ?",
+
+  "Indices are widely traded because they are powerful global and country-specific economic health indicators. We will see below some of the biggest global, regional, and national indices to trade": "Les indices sont largement négociés car ils constituent de puissants indicateurs de la santé économique à l'échelle mondiale et nationale. Nous verrons ci-dessous quelques-uns des plus grands indices mondiaux, régionaux et nationaux à négocier.",
+
+  "To be deleted": "A supprimer",
+
+  "Some of the biggest U.S indices:": "Quelques-uns des plus grands indices américains :",
+
+  "S&P 500": "S&P 500",
+
+  "Standard & Poor's 500 Index, also known as the S&P 500, tracks 500 leading publicly traded companies in the United States by market capitalization. It includes companies like Twitter, Cisco Systems, eBay, MasterCard, McDonald's, Nike, PayPal, Pfizer, Starbucks, among others.": "L'indice Standard & Poor's 500, également connu sous le nom de S&P 500, suit les 500 principales sociétés cotées en bourse aux États-Unis en fonction de leur capitalisation boursière. Il comprend des entreprises telles que Twitter, Cisco Systems, eBay, MasterCard, McDonald's, Nike, PayPal, Pfizer, Starbucks, entre autres.",
+
+  "USA30": "USA30",
+
+  "Dow Jones Industrial Average (DJIA) is an index containing stocks from 30 of the largest and most influential companies in the United States, including Apple, Chevron, Coca-Cola, Exxon Mobil, Visa, Goldman Sachs, and JPMorgan Chase. ": "Le Dow Jones Industrial Average (DJIA) est un indice contenant des actions de 30 des plus grandes et des plus influentes entreprises des États-Unis, dont Apple, Chevron, Coca-Cola, Exxon Mobil, Visa, Goldman Sachs et JPMorgan Chase.",
+
+  "TECH 100": "TECH 100",
+
+  "The Nasdaq 100 Index is a basket of the 100 largest, most actively traded U.S companies listed on the Nasdaq stock exchange. The index includes companies from various industries except for the financial industry, like commercial and investment banks. These non-financial sectors include retail, biotechnology, industrial, technology, health care, and others.": "L'indice Nasdaq 100 est un panier composé des 100 sociétés américaines les plus importantes et les plus activement négociées, cotées à la bourse Nasdaq. L'indice comprend des entreprises de divers secteurs, à l'exception du secteur financier, comme les banques commerciales et les banques d'investissement. Ces secteurs non financiers comprennent la vente au détail, la biotechnologie, l'industrie, la technologie, les soins de santé, etc.",
+
+  "Regional": "Régional",
+
+  "Regional indices include companies from specific regions.": "Les indices régionaux comprennent des entreprises de régions spécifiques.",
+
+  "Some of the biggest EU indices:": "Quelques-uns des plus grands indices de l'UE :",
+
+  "DAX40": "DAX40",
+
+  "The DAX is a German blue-chip stock market index that tracks the performance of the 40 largest companies trading on the Frankfurt Stock Exchange. It covers sectors such as clothing, insurance, manufacturing, energy, transport, and many others.": "Le DAX est un indice boursier allemand de premier ordre qui suit les performances des 40 plus grandes entreprises cotées à la bourse de Francfort. Il couvre des secteurs tels que l'habillement, l'assurance, l'industrie manufacturière, l'énergie, les transports et bien d'autres.",
+
+  "FTSE100": "FTSE100",
+
+  "It is also known as the UK100 and is a list of the UK's hundred biggest companies by market capitalization. These companies include Unilever, Tesco, Barclays, Vodafone Group, GlaxoSmithKline and Sainsbury's covering industries such as food, pharmaceuticals, electronic products, banks, telecommunications and more.": "Il est également connu sous le nom de UK100 et constitue une liste des cent plus grandes entreprises du Royaume-Uni en termes de capitalisation boursière. Ces entreprises comprennent Unilever, Tesco, Barclays, Vodafone Group, GlaxoSmithKline et Sainsbury's et couvrent des secteurs tels que l'alimentation, les produits pharmaceutiques, les produits électroniques, les banques, les télécommunications et bien d'autres encore.",
+
+  "EUROSTOXX": "EUROSTOXX",
+
+  "The index covers 12 European countries and represents the 50 largest companies in Europe, such as Bayer, Danone, and Volkswagen Group, among others, listed in other European indices.": "L'indice couvre 12 pays européens et représente les 50 plus grandes entreprises d'Europe, telles que Bayer, Danone et le groupe Volkswagen, entre autres, cotées dans d'autres indices européens.",
+
+  "National": "National",
+
+  "Typically, national indices are used to reflect investor sentiment on the health of the economy inside a given country by analysing the performance of the stock market.": "En règle générale, les indices nationaux sont utilisés pour refléter le sentiment des investisseurs sur la santé de l'économie d'un pays donné en analysant les performances de son marché boursier.",
+
+  "Some of the national indices covering Asia-Pacific region:": "Quelques-uns des indices nationaux couvrant la région Asie-Pacifique :",
+
+  "JAPAN225": "JAPAN225",
+
+  "The Nikkei is short for Japan's Nikkei 225 Stock Average, the leading and most-respected index of Japanese stocks. It is a price-weighted index composed of Japan's top 225 blue-chip companies traded on the Tokyo Stock Exchange.": "Le Nikkei est l'abréviation de l'indice Nikkei 225 Stock Average, le principal et le plus respecté des indices boursiers japonais. Il s'agit d'un indice pondéré en fonction des prix, composé des 225 premières sociétés japonaises de premier ordre cotées à la Bourse de Tokyo.",
+
+  "HONGKONG50": "HONGKONG50",
+
+  "The Hang Seng Index or HSI is a free-float market capitalization-weighted index of the sixty largest companies that trade on the Hong Kong Exchange (HKEx). HKEx is among the largest stock exchanges in the world, with an aggregate market cap of more than $38 trillion as of 2022.": "L'indice Hang Seng ou HSI est un indice pondéré en fonction de la capitalisation boursière des soixante plus grandes sociétés cotées à la Bourse de Hong Kong (HKEx). La HKEx est l'une des plus grandes bourses du monde, avec une capitalisation boursière globale de plus de 38 000 milliards de dollars en 2022.",
+
+  "ASX200": "ASX200",
+
+  "The S&P/ASX 200 Index is the benchmark institutional investable stock market index in Australia, comprising the 200 largest stocks by float-adjusted market capitalization. ": "L'indice S&P/ASX 200 est l'indice de référence du marché boursier institutionnel investissable en Australie, comprenant les 200 plus grandes actions par capitalisation boursière ajustée au flottant.",
+
+  "Trade Indices": "Indices boursiers",
+
+  "How to trade leveraged products on indices": "Comment négocier des produits à effet de levier sur les indices",
+
+  "Go to the indices section and choose your favorite instrument": "Allez dans la section des indices et choisissez votre instrument préféré",
+
+  "How to trade leveraged products on commodities": "Comment négocier des produits à effet de levier sur les matières premières",
+
+  "Learn more": "En savoir plus",
+
+  "Global": "Global",
+
+  "Global indices relay companies regardless of which stock exchange they are listed on and based.": "Les indices mondiaux relaient les entreprises indépendamment de la bourse sur laquelle elles sont cotées et de leur siège.",
+
+  "How To Trade Leveraged Products On Indices": "Comment négocier des produits à effet de levier sur les indices",
+
+  "Trade Indices with Stockbanx": "Les indices boursiers avec Stockbanx",
+
+  "Take advantage of trading CFDs on indices like US500, UK100, and more, using MT4 on any device you prefer. Trade US30 with leverage up to 1:200 and low spreads.": "Profitez de la possibilité de négocier des CFD sur des indices tels que US500, UK100, et plus encore, en utilisant MT4 sur l'appareil de votre choix. Négociez l'US30 avec un effet de levier allant jusqu'à 1:200 et des spreads bas.",
+
+  "partnerHead": "chefPartenariat",
+
+  "Why Partner With Stockbanx?": "Pourquoi un partenariat avec Stockbanx ?",
+
+  "Partnering with individuals and companies who share our values helps us power the pursuit of financial freedom for ambitious individuals.": "En nous associant à des personnes et à des entreprises qui partagent nos valeurs, nous favorisons la poursuite de la liberté financière pour les personnes ambitieuses.",
+
+  "Commission Rebate": "Remise de commission",
+
+  "Earn 10$ per lot on every trade you make today. There are no minimum requirements to qualify.": "Gagnez 10 $ par lot sur chaque transaction que vous effectuez aujourd'hui. Il n'y a pas de minimum requis pour se qualifier.",
+
+  "Advanced Platforms": "Plateformes de pointe",
+
+  "Trading platforms with user-friendly interfaces provide comprehensive tools for price analysis and technical analysis.": "Les plateformes de négociation dotées d'interfaces conviviales offrent des outils complets pour l'analyse des prix et l'analyse technique.",
+
+  "Great Rewards": "De belles récompenses",
+
+  "Partner with Stockbanx International and earn great rewards. Benefit from our Rewards Program today by introducing new clients.": "Devenez partenaire de Stockbanx International et recevez de superbes récompenses. Profitez dès aujourd'hui de notre programme de récompenses en présentant de nouveaux clients.",
+
+  "Support tailored to your needs. Whenever you have a special request, we're happy to help.": "Un support adapté à vos besoins. Si vous avez une question particulière, nous nous ferons un plaisir de vous aider.",
+
+  "Support": "Support",
+
+  "Creative support and free marketing materials, including banners, business cards, newsletters, and promotional materials": "Support créatif et matériel de marketing gratuit, y compris des bannières, des cartes de visite, des bulletins d'information et du matériel promotionnel",
+
+  "Cutting-edge and intuitive trading platform for on-the-go traders.": "Plateforme de trading de pointe et intuitive pour les traders en déplacement.",
+
+  "How To Partner With Stockbanx?": "Comment devenir partenaire de Stockbanx ?",
+
+  "Get up to $10 commission for each standard lot your client trades. Be rewarded additionally through our tiered IB Rewards Program, which offers the chance to win a luxury car and other exciting Apple products.": "Recevez jusqu'à 10 $ de commission pour chaque lot standard négocié par votre client. Recevez des récompenses supplémentaires grâce à notre programme de récompenses de courtier remisier (IB) à plusieurs niveaux, qui offre la possibilité de gagner une voiture de luxe et d'autres produits attrayants Apple.",
+
+  "Starting": "A partir",
+
+  "from $10": "de 10 $",
+
+  "Unlock the earnings potential with our IB Program and get rewards for every trade.": "Exploitez le potentiel de gains de notre programme de courtier remisier (IB) et obtenez des récompenses pour chaque transaction.",
+
+  "Instant": "Immédiat",
+
+  "Payment": "Paiement",
+
+  "Get paid starting from $10 per lot": "Recevez une rémunération à partir de 10 $ par lot",
+
+  "They Trade,": "Ils négocient,",
+
+  "You Earn!": "Vous gagnez !",
+
+  "The more you refer, the greater your rewards. Start referring today and earn more.": "Plus vous recommandez de personnes, plus vos récompenses sont importantes. Commencez à parrainer dès aujourd'hui et gagnez plus.",
+
+  "IB Partners": "Partenaires courtiers remisiers (IB)",
+
+  "Portal!": "Portail !",
+
+  "an IB portal that offers advanced tools and an intuitive interface, so you can manage your clients with ease.": "un portail de courtier remisier (IB) qui offre des outils avancés et une interface intuitive, afin que vous puissiez gérer vos clients en toute simplicité.",
+
+  "Metatrader 4 Trading Platform": "Plateforme de trading Metatrader 4",
+
+  "Trade on the world's most popular platform": "Négociez sur la plateforme la plus populaire au monde",
+
+  "Sign up": "Inscrivez-vous",
+
+  "Why Stockbanx Metatrader 4": "Pourquoi Stockbanx Metatrader 4",
+
+  "With MetaTrader 4, traders can chart assets, place orders, and manage positions with everything they need. With advanced trading infrastructure, competitive pricing, and superior order execution, Stockbanx MT4 is one of the most powerful online forex trading platforms.": "Avec Metatrader 4, les traders peuvent tracer des graphiques, passer des ordres et gérer des positions avec tout ce dont ils ont besoin. Avec une infrastructure de trading avancée, des prix compétitifs et une exécution des commandes supérieure, Stockbanx MT4 est l'une des plateformes de trading Forex en ligne les plus puissantes.",
+
+  "With its intuitive user interface and powerful trading capabilities, MT4 is the most popular retail platform, used by millions worldwide traders.": "Grâce à son interface utilisateur intuitive et à ses puissantes capacités de trading, MT4 est la plateforme de détail la plus populaire, utilisée par des millions de traders dans le monde.",
+
+  "Get The Best Of": "Tirer le meilleur parti de",
+
+  "cTrader's mission is to balance simple and complex functionality. It is an intuitive and easy-to-use trading platform for new and advanced traders.": "La mission de cTrader est d'équilibrer les fonctionnalités simples et complexes. Il s'agit d'une plateforme de trading intuitive et facile à utiliser pour les traders débutants et confirmés.",
+
+  "57 preinstalled technical indicators": "57 indicateurs techniques préinstallés",
+
+  "24 analytical charting tools": "24 outils d'analyse graphique",
+
+  "3 chart types & 9 time frames": "3 types de graphiques et 9 cadres temporels",
+
+  "1-click trading & trade from charts": "Trading en 1 clic et trading à partir de graphiques",
+
+  "Trailing Stop": "Stop suiveur",
+
+  "Easy to use interface": "Interface facile à utiliser",
+
+  "Fully customizable charts": "Graphiques entièrement personnalisables",
+
+  "Add custom EAs & indicators": "Ajouter des conseillers experts et des indicateurs personnalisés",
+
+  "News feed & broker mailbox": "Flux de nouvelles et boîte aux lettres des courtiers",
+
+  "Available for Windows or Mac": "Disponible pour Windows ou Mac",
+
+  "Download MT4": "Télécharger MT4",
+
+  "Trade thousands of leveraged products instruments, including Forex, Shares, Metals, Indices and more. Execute orders and analyze markets on the go with our award-winning mobile platform.": "Négociez des milliers d'instruments de produits à effet de levier, dont le Forex, les actions, les métaux, les indices et bien plus encore. Exécutez vos ordres et analysez les marchés lorsque vous êtes en déplacement grâce à notre plateforme mobile primée.",
+
+  "Metatrader 5 Trading Platform": "Plateforme de trading Metatrader 5",
+
+  "The most advanced trading platform": "La plateforme de trading la plus évoluée",
+
+  "About MT5": "A propos de MTS",
+
+  "MT5, or MetaTrader 5, is the successor of MetaTrader 4 (MT4), a popular online trading platform. It was originally released as a beta version in 2010 by MetaQuotes Software Corp.": "MT5, ou MetaTrader 5, succède à MetaTrader 4 (MT4), une plateforme de trading en ligne très populaire. Elle a été initialement publiée en version bêta en 2010 par MetaQuotes Software Corp.",
+
+  "MetaTrader 5 gives you access to trade leveraged products on your favorite instruments. MT5 has improved trading functionalities, enhanced scripting tools, and expert advisors, making it intuitive and advanced.": "MetaTrader 5 vous permet de négocier des produits à effet de levier sur vos instruments préférés. MT5 dispose de fonctionnalités de trading améliorées, de meilleurs outils de script et de conseillers experts, ce qui la rend intuitive et très évoluée.",
+
+  "Why Stockbanx Metatrader 5": "Pourquoi Stockbanx Metatrader 5",
+
+  "MT5 provides professional traders with everything they need in today's dynamic markets, including more indicators, market orders, and instruments.": "MT5 offre aux traders professionnels tout ce dont ils ont besoin sur les marchés dynamiques d'aujourd'hui, y compris davantage d'indicateurs, de commandes de marché et d'instruments.",
+
+  "Intuitive interface": "Interface intuitive",
+
+  "Fully customizable": "Entièrement personnalisable",
+
+  "Advanced analytics": "Analyse avancée",
+
+  "Flexible and convenien": "Souple et pratique",
+
+  "Secure and stable platform": "Une plateforme sûre et stable",
+
+  "Industry-favourite choice": "Le choix numéro un du secteur",
+
+  "MetaTrader 5 expert advisors": "Conseillers experts MetaTrader 5",
+
+  "More assets, more opportunities": "Plus d'atouts, plus d'opportunités",
+
+  "User-friendly interface": "Interface conviviale",
+
+  "With a wide range of professional trading features, fast entry, synchronization, and order processing capabilities, cTrader is a one-stop-shop platform preferred by advanced traders.": "Avec un large éventail de fonctions de trading professionnelles, des capacités d'entrée, de synchronisation et de traitement des commandes rapides, cTrader est une plateforme à guichet unique privilégiée par les traders expérimentés.",
+
+  "Why cTrader?": "Pourquoi choisir cTrader ?",
+
+  "cTrader is a powerful trading platform that offers plenty of educational resources and in-depth market analysis to help you make informed trading decisions.": "cTrader est une plateforme de trading très performante qui offre de nombreuses ressources éducatives et des analyses de marché approfondies pour vous aider à prendre des décisions de trading éclairées.",
+
+  "State-of-the-art trading technology": "Technologie de trading de pointe",
+
+  "Highly intuitive and advanced interface": "Interface très intuitive et évoluée",
+
+  "Fast execution, low latency": "Exécution rapide, faible latence",
+
+  "Cutting edge charting tools": "Outils graphiques de pointe",
+
+  "cTrader Is For All Types Of Traders": "cTrader s'adresse à tous les types de traders",
+
+  "Key features and benefits": "Principales caractéristiques et avantages",
+
+  "Detailed analysis and trading indicators": "Analyse détaillée et indicateurs de trading",
+
+  "High speed order execution": "Exécution rapide des commandes",
+
+  "Multiple take-profit orders": "Ordres multiples de prise de bénéfice",
+
+  "Extensive educational videos": "Vidéos éducatives détaillées",
+
+  "Optimized expert advisor's processing": "Traitement optimisé du conseiller expert",
+
+  "Advanced platform customisation": "Personnalisation évoluée de la plateforme",
+
+  "Download cTrader": "Télécharger cTrader",
+
+  "With cTrader, you can customize your on-the-go trading experience with a variety of order types, technical analysis tools, price alerts, and trade statistics.": "Avec cTrader, vous pouvez personnaliser votre expérience trading lorsque vous êtes en déplacement, grâce à une variété de types de commandes, d'outils d'analyse technique, d'alertes sur les prix et de statistiques sur les transactions.",
+
+  "Trade your favorite commodities with competitive conditions": "Négociez vos matières premières préférées à des conditions concurrentielles",
+
+  "With Stockbanx, you can trade the most popular commodities in the world such as Oil, Gold, Natural Gas and many more.": "Avec Stockbanx, vous pouvez négocier les matières premières les plus populaires au monde, telles que le pétrole, l'or, le gaz naturel et bien d'autres encore.",
+
+  "Which commodities perform better during inflation?": "Quelles sont les matières premières les plus performantes en période d'inflation ?",
+
+  "Commodities—precious metals, agriculture goods, and oil & gas have often been positioned as hedges against inflation. However, commodities tend to respond to changes in the dollar's relative strength in international markets rather than domestic inflation pressures.": "Les matières premières - métaux précieux, produits agricoles, pétrole et gaz - ont souvent été considérées comme des couvertures contre l'inflation. Cependant, elles ont tendance à réagir aux variations de la force relative du dollar sur les marchés internationaux plutôt qu'aux pressions inflationnistes nationales.",
+
+  "Type of commodities": "Type de matières premières",
+
+  "By trading leveraged commodities with Stockbanx, you don't have to own any of these assets physically, just trade their price movement. Stockbanx MT4 & MT5 platform offers two types of commodities: energies & metals (hard commodities) and grains & other goods (soft commodities).": "En négociant des matières premières à effet de levier avec Stockbanx, vous n'avez pas besoin de posséder physiquement l'un de ces actifs, mais seulement de négocier l'évolution de leur prix. La plateforme Stockbanx MT4 & MT5 propose deux types de matières premières : les énergies et les métaux (matières premières dures) et les céréales et autres produits (matières premières souples).",
+
+  "Energy": "L'énergie",
+
+  "Start your trading journey with leveraged products on commodities such as natural gas, crude oil and Brent oil.": "Commencez à négocier avec des produits à effet de levier sur des matières premières telles que le gaz naturel, le pétrole brut et le pétrole Brent.",
+
+  "Metals": "Les métaux",
+
+  "Get started trading leveraged products on popular metals, such as gold, silver, and copper, with zero commissions on the trades you make.": "Commencez à négocier des produits à effet de levier sur des métaux populaires, tels que l'or, l'argent et le cuivre, sans aucune commission sur les transactions que vous effectuez.",
+
+  "Cocoa, sugar, wheat, corn, and coffee are among the soft commodities offered by Stockbanx.": "Le cacao, le sucre, le blé, le maïs et le café figurent parmi les matières premières souples proposées par Stockbanx.",
+
+  "What affects the prices of commodities?": "Quels sont les facteurs qui influencent les prix des matières premières ?",
+
+  "Like other markets, commodities are affected by supply and demand. Weather and currency fluctuations are two other variables that play a big role in affecting the price commodities as well.": "Comme les autres marchés, les matières premières sont influencées par l'offre et la demande. Les conditions météorologiques et les fluctuations monétaires sont deux autres variables qui jouent également un rôle important dans l'évolution du prix des matières premières.",
+
+  "Grains": "Les céréales",
+
+  "What Are Commodities?": "Qu'est-ce qu'une matière première ?",
+
+  "Go to the Commodities section and choose your favorite instrument": "Allez dans la section Matières premières et choisissez votre instrument préféré",
+
+  "Trade your favorite": "Négociez vos produits préférés",
+
+  "Trade Commodities with Stockbanx": "Négocier des matières premières avec Stockbanx",
+
+  "The opportunities are endless. Make the most of your investments with Oil, Gold, Natural Gas, and more! Trade these commodities with leverage up to 1:500 and spreads starting from 30 pips*.": "Les possibilités sont infinies. Tirez le meilleur parti de vos investissements sur le pétrole, l'or, le gaz naturel et bien plus encore ! Négociez ces matières premières avec un effet de levier allant jusqu'à 1:1000 et des spreads à partir de 30 pips*.",
+
+  "*Low spreads depend on product and account type.": "*Les spreads faibles dépendent du produit et du type de compte.",
+
+  "Trade stocks with tight spreads": "Négociez des actions avec des spreads serrés",
+
+  "Trade leveraged products on shares with Stockbanx and get the benefits of our Zero Commission trading.": "Négociez des produits à effet de levier sur les actions avec Stockbanx et profitez des avantages de notre trading sans commission.",
+
+  "Zero Commission on Shares": "Aucune commission sur les parts",
+
+  "You can trade leveraged products on shares from major markets in the world, including some of the largest companies in the world such as Apple, Tesla, Microsoft, Google, Amazon, and several others.": "Vous pouvez négocier des produits à effet de levier sur les actions des principaux marchés mondiaux, y compris certaines des plus grandes entreprises du monde telles que Apple, Tesla, Microsoft, Google, Amazon et bien d'autres.",
+
+  "Ready to learn more about stocks?": "Prêt à en savoir plus sur les actions ?",
+
+  "Find out more about the fundamental and technical factors that affect the price of stocks. You can find the latest updates on the biggest global shares such as Netflix, Google, Amazon, Apple, and many others in the market news and featured articles section.": "Découvrez les facteurs fondamentaux et techniques qui influencent le prix des actions. Vous trouverez les dernières mises à jour sur les plus grandes actions mondiales telles que Netflix, Google, Amazon, Apple et bien d'autres dans la section Actualités du marché et Articles de fond.",
+
+  "Fundamental & Technical Analysis": "Analyse fondamentale et technique",
+
+  "Traders can decide whether they want to rely exclusively on fundamental or technical analysis or if they would like to combine both.": "Les traders peuvent décider s'ils veulent s'appuyer exclusivement sur l'analyse fondamentale ou technique, ou s'ils souhaitent combiner les deux.",
+
+  "Manage Risks": "Gérez les risques",
+
+  "Based on your risk-reward ratio, you can determine how much potential profit you need to counteract a potential loss. If you have a 2:1 ratio, you can expect your potential profit to be twice your potential loss.": "En fonction de votre ratio risque/récompense, vous pouvez déterminer le bénéfice potentiel dont vous avez besoin pour compenser une perte potentielle. Si vous avez un ratio de 2:1, vous pouvez vous attendre à ce que votre bénéfice potentiel soit le double de votre perte potentielle.",
+
+  "Test your strategy": "Testez votre stratégie",
+
+  "Investing on a demo account might help you sharpen your skills before trading with real money.": "Investir sur un compte de simulation peut vous aider à affiner vos compétences avant d'effectuer des transactions avec de l'argent réel.",
+
+  "How to trade leveraged products on shares": "Comment négocier des produits à effet de levier sur des actions",
+
+  "Go to the shares section and choose your favorite instrument": "Allez dans la section des actions et choisissez votre instrument préféré",
+
+  "Trade Stocks with Stockbanx": "Négociez des actions avec Stockbanx",
+
+  "Unlock endless potential by trading top stocks like Amazon, Google, and Apple with leverage up to 1:100 and spreads as low as 20 pips*.": "Libérez un potentiel infini en négociant des actions de premier plan comme Amazon, Google et Apple avec un effet de levier allant jusqu'à 1:20 et des spreads aussi bas que 20 pips*.",
+
+  "How To Make Informed Trading Decision": "Comment prendre des décisions éclairées en matière de négociation",
+
+  "Financial events provide daily information for your trading decisions. Find out how to develop your market intuition and improve your risk management strategies with resources created by our market analysts.": "Les événements financiers fournissent des informations quotidiennes pour vos décisions de trading. Voyez comment développer votre intuition du marché et améliorer vos stratégies de gestion du risque grâce aux ressources créées par nos analystes de marché.",
+
+  "newstrade": "Les traders experts évoluent toujours en fonction des marchés. Nous fournissons une analyse quotidienne du marché couvrant les aspects fondamentaux et techniques des dernières nouvelles affectant le prix d'un actif spécifique afin de vous aider à prendre des décisions de trading éclairées.",
+
+  "Explore a range of educational resources designed to help you improve your trading skills with the latest news and expert analysis.": "Explorez une gamme de ressources éducatives conçues pour vous aider à améliorer vos compétences en matière de négociation grâce aux dernières nouvelles et aux analyses d'experts.",
+
+  "Plan your trades and get alerts for volatility-causing chart patterns and indicators from our economic calendar.": "Planifiez vos transactions et recevez des alertes pour les modèles graphiques et les indicateurs de volatilité de notre calendrier économique.",
+
+  "Take advantage of our online webinars and learn how to become a better trader with the help of our team of experts.": "Profitez de nos webinaires en ligne et apprenez à devenir un meilleur trader avec l'aide de notre équipe d'experts.",
+
+  "Live Webinars": "Webinaires en ligne",
+
+  "Take part in live webinars hosted by our expert analysts. Develop new strategies and sharpen your trading skills.": "Participez à des webinaires en direct animés par nos analystes experts. Développez de nouvelles stratégies et affinez vos compétences en matière de trading.",
+
+  "MT4 Multi-Account Manager": "Gestionnaire multicomptes MT4",
+
+  "Lot Allocation": "Attribution des lots",
+
+  "Proportional By Balance": "Proportionnel par solde",
+
+  "Equity Percent Allocation": "Allocation en pourcentage d'actions",
+
+  "Allocation by Equal Risk": "Allocation par risque égal",
+
+  "Percent Allocation by P/L": "Pourcentage d'allocation par Profit/Perte",
+
+  "Proportional By Equity": "Proportionnelle par rapport aux fonds propres",
+
+  "Proportional Allocation by P/L": "Allocation proportionnelle par Profit/perte",
+
+  "Lot multiplier by volume fix": "Multiplicateur de lot par fixation du volume",
+
+  "Money managers can place orders in bulk on all accountsoperating under a master account using Stockbanx's Multi AccountManager (MAM), an integrated software tool that will make theIB's journey more flexible.": "Les gestionnaires de fonds peuvent passer des commandes en masse sur tous les comptes opérant sous un compte principal en utilisant le Multi AccountManager (MAM) de Stockbanx, un outil logiciel intégré qui rendra le parcours du courtier remisier (IB) plus souple.",
+
+  "Partner with Stockbanx and receive:": "Associez-vous à Stockbanx et recevez :",
+
+  "Percent Allocation": "Pourcentage de l'allocation",
+
+  "Ambassador": "Ambassadeur",
+
+  "Trade Forex with Stockbanx": "Tradez sur le Forex avec Stockbanx",
+
+  "Maximize your potential by trading the biggest, most sought-after currency pairs such as GBPUSD and EURUSD with leverage up to 1:500 and spreads starting from 1.6 pips*.": "Maximisez votre potentiel en négociant les paires de devises les plus importantes et les plus recherchées, telles que GBPUSD et EURUSD, avec un effet de levier allant jusqu'à 1:1000 et des spreads à partir de 1,6 pips*.",
+
+  "are pairs that do not include the U.S. dollar, but do include at least one of the world's other three major currencies such as USD, EUR, JPY, CAD, GBP and CHF.": "sont des paires qui n'incluent pas le dollar américain, mais qui incluent au moins une des trois autres principales devises mondiales, telles que l'USD, l'EUR, le JPY, le CAD, la GBP et le CHF.",
+
+  "Margin & Leverage": "Marge et effet de levier",
+
+  "Choose the account type that best fits your trading goals. For any further assistance, you could reach our dedicated support team via email or chat.": "Choisissez le type de compte qui correspond le mieux à vos objectifs de trading. Pour toute assistance supplémentaire, vous pouvez contacter notre équipe d'assistance par email ou par chat.",
+
+  "Standard": "Standard",
+
+  "Platinum": "Platinum",
+
+  "Max Leverage": "Effet de levier maximal",
+
+  "Min. Deposits (USD)": "Dépôt minimum (USD)",
+
+  "Try Demo Account": "Essayez le compte de démonstration",
+
+  "Client funds are guarded in separated bank accounts": "Les fonds des clients sont conservés sur des comptes bancaires séparés",
+
+  "Selected": "Choisi",
+
+  "soon": "prochainement",
+
+  "Apple Airpod": "Apple Airpod",
+
+  "3rd Generation": "3ème génération",
+
+  "Apple Watch": "Apple Watch",
+
+  "Elite": "Elite",
+
+  "Elite+": "Elite+",
+
+  "Luxury car": "Une voiture de luxe",
+
+  "Black Tesla": "Une Tesla noire",
+
+  "5Days 4Nights": "5Jours 4Nuits",
+
+  "LSE Experience": "L'expérience",
+
+  "Allow Cookies": "Autoriser les cookies",
+
+  "Commodity prices will increase 43% in 2023": "Les prix des produits de base augmenteront de 43 % en 2023",
+
+  "2022 - a `catastrophic` year for the crypto market": "2022, une année \"catastrophique\" pour le marché des crypto-monnaies",
+
+  "2022: The year that shocked the global financial markets": "2022 : L'année qui a bouleversé les marchés financiers mondiaux",
+
+  "Positive Outlook For Gold In 2023": "Perspectives positives pour l'or en 2023",
+
+  "Nasdaq Soars 2% Ahead Of Q4 Earnings Reports": "Le Nasdaq grimpe de 2 % avant la publication des résultats du quatrième trimestre",
+
+  "html1": "html1",
+
+  "html2": "html2",
+
+  "html3": "html3",
+
+  "html4": "html4",
+
+  "html5": "html5",
+
+  "What are the advantages of partnering with Stockbanx International? ": "Quels sont les avantages d'un partenariat avec Stockbanx International ?",
+
+  "How do i open an IB account?": "Comment ouvrir un compte IB (compte de courtier remisier) ?",
+
+  "What is your IB compensation scheme? ": "Quel est le système de rémunération de l'IB ?",
+
+  "How are the IB commissions added to my account?": "Comment les commissions de l'IB sont-elles versées sur mon compte ?",
+
+  "How can I withdraw my IB commissions?": "Comment puis-je retirer mes commissions IB ?",
+
+  "How can I refer my clients and add them to my IB account?": "Comment puis-je recommander mes clients et les ajouter à mon compte IB ?",
+
+  "What are your trading hours?": "Quelles sont vos heures d'ouverture ?",
+
+  "Award-Winning Analyst Expertise:": "Une expertise analytique primée :",
+
+  "What spreads do you offer?": "Quels sont les spreads que vous proposez ?",
+
+  "Where can I view my account balance and check my trading history?": "Où puis-je consulter le solde de mon compte et l'historique de mes transactions ?",
+
+  "How can I access my historical data?": "Comment puis-je accéder à l'historique de mes données ?",
+
+  "What is the minimum account leverage you offer?": "Quel est l'effet de levier minimum du compte que vous proposez ?",
+
+  "At what level will my position be stopped-out?": "A quel niveau ma position sera-t-elle arrêtée ?",
+
+  "What are precious metal trading hours?": "Quelles sont les heures de négociation des métaux précieux ?",
+
+  "Can I trade outside of trading hours?": "Puis-je effectuer des transactions en dehors des heures habituelles d'ouverture ?",
+
+  "Are Third Party payments allowed with Stockbanx?": "Les paiements à des tiers sont-ils autorisés avec Stockbanx ?",
+
+  "How do I deposit funds into my account?": "Comment puis-je déposer des fonds sur mon compte ?",
+
+  "What is the minimum deposit?": "Quel est le montant minimum de dépôt ?",
+
+  "What is the minimum withdrawal?": "Quel est le montant minimum de retrait ?",
+
+  "What are the charges on deposits and withdrawals?": "Quels sont les frais sur les dépôts et les retraits ?",
+
+  "How long does it take to process a withdrawal?": "Combien de temps faut-il pour traiter un retrait ?",
+
+  "How long does it take for funds to reach my bank account?": "Combien de temps faut-il pour que les fonds arrivent sur mon compte bancaire ?",
+
+  "What are your fees/charges/overnight fees?": "Quels sont vos tarifs, vos frais de nuit ?",
+
+  "What are the advantages of partnering with Stockbanx?": "Quels sont les avantages d'un partenariat avec Stockbanx ?",
+
+  "How do I open an IB account?": "Comment puis-je ouvrir un compte IB (compte de courtier remisier) ?",
+
+  "What is your IB compensation scheme?": "Quel est le système de rémunération de l'IB ?",
+
+  "How do I log in to my account using the Android app for MT4?": "Comment puis-je me connecter à mon compte en utilisant l'application Android pour MT4 ?",
+
+  "How do I log in to my account using the iPhone app for MT4?": "Comment puis-je me connecter à mon compte en utilisant l'application iPhone pour MT4 ?",
+
+  "I forgot my MT4 password – what do I do?": "J'ai oublié mon mot de passe MT4 - que dois-je faire ?",
+
+  "How can I change my MT4 Password?": "Comment puis-je changer mon mot de passe MT4 ?",
+
+  "What commission is charged for trading on the MT4 platform?": "Quelle est la commission prélevée pour les opérations sur la plate-forme MT4 ?",
+
+  "How do I change my leverage?": "Comment modifier mon effet de levier ?",
+
+  "How do I install an Expert Advisor on MT4?": "Comment installer un Conseiller Expert sur MT4 ?",
+
+  "How do I add indicators to my chart?": "Comment ajouter des indicateurs à mon graphique ?",
+
+  "How do I open a chart in MT4?": "Comment ouvrir un graphique dans MT4 ?",
+
+  "How do I modify or delete a trade on the MT4 platform?": "Comment modifier ou supprimer une transaction sur la plateforme MT4 ?",
+
+  "How do I change the time frame of my chart?": "Comment modifier le cadre temporel de mon graphique ?",
+
+  "How do I zoom in/out of my chart?": "Comment faire un zoom avant/arrière sur mon graphique ?",
+
+  "What account types do you offer?": "Quels types de comptes proposez-vous ?",
+
+  "What is the minimum deposit for Classic account?": "Quel est le dépôt minimum pour le compte Classic ?",
+
+  "What is the minimum deposit for Prime account?": "Quel est le dépôt minimum pour le compte Prime ?",
+
+  "How can I request for a Demo account?": "Comment puis-je demander un compte démo ?",
+
+  "Is a Swap Free account available?": "Un compte sans swap (Swap-Free) est-il disponible ?",
+
+  "How do I top up my Demo account with funds?": "Comment puis-je alimenter mon compte démo ?",
+
+  "How long can I practice on my Demo account?": "Combien de temps puis-je essayer mon compte de démonstration ?",
+
+  "Are the spreads on your demo account the same as live?": "Les spreads de votre compte de démonstration sont-ils les mêmes que ceux du compte réel ?",
+
+  "Can I trade all products (FX, CFDs, commodities) from one Demo account?": "Puis-je négocier tous les produits (devises, CFDs, matières premières) à partir d'un seul compte de démonstration ?",
+
+  "How can I create a Demo account on the MT4 trading platform?": "Comment créer un compte de démonstration sur la plateforme de trading MT4 ?",
+
+  "How do I open an Islamic account?": "Comment ouvrir un compte islamique ?",
+
+  "What is the maximum leverage you offer?": "Quel est l'effet de levier maximal que vous proposez ?",
+
+  "What is the minimum trade size?": "Quelle est la taille minimale des transactions ?",
+
+  "What is the maximum trade size?": "Quelle est la taille maximale des transactions ?",
+
+  "What is your margin call?": "Quel est votre appel de marge ?",
+
+  "What is your order execution speed?": "A quelle vitesse les commandes sont-elles exécutées ?",
+
+  "Can I open a Demo account?": "Puis-je ouvrir un compte de démonstration ?",
+
+  "Can I open a swap-free account?": "Puis-je ouvrir un compte sans swap (Swap-Free) ?",
+
+  "How do I open a live account?": "Comment ouvrir un compte en ligne ?",
+
+  "What are the advantages of trading with Stockbanx?": "Quels sont les avantages de trader avec Stockbanx ?",
+
+  "As a Stockbanx partner, you will immediately benefit from the following: Commission Rebate: Start earning 10$ per lot today on every trade. No minimum requirements to qualify.Innovation: Experience our powerful software to track your introduced accounts and their activity easily.Loyalty: A unique loyalty program that recognizes your effortsMarketing Support: Full creative support and free marketing materials: Professionally designed banners Business cards Newsletters Promotional materials\nAdvanced Platforms: User-friendly trading platforms with ideal trading conditions.Flexibility: Customized support tailored to your needs. Our team welcomes any special requests that serve your needs and support better trading for your clients.": "En tant que partenaire de Stockbanx, vous bénéficierez immédiatement des avantages suivants : Remise de commission : commencez à gagner 10$ par lot aujourd'hui sur chaque transaction. Aucune condition minimale n'est requise pour être éligible. Innovation : découvrez notre puissant logiciel pour suivre facilement les comptes que vous avez présentés et leur activité. Fidélisation : un programme de fidélisation unique qui reconnaît vos efforts : un soutien créatif complet et des supports marketing gratuits : bannières conçues par des professionnels, cartes de visite, bulletins d'information, matériel promotionnel.\nPlateformes évoluées : plateformes de trading conviviales avec des conditions de trading idéales. Souplesse : un soutien personnalisé adapté à vos besoins. Notre équipe se réjouit de toute demande spéciale qui répond à vos besoins et permet d'améliorer les transactions pour vos clients.",
+
+  "Sign up: Join our IB program and earn ongoing commissions from the trading activity of your clients.Refer: Start referring clients and track the daily volume trading of your referrals in our bespoke IB Portal. When your Client completes the registration form in the Client Portal and opens an MT4 account, your IB code will be provided by default.Earn Up to $10 per lot on your clients’ trading. The more they trade, the more you make!": "Inscrivez-vous : rejoignez notre programme IB et gagnez des commissions en continu sur les activités de trading de vos clients : commencez à recommander des clients et suivez leur volume quotidien des transactions dans notre portail IB sur mesure. Lorsque votre client remplit le formulaire d'inscription dans le portail client et ouvre un compte MT4, votre code IB sera informé par défaut. Gagnez jusqu'à 10 $ par lot sur le trading de vos clients. Plus ils négocient, plus vous gagnez !",
+
+  "CPTClassic: Earn $10 per lot on your clients’ trading.CPTPrime: Earn $3 per lot on your clients’ trading.": "CPTClassic : gagnez 10 $ par lot sur les transactions de vos clients. CPTPrime : gagnez 3 $ par lot sur les transactions de vos clients.",
+
+  "All your clients trading activities are automatically displayed at EOD in your IB portal, along with the calculated commission": "Toutes les activités de trading de vos clients sont automatiquement affichées à la fin de la journée sur votre portail IB, ainsi que la commission calculée.",
+
+  "You can withdraw your IB commission anytime from the IB Portal.": "Vous pouvez retirer votre commission de l'IB à tout moment depuis le portail IB.",
+
+  "You should provide your clients with a unique IB referral link. Your clients will use that link to access our website; once they register through the Client Portal and open a live account, you will immediately see them added to your IB Portal.": "Vous devez fournir à vos clients un lien de recommandation unique de l'IB. Vos clients utiliseront ce lien pour accéder à notre site Web ; une fois qu'ils se seront enregistrés sur le portail client et qu'ils auront ouvert un compte réel, vous les verrez immédiatement ajoutés à votre portail IB.",
+
+  "Trading hours for every instrument can be accessed in your MT4 Platform (Market Watch - Choose the symbol - Specification).": "Les heures de marché pour chaque instrument sont accessibles sur votre plateforme MT4 (Market Watch - Choisissez le symbole - Spécification).",
+
+  "We have recently partnered with Trading Central, the award-winning user interface and analyst expertise that empowers today`s traders in validating suitable opportunities and optimizing their trading strategies.": "Nous avons récemment conclu un partenariat avec Trading Central, l'interface utilisateur primée et les experts analystes, qui permettent aux traders d'aujourd'hui de valider les opportunités appropriées et d'optimiser leurs stratégies de trading.",
+
+  "We offer floating spreads for the Stockbanx Classic and the Stockbanx Prime accounts.\nThe Stockbanx Classic account offers spreads starting from 1.4 pips with no commissions. The Stockbanx Prime account offer spreads starting from 0.7 pip with no commissions.": "Nous proposons des spreads flottants pour les comptes Stockbanx Classic et Stockbanx Prime.\nLe compte Stockbanx Classic offre des spreads à partir de 1,4 pips sans commission. Le compte Stockbanx Prime offre des spreads à partir de 0,7 pip sans commission.",
+
+  "Your account balance and trading history are available in the MT4 platform. They can also be accessed in the Client Portal.": "Le solde de votre compte et l'historique de vos transactions sont disponibles sur la plateforme MT4. Ils sont également accessibles sur le portail client.",
+
+  "Historical data could be accessed from the MT4 trading platform, by clicking on the following: Tools - History Centre - Choose Instrument - Download.\nTo review your historical data, you need to click on the following: File - Open Offline - Open Offline Chart.": "L’historique de vos données peut être consulté à partir de la plateforme de trading MT4, en cliquant sur le lien suivant : Outils - Centre de l'historique - Choisir l'instrument - Télécharger.\nPour consulter l’historique de vos données, vous devez cliquer sur le bouton suivant : Fichier - Ouvrir hors ligne - Ouvrir un graphique hors ligne.",
+
+  "The minimum leverage we offer is 1:50.": "L'effet de levier minimum que nous offrons est de 1:50.",
+
+  "When your margin level percentage drops to 50% and 30% stop-out level.": "Lorsque le pourcentage de votre niveau de marge tombe à 50 % et le niveau d'arrêt à 30 %.",
+
+  "Precious metals operate on similar trading hours to forex with the additional daily break at 21.00-22.00 GMT during BST (British Summer Time) and 22.00-23.00 during GMT DST (Daylight Saving Time).": "Les métaux précieux sont négociés selon des horaires similaires à ceux du forex, avec une interruption quotidienne supplémentaire entre 21h00 et 22h00 GMT pendant l'heure d'été britannique (BST) et entre 22h00 et 23h00 pendant l'heure d'été GMT (DST).",
+
+  "Unfortunately, no. Trades can only be placed during open market hours – but the markets will continue to evolve 24/7. Some traders prefer to use stop loss orders to minimise risk, to always check rolling fees & contract expiry dates before placing a trade to ensure they run as planned.": "Malheureusement, non. Les transactions ne peuvent être effectuées que pendant les heures d'ouverture du marché, mais les marchés continueront d'évoluer 24 heures sur 24 et 7 jours sur 7. Certains traders préfèrent utiliser des commandes stop-loss pour minimiser le risque. Il faut toujours vérifier les frais de roulement et les dates d'expiration des contrats avant de placer une transaction pour s'assurer qu'elle se déroule comme prévu.",
+
+  "Third-party payments are not allowed whether you are funding your trading account or making a withdrawal request. Stockbanx only accepts and returns funds to the original source matching the trading account holder`s name.": "Les paiements à des tiers ne sont pas autorisés, que vous approvisionniez votre compte de trading ou que vous fassiez une demande de retrait. Stockbanx n'accepte et ne renvoie les fonds qu'à la source d'origine correspondant au nom du titulaire du compte de trading.",
+
+  "You can securely deposit funds in your Client Portal using any of the several available payment options. To access payment options, clickhere.": "Vous pouvez déposer des fonds en toute sécurité dans votre portail client en utilisant l'une des options de paiement disponibles. Pour accéder aux options de paiement, cliquez ici.",
+
+  "The minimum deposit for the Stockbanx Classic Account is 0. The minimum deposit for the Stockbanx Prime Account is $5000.": "Le dépôt minimum pour le compte Stockbanx Classic est de 0 et le dépôt minimum pour le compte Stockbanx Prime et ECN est de 1000 $.",
+
+  "The minimum withdrawal for the Stockbanx Classic and the Stockbanx Prime account is $50.": "Le retrait minimum pour le compte Stockbanx Classic et le compte Stockbanx Prime est de 50 $.",
+
+  "We do not charge any fees on deposits and withdrawals.Note: External fees might apply depending on your payment method.": "Nous ne facturons pas de frais sur les dépôts et les retraits. Note : des frais externes peuvent être appliqués en fonction de votre méthode de paiement.",
+
+  "We process withdrawal requests within one working day.": "Nous traitons les demandes de retrait dans un délai d'un jour ouvrable.",
+
+  "We process withdrawal requests within one working day. The time needed for funds to be deposited in your account will depend on your bank`s policy. Bank withdrawals usually take between 3-7 working days, while credit/debit card withdrawals can take up to 8 working days.": "Nous traitons les demandes de retrait dans un délai d'un jour ouvrable. Le temps nécessaire pour que les fonds soient déposés sur votre compte dépend de la politique de votre banque. Les retraits bancaires prennent généralement entre 3 et 7 jours ouvrables, tandis que les retraits par carte de crédit/débit peuvent prendre jusqu'à 8 jours ouvrables.",
+
+  "Apart from spreads, we apply a withdrawal charge and overnight financing fees depending on the product.": "Outre les spreads, nous appliquons des frais de retrait et des frais de financement au jour le jour en fonction du produit.",
+
+  "As a Stockbanx partner you will immediately benefit from the following:Commission Rebate: Start earning from 10$ per lot today on every trade, no minimum requirements to qualify. \n\r  Innovation:\n\r Experience our powerful software to easily track your introduced accounts and their activity.\n\r Loyalty: A unique loyalty program that recognizes your efforts.\n\r Marketing Support: Full creative support and free marketing materials:\n\r Professionally designed banners\n\r Business cards\n\r Newsletters\n\r Promotional materials\n\r Advanced Platforms: User-friendly trading platforms with ideal trading conditions.\n\r Flexibility: Customized support tailored to your needs.\n\r Our team welcomes any special requests that serve your needs and support better trading for your clients.": "En tant que partenaire de Stockbanx, vous bénéficierez immédiatement des avantages suivants : remise de commission : commencez à gagner 10 $ par lot aujourd'hui sur chaque transaction, sans conditions minimales pour se qualifier.\n\n  Innovation :\n\n  Essayez notre puissant logiciel pour suivre facilement les comptes que vous avez recommandés et leur activité.\n\n Fidélisation : un programme de fidélisation unique qui reconnaît vos efforts.\n\n Soutien marketing : un soutien créatif complet et des supports marketing gratuits :\n\n Bannières conçues par des professionnels\n\n Cartes de visite\n\n Bulletins d'information\n\n Matériel promotionnel\n\n Plateformes évoluées : plateformes de négociation conviviales offrant des conditions de négociation idéales.\n\n Souplesse : un soutien personnalisé adapté à vos besoins.\n\n Notre équipe est à l'écoute de toutes les demandes spéciales qui répondent à vos besoins et permettent d'améliorer les transactions pour vos clients.",
+
+  "Sign up: Join our IB program and earn ongoing commissions from the trading activity of your clients. \n\r Refer: Start referring clients and track daily volume trading of your referrals in our bespoke IB Portal. When your client completes the registration form in the Client Portal and opens an MT4 account, your IB code will be provided by default.\r Earn: Start earning starting from $10 per lot on your clients’ trading. The more they trade, the more you make!": "Inscrivez-vous : rejoignez notre programme IB et gagnez des commissions et continu sur les activités de trading de vos clients. \n\nRecommandez : commencez à recommander des clients et suivez le volume quotidien de leurs transactions dans notre portail IB personnalisé. Lorsque votre client remplit le formulaire d'inscription dans le portail client et ouvre un compte MT4, votre code IB en sera informé par défaut.\nGagnez de l'argent : commencez à gagner à partir de 10 $ par lot sur les transactions de vos clients. Plus ils négocient, plus vous gagnez !",
+
+  "Stockbanx Classic: Earn starting from $10 per lot on your clients` trading.Stockbanx Prime: Earn $3 per lot on your clients’ trading.For registration and more information, please clickhere.": "Stockbanx Classic : gagnez à partir de 10 $ par lot sur les transactions de vos clients. Stockbanx Prime : gagnez 3 $ par lot sur les transactions de vos clients. Pour vous inscrire et obtenir plus d'informations, veuillez cliquer ici.",
+
+  "You can withdraw your IB commission once a week from the IB Portal.": "Vous pouvez retirer votre commission d'IB une fois par semaine sur le portail IB.",
+
+  "All your clients` trading activities are automatically displayed at EOD in your IB portal along with the calculated commission.": "Toutes les activités de trading de vos clients sont automatiquement affichées à la fin de la journée sur votre portail IB, avec la commission calculée.",
+
+  "You should provide your clients with a unique IB referral link. Your clients will use that link to access our website, once they register through the Client Portal and open a live account, you will immediately see them added to your IB Portal.": "Vous devez fournir à vos clients un lien de parrainage unique IB. Vos clients utiliseront ce lien pour accéder à notre site Web. Une fois qu'ils se seront inscrits sur le portail client et qu'ils auront ouvert un compte réel, vous les verrez immédiatement ajoutés à votre portail IB.",
+
+  "To login into your Stockbanx trading account, select ‘Login to an account’.\nSearch for Stockbanx to find the correct server for your account. Once you have selected the correct server, type in your login & password and then tap ‘Sign in’: Upon successful login, you will see the ‘Quotes’ screen.": "Pour vous connecter à votre compte de trading Stockbanx, sélectionnez 'Se connecter à un compte'.\nRecherchez Stockbanx pour trouver le bon serveur pour votre compte. Une fois que vous avez sélectionné le bon serveur, tapez votre nom d'utilisateur et votre mot de passe, puis appuyez sur 'Se connecter' : Une fois la connexion réussie, vous verrez l'écran 'Devis'.",
+
+  "To login into your Stockbanx trading account in the MT4 iPhone app, tap on the ‘Settings’ tab, then ‘Trade Accounts’, then ‘Login to an existing account’. Next, type “CPT\" into the ‘Search’ field, select the relevant server, enter your login and password and tap ‘Sign In’. You will be logged in and redirected to the ‘Quotes’ tab if you have entered your details correctly.": "Pour vous connecter à votre compte de trading Stockbanx dans l'application MT4 pour iPhone, appuyez sur l'onglet 'Paramètres', puis  'Comptes de trading', puis 'Connexion à un compte existant'. Ensuite, tapez 'Stockbanx' dans le champ 'Recherche', sélectionnez le serveur approprié, entrez votre nom d'utilisateur et votre mot de passe et appuyez sur 'Se connecter'. Si vous avez correctement saisi vos données, vous serez connecté et redirigé vers l'onglet 'Devis'.",
+
+  "To access the Client portal, select the “Accounts” section, select the relevant account, and click on the “key – change password” icon. Enter your registered email address and get a code. After submitting the code, please double-enter your new selected password.": "Pour accéder au portail Client, sélectionnez la section 'Comptes', sélectionnez le compte concerné et cliquez sur l'icône 'clé - changer le mot de passe'. Saisissez votre adresse électronique enregistrée et obtenez un code. Après avoir soumis le code, veuillez saisir deux fois le nouveau mot de passe que vous avez choisi.",
+
+  "Reset password from your MT4 platform:Go to your MT4 platform on computer > Click on \"Tools\" (top bar) > \"Options\" > \"Server\" tab > \"Change\" button > Choose to change the Master Password.": "Réinitialisation du mot de passe depuis votre plateforme MT4 : allez sur votre plateforme MT4 sur votre ordinateur > Cliquez sur 'Outils' (barre supérieure) > 'Options' > onglet 'Serveur' > bouton 'Changer' > Choisissez de changer le mot de passe principal.",
+
+  "There are no commissions on the Stockbanx Classic or the Stockbanx Prime accounts.": "Il n'y a pas de commission sur les comptes Stockbanx Classic ou Stockbanx Prime.",
+
+  "You can request a change to the leverage of your trading account by logging into the Stockbanx Client Portal, clicking on “Accounts” section, selecting the relevant account number, and clicking on the “double arrow - leverage change” icon, selecting the suitable leverage from the options.": "Vous pouvez demander une modification de l'effet de levier de votre compte de trading en vous connectant au portail client de Stockbanx, en cliquant sur la section 'Comptes', en sélectionnant le numéro de compte concerné et en cliquant sur l'icône 'double flèche - modification de l'effet de levier', en sélectionnant l'effet de levier approprié à partir des options.",
+
+  "To install an Expert Advisor for automated or algorithmic trading, follow these steps:\n\r· Open the MT4 platform Select ‘File’ from the main menu\n\r· Click on ‘Open Data Folder’ to bring up a new folder panel\n\r· Select the ‘MQL4’ folder, followed by the ‘Experts’ file\n\r· Drag and drop your EA file(s) into this folder\n\r· Restart MetaTrader 4 for your changes to take affect\n\rIf your Expert Advisor or Indicator is from the third party, please consult the EA/Indicator`s provider for installation`s troubleshoot.": "Pour installer un conseiller expert en vue d'une négociation automatisée ou algorithmique, procédez comme suit :\n\n- Ouvrez la plateforme MT4, sélectionnez ‘Fichier’ dans le menu principal\n\n- Cliquez sur ‘Ouvrir le dossier de données’ pour faire apparaître un nouveau panneau de dossiers.\n\n- Sélectionnez le dossier 'MQL4', suivi du fichier 'Experts'.\n\n- Glissez-déposez votre (vos) fichier(s) EA (Conseiller Expert) dans ce dossier.\n\n- Redémarrez MetaTrader 4 pour que vos modifications soient prises en compte.\n\nSi votre Expert Advisor ou Indicator provient d'une tierce partie, veuillez consulter le fournisseur de l'EA/Indicator pour résoudre les problèmes d'installation.",
+
+  "Indicators can be found in the ‘Navigator’ panel. After selecting the correct indicator, drag and drop the indicator onto the correct chart. A new panel will appear displaying multiple tabs which can be customized for inputs, colours and visualisation. Once the settings are correct, click ‘OK’ and the indicator will be applied to the chart.": "Les indicateurs se trouvent dans le panneau 'Navigateur'. Après avoir sélectionné l'indicateur approprié, faites-le glisser et déposez-le sur le graphique approprié. Un nouveau panneau apparaît, affichant plusieurs onglets qui peuvent être personnalisés pour les entrées, les couleurs et la visualisation. Une fois que les paramètres sont corrects, cliquez sur 'OK' et l'indicateur sera appliqué au graphique.",
+
+  "Right-click on the desired symbol in the Market Watch window. In the drop-down menu, select ‘Chart Window’.": "Cliquez avec le bouton droit de la souris sur le symbole voulu dans la fenêtre Market Watch. Dans le menu déroulant, sélectionnez 'Fenêtre graphique'.",
+
+  "Pending orders can be modified by clicking on the trade and selecting the option to `Modify` or `Delete Order`. Open trades cannot be deleted.": "Les commandes en instance peuvent être modifiées en cliquant sur la transaction et en sélectionnant l'option 'Modifier' ou 'Supprimer la commande'. Les transactions en cours ne peuvent pas être supprimées.",
+
+  "To change the time frame, select the chart then select the time period from the top tool bar. Alternatively, the time frame can be changed by right clicking on the chart, selecting Timeframes then you can choose your preferred option.": "Pour modifier le cadre temporel, sélectionnez le graphique, puis la période de temps dans la barre d'outils supérieure. Vous pouvez également modifier le cadre temporel en cliquant avec le bouton droit de la souris sur le graphique, en sélectionnant Cadre temporel, puis en choisissant l'option de votre choix.",
+
+  "To zoom in/out select the chart you want to view, right click and choose ‘Zoom In’ or ‘Zoom Out’ option. Alternatively, from the main toolbar you can use the magnifying glass icons to zoom in and out.": "Pour effectuer un zoom avant/arrière, sélectionnez le graphique que vous souhaitez visualiser, cliquez avec le bouton droit de la souris et choisissez l'option 'Zoom avant' ou 'Zoom arrière'. Vous pouvez également utiliser les icônes de loupe de la barre d'outils principale pour effectuer un zoom avant ou arrière.",
+
+  "In addition to our Islamic accounts, we offer 2 account types:Stockbanx Classic and Stockbanx Prime. The main differences are:\n\r Spreads:\n\r The Stockbanx Classic account starts at 1.4pip while the Stockbanx Prime account starts at 0.7pip.\n\r Minimum Deposits:\n\r The Stockbanx Classic account requires 0 minimum deposit while the Stockbanx Prime Account requires a $5000 minimum deposit.\n\r Dedicated Account Executive:\n\r Only available for the Stockbanx Prime accounts.There is no commission for the Stockbanx Classic and Stockbanx Prime accounts.": "En plus de nos comptes islamiques, nous proposons deux types de comptes : Stockbanx Classic et Stockbanx Prime. Les principales différences sont les suivantes :\n\n Les spreads :\n\n Le compte Stockbanx Classic démarre à 1,4 pips tandis que le compte Stockbanx Prime démarre à 0,7 pips.\n\n Dépôts minimums :\n\n Le compte Stockbanx Classic requiert 0 dépôt minimum tandis que le compte Stockbanx Prime requiert un dépôt minimum de 5 000 $.\n\nGestionnaire de compte dédié :\n\n Il n'y a pas de commission pour les comptes Stockbanx Classic et Stockbanx Prime.",
+
+  "Stockbanx does not have any minimum amount for Classic accounts.": "Stockbanx n'a pas de montant minimum pour les comptes Classic.",
+
+  "The minimum deposit amount is 5000 USD for Prime account.": "Le montant minimum de dépôt est de 5000 USD pour le compte Prime.",
+
+  "You can register for a demo account by  <a target=\"_blank\" href=\"https://portal.cptinternational.com/#/en/user/register\">clicking</a> here. (Register - Client Portal (cptinternational.com))\nSimply select the Demo account option and complete the requested details. After submitting your information, you will receive an email with your Demo account details.": "Vous pouvez vous inscrire pour un compte de démonstration en <a target=\"_blank\" href=\"https://portal.cptinternational.com/#/en/user/register\">cliquant</a> ici. (S'inscrire - Portail Client (cptinternational.com))\nIl vous suffit de sélectionner l'option Compte démo et de compléter les informations demandées. Après avoir soumis vos informations, vous recevrez un courriel contenant les détails de votre compte de démonstration.",
+
+  "Yes, Stockbanx offers traders a swap-free option trading account.  <a target=\"_blank\" href=\"https://cptmarkets.com/accounts/account-type\">click</a> here for more information.": "Oui, Stockbanx offre aux traders un compte de trading d'options sans swap. <a target=\"_blank\" href=\"https://cptmarkets.com/accounts/account-type\">  cliquez</a> ici pour plus d'informations.",
+
+  "To top up your Demo account, please contact us and provide your login number and the additional funds requested.": "Pour recharger votre compte démo, veuillez nous contacter et nous fournir votre numéro de connexion ainsi que les fonds supplémentaires demandés.",
+
+  "Stockbanx offers a free practicing Demo account for a 30-day trial period after registration.": "Stockbanx offre un compte de démonstration gratuit pour une période d'essai de 30 jours après l'inscription.",
+
+  "Yes. The Demo account mirrors our Live Classic or Prime accounts, with the same spreads and swap rates.": "Oui, le compte de démonstration est le reflet de nos comptes Live Classic ou Prime, avec les mêmes spreads et taux de swap.",
+
+  "Yes, all Demo accounts have access to all products, including currencies, commodities, indices, and stocks.": "Oui, tous les comptes de démonstration ont accès à tous les produits, y compris les devises, les matières premières, les indices et les actions.",
+
+  "Open the MT4 terminal and follow the instructions: Click on File in the top left corner of the main menu, Go to Open an Account option, Click on Scan and select demo server CPTMarketsLimited-Demo, then click Next, Tick New Demo Account and click Next Fill in your details, select the account type, deposit amount, leverage and tick the Subscribe to Newsletters box, then click Next and You will be given a new set of demo login details.": "Ouvrez le terminal MT4 et suivez les instructions : cliquez sur Fichier dans le coin supérieur gauche du menu principal, allez à l'option Ouvrir un compte, cliquez sur Scan et sélectionnez le serveur démo CPTMarketsLimited-Demo, puis cliquez sur Suivant, cochez Nouveau compte démo et cliquez sur Suivant. Saisissez vos coordonnées, sélectionnez le type de compte, le montant du dépôt, l'effet de levier et cochez la case S'abonner aux bulletins d'information, puis cliquez sur Suivant, et vous recevrez un nouvel jeu d’identifiants pour une connexion démo.",
+
+  "To open an Islamic account, a “Swap-Free Account Agreement” has to be signed, which outlines details of the interest-free nature and general conditions of the account. Please be aware that Stockbanx reserves the right to monitor an interest-free account to ensure it is being used in good faith and for intended purposes. Contact you directly if we suspect any irregular trading behaviour. Please contact our Client Experience Team or Sales Department and we’ll help you through the process.": "Pour ouvrir un compte islamique, un ‘Swap-Free Account Agreement’ doit être signé, qui décrit les détails de la nature sans intérêt et les conditions générales du compte. Sachez que Stockbanx se réserve le droit de surveiller un compte sans intérêt pour s'assurer qu'il est utilisé de bonne foi et aux fins prévues. Vous serez contacté directement si nous soupçonnons un comportement de négociation irrégulier. Veuillez contacter notre équipe d'expérience client ou notre département des ventes et nous vous aiderons dans le processus.",
+
+  "The Maximum leverage we offer is 1:500, depending on the jurisdiction where the client is being onboarded.": "L'effet de levier maximum que nous offrons est de 1:500, en fonction de la juridiction dans laquelle le client est recruté.",
+
+  "This will depend on the instruments you are trading. Right-click on the product to check the minimum trade size and choose specification.": "Cela dépend des instruments que vous négociez. Cliquez avec le bouton droit de la souris sur le produit pour vérifier la taille minimale de la transaction et choisissez la spécification.",
+
+  "This will depend on the instruments you are trading. To check the maximum trade size, right-click on the product and choose specification.": "Cela dépend des instruments que vous négociez. Pour vérifier la taille maximale des transactions, cliquez avec le bouton droit de la souris sur le produit et choisissez la spécification.",
+
+  "Our margin calls are 50% for the Stockbanx Classic Account and Stockbanx Prime Account.\nNote: Your account may be subject to a margin call if your account equity falls to a level that is equal to the margin of your existing positions.": "Nos appels de marge sont de 50 % pour le compte Stockbanx Classic et le compte Stockbanx Prime.\nRemarque : votre compte peut faire l'objet d'un appel de marge si les capitaux propres du compte tombent à un niveau égal à la marge de vos positions existantes.",
+
+  "Our average execution speed is around 0.3 seconds.": "Le temps moyen d'exécution est d'environ 0,3 seconde.",
+
+  "Yes, you can open a free Demo account with a balance of $10,000 in simulated funds to test the platform and your trading strategies on live markets in a risk-free environment.": "Oui, vous pouvez ouvrir un compte de démonstration gratuit avec un solde de 10 000 $ en fonds simulés pour tester la plateforme et vos stratégies de trading sur des marchés réels dans un environnement sans risque.",
+
+  "Yes, we offer swap-free accounts which are exempted from swaps on currency majors, minors & precious metals. It is not possible to have a swap-free and swap-enabled account open at the same time, but you can convert your existing account to swap-free by contacting our dedicated account managers.": "Oui, nous proposons des comptes sans swap qui sont exempts de swaps sur les devises principales, les devises secondaires et les métaux précieux. Il n'est pas possible d'ouvrir simultanément un compte sans swap et un compte avec swap, mais vous pouvez convertir votre compte existant en compte sans swap en contactant nos gestionnaires de compte spécialisés.",
+
+  "Apply for an account by submitting your contact details, personal information (with proof of address), bank statement & trading experience. Once the application is complete & all appropriateness checks are valid, we’ll email you access codes to our client portal. Upon opening the portal with your unique details, you’ll be able to make your first deposit via secure transfer along with your proof of account.": "Demandez un compte en soumettant vos coordonnées, vos informations personnelles (avec un justificatif de domicile), votre relevé bancaire et votre expérience commerciale. Une fois que la demande est complète et que tous les contrôles d'adéquation ont été validés, nous vous enverrons par e-mail les codes d'accès à notre portail client. En ouvrant le portail avec vos coordonnées uniques, vous pourrez effectuer votre premier dépôt par transfert sécurisé, accompagné de votre justificatif de compte.",
+
+  "Join Stockbanx for the most rewarding trading experience.\n\nZero Commission Trading:\nTrading is now more affordable than ever, with no additional fees when investing in Forex, Indices Commodities, and many more instruments.\n\nNo Minimum deposit:\nOur trading accounts does not require any minimum deposit to start trading.\n\nAdvanced Platforms:\nUser-friendly trading platforms with ideal trading conditions.\n\nFlexibility:\nCustomized support tailored to your needs, we welcome any requests that serve your needs and support you to trade better.\n\nAward-Winning Analyst Expertise:\nWe`ve recently partnered with Trading Central, the award-winning user interface and analyst expertise that empowers today`s traders in validating suitable opportunities and optimizing their trading strategies.": "Rejoignez Stockbanx pour une expérience de trading des plus enrichissantes.\n\nNégociation sans commission :\nLe trading est maintenant plus abordable que jamais, sans frais supplémentaires pour investir dans le Forex, les Indices, les Matières premières, et bien d'autres instruments.\n\nPas de dépôt minimum :\nNos comptes de trading ne requièrent aucun dépôt minimum pour commencer à trader.\n\nPlateformes évoluées :\nDes plateformes de trading conviviales avec des conditions de trading idéales.\n\nSouplesse :\nUn support personnalisé adapté à vos besoins, nous accueillons toutes les demandes qui répondent à vos besoins et vous aident à mieux trader.\n\nExpertise d'analyste primée :\nNous avons récemment conclu un partenariat avec Trading Central, l'interface utilisateur primée et les experts analystes qui permettent aux traders d'aujourd'hui de valider les opportunités appropriées et d'optimiser leurs stratégies de trading.",
+
+  "The minimum deposit for the Stockbanx Classic Account is 0. The minimum deposit for the Stockbanx Prime Account is $500.": "Le dépôt minimum pour le compte Stockbanx Classic est de 0. Le dépôt minimum pour le compte Stockbanx Prime est de 500 $.",
+
+  "The minimum withdraw is 100.": "Le retrait minimum est de 100.",
+
+  "Deposit with zero commission. Free withdrawal up to three times per month. When your withdrawal exceeded three times within the same month, you will be charged $25 USD per additional withdrawal.": "Dépôt sans commission. Retrait gratuit jusqu'à trois fois par mois. Si vous effectuez plus de trois retraits au cours d'un même mois, vous devrez payer 25 USD par retrait supplémentaire.",
+
+  "We process withdrawal requests within 1-3 working day.": "Nous traitons les demandes de retrait dans un délai de 1 à 3 jours ouvrables.",
+
+  "We process requests within 1-3 working day.": "Nous traitons les demandes dans un délai de 1 à 3 jours ouvrables.",
+
+  "Access the website, click “forgot password” icon on log-in page. Enter your registered email address and get a code. After submitting the code, please follow the instructions.": "Accédez au site web, cliquez sur l'icône 'mot de passe oublié' sur la page de connexion. Saisissez l'adresse électronique que vous avez enregistrée et obtenez un code. Après avoir envoyé le code, suivez les instructions.",
+
+  "Please contact the Support Team (contact@stockbanx.com), providing the account number, account name and request a change to the leverage.": "Please contact the Support Team (contact@stockbanx.com), providing the account number, account name and request a change to the leverage.",
+
+  "Open the MT4 terminal and follow the instructions: Click on File in the top left corner of the main menu, Go to Open an Account option, Click on Scan and select demo server CPTMarkets-Demo, then click Next, Tick New Demo Account and click Next Fill in your details, select the account type, deposit amount, leverage and tick the Subscribe to Newsletters box, then click Next and You will be given a new set of demo login details": "Ouvrez le terminal MT4 et suivez les instructions : cliquez sur Fichier dans le coin supérieur gauche du menu principal, allez à l'option Ouvrir un compte, cliquez sur Scan et sélectionnez le serveur démo CPTMarkets-Demo, puis cliquez sur Suivant, cochez Nouveau compte démo et cliquez sur Suivant. Saisissez vos coordonnées, sélectionnez le type de compte, le montant du dépôt, l'effet de levier et cochez la case S'abonner aux bulletins d'information, puis cliquez sur Suivant et vous recevrez un nouveau jeu d'identifiants pour la connexion à la démo.",
+
+  "The Maximum leverage we offer is 1:1000, depending on the jurisdiction where the client is being onboarded.": "L'effet de levier maximum que nous offrons est de 1:1000, en fonction de la juridiction dans laquelle le client est intégré.",
+
+  "Honoring Achievement Awards and Recognitions Earned by Stockbanx": "Honorer les exploits: Récompenses et reconnaissances obtenues par Stockbanx",
+
+  "Achieving Distinction, Awards that Validate Our Outstanding Performance": "Réalisons une distinction, des Récompenses qui Valident Nos Performances Exceptionnelles",
+
+  "Awarded by": "décerné par",
+
+  "The Best trading Experience": "La Meilleure Expérience de trading",
+
+  "The most innovative broker": "Le courtier le plus innovant",
+
+  "Best IB program UAE 2023": "Meilleur programme IB  Émirats arabes unis 2023",
+
+  "Fastest growing broker UAE 2023": "Courtier à la croissance la plus rapide aux Émirats arabes unis 2023",
+
+  "Provider of international Financial Derivative UAE 2023": "Fournisseur de produits Financiers Dérivés internationaux Émirats arabes unis 2023",
+
+  "Best Regulated broker": "Meilleur courtier réglementé",
+
+  "What is the minimum deposit requirement for opening an ECN account?": "Quel est le dépôt minimum requis pour ouvrir un compte ECN?",
+
+  "The minimum deposit required to open an ECN account is $100": "Le dépôt minimum requis pour ouvrir un compte ECN est de 1000$.",
+
+  "Elevate Your Tradng Experience With cTrader": "Améliorez votre expérience de trading avec cTrader",
+
+  "Unlock a realm of thrilling offers, bonuses, and promotions to amplify your trading adventure. At Stockbanx, we're dedicated to elevating your potential through trader-centric rewards. Dive into our latest campaigns and elevate your trading voyage to unprecedented levels.": "Débloquez un monde d'offres, de bonus et de promotions passionnantes pour amplifier votre aventure commerciale. Chez Stockbanx, nous nous engageons à accroître votre potentiel grâce à des récompenses centrées sur les traders. Plongez dans nos dernières campagnes et élevez votre voyage commercial à des niveaux sans précédent.",
+
+  "Unlock Up To 20% Bonus And Trade Smarter Today!": "Débloquez jusqu'à 20 % de bonus et négociez plus intelligemment dès aujourd'hui !",
+
+  "Join Stockbanx now and receive a trading bonus of 20% on registration.": "Rejoignez Stockbanx maintenant et recevez un bonus de trading de 20 % lors de l'inscription.",
+
+  "Register now and receive a welcome bonus of $250!": "Inscrivez-vous maintenant et recevez un bonus de bienvenue de 250 $ !",
+
+  "Join Stockbanx now and receive a trading bonus of $250 on registration.": "Rejoignez Stockbanx maintenant et recevez un bonus de trading de 250 $ lors de l'inscription.",
+
+  "Deposit now & grab a 20% bonus, up to $500, to fuel your trading journey!": "Déposez maintenant et bénéficiez d'un bonus de 20 %, jusqu'à 500 $, pour alimenter votre parcours commercial !",
+
+  "Join Stockbanx now and receive a trading bonus of $500 on registration.": "Rejoignez Stockbanx maintenant et recevez un bonus de trading de 500 $ lors de l'inscription.",
+
+  "Unlock your potential with our 100% Bonus!": "Libérez votre potentiel avec notre bonus de 100 % !",
+
+  "Join Stockbanx now and receive a trading bonus of 100% on registration.": "Rejoignez Stockbanx maintenant et recevez un bonus de trading de 100 % lors de votre inscription.",
+
+  "Join our exclusive 100% Bonus Campaign and increase your trading potential!": "Rejoignez notre campagne exclusive de bonus de 100 % et augmentez votre potentiel de trading !",
+
+  "Terms and Conditions": "Termes et conditions",
+
+  "Register Your Details": "Enregistrez vos coordonnées",
+
+  "Full Name": "Nom complet",
+
+  "Full Name is required": "Le nom complet est requis",
+
+  "Phone Number": "Numéro de téléphone",
+
+  "Phone Number is required": "Le numéro de téléphone est requis",
+
+  "Email address is required": "Adresse e-mail est nécessaire",
+
+  "I have read and consent to my data being used in accordance with the Privacy Policy": "J'ai lu et j'accepte que mes données soient utilisées conformément à la <a href='/about/legal-documents' class='underline'> politique de confidentialité </a>",
+
+  "Registration Successful": "Inscription réussi",
+
+  "Supercharge Your Trading with Exclusive Offers!": "Boostez votre trading avec des offres exclusives !",
+
+  "Email": "Adresse électronique",
+
+  "Submit": "Soumettre",
+
+  "Complaints Notice": "Avis de plainte",
+
+  "Liquidity Guidelines": "Lignes directrices en matière de liquidité",
+
+  "Leverage Adjustment Description": "Description de l’ajustement de l’effet de levier",
+
+  "Terms & Conditions": "termes et conditions",
+
+  "Website Terms & Conditions": "Conditions générales du site Web",
+
+  "webinar": "Welcome to Stockbanx' exclusive TradingWebinar   series,   your   gateway   to   grasping the art of trading. We are excited to invite you to our <span class='text-high'> exclusive weekly multilingual webinar series,  </span> where you'll gain invaluable insights into the dynamic world of trading.With   topics   ranging   from   Introduction   to Online   Trading   and   Basics   of   Markets   forTraders and Investors.",
+
+  "We received your email and we'll get back to you very soon.": "Nous avons reçu votre email et nous vous répondrons très prochainement.",
+
+  "Average reply time 24 hours": "Délai de réponse moyen 24 heures",
+
+  "In the meantime, we suggest you explore our website.": "En attendant, nous vous suggérons d'explorer notre site Internet.",
+
+  "Home": "Page d'accueil",
+
+  "A Spotlight on Stockbanx Events": "Pleins feux sur les événements de Stockbanx",
+
+  "Egyption": "Egypte",
+
+  "Food Bank 2023": "Banque alimentaire 2023",
+
+  "Egypt": "Egypte",
+
+  "Set in the scenic countryside of Dorset": "Situé dans la campagne pittoresque du Dorset",
+
+  "The Historical Fiction Writers' Retreat was a week-long haven for both budding.": "La retraite des écrivains de fiction historique a été un refuge d'une semaine pour les deux en herbe.",
+
+  "Daily workshops led by renowned authors and historians covered topics like researching historical contexts, character development, and narrative techniques specific to historical fiction. The retreat also included guided tours to nearby historical sites and individual mentoring sessions, culminating in a cozy fireside reading session where participants shared excerpts from their works in progress.": "Des ateliers quotidiens animés par des auteurs et historiens de renom couvraient des sujets tels que la recherche de contextes historiques, le développement des personnages et les techniques narratives spécifiques à la fiction historique. La retraite comprenait également des visites guidées de sites historiques à proximité et des séances de mentorat individuelles, culminant par une agréable séance de lecture au coin du feu où les participants partageaient des extraits de leurs travaux en cours.",
+
+  "Forex Expo": "Forex Expo",
+
+  "Dubai": "Dubai",
+
+  "United Arab Emirates": "United Arab Emirates\n",
+
+  "Vietnam Awards": "Prix ​​​​du Vietnam",
+
+  "The Best Moments 2023": "Les meilleurs moments 2023",
+
+  "Vietnam": "Vietnam",
+
+  "Discover our upcoming and past events, exhibitions, and seminars. Join us as we delve into the latest trends and insights in the financial world.": "Découvrez nos événements, expositions et séminaires à venir et passés. Rejoignez-nous pour découvrir les dernières tendances et perspectives du monde financier.",
+
+  "Recap: Unforgettable": "Récapitulatif : Inoubliable",
+
+  "Forex Events in Our History": "Événements Forex dans notre histoire",
+
+  "About The Trading Condition": "À propos des conditions commerciales",
+
+  "Upcoming Events": "évènements à venir",
+
+  "Egypt investment Expo": "Salon de l'investissement en Egypte",
+
+  "From 9:30 Am": "From 9:30 Am",
+
+  ", Booth No: 14": ", Booth No: 14",
+
+  "HCMC Traders Fair": "HCMC Traders Fair",
+
+  ", Booth No: M12-7": ", Booth No: M12-7",
+
+  "Previous Events:": "Previous Events:",
+
+  "Take a journey with us as we revisit our exciting past events. These are the moments when we joined hands with traders, partners, and industry enthusiasts from across the globe.": "Faites un voyage avec nous alors que nous revisitons nos événements passés passionnants. Ce sont les moments où nous nous sommes associés à des commerçants, des partenaires et des passionnés de l’industrie du monde entier.",
+
+  "Dec": "Dec",
+
+  "Nov": "Nov",
+
+  "Trading Education And Insights": "Éducation et connaissances en matière de trading",
+
+  "No matter your level of experience or where you are on your trading journey, we have the tools and educational resources to take you to the next level.": "Quel que soit votre niveau d'expérience ou où vous en êtes dans votre parcours de trading, nous disposons des outils et des ressources pédagogiques pour vous faire passer au niveau supérieur.",
+
+  "Dive into the Learning Hub to Unlock your Trading Potential.": "Plongez dans le Learning Hub pour libérer votre potentiel de trading.",
+
+  "Explore All Videos": "Explorer toutes les vidéos",
+
+  "Sharpen your trading skills with our live webinars hosted by industry experts": "Aiguisez vos compétences en trading avec nos webinaires en direct animés par des experts du secteur",
+
+  "Explore All Webinars": "Explorez tous les webinaires",
+
+  "Explore Our Extensive Collection of Tutorials, Informative Videos and In-Depth Learning Materials": "Explorez notre vaste collection de didacticiels, de vidéos informatives et de matériel d'apprentissage approfondi",
+
+  "Explore All Playlists": "Explorez toutes les listes de lecture",
+
+  "Explore All Promotions": "Explorez toutes les promotions",
+
+  "Featured Articles": "Articles en vedette",
+
+  "Explore All Articles": "Explorer tous les articles",
+
+  "Back": "Récapitulatif : les événements Forex inoubliables de notre histoire",
+
+  "Recap: Unforgettable Forex Events in Our History": "Récapitulatif : les événements Forex inoubliables de notre histoire",
+
+  "Embark on a thrilling exploration of our events section, where each occasion is a unique chapter in the dynamic narrative of Stockbanx": "Embarquez pour une exploration passionnante de notre section événements, où chaque occasion est un chapitre unique dans le récit dynamique de Stockbanx.",
+
+  "INTRODUCTION": "Introduction",
+
+  "Forex Summit 2023": "Forex Summit 2023",
+
+  "Forex Summit 2023 - Dubai": "Forex Summit 2023 - Dubai",
+
+  "Proud moment! Stockbanx had an exhilarating experience at Smart Vision‘s Forex Summit 2023 in Ritz Carlton DIFC! We had 2 amazing days full of excitement, networking, workshops, and meetings with passionate traders & different service providers. Excited to announce that we received the Best Regulated Broker award.": "Moment de fierté ! Stockbanx a vécu une expérience exaltante au Forex Summit 2023 de Smart Vision au Ritz Carlton DIFC ! Nous avons eu 2 journées extraordinaires pleines d'enthousiasme, de réseautage, d'ateliers et de rencontres avec des traders passionnés et différents prestataires de services. Nous sommes ravis d'annoncer que nous avons reçu le prix du meilleur courtier réglementé.",
+
+  "Trade To Care - Egypt": "Trade To Care - Egypte",
+
+  "Under our 'Trade to Care' campaign initiative, Stockbanx Group is proud to collaborate with the Egyptian Food Bank to give back to society and those in need.With over 2,000 boxes filled with food supplies, in every box packed, there's not just food, but hope and compassion for breadwinner mothers and their children, people with special abilities, and the elderly.Every contribution, every trade  made a difference, and together we're providing much-needed support to our community.": "Dans le cadre de notre initiative de campagne « Trade to Care », le groupe Stockbanx est fier de collaborer avec la banque alimentaire égyptienne pour redonner à la société et à ceux qui en ont besoin. Avec plus de 2 000 boîtes remplies de produits alimentaires, dans chaque boîte emballée, il n'y a pas que de la nourriture, mais de l'espoir et de la compassion pour les mères soutien de famille et leurs enfants, les personnes ayant des capacités particulières et les personnes âgées. Chaque contribution, chaque métier a fait une différence, et ensemble, nous apportons un soutien indispensable à notre communauté.",
+
+  "Hanoi Traders Fair 2023, Vietnam": "Foire des commerçants de Hanoï 2023, Vietnam",
+
+  "The Stockbanx team is still abuzz from all the engaging conversations we had with our newly forged connections today at the Traders Fair Hanoi FINEXPO (Finexpo.org). It has been an absolute pleasure for us to showcase our latest products, expertise, and brand offerings.This expo has served as a catalyst for us to cultivate deeper connections with the Vietnam Market, which we firmly believe will shape the future trajectory of Stockbanx here locally.We extend our heartfelt gratitude to our incredible team, partners, and clients in Vietnam for the warm welcome! We eagerly look forward to strengthening our relationships and remaining part of your trading journey.": "L'équipe de Stockbanx est toujours en effervescence suite à toutes les conversations engageantes que nous avons eues avec nos nouvelles connexions aujourd'hui au Traders Fair Hanoi FINEXPO (Finexpo.org). Ce fut un plaisir absolu pour nous de présenter nos derniers produits, notre expertise et nos offres de marque. Cette exposition nous a servi de catalyseur pour entretenir des liens plus profonds avec le marché vietnamien, qui, nous en sommes convaincus, façonnera la trajectoire future des marchés Stockbanx. ici localement.Nous exprimons notre sincère gratitude à notre incroyable équipe, nos partenaires et nos clients au Vietnam pour leur accueil chaleureux ! Nous sommes impatients de renforcer nos relations et de continuer à faire partie de votre parcours commercial.\n",
+
+  "Seminar: Setting Trading Goals - Vietnam": "Séminaire : Fixer des objectifs commerciaux - Vietnam",
+
+  "Hello again Vietnam! Stockbanx’ trip in Vietnam isn’t over yet! From Hanoi’s Traders Fair, we hosted a seminar in the vibrant Ho Chi Minh City last July 15, 2023 at the Sofitel Saigon Plaza. Our very own Ngoc Nguyen, Edwin Thinh Vu and Denys Peleshok, Head of Asia at Stockbanx, have gathered to introduce the subject of setting trading goals to Stockbanx' traders. 📈 Once again, as part of our commitment to continuous learning, we provided a seminar filled with interactive and informative materials to help you enhance your trading skills.Be on the lookout for upcoming seminars by Stockbanx in your area!": "Re-bonjour le Vietnam ! Le voyage de Stockbanx au Vietnam n’est pas encore terminé ! Depuis la Foire des commerçants de Hanoï, nous avons organisé un séminaire dans la vibrante ville d’Hô Chi Minh-Ville le 15 juillet 2023 au Sofitel Saigon Plaza. Nos propres Ngoc Nguyen, Edwin Thinh Vu et Denys Peleshok, responsable de l'Asie chez Stockbanx, se sont réunis pour présenter le sujet de la définition d'objectifs de trading aux traders de Stockbanx. 📈 Une fois de plus, dans le cadre de notre engagement envers l'apprentissage continu, nous avons proposé un séminaire rempli de matériel interactif et informatif pour vous aider à améliorer vos compétences en trading. Soyez à l'affût des prochains séminaires organisés par Stockbanx dans votre région !",
+
+  "Money Expo 2023 - India": "Money Expo 2023 - Inde",
+
+  "Money Expo 2023": "Money Expo 2023",
+
+  "India": "Inde",
+
+  "Two whirlwind days at MoneyExpo India, each moment a treasure. Grateful and happy to participate in representing Stockbanx. Winning 'Most Reputable Forex Broker 2023' was a proud achievement, echoing the dedication of our remarkable team and the trust bestowed upon us. To all who joined us at Booth 39, your engaging conversations added a special spark to our mission. It was an absolute pleasure connecting with clients, partners, and Payment Service Providers, discussing the future of finance. The event also proved to be a fantastic opportunity to meet regional PR agencies and data providers, fostering valuable collaborations. Here's to more milestones, more growth, and the vibrant spirit of the Stockbanx family!": "Deux journées éclair à MoneyExpo India, chaque instant est un trésor. Reconnaissant et heureux de participer à la représentation de Stockbanx. Gagner le titre de « Courtier Forex le plus réputé 2023 » est une fière réussite, faisant écho au dévouement de notre équipe remarquable et à la confiance qui nous est accordée. À tous ceux qui nous ont rejoint au stand 39, vos conversations engageantes ont ajouté une étincelle particulière à notre mission. Ce fut un plaisir absolu de rencontrer des clients, des partenaires et des prestataires de services de paiement, pour discuter de l'avenir de la finance. L'événement s'est également avéré être une fantastique opportunité de rencontrer des agences de relations publiques régionales et des fournisseurs de données, favorisant ainsi de précieuses collaborations. À bientôt pour d'autres jalons, plus de croissance et l'esprit dynamique de la famille Stockbanx !",
+
+  "Traders Fair 2023 - South Africa": "Salon des commerçants 2023 - Afrique du Sud",
+
+  "Traders Fair 2023 - South Africa Stockbanx' was at the Traders Fair & Traders Awards, Johannesburg and our experience has been nothing short of extraordinary. We've had the privilege of connecting with the dynamic and enthusiastic South African trading community, and we're genuinely inspired by the depth of knowledge exhibited by both our South African traders and our esteemed partners.": "Traders Fair 2023 - Afrique du Sud Stockbanx était présent à la Traders Fair & Traders Awards, à Johannesburg et notre expérience a été tout simplement extraordinaire. Nous avons eu le privilège de nouer des contacts avec la communauté commerciale sud-africaine dynamique et enthousiaste, et nous sommes véritablement inspirés par la profondeur des connaissances démontrées par nos commerçants sud-africains et par nos estimés partenaires.",
+
+  "Forex Expo 2023 - Dubai": "Forex Expo 2023 - Dubaï",
+
+  "Dubai Forex Expo 2023: A Grand Showcase of Forex's Global Impact.The Dubai Forex Expo 2023, now in its sixth grand edition, took place on the 26th and 27th of September, 2023, and it has left a memorable mark on the world of forex trading. With its unprecedented scale of participation, it can confidently stake its claim as one of the largest forex expos in the world, if not the largest. This remarkable event provided an extravagant platform for Forex traders, IBs, Investors, Financial Institutions, and Brokers from across the Trading and Investing ecosystem to come together, collaborate, and establish connections poised to reshape the industry's future. A huge shoutout to our dedicated Stockbanx team for embodying our brand values throughout the event.": "Dubai Forex Expo 2023 : une grande vitrine de l'impact mondial du Forex. La Dubai Forex Expo 2023, qui en est désormais à sa sixième grande édition, a eu lieu les 26 et 27 septembre 2023 et a laissé une marque mémorable sur le monde du forex. commerce. Grâce à son ampleur de participation sans précédent, elle peut en toute confiance revendiquer sa place comme l'une des plus grandes expositions de change au monde, voire la plus grande. Cet événement remarquable a fourni une plate-forme extravagante permettant aux traders du Forex, aux IB, aux investisseurs, aux institutions financières et aux courtiers de tout l'écosystème du trading et de l'investissement de se réunir, de collaborer et d'établir des liens prêts à remodeler l'avenir du secteur. Un grand merci à notre équipe dédiée de Stockbanx pour avoir incarné les valeurs de notre marque tout au long de l'événement.",
+
+  "Education": "Education",
+
+  "Events": "Événements",
+
+  "Get access to our educational": "Accédez à nos formations",
+
+  "Partner Portal": "Portail Partenaires",
+
+  "Elevate Your Trading Game with Stockbanx!": "",
+
+  "Trade the Global Markets with a regulated broker! Forex, Indices, Stocks, Crypto – Trade anytime, anywhere!": "",
+
+  "30+ FX INDUSTRY AWARDS": "",
+
+  "Why Trading With Stockbanx?": "",
+
+  "Discover thousands of CFDs on the world’s most popular financial instruments and get the best of our swap free trading": "",
+
+  "Experience In The Industry": "",
+
+  "Daily Executed Trades": "",
+
+  "Client Assets": "",
+
+  "Clients Worldwide": "",
+
+  "Why Stockbanx Stands Out": "",
+
+  "Discover why traders worldwide choose Stockbanx for their online trading journey. Here's what sets us apart:": "",
+
+  "Intuitive Platform": "",
+
+  "Trade with ease on our user-friendly platform.:": "",
+
+  "Competitive Spreads": "",
+
+  "Enjoy tight spreads that maximize your profit potential.": "",
+
+  "Global Regulatory Compliance and Licensing": "",
+
+  "Regulated by the Belize International Financial Services Commission under license number: No. IFSC000314/470": "Regulated by the Belize International Financial Services Commission under license number: No. FSC000314/17",
+
+  "Registration number 6707165, NO.606110. Stockbanx U.K. Limited is an affiliated company of Stockbanx Limited.": "",
+
+  "Registration no. 2014 / 214730 / 07 and regulated by the Financial Sector Conduct Authority under license number 45954.": "",
+
+  "With over 14 years of excellence and innovation, we open the door to top-notch access to financial markets through our advanced execution model. Unveil the exciting realm of online trading with leveraged products spanning hundreds of instruments across various asset classes.": "",
+
+  "Select Your Perfect Account and Begin Your Trading JourneyNot sure which account suits you best? Explore our diverse range of accounts, including ECN, Classic, and Prime, and embark on a personalized trading adventure. Discover the perfect fit for your trading aspirations today!": "",
+
+  "Deposit": "",
+
+  "Margin Call": "",
+
+  "Classic": "",
+
+  "Payment Methods": "",
+
+  "Secure, Swift, and Seamless: Your Trustworthy Payment Gateway": "",
+
+  "The Most Intuitive, User-Friendly Trading Platforms": "",
+
+  "For experienced users, a feature-rich platform": "",
+
+  "An all-in-one trading platform": "",
+
+  "The popular, standard solution": "",
+
+  "Trade without commission fees, keeping your costs low": "",
+
+  "Join Stockbanx for a superior trading experience.": "",
+
+  "No": "",
+
+  "Stockbanx understands that every client has different needs. Our platforms are all trusted, award-winning, so you can choose what works best for you.": "",
+
+  "Support tailored to your needs. Whenever you have a special request, we are happy to help.": "",
+
+  "Choose Your Trading Adventure": "",
+
+  "Thank you!": "",
+
+  "We received your inquiry, and we'll get back to you very soon.": "",
+
+  "Visit our Website": "",
+
+  "Create a account": "Créer un compte",
+
+  "Individual": "Individuel",
+
+  "Partner": "Partenaire",
+
+  "Corporate": "Entreprise",
+
+  "An individual brokerage account has the name of one account owner": "Un compte de courtage individuel porte le nom d'un seul titulaire de compte",
+
+  "Stockbanx gives you a chance to grow together.": "Stockbanx vous donne la chance de grandir ensemble.",
+
+  "Explore our comprehensive solution for corporates": "Découvrez notre solution complète pour les entreprises",
+
+  "Stockbanx Academy": "Académie Stockbanx",
+
+  "Optimize your forex trading with fees starting from just 1.6 PIPS": "",
+
+  "Enhance your performance with Stockbanx - a reliable broker with 14 years in the market.": "",
+
+  "Leverage up to 1:1000": "",
+
+  "Diverse currency pairs for your selection": "",
+
+  "Best trading experience with MT4 & MT5": "",
+
+  "Spreads starting from 1.6 Pips": "",
+
+  "Various promotional programs": "",
+
+  "Fast deposits and withdrawals 24/5": "",
+
+  "Margin requirement as low as 0.2%": "",
+
+  "Over 30 FX INDUSTRY AWARDS": "",
+
+  "Easy entry with small capital": "",
+
+  "Buying/selling US and European stocks": "",
+
+  "Especially 0% commission fee*": "",
+
+  "Accelerate your international STOCK INVESTMENTS": "",
+
+  "Guidance on investing in US and European stocks with Stockbanx - a reliable broker with 14 years in the market.": "",
+
+  "GOLD PRICE could reach $3000 peak in 2024": "",
+
+  "Are you ready to seize the opportunity with Stockbanx - a reliable broker with 14 years in the market?": "",
+
+  "Unleash the potential of commodities trading without the hassle of physical ownership. Here at Stockbanx, you can leverage the price movements of a diverse range of commodities, from energy and metals to agricultural goods, all on our advanced and user-friendly MT5 platform. This simplifies your entry into the commodities market, allowing you to capitalize on market trends without the burden of managing physical assets.": "",
+
+  "Unleash Efficiency & Expertise MAM Accounts for Investors & Fund Managers": "",
+
+  "Unlock Your Outreach with MAM Accounts": "",
+
+  "Invest Smarter & Efficiently with MAM Stockbanx": "",
+
+  "Stockbanx MAM elevates your investment experience.": "",
+
+  "This innovative solution caters to both ambitious investors seeking expert guidance and established fund managers looking to optimize client management.": "",
+
+  "Why Stockbanx MAM Account?": "",
+
+  "Investors": "",
+
+  "Fund Managers": "",
+
+  "Empower Your Portfolio": "",
+
+  "Gain access to the strategies of seasoned fund managers, diversifying your holdings beyond your own capabilities.": "",
+
+  "Tailored Control": "",
+
+  "Maintain a level of control by customizing allocation within your MAM sub-account to align with your risk tolerance.": "",
+
+  "Effortless Management": "",
+
+  "Free yourself from the burden of active monitoring. Trust a proven expert to navigate the markets on your behalf.": "",
+
+  "Streamline Your Operations": "",
+
+  "Manage multiple client accounts efficiently through a single master account, maximizing your time and resources.": "",
+
+  "Boost Transparency": "",
+
+  "Provide real-time performance insights to sub-account holders, fostering trust and attracting new investors.": "",
+
+  "Expand Your Reach": "",
+
+  "Leverage the Stockbanx platform to connect with a wider pool of potential clients seeking qualified management.": "",
+
+  "Benefits for All": "",
+
+  "Seamless Integration": "",
+
+  "Manage your MAM account alongside your individual trading activity on our user-friendly platform.": "",
+
+  "Dedicated Support": "",
+
+  "Our experienced team is readily available to address any queries related to MAM accounts.": "",
+
+  "Advanced Technology": "",
+
+  "Benefit from our secure and feature-rich platform designed for optimal investment management.": "",
+
+  "Transparent Calculation": "",
+
+  "We track the forex markets in real-time so that you get fast accreditation of commissions in your live trading account.": "",
+
+  "Withdraw your funds at any time.": "",
+
+  "All Stockbanx MAM managers can quickly calculate performance fees for all their clients, as needed.": "",
+
+  "Take Control of Your Financial Future": "",
+
+  "Open a MAM sub-account today and unlock the potential of expert-driven investing. Explore our directory of qualified fund managers and find the perfect fit for your goals.": "",
+
+  "Get Started Here!": "",
+
+  "Elevate your client management with Stockbanx MAM accounts. Learn more about our streamlined process and dedicated support system.": "",
+
+  "Become a MAM Manager Today!": "",
+
+  "Restricted Countries: Stockbanx PTY LTD (“CPT SA”) does not provide services for residents of certain countries including but not limited to the United States, United Kingdom, Canada, Israel, Iran, Cyprus, and North Korea or any country where such distribution or use would be contrary to local law or regulation.": "Pays restreints : Stockbanx PTY LTD (« Stockbanx SA ») ne fournit pas de services aux résidents de certains pays, notamment les États-Unis, le Royaume-Uni, le Canada, Israël, l'Iran, Chypre et la Corée du Nord ou tout pays où de tels la distribution ou l’utilisation serait contraire à la loi ou à la réglementation locale.",
+
+  "You must be 18 years old, or of legal age as determined in your country. Upon registering an account with Stockbanx PTY LTD (“CPT SA”), you acknowledge that you are registering at your own free will, without solicitation on behalf of Stockbanx PTY LTD (“CPT SA”).": "Vous devez avoir 18 ans ou avoir l'âge légal déterminé dans votre pays. En créant un compte auprès de Stockbanx PTY LTD (« Stockbanx SA »), vous reconnaissez que vous vous inscrivez de votre plein gré, sans sollicitation de la part de Stockbanx PTY LTD (« Stockbanx SA »).",
+
+  "Stockbanx PTY LTD (“CPT SA”) does not direct its website and services to any individual in any country in which the use of its website and services are prohibited by local laws or regulations. When accessing this website from a country in which its use may or may not be prohibited, it is the user's responsibility to ensure that any use of the website or services adheres to local laws or regulations. Stockbanx PTY LTD (“CPT SA”) does not affirm that the information on its website is suitable for all jurisdictions.": "Stockbanx PTY LTD (« Stockbanx SA ») ne dirige pas son site Web et ses services vers des individus dans des pays dans lesquels l'utilisation de son site Web et de ses services est interdite par les lois ou réglementations locales. Lorsqu'il accède à ce site Web depuis un pays dans lequel son utilisation peut ou non être interdite, il est de la responsabilité de l'utilisateur de s'assurer que toute utilisation du site Web ou des services respecte les lois ou réglementations locales. Stockbanx PTY LTD (« Stockbanx SA ») n'affirme pas que les informations présentes sur son site Web conviennent à toutes les juridictions.",
+
+  "testword": "",
+
+  "* It came to our attention that fraudulent websites are using our Company's Logo and/or Name. We advise our clients that the official domains of Stockbanx can be found ONLY on this website.": "",
+
+  "Copy Trading": "",
+
+  "Trade the world’s most popular currency leverage products": "",
+
+  "BID": "",
+
+  "Trade the world’s most popular cryptocurrencies with 10x leverage": "",
+
+  "ASK": "",
+
+  "Prime": "",
+
+  "execution": "",
+
+  "transaction": "",
+
+  "stream-payment": "",
+
+  "EUR/GBP": "",
+
+  "EURGBP": "",
+
+  "USDCAD": "",
+
+  "USD/CAD": "",
+
+  "EUR/USD": "",
+
+  "Trade Leveraged products on shares of the biggest companies in the world, including Apple, Microsoft, Tesla, Facebook, Netflix, and Amazon.": "",
+
+  "Our leading trading platform offers Gold, Oil, Silver, Gas, and many other commodities.": "",
+
+  "Take advantage of trading CFDs on indices like US500, UK100, and more, using MT4 on any device you prefer. Trade US30 with leverage up to 1|200 and low spreads.": "Take advantage of trading CFDs on indices like US500, UK100, and more, using MT4 on any device you prefer. Trade US30 with leverage up to 1:100 and low spreads.",
+
+  "Unlock endless potential by trading top stocks like Amazon, Google, and Apple with leverage up to 1|100 and spreads as low as 40 pips*.": "Unlock endless potential by trading top stocks like Amazon, Google, and Apple with leverage up to 1:20 and spreads as low as 40 pips*.",
+
+  "EURUSD": "",
+
+  "AUD/USD": "",
+
+  "AUDUSD": "",
+
+  "USD/JPY": "",
+
+  "USDJPY": "",
+
+  "GBPUSD": "",
+
+  "ECN": "",
+
+  "Name": "",
+
+  "Stockbanx Academy": "",
+
+  "Education is an essential component for successful trading. That’s why you can now explore a variety of valuable resources and information for all traders. Scroll down and find out more!": "",
+
+  "Get to know to Stockbanx": "",
+
+  "At Stockbanx, we're not just about providing trading solutions; we're about creating opportunities that empower our clients to navigate the financial markets more effectively and efficiently.": "",
+
+  "Stockbanx is a world- leading leveraged products broker in online trading of the global markets. Stockbanx offers 130+ leveraged product instruments for global investors to trade. We became the preferred brand of many traders by putting the funds safety as a top priority and providing an efficient, simple trading journey.": "",
+
+  "An Exciting Trading Beginning... ": "",
+
+  "Stockbanx aims to exceed your expectations by delivering an unparalleled online trading experience, offering an unprecedented level of service matched with state-of-the-art trading technologies.": "",
+
+  "We’d Love To Hear From You": "",
+
+  "Stockbanx operates globally with offices and teams around the world, offering localized support and tailored trading solutions. Our international reach allows us to understand and meet the unique needs of traders in different regions, making us a trusted partner in your financial journey.": "",
+
+  "Trade over 1,800 products safely, quickly and easily": "",
+
+  "Index trading has never been easier! Trade CFDs on indices such as Dow Jones, Nasdaq and other global indices.": "",
+
+  "Stock description": "",
+
+  "Embark On A Trading Journey": "",
+
+  "SHARE CFDs": "",
+
+  "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and IFSC Belize. ": "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and FSC Belize.␣",
+
+  "Customized Solutions for Partners & Traders": "",
+
+  "For Traders": "",
+
+  "For Partners": "",
+
+  "Portfolio Diversification": "",
+
+  "At Stockbanx, you can unleash a diverse trading arsenal. Explore a vast selection of instruments – stocks, forex, and even commodities – all on a single, user-friendly platform. This empowers you to spread your risk across different markets, capitalize on various opportunities, and potentially maximize your returns as market conditions evolve.": "",
+
+  "Secure Transactions": "",
+
+  "We offer a wide range of secure payment methods, including trusted options like credit cards, bank transfers, and popular e-wallets. ": "",
+
+  "Fast Execution": "",
+
+  "This agility allows you to make informed decisions and react instantly to market shifts, potentially enhancing your trading success.": "",
+
+  "Dedicated Partner Portal": "",
+
+  "Track your client activity, monitor commissions, and access insightful data to optimize your marketing efforts. Additionally, our dedicated support team is always available to answer your questions and provide assistance whenever you need it.": "",
+
+  "Streamlined Payments": "",
+
+  "Enjoy the convenience of instant commission payments on qualifying activities, allowing you to access your earnings swiftly and reinvest them in your business growth.": "",
+
+  "Lucrative Commission Structure": "",
+
+  "Earn generous commissions on every successful trade your referred clients make. The more clients you bring in and the more they trade, the greater your earning potential.": "",
+
+  "Start Your Trading Journey": "",
+
+  "Account Types": "",
+
+  "More Details": "",
+
+  "The vision is to create the best trading experience for you to support your trading journey. So anyone, anywhere, can trade.": "",
+
+  "Our mission is to create a community that appreciates convenience, inclusivity, and transparency, therefore empowering Traders and Introduce Brokers to maximize value.": "",
+
+  "Trade On the Go": "",
+
+  "An outstanding global trading platform and the world's leading CFD and spread betting provider. Trade on MT4, MT5 or cTrader with Stockbanx.": "",
+
+  "How to Get Started": "",
+
+  "Sign up and verify your accounts": "",
+
+  "Fund Your Account": "",
+
+  "Fund your account, choose your  instrument and set your trade size": "",
+
+  "Newsletter Subscription": "",
+
+  "Real-time Forex News and the latest trading updates. Stay updated on the latest news about currencies and commodities markets.": "",
+
+  "Loading...": "",
+
+  "I consent to my data being used as per the Privacy Policy & Terms.": "",
+
+  "The starting line of an exciting Trading Journey!": "",
+
+  "We'd Love To Hear From You": "",
+
+  "Our Licenses": "",
+
+  "To provide you with security, privacy and reliability, we're regulated by reputable international regulatory authorities.": "",
+
+  "Stockbanx operates globally with offices and teams around the world, offering localized support and tailored trading solutions. Our international reach allows us to understand and meet the unique needs of traders in different regions, making us a trusted partner in your financial journey..": "",
+
+  "Your Money is Yours": "",
+
+  "Local payment options": "",
+
+  "With multiple local and international payment providers, you have the freedom to choose.": "",
+
+  "Get to know Stockbanx": "",
+
+  "Our dedicated support specialists speak 15 languages. Support is available 24 hours a day, 7 days a week in English, Chinese, Thai, Vietnamese, Arabic, Bengali, Hindi and Urdu": "",
+
+  "Subject": "",
+
+  "Write Subject": "",
+
+  "Classify your business*": "",
+
+  "Introducing Broker": "",
+
+  "Institutional Partner": "",
+
+  "Individual Client": "",
+
+  "Other": "",
+
+  "First Name": "",
+
+  "Last Name": "",
+
+  "Email Address": "",
+
+  "Please select a business classification": "",
+
+  "Message": "",
+
+  "Type your message here": "",
+
+  "By submitting this form, you agree to receive emails from Stockbanx in accordance with our Terms & Conditions, Privacy Policy, and Cookie Policy.": "",
+
+  "submit": "",
+
+  "Our office is open five days a week, Monday to Friday. The support line is available 24 hours a day.": "",
+
+  "Complaints": "",
+
+  "Our dedicated support specialists speak 15 languages. Support is available 24 hours a day, 5 days a week in English, Chinese, Thai, Vietnamese, Arabic, Bengali, Hindi and Urdu.": "",
+
+  "Contacts": "",
+
+  "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and IFSC Belize.": "Trade with 0 Commissions and low spreads starting at 0.7 pips on an respsonsive and User-friendly trading platform. Stockbanx holds many licenses from prestigious financial authorities worldwide including FCA UK, AOFA South Africa and FSC Belize.",
+
+  "We offer a wide range of secure payment methods, including trusted options like credit cards, bank transfers, and popular e-wallets.": "",
+
+  "Our leading trading platform offers Gold, Oil, Silver,Gas, and many other commodities.": "",
+
+  "Promotion of Access to Information Manual": "",
+
+  "Client Request For Access To Records & Information": "",
+
+  "How To Trade Forex With Stockbanx": "",
+
+  "The Complete Corporate Account": "",
+
+  "An account for institutial and retail business trading that allows multiple authoried users and corporate cash deposits": "",
+
+  "Open Trader Account": "",
+
+  "Open Partner Account": "",
+
+  "To open an account applying its easy and takes minutes": "",
+
+  "Fund": "",
+
+  "Deposit easily and scurity via debit card or bank transger": "",
+
+  "Hundred of markets on desktop, web and mobile": "",
+
+  "Your Money Is Yours": "",
+
+  "The corporate account": "",
+
+  "Fund from a compant card": "",
+
+  "Use allocated company money to fund and trade your account.": "",
+
+  "Trade in your business name": "",
+
+  "Opt to use trades and funds in a company name instead of a personal account.": "",
+
+  "Multiple authorised traders": "",
+
+  "Manage your trading - as well as your business - as a team, with multiple users able to access.": "",
+
+  "Discover the World of Opportunitie": "",
+
+  "Countries": "",
+
+  "Currencies": "",
+
+  "Trader Account": "",
+
+  "With a legacy dating back to 2008, Stockbanx has been at the forefront of CFD trading, providing unparalleled expertise and reliability to traders worldwide. Our Corporate CFD Trading Account is meticulously crafted to address the distinctive requirements of corporations, empowering them to seize opportunities presented by price movements across a diverse array of financial instruments. Elevate your trading experience with our CFD Trading Account and join the ranks of thousands of traders who rely on Stockbanx for their CFD trading essentials and unlock the potential of the financial markets.": "",
+
+  "IB Account": "",
+
+  "Backed by quality execution and transparent pricing": "",
+
+  "Money managers can place orders in bulk on all accounts operating under a master account using Stockbanx's Multi Account Manager (MAM), an integrated software tool that will make the IB's journey more flexible.": "",
+
+  "Execution Scorecard": "",
+
+  "A Broker You Can Trust": "",
+
+  "Equity Capital": "",
+
+  "Privately Held": "",
+
+  "Client Account": "",
+
+  "Daily Avg Revenu Trades": "",
+
+  "Discover the World of Opportunities": "",
+
+  "Gain instant access and trade indices from across the globe, including US500, UK100, and more. Trade US30 with leverage up to 1:100 and low spreads.": "",
+
+  "Invest Smarter & efficiently with MAM Stockbanx": "",
+
+  "Explore the variety of accounts we offer and choose the one that suits you best.": "",
+
+  "Trade CFDs with ease and seize market opportunities on a platform designed for swift execution and seamless access. Empower your trading journey and unlock your potential.": "",
+
+  "Deposits and withdrawals": "Dépôts et retraits",
+  "Experience the ease and security of deposits and withdrawals. Enjoy local, convenient, and safe payment methods, and seamless transactions.": "Découvrez la facilité et la sécurité des dépôts et retraits. Profitez de méthodes de paiement locales, pratiques et sûres, et de transactions fluides.",
+  "Your money is safe with us": "Votre argent est en sécurité avec nous",
+  "As the best retail multi-asset broker, we apply multiple layers of security to keep your funds safe and instantly available to you upon request.": "En tant que meilleur courtier de détail multi-actifs, nous appliquons plusieurs couches de sécurité pour garder vos fonds en sécurité et disponibles instantanément sur demande.",
+  "Segregated accounts": "Comptes séparés",
+  "We keep funds in segregated accounts in multiple tier-1 banks to ensure top security and peace of mind.": "Nous conservons les fonds dans des comptes séparés dans plusieurs banques de premier rang pour garantir une sécurité maximale et une tranquillité d'esprit.",
+  "Secure withdrawal transactions": "Transactions de retrait sécurisées",
+  "Your withdrawals are safe and secure, protected by one-time password verification methods.": "Vos retraits sont sûrs et sécurisés, protégés par des méthodes de vérification par mot de passe à usage unique.",
+  "3D Secure payments": "Paiements 3D Secure",
+  "We provide 3D Secure payments for all major credit cards such as Visa and Mastercard.": "Nous proposons des paiements 3D Secure pour toutes les principales cartes de crédit telles que Visa et Mastercard.",
+  "Streamline your payments with Our Efficient System": "Simplifiez vos paiements avec notre système efficace",
+  "Enjoy our excellent payment system: easy deposits with global and local options, 24/7 access, and simple withdrawals.": "Profitez de notre excellent système de paiement : des dépôts faciles avec des options mondiales et locales, un accès 24h/24 et 7j/7 et des retraits simples.",
+  "Payment methods for your convenience": "Méthodes de paiement pour votre confort",
+  "Global, local and secure payment methods for seamless deposits and withdrawals.": "Des méthodes de paiement globales, locales et sécurisées pour des dépôts et des retraits sans faille.",
+  "Your money is yours. Period": "Votre argent vous appartient. Point final.",
+  "Access your funds any day, any time with our instant withdrawal feature.": "Accédez à vos fonds n'importe quel jour, n'importe quand avec notre fonction de retrait instantané.",
+  "Forget about withdrawal fees": "Oubliez les frais de retrait",
+  "We pay your third-party transaction fees so you don't have to.": "Nous payons vos frais de transaction tiers pour que vous n'ayez pas à le faire.",
+  "Deposit your funds in 3 easy steps": "Déposez vos fonds en 3 étapes faciles",
+  "Register and verify your account": "Enregistrez et vérifiez votre compte",
+  "Choose one of the available payment methods": "Choisissez l'une des méthodes de paiement disponibles",
+  "Complete your deposit request": "Complétez votre demande de dépôt",
+  "Frequently asked questions": "Questions fréquemment posées",
+  "What are instant deposits?": "Qu'est-ce que les dépôts instantanés ?",
+  "The term “instant” indicates that a transaction will be carried out within a few seconds without manual processing by our financial department specialists. Please note that although it's instantly processed on our side, your deposit requests may take some time to be processed on the payment system provider's side.": "Le terme \"instantané\" indique qu'une transaction sera effectuée en quelques secondes sans traitement manuel par nos spécialistes du département financier. Veuillez noter que bien qu'il soit traité instantanément de notre côté, vos demandes de dépôt peuvent prendre un certain temps pour être traitées du côté du fournisseur de système de paiement.",
+  "Can I withdraw funds to an account that is not my own?": "Puis-je retirer des fonds sur un compte qui n'est pas le mien ?",
+  "Funds can be withdrawn to your own personal accounts only. This is a safeguard put in place to ensure financial security.": "Les fonds ne peuvent être retirés que sur vos propres comptes personnels. C'est une mesure de protection mise en place pour garantir la sécurité financière.",
+  "You must use your own personal payment accounts for deposits and withdrawals. We will not accept direct payments or payments to or from third parties. All the information you need regarding transactions can be found in your Personal Area. If your deposit payment method is unavailable during withdrawal, contact the Support team via chat for an alternative solution. Occasionally, some payment systems may be turned off due to maintenance.": "Vous devez utiliser vos propres comptes de paiement personnels pour les dépôts et les retraits. Nous n'accepterons pas les paiements directs ou les paiements à destination ou en provenance de tiers. Toutes les informations dont vous avez besoin concernant les transactions se trouvent dans votre espace personnel. Si votre méthode de paiement de dépôt n'est pas disponible lors du retrait, contactez l'équipe de support via le chat pour une solution alternative. Parfois, certains systèmes de paiement peuvent être désactivés en raison de la maintenance.",
+  "What payment accounts can I use to deposit and withdraw?": "Quels comptes de paiement puis-je utiliser pour déposer et retirer ?",
+  "No, you cannot withdraw money from your demo account. Demo accounts are virtual trading accounts used for practicing trading and strategies, and the funds in them are completely virtual.": "Non, vous ne pouvez pas retirer d'argent de votre compte démo. Les comptes démo sont des comptes de trading virtuels utilisés pour pratiquer le trading et les stratégies, et les fonds qu'ils contiennent sont totalement virtuels.",
+  "Can I withdraw money from a demo account?": "Puis-je retirer de l'argent d'un compte démo ?",
+  "Account security and client protection": "Sécurité des comptes et protection des clients",
+  "We are dedicated to offering a secure trading environment, complete with robust account safety, fund protection, and around-the-clock customer support to give you peace of mind.": "Nous nous engageons à offrir un environnement de trading sécurisé, comprenant une sécurité robuste des comptes, une protection des fonds et un support client 24h/24 pour vous tranquilliser.",
+  "We know that investment scams and trading risks are big concerns, which is why we prioritize your peace of mind. At Stockbanx, we use top-notch security measures to keep your account, money, and personal details safe all the time. With strong encryption and strict authentication steps, we maintain high security standards so you can trade confidently.": "Nous savons que les escroqueries en matière d'investissement et les risques de trading sont des préoccupations majeures, c'est pourquoi nous priorisons votre tranquillité d'esprit. Chez Stockbanx, nous utilisons des mesures de sécurité de premier ordre pour garder votre compte, votre argent et vos informations personnelles en sécurité en tout temps. Avec un cryptage fort et des étapes d'authentification strictes, nous maintenons des normes de sécurité élevées pour que vous puissiez trader en toute confiance.",
+  "Your Trusted Broker": "Votre courtier de confiance",
+  "As a licensed and regulated leading global broker, we offer you multiple account security options": "En tant que courtier mondial de premier plan agréé et réglementé, nous vous proposons plusieurs options de sécurité pour les comptes",
+  "Regulations": "Réglementations",
+  "If you’ve been wondering, ‘are we legit?’, you can rest assured that we are a licensed broker, regulated by leading international governing bodies globally.": "Si vous vous demandiez, 'sommes-nous légitimes ?', vous pouvez être assuré que nous sommes un courtier agréé, réglementé par les principaux organismes de réglementation internationaux au niveau mondial.",
+  "Account security": "Sécurité du compte",
+  "Prevent unauthorized access to your secure trading accounts by choosing a security option – either phone or email – during your registration process.": "Empêchez l'accès non autorisé à vos comptes de trading sécurisés en choisissant une option de sécurité - soit par téléphone, soit par e-mail - lors de votre processus d'enregistrement.",
+  "Payment Protection": "Protection des paiements",
+  "Learn more about our safe and secure trading conditions and protection measures for a smooth trading experience.": "En savoir plus sur nos conditions de trading sûres et sécurisées et nos mesures de protection pour une expérience de trading fluide.",
+  "Web attack protection": "Protection contre les attaques Web",
+  "Our Web Application Firewall (WAF) protects our infrastructure and servers from web threats like SQL injection, XSS attacks, and blocks harmful traffic.": "Notre pare-feu d'application Web (WAF) protège notre infrastructure et nos serveurs contre les menaces Web telles que les injections SQL, les attaques XSS et bloque le trafic nuisible.",
+  "Trading platform fault tolerance": "Tolérance aux pannes de la plateforme de trading",
+  "Our DDoS protection offers you seamless order execution, 24/7 access to your Personal Area, swift deposits and withdrawals, and uninterrupted servers’ operations.": "Notre protection DDoS vous offre une exécution des ordres sans faille, un accès 24h/24 et 7j/7 à votre espace personnel, des dépôts et retraits rapides et des opérations de serveurs ininterrompues.",
+  "Zero trust approach": "Approche de confiance zéro",
+  "Our Zero Trust model assumes minimal trust for company IT components and includes features like user and device authentication, restricted access, and network monitoring.": "Notre modèle de confiance zéro suppose une confiance minimale pour les composants informatiques de l'entreprise et comprend des fonctionnalités telles que l'authentification des utilisateurs et des appareils, un accès restreint et une surveillance du réseau.",
+  "Bug Bounty program": "Programme de Bug Bounty",
+  "You gain an extra layer of security with our Bug Bounty program, where we invite external experts to examine our platforms and give reviews that help us improve our services.": "Vous gagnez une couche de sécurité supplémentaire avec notre programme de Bug Bounty, où nous invitons des experts externes à examiner nos plateformes et à donner des avis qui nous aident à améliorer nos services.",
+  "Cybersecurity knowledge and skills": "Connaissances et compétences en cybersécurité",
+  "Our Information Security Team are continuously updated on security technology and upgrade their skills through workshops and certifications.": "Notre équipe de sécurité de l'information est continuellement mise à jour sur les technologies de sécurité et améliore ses compétences par le biais d'ateliers et de certifications.",
+  "Trading Protection": "Protection du trading",
+  "Safeguard your trading strategy with our customized protection features, designed to provide robust security tailored to your needs.": "Protégez votre stratégie de trading avec nos fonctionnalités de protection personnalisées, conçues pour fournir une sécurité robuste adaptée à vos besoins.",
+  "Enjoy our excellent payment system:easy deposits with global and local options, 24/7 access, and simple withdrawals.": "Profitez de notre excellent système de paiement : des dépôts faciles avec des options mondiales et locales, un accès 24h/24 et 7j/7 et des retraits simples.",
+  "We safeguard your funds by holding them segregated from our own. Our funds are always larger, so we can meet your withdrawal needs any time of the day.": "Nous protégeons vos fonds en les tenant séparés des nôtres. Nos fonds sont toujours plus importants, nous pouvons donc répondre à vos besoins de retrait à tout moment de la journée.",
+  "Seamless withdrawals": "Retraits sans faille",
+  "Our automatic withdrawal feature guarantees instant processing of your withdrawal requests, providing you access to your funds even on weekends. The speed of payment may vary depending on the payment method you choose.": "Notre fonction de retrait automatique garantit un traitement instantané de vos demandes de retrait, vous permettant d'accéder à vos fonds même les week-ends. La rapidité du paiement peut varier en fonction de la méthode de paiement que vous choisissez.",
+  "3D Secure verification": "Vérification 3D Secure",
+  "We prioritize secure trading by implementing 3D Secure technology for debit card transactions, which adds an extra layer of fraud protection. This system enhances security by sending a one-time pin to your phone that must be entered during the transaction, ensuring that only you can authorize the payment.": "Nous privilégions le trading sécurisé en mettant en œuvre la technologie 3D Secure pour les transactions par carte de débit, ce qui ajoute une couche supplémentaire de protection contre la fraude. Ce système améliore la sécurité en envoyant un code PIN à usage unique sur votre téléphone, qui doit être saisi pendant la transaction, garantissant que seul vous pouvez autoriser le paiement.",
+  "Trade confidently knowing you won’t owe your broker money; we prevent losses from exceeding your balance across all trading account types.": "Tradez en toute confiance en sachant que vous ne devrez pas d'argent à votre courtier ; nous empêchons les pertes de dépasser votre solde sur tous les types de comptes de trading.",
+  "Stop Out Protection": "Protection contre la fermeture forcée",
+  "Enjoy this unique secure trading protection feature that strengthens your positions and helps delay or avoid stop outs, particularly during increased volatility.": "Profitez de cette fonctionnalité unique de protection du trading sécurisé qui renforce vos positions et aide à retarder ou éviter les fermetures forcées, en particulier en période de volatilité accrue.",
+  "Enhance your security by familiarizing yourself with practices that help prevent unauthorized account activities, scams, and fraud attempts.": "Améliorez votre sécurité en vous familiarisant avec les pratiques qui aident à prévenir les activités non autorisées sur les comptes, les escroqueries et les tentatives de fraude.",
+  "Keep your Personal Area private, never share access and personal documents. Don’t let anyone use your name to create an Stockbanx account or share your security information.": "Gardez votre espace personnel privé, ne partagez jamais l'accès et les documents personnels. Ne laissez personne utiliser votre nom pour créer un compte Stockbanx ou partager vos informations de sécurité.",
+  "Only conduct financial activities within the Stockbanx Personal Area and avoid transferring funds to unknown accounts.": "Ne réalisez des activités financières que dans l'espace personnel de Stockbanx et évitez de transférer des fonds vers des comptes inconnus.",
+  "Be vigilant towards suspicious links and unknown sources, never provide sensitive information if contacted unexpectedly, and reach out directly to Stockbanx via live chat or email for any concerns about fraudulent activities or message authenticity.": "Soyez vigilant envers les liens suspects et les sources inconnues, ne fournissez jamais d'informations sensibles si vous êtes contacté de manière inattendue, et contactez directement Stockbanx via le chat en direct ou par e-mail pour toute préoccupation concernant les activités frauduleuses ou l'authenticité des messages.",
+  "Yes, Stockbanx is a well-regulated global broker, regulated by the Financial Sector Conduct Authority under license number 45954, to ensure the financial security of its clients.": "Oui, Stockbanx est un courtier mondial bien réglementé, réglementé par l'Autorité de conduite du secteur financier sous le numéro de licence 45954, pour garantir la sécurité financière de ses clients.",
+  "Is Stockbanx regulated?": "Stockbanx est-il réglementé ?",
+  "We are widely regarded as a safe and secure platform for trading, thanks to our status as a licensed and regulated broker overseen by prominent international regulatory bodies. We prioritize account safety by offering a variety of security measures such as phone or email verification, and advanced web attack protection with a Web Application Firewall (WAF). Furthermore, Stockbanx implements payment protection features, including segregated accounts and 3D Secure verification, and offers trading protections like Negative Balance Protection, ensuring that clients can trade with confidence and peace of mind.": "Nous sommes largement considérés comme une plateforme de trading sûre et sécurisée, grâce à notre statut de courtier agréé et réglementé sous la supervision des principaux organismes de réglementation internationaux. Nous priorisons la sécurité des comptes en proposant une variété de mesures de sécurité telles que la vérification par téléphone ou par e-mail, et la protection avancée contre les attaques web avec un pare-feu d'application web (WAF). De plus, Stockbanx met en œuvre des fonctionnalités de protection des paiements, y compris des comptes séparés et la vérification 3D Secure, et offre des protections de trading telles que la protection contre le solde négatif, garantissant que les clients peuvent trader en toute confiance et en toute tranquillité d'esprit.",
+  "Is Stockbanx safe?": "Stockbanx est-il sûr ?",
+  "Stockbanx Fees": "Frais Stockbanx",
+  "Concentrate on trading, not expenses. We've designed a trading environment that minimizes costs for our clients.": "Concentrez-vous sur le trading, pas sur les dépenses. Nous avons conçu un environnement de trading qui minimise les coûts pour nos clients.",
+  "Account for every type of trader": "Compte pour chaque type de trader",
+  "Choose the one that will maximize your returns while minimizing your costs.": "Choisissez celui qui maximisera vos rendements tout en minimisant vos coûts.",
+  "Offer Swap Free Account": "Offrir un compte sans swap",
+  "CPT’s Swap Free Account allows swap-free trading, which means clients can trade on a Swap Free Account without being charged overnight fees up to 7 consecutive days. From the 8th day onwards, a swap will be charged on the particular position.": "Le compte sans swap de Stockbanx permet de trader sans swap, ce qui signifie que les clients peuvent trader sur un compte sans swap sans frais de nuit jusqu'à 7 jours consécutifs. À partir du 8e jour, un swap sera facturé sur la position particulière.",
+  "Commission and spreads": "Commission et spreads",
+  "Learn more about commission and spreads for individual instruments": "En savoir plus sur les commissions et les spreads pour les instruments individuels",
+  "Trade the world’s largest market with spreads starting from 0.7 pips": "Tradez sur le plus grand marché du monde avec des spreads à partir de 0,7 pips",
+  "Diversify your portfolio and trade oil, natural gas and metals": "Diversifiez votre portefeuille et tradez le pétrole, le gaz naturel et les métaux",
+  "Trade stocks of the biggest names in the international stock market with low transaction costs": "Tradez les actions des plus grands noms du marché boursier international avec des coûts de transaction faibles",
+  "Capitalize on the biggest names in tech and other industries": "Profitez des plus grands noms de la technologie et d'autres industries",
+  "Trade confidently knowing you won’t owe your broker money; we prevent losses from exceeding your balance across all trading account types.": "Négociez en toute confiance en sachant que vous ne devrez pas d’argent à votre courtier ; nous empêchons les pertes de dépasser votre solde sur tous les types de comptes de trading.",
+  "Client protection": "Protection des clients",
+  "Major currency pairs are the most traded in forex, always involving the USD and another major currency, such as the EUR, JPY, GBP, CHF, AUD, CAD, and NZD. They are known for high liquidity and low volatility.": "Les principales paires de devises sont les plus négociées sur le Forex, impliquant toujours l'USD et une autre devise majeure, telle que l'EUR, le JPY, le GBP, le CHF, l'AUD, le CAD et le NZD. Ils sont connus pour leur liquidité élevée et leur faible volatilité.",
+  "Minor currency pairs, or cross-currency pairs, exclude the USD and involve other major currencies like the EUR, GBP, JPY, CHF, CAD, AUD, and NZD.  These pairs tend to be less liquid and more volatile than major currency pairs.": "Les paires de devises mineures, ou paires de devises croisées, excluent l'USD et impliquent d'autres devises majeures comme l'EUR, le GBP, le JPY, le CHF, le CAD, l'AUD et le NZD.  Ces paires ont tendance à être moins liquides et plus volatiles que les principales paires de devises."
+}
+

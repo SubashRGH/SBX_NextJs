@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bold_battery-empty" data-name="vuesax/bold/battery-empty" transform="translate(-172 -188)">
+    <g id="battery-empty">
+      <path id="Vector" d="M10.93,0H5.35C1.25,0,0,1.25,0,5.35V9.07c0,4.1,1.25,5.35,5.35,5.35h5.58c4.1,0,5.35-1.25,5.35-5.35V5.35C16.28,1.25,15.03,0,10.93,0Z" transform="translate(174 192.79)" fill="#3cf"/>
+      <path id="Vector-2" data-name="Vector" d="M1.22.02C1.08.01.9,0,.7,0A.7.7,0,0,0,0,.7V5.35a.7.7,0,0,0,.7.7c.2,0,.37-.01.54-.02C2.8,5.85,2.8,4.75,2.8,3.95V2.09C2.8,1.29,2.8.19,1.22.02Z" transform="translate(191.2 196.98)" fill="#3cf"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(196 212) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

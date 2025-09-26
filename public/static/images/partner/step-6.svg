@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.273" height="33.766" viewBox="0 0 50.273 33.766">
+  <defs>
+    <clipPath id="clipPath">
+      <rect id="Rectangle_22910" data-name="Rectangle 22910" width="50.273" height="33.765" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.786" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b144"/>
+      <stop offset="1" stop-color="#05736b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_29287" data-name="Group 29287" transform="translate(-95.041 -87.894)">
+    <g id="Group_29275" data-name="Group 29275" transform="translate(95.042 87.894)">
+      <g id="Group_29274" data-name="Group 29274" clipPath="url(#clipPath)">
+        <path id="Path_58064" data-name="Path 58064" d="M99.406,1.384l4.1,8.309,9.169,1.332a2.482,2.482,0,0,1,1.376,4.234l-6.635,6.468,1.566,9.132a2.482,2.482,0,0,1-3.6,2.617l-8.2-4.312-8.2,4.312a2.482,2.482,0,0,1-3.6-2.617l1.566-9.132-6.635-6.468a2.482,2.482,0,0,1,1.376-4.234l9.169-1.332,4.1-8.309a2.482,2.482,0,0,1,4.452,0" transform="translate(-72.044 -0.001)" fill="url(#linear-gradient)"/>
+        <path id="Path_58065" data-name="Path 58065" d="M11.746,213.115l1.125-6.561-3.262-3.18a58.271,58.271,0,0,0-9,3.083,1.014,1.014,0,0,0,.119,1.9q2.416.729,4.635,1.637a28.7,28.7,0,0,0-.576,4.178,1.013,1.013,0,0,0,1.422,1,43.443,43.443,0,0,1,5.54-2.053" transform="translate(0 -184.169)" fill="url(#linear-gradient)"/>
+        <path id="Path_58066" data-name="Path 58066" d="M408.328,206.459a58.257,58.257,0,0,0-9-3.083l-3.262,3.18,1.125,6.561a43.447,43.447,0,0,1,5.54,2.053,1.013,1.013,0,0,0,1.422-1,28.686,28.686,0,0,0-.576-4.178q2.217-.906,4.635-1.637a1.014,1.014,0,0,0,.119-1.9" transform="translate(-358.661 -184.17)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <text id="_5" data-name="5" transform="translate(115 113)" fill="#fff" fontSize="18" fontFamily="Lato-Semibold, Lato" fontWeight="600"><tspan x="0" y="0">5</tspan></text>
+  </g>
+</svg>

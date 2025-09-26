@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="17.877" viewBox="0 0 27 17.877">
+  <defs>
+    <clipPath id="clipPath">
+      <rect id="Rectangle_22927" data-name="Rectangle 22927" width="27" height="17.877" rx="3.893" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-1.157" y1="1" x2="-1.12" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cf1400"/>
+      <stop offset="1" stop-color="#cf1400"/>
+    </linearGradient>
+    <clipPath id="clipPath-2">
+      <rect id="Rectangle_22928" data-name="Rectangle 22928" width="27" height="17.877" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_29648" data-name="Group 29648" transform="translate(0)">
+    <g id="Group_29648-2" data-name="Group 29648" transform="translate(0 0)">
+      <g id="Group_29643" data-name="Group 29643" clipPath="url(#clipPath)">
+        <rect id="Rectangle_22926" data-name="Rectangle 22926" width="27" height="17.877" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_29649" data-name="Group 29649" transform="translate(0 0)">
+      <g id="Group_29645" data-name="Group 29645" clipPath="url(#clipPath-2)">
+        <path id="Path_60248" data-name="Path 60248" d="M38.949,5.137l.736,2.246,2.364.006L40.14,8.783l.725,2.249L38.949,9.648l-1.916,1.386.725-2.251L35.849,7.389l2.364,0Z" transform="translate(-33.283 -1.685)" fill="#ffce00"/>
+        <path id="Path_60249" data-name="Path 60249" d="M43.241,4.313l.018.736.7.213-.693.245.015.736-.448-.584-.7.242.418-.607-.445-.586.706.21Z" transform="translate(-31.927 -1.863)" fill="#ffce00"/>
+        <path id="Path_60250" data-name="Path 60250" d="M43.328,10.7l.018.736.7.213-.693.245.015.736-.448-.584-.695.242.417-.607L42.2,11.1l.706.21Z" transform="translate(-31.908 -0.48)" fill="#ffce00"/>
+        <path id="Path_60251" data-name="Path 60251" d="M44.81,8.847l.237.7.736-.007-.589.442.234.7-.6-.423-.591.438.218-.7-.6-.427.736-.011Z" transform="translate(-31.55 -0.882)" fill="#ffce00"/>
+        <path id="Path_60252" data-name="Path 60252" d="M44.348,6.158l.538.5.646-.353-.311.667.535.5-.731-.09-.315.665-.14-.723-.73-.095.645-.355Z" transform="translate(-31.553 -1.464)" fill="#ffce00"/>
+      </g>
+    </g>
+  </g>
+</svg>

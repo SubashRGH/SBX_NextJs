@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bold_sort" data-name="vuesax/bold/sort" transform="translate(-172 -316)">
+    <g id="sort">
+      <path id="Vector" d="M14.19,0H5.81C2.17,0,0,2.17,0,5.81v8.37C0,17.83,2.17,20,5.81,20h8.37c3.64,0,5.81-2.17,5.81-5.81V5.81C20,2.17,17.83,0,14.19,0ZM11.33,15H8.66a.75.75,0,0,1,0-1.5h2.67a.75.75,0,0,1,0,1.5ZM14,10.75H6a.75.75,0,0,1,0-1.5h8a.75.75,0,0,1,0,1.5ZM16,6.5H4A.75.75,0,0,1,4,5H16a.75.75,0,0,1,0,1.5Z" transform="translate(174 318)" fill="#3cf"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(196 340) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

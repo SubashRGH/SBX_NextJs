@@ -1,0 +1,453 @@
+/**********mobile layout*************/
+
+@media (max-width: 480px) {
+  /* .lang-menu li {
+      display: inline-block;
+      cursor: pointer;
+    } */
+  .txt-center {
+    text-align: center;
+  }
+
+  .tx-left {
+    text-align: left;
+  }
+
+  .lang-menu {
+    margin-right: 48px;
+  }
+
+  .partnermb-text {
+    padding: 1.5rem;
+  }
+  .mb-line {
+    background: #32465e;
+    width: 100%;
+    height: 2px;
+  }
+  .shadow-border {
+    border-radius: 24px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+      rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    height: 360px;
+    padding-left: 28px;
+  }
+  .product-issue li {
+    margin-bottom: 30px;
+  }
+
+  .forex-type ul li:last-child {
+    border: none !important;
+  }
+  .forex-type ul li {
+    border-bottom: 1px solid #dedede;
+    padding: 14px;
+  }
+  .border-mb {
+    border: none;
+  }
+  .reward-banner .slick-dots {
+    bottom: 36px;
+  }
+  .about-bg::after {
+    background-position: bottom center;
+    /* background: url('../public/static/images/about/about-mb.png'); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    top: 70px;
+  }
+
+  .who-we {
+    height: 419px;
+  }
+  .icon-intro {
+    margin-top: 40px;
+    text-align: left;
+  }
+  .risk svg {
+    right: 0px !important;
+    width: 16px;
+  }
+  /* .header {
+    padding: 10px;
+  } */
+
+  .home-video-b,
+  .stkbnx-bannerbg {
+    height: auto;
+  }
+  .mb-mt {
+    margin-top: 1rem;
+  }
+
+  .styled-table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+
+  .mb-img {
+    width: 100%;
+  }
+
+  .mb-whycpt {
+    background-attachment: inherit;
+    background-size: cover;
+  }
+
+  .slick-dots {
+    bottom: inherit;
+    text-align: center;
+    left: inherit;
+  }
+
+  .slick-track {
+    text-align: center;
+  }
+
+  .mt4-btn {
+    width: 100%;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+
+  .top-minus {
+    top: -4rem;
+  }
+
+  .text-trade {
+    border: none;
+  }
+
+  .modal-width,
+  .modal-video {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .partner-box {
+    margin-bottom: 1rem;
+  }
+
+  /* .footer-ul {
+    overflow: hidden;
+    transition: all .5s ease-in-out;
+    height: 0;
+  } */
+
+  .stpe-row::before {
+    display: none;
+  }
+}
+
+/**********desktop layout*************/
+@media screen and (min-width: 700px) {
+  .bz-banner .slick-dots {
+    text-align: center !important;
+  }
+  .slick-dots {
+    bottom: 16px !important;
+    text-align: right !important;
+    left: -30px;
+  }
+
+  .marker:before {
+    content: "";
+    background: #00b144;
+    width: 167px;
+    height: 29px;
+    position: absolute;
+    border-radius: 10px;
+    top: 34px;
+    opacity: 0.3;
+    z-index: -1;
+  }
+
+  .starting::before,
+  .instant::before {
+    content: "";
+    background: #00b144;
+    width: 253px;
+    height: 29px;
+    position: absolute;
+    border-radius: 10px;
+    top: 34px;
+    opacity: 0.3;
+    z-index: -1;
+  }
+
+  .earn::before {
+    content: "";
+    background: #00b144;
+    width: 173px;
+    height: 29px;
+    position: absolute;
+    border-radius: 10px;
+    bottom: 0px;
+    opacity: 0.3;
+    z-index: -1;
+    left: 128px;
+  }
+
+  .portal::before {
+    content: "";
+    background: #00b144;
+    width: 212px;
+    height: 29px;
+    position: absolute;
+    border-radius: 10px;
+    bottom: 0px;
+    opacity: 0.3;
+    z-index: -1;
+  }
+}
+
+/* .header {
+     padding: 8px;
+   } */
+
+@media (max-width: 767px) {
+  [lang="ar"] .candle::before {
+    left: 9px;
+  }
+
+  .candle::before {
+    width: 43px;
+    top: 70px;
+    bottom: 0;
+    left: -15px;
+    right: 80px;
+  }
+
+  .candle::after {
+    width: 53px;
+    height: 352px;
+    bottom: 38px;
+    right: -18px;
+  }
+
+  .video-items {
+    margin: 0px;
+  }
+
+  .video-item {
+    flex: 0 0 calc(100%) !important;
+  }
+  .text-middle {
+    text-align: center !important;
+  }
+
+  .react-tel-input .form-control {
+    width: 100% !important;
+  }
+  .trader-modal img {
+    width: 200px !important;
+  }
+
+  .trader-modal h3 {
+    font-size: 22px;
+  }
+  .announce-btn button {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .announce-btn .quick-btn {
+    width: 100%;
+    height: 59px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    max-width: 100%;
+  }
+
+  .fixed-header {
+    transform: none;
+    backdrop-filter: inherit;
+  }
+  .footer-quick-menu li {
+    /* display: none; */
+  }
+
+  .footer-quick-menu li.footer-mblc {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 1275px) and (min-width: 500px) {
+  .container {
+    max-width: 1135px;
+  }
+
+  .about-bg::after {
+    display: none;
+  }
+
+  .mt4-btn {
+    margin-right: 10px;
+  }
+
+  .stkbnx-bannerbg {
+    height: auto;
+  }
+
+  .stkbnx-bannerbg-content-div {
+    padding: 24px;
+    width: 100%;
+  }
+
+  .overlay {
+    width: 100%;
+  }
+
+  li.pb-lg {
+    height: auto;
+    min-height: auto;
+  }
+
+  .min-h-\[473px\] {
+    height: auto;
+    margin-top: 1.5rem;
+  }
+
+  .product-video video {
+    width: 90%;
+  }
+
+  .fixed-header {
+    position: inherit;
+  }
+
+  .slick-dots {
+    bottom: inherit !important;
+    text-align: center !important;
+    left: inherit;
+  }
+
+  .top-minus {
+    top: -6rem;
+  }
+
+  .header {
+    margin: 0px 20px;
+  }
+
+  .mt5-image-content {
+    width: 280px !important;
+    height: 260px !important;
+  }
+
+  .home-video-b {
+    height: inherit;
+  }
+
+  .marker:before {
+    display: none;
+  }
+
+  .news-pad > div {
+    width: 48%;
+    float: left;
+    flex-basis: inherit;
+  }
+
+  .text-trade {
+    border: none;
+  }
+}
+
+@media only screen and (min-width: 1450px) {
+  .pad-left {
+    padding-left: 20rem;
+  }
+}
+
+/************ipad media query css ***************/
+
+@media screen and (max-width: 1024px) {
+  [lang="ar"] .trade-heading div {
+    margin-right: inherit !important;
+  }
+
+  .video-item {
+    flex: 0 0 calc(30% - 8px);
+  }
+  .menu-master,
+  .live-master {
+    display: none;
+  }
+
+  .mobile-master {
+    display: block;
+  }
+
+  .lang-menu {
+    margin-right: 30px;
+  }
+
+  .mt4-btn {
+    width: 100%;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .trade-register div {
+    margin-left: inherit !important;
+  }
+  .menu-master,
+  .live-master {
+    display: flex;
+    align-items: center;
+  }
+  .mobile-master {
+    display: none;
+  }
+}
+
+/* css for kisok devices */
+
+@media screen and (min-width: 1050px) and (max-width: 1100px) {
+  .quick-btn {
+    max-width: 178px;
+    /* width: 137px; */
+  }
+
+  .menu-items li {
+    padding: 1.5rem 1.5rem;
+  }
+  .stkbnx-bannerbg-content {
+    align-items: center;
+  }
+
+  .kiosk-lc {
+    align-items: inherit;
+  }
+
+  .ks-font {
+    font-size: 40px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  [lang="ar"] .landing-right {
+    text-align: right;
+  }
+
+  [lang="ar"] .landing-head {
+    line-height: 4rem !important;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  /* .res-header-mx {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  } */
+}
+
+.register-btn a {
+  color: white !important;
+}
+

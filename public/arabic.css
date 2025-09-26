@@ -1,0 +1,41 @@
+[lang="ar"] body {
+  direction: rtl;
+}
+
+[lang="ar"] .stkbnx-headerbar,
+[lang="ar"] .stkbnx-menuheader {
+  direction: ltr;
+}
+
+@media (min-width: 1024px) {
+  [lang="ar"] .lg\:space-x-4 > :not([hidden]) ~ :not([hidden]),
+  [lang="ar"] .lg\:space-x-4 > :not([hidden]) ~ :not([hidden]) {
+    margin-left: 0rem;
+    margin-right: 1rem;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  [lang="ar"] .slick-dots {
+    right: -30px;
+    left: inherit;
+  }
+}
+
+[lang="ar"] .ml-2 {
+  margin-right: 0.5rem;
+}
+
+.space-x-4 > :not([hidden]) ~ :not([hidden]) {
+  margin-left: 0rem;
+  margin-right: 1rem;
+}
+
+[lang="ar"] .mr-5 {
+  margin-left: 1.25rem;
+}
+
+[lang="ar"] .about-bg::after {
+  background-position: center left;
+}
+
