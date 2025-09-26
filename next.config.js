@@ -26,6 +26,8 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   distDir: "dist",
+  output: 'export', // for static export
+  trailingSlash: true,
   images: {
     disableStaticImages: true,
     domains: [
