@@ -109,19 +109,19 @@ function MobMenu({ }: Props) {
           >
             <path
               d="M1 1H19"
-              stroke="#FFD812"
+              stroke="#02b143"
               strokeWidth="1.5"
               strokeLinecap="round"
             />
             <path
               d="M1 6H19"
-              stroke="#FFD812"
+              stroke="#02b143"
               strokeWidth="1.5"
               strokeLinecap="round"
             />
             <path
               d="M1 11H19"
-              stroke="#FFD812"
+              stroke="#02b143"
               strokeWidth="1.5"
               strokeLinecap="round"
             />

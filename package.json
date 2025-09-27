@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "set NODE_ENV=development && next build",
-    "build-prod": "set NODE_ENV=production && next build",
-    "build-pre": "NODE_ENV=pre next build",
-    "start": "next start -H 0.0.0.0 -p 3001",
+    "build": "next build",
+    "build-prod": "NODE_ENV=production next build",
+    "start": "next start",
     "lint": "next lint",
     "export": "npm run build && next export",
     "pull:language": "node scripts/pull-traslation.js"
@@ -56,6 +55,7 @@
     "yet-another-react-lightbox": "^3.14.0"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.13.3",
     "@types/jquery": "^3.5.16",
     "@types/node": "18.8.1",
     "@types/react": "18.0.21",

@@ -1,6 +1,6 @@
 [build]
-  command = "npm run build"
+  command = "npm run build-prod && npx next-on-netlify"
   publish = "out"
 
-[build.environment]
-  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
